@@ -1,0 +1,10 @@
+# Obsidian workspace (personal settings)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/hotkeys.json
+
+# OS files
+.DS_Store
+.trash/
