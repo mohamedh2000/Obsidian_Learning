@@ -27,3 +27,38 @@ GitHub repositories saved from iMessage.
 - [[Fabro]] — Open-source software-factory framework that turns agent workflows into versioned graph processes..., 530 stars `#ai-agents` `#workflow`
 - [[Eval Skills for AI Coding Agents]] — Hamel's eval-skills repo packages reusable audits and judge-building skills for AI coding-agent..., 923 stars `#evals` `#skills`
 - [[MSA: Memory Sparse Attention]] — Repository for Memory Sparse Attention, a sparse latent-memory framework targeting 100M-token..., 1,541 stars `#llm` `#memory`
+- [[Claude Code by Anthropic]] — Anthropic on GitHub
+- [[MiniMax Skills]] — MiniMax-AI on GitHub
+- [[Hermes Agent]] — Nous Research on GitHub
+- [[K-Dense BYOK]] — GitHub (K-Dense-AI)
+- [[Learn Claude Code]] — shareAI-lab/learn-claude-code on GitHub
+- [[Claude Autoresearch]] — Udit Goenka (@uditgoenka)
+- [[pi-autoresearch]] — Dave BCN (@davebcn87)
+- [[pi-autoresearch - Autonomous Experiment Loop for pi]] — GitHub (davebcn87)
+
+## Recovered 2026-03-26 — 2026-04-14
+
+_Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26. Mixed topic coverage — see individual notes for tags and topic routing._
+
+- [[0xSojalSec/LLMs-local]] — 0xSojalSec
+- [[ComposioHQ/agent-orchestrator]] — ComposioHQ
+- [[Curated list of AutoResearch use cases with optimization traces and open source implementations]] — WecoAI/awesome-autoresearch
+- [[Local drop-in replacement services for CI and no-network sandboxes with production-fidelity API emulation]] — vercel-labs/emulate
+- [[NousResearch/hermes-agent-self-evolution]] — NousResearch (GitHub)
+- [[PrimeIntellect-ai/prime-rl]] — github.com/PrimeIntellect-ai
+- [[alchaincyf/hermes-agent-orange-book — Hermes Agent 橙皮书实战指南]] — alchaincyf (github.com)
+- [[alchaincyf/hermes-agent-orange-book]] — alchaincyf
+- [[chenglou/pretext]] — github.com/chenglou
+- [[eric-ai-lab/GEA]] — eric-ai-lab
+- [[garrytan/gstack]] — github.com/garrytan
+- [[instructkr/claude-code]] — github.com/instructkr
+- [[jhochenbaum/pi-autoresearch-studio]] — github.com/jhochenbaum
+- [[kevinrgu/autoagent]] — kevinrgu
+- [[kingbootoshi/infomaxxing]] — kingbootoshi
+- [[langchain-ai/deepagents — Agent Harness with Planning and Filesystem]] — langchain-ai (github.com)
+- [[multica-ai/multica - open-source managed agents platform]] — multica-ai/multica
+- [[multica-ai/multica — Open-source Managed Agents Platform]] — multica-ai (github.com)
+- [[muratcankoylan/Agent-Skills-for-Context-Engineering]] — muratcankoylan
+- [[primeline-ai/universal-planning-framework]] — primeline-ai
+- [[vercel-labs/agent-browser]] — vercel-labs
+- [[walkinglabs/awesome-harness-engineering]] — github.com/walkinglabs

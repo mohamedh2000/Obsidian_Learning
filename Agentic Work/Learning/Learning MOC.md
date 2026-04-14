@@ -209,3 +209,49 @@ Organizing, retrieving, and compounding knowledge over time.
 - **Disciplines:** 8
 - **New this session:** 37
 - **Last updated:** 2026-03-21
+
+## Recent
+
+- [[Karpathy's 10 Actionable Insights for Working with AI Agents - @daniel_mac8]] — Dan McAteer (@daniel_mac8)
+- [[MiniMax Skills]] — MiniMax-AI on GitHub
+- [[Hermes Agent]] — Nous Research on GitHub
+- [[LangChain Docs]] — LangChain Docs
+- [[Best Practices for Prompt Engineering with the OpenAI API]] — OpenAI Help Center
+- [[Benchmarks Without Tool Use Will Become Obsolete - @a1zhang]] — alex zhang (@a1zhang)
+- [[iii Docs]] — iii Docs
+- [[HF Papers Benchmarks Before Reimplementation - @mingtakaivo]] — Mingta Kaivo 明塔 开沃 (@mingtakaivo)
+- [[RL for LLMs The Reading List]] — Yunze (Lorenzo) Xiao
+- [[Qwen3.5-9B Claude Opus Reasoning Distillation Debate - @off_thetarget]] — pepper 花椒 (@off_thetarget)
+- [[Hermes Agent Four-Layer Memory System - @shao__meng]] — meng shao (@shao__meng)
+- [[Unsloth Democratizes Qwen3.5 RL Training - @neural_avb]] — AVB (@neural_avb)
+- [[How to 10x Your Claude Skills - @itsolelehmann]] — Ole Lehmann (@itsolelehmann)
+- [[Evals First for Coding Agents - @synopsi]] — Rasty Turek (@synopsi)
+- [[Qwen3.5 RL Free Notebook - @UnslothAI]] — Unsloth AI (@UnslothAI)
+- [[Three-Layer Agent Harness for Product Design - @PrajwalTomar_]] — Prajwal Tomar (@PrajwalTomar_)
+- [[Hyperagents and Metacognitive Self-Modification - @jennyzhangzt]] — Jenny Zhang (@jennyzhangzt)
+- [[AutoResearch Memory Eval Framework - @kingbootoshi]] — BOOTOSHI (@kingbootoshi)
+- [[Agentic Design Patterns Curriculum - @techxutkarsh]] — Utkarsh Sharma (@techxutkarsh)
+- [[Generative TUI Live Terminal Dashboards - @ctatedev]] — Chris Tate (@ctatedev)
+- [[Emulate Makes Google Sign-In Testable - @ctatedev]] — Chris Tate (@ctatedev)
+- [[MSA Memory Sparse Attention to 100M Tokens - @troyhua]] — Troy Hua (@troyhua)
+- [[Learn Claude Code]] — shareAI-lab/learn-claude-code on GitHub
+- [[Anatomy of the .claude Folder Guide - @akshay_pachaar]] — Akshay (@akshay_pachaar)
+- [[Cloudflare Code Mode Reframes Tool Use as SDKs - @jpschroeder]] — Justin Schroeder (@jpschroeder)
+- [[Open-SWE Open Source Coding Agent - @sitinme]] — sitin (@sitinme)
+- [[Why AGENTS.md Can Hurt Coding Agents - @shao__meng]] — meng shao (@shao__meng)
+- [[Harness Design for Long-Running Application Development]] — Prithvi Rajasekaran (Anthropic)
+- [[Structured Test-Time Scaling Analysis Endorsement - @a1zhang]] — alex zhang (@a1zhang)
+- [[Structured Test-Time Scaling: From Multi-Agent Systems to General Inference Architectures]] — Xinming Tu
+- [[TurboQuant 6x KV Compression 8x Speedup - @googleresearch]] — Google Research (@googleresearch)
+- [[TurboQuant: Redefining AI Efficiency with Extreme Compression]] — Google Research
+- [[Claude Courses]] — Anthropic
+- [[AI That Evolves Its Own Evolution]] — Richard Cornelius Suwandi
+- [[Anthropic Multi-Agent Harness Lessons - @wangray]] — Ray Wang (@wangray)
+- [[Auto-Research Agent Memory Framework - @kingbootoshi]] — BOOTOSHI (@kingbootoshi)
+- [[Perplexity Open-Sources PPLX-Embed - @natjin]] — nat (@natjin)
+- [[HyperAgents Recursive Self-Improvement - @daniel_mac8]] — Dan McAteer (@daniel_mac8)
+- [[Claude Code Auto Mode Safer Permission Skipping]] — Anthropic Engineering
+- [[Auto-Inference Optimiser for LLM Inference - @manthanguptaa]] — Manthan Gupta (@manthanguptaa)
+- [[OpenSpace Agent Self-Evolution and Shared Skills - @axiaisacat]] — axiaisacat (@axiaisacat)
+- [[The Harness Is Everything Built By Cursor Claude - @rohit4verse]] — Rohit (@rohit4verse)
+- [[How To Be A World-Class Agentic Engineer - @systematicls]] — sysls (@systematicls)
