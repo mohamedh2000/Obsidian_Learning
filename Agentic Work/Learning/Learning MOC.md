@@ -468,3 +468,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[99% of our production code is written by AI]] — intuitiveml (@intuitiveml)
 - [[LLM-as-a-Verifier Scoring Granularity - @cwolferesearch]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
 - [[Claude Code Skills Workflow - @polydao]] — Mr. Buzzoni (@polydao)
+- [[Karpathy's Confusion Protocol in GStack - @garrytan]] — Garry Tan (@garrytan)
+- [[Stanford Agentic AI Lecture and Practical Tasks - @deronin_]] — Ronin (@deronin_)

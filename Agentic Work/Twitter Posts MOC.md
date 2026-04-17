@@ -228,7 +228,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
 ## Stats
 
-- **Total tweets:** 538
+- **Total tweets:** 540
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -292,6 +292,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Two-Phase Long-Horizon Agent Workflow]] — Han Xiao (@hxiao)
 - [[E2E Test - @AnthropicAI]] — E2E Test (@AnthropicAI)
 - [[Claude Code Skills Workflow - @polydao]] — Mr. Buzzoni (@polydao)
+- [[Karpathy's Confusion Protocol in GStack - @garrytan]] — Garry Tan (@garrytan)
+- [[Stanford Agentic AI Lecture and Practical Tasks - @deronin_]] — Ronin (@deronin_)
 
 ## Developer Tools & Code Intelligence
 
