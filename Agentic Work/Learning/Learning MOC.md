@@ -470,3 +470,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Claude Code Skills Workflow - @polydao]] — Mr. Buzzoni (@polydao)
 - [[Karpathy's Confusion Protocol in GStack - @garrytan]] — Garry Tan (@garrytan)
 - [[Stanford Agentic AI Lecture and Practical Tasks - @deronin_]] — Ronin (@deronin_)
+- [[AI Content System Synced With Knowledge Wiki - @shannholmberg]] — Shann³ (@shannholmberg)
