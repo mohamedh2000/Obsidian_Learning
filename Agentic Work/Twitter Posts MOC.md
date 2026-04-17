@@ -228,7 +228,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
 ## Stats
 
-- **Total tweets:** 534
+- **Total tweets:** 533
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -287,7 +287,6 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Memory Is Markdown and the Harness Should Stay Thin - @av1dlive]] — Avid (@av1dlive)
 - [[AI Memory Tools Split Into Backends vs Context Substrates - @witcheer]] — witcheer (@witcheer)
 - [[Two-Phase Long-Horizon Agent Workflow]] — Han Xiao (@hxiao)
-- [[E2E Test - @AnthropicAI]] — E2E Test (@AnthropicAI)
 
 ## Developer Tools & Code Intelligence
 
