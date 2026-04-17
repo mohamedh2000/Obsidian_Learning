@@ -1,20 +1,51 @@
 {
   "main": {
-    "id": "eb359e6cb3dfbb33",
+    "id": "53682215603db856",
     "type": "split",
     "children": [
       {
-        "id": "30c212713b2ff128",
+        "id": "017cda83c2c6d041",
         "type": "tabs",
         "children": [
           {
-            "id": "b629b323d0403db4",
+            "id": "2d230c5f5a0f549a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "graph",
+              "state": {
+                "collapse-filter": true,
+                "search": "",
+                "showTags": false,
+                "showAttachments": false,
+                "hideUnresolved": false,
+                "showOrphans": true,
+                "collapse-color-groups": false,
+                "colorGroups": [
+                  { "query": "tag:#ai-ml", "color": { "a": 1, "rgb": 4886754 } },
+                  { "query": "tag:#claude-ai-coding", "color": { "a": 1, "rgb": 16742144 } },
+                  { "query": "tag:#ai-agents", "color": { "a": 1, "rgb": 10092441 } },
+                  { "query": "tag:#dev-tools", "color": { "a": 1, "rgb": 5025616 } },
+                  { "query": "tag:#business", "color": { "a": 1, "rgb": 16761035 } },
+                  { "query": "tag:#design", "color": { "a": 1, "rgb": 16711900 } },
+                  { "query": "tag:#databases", "color": { "a": 1, "rgb": 65484 } },
+                  { "query": "tag:#infra", "color": { "a": 1, "rgb": 8421504 } },
+                  { "query": "tag:#unsorted", "color": { "a": 1, "rgb": 6710886 } },
+                  { "query": "tag:#misc", "color": { "a": 1, "rgb": 9868950 } },
+                  { "query": "tag:#video", "color": { "a": 1, "rgb": 16711680 } }
+                ],
+                "collapse-display": true,
+                "showArrow": true,
+                "textFadeMultiplier": 0,
+                "nodeSizeMultiplier": 1,
+                "lineSizeMultiplier": 1,
+                "collapse-forces": true,
+                "centerStrength": 0.518713248970312,
+                "repelStrength": 10,
+                "linkStrength": 1,
+                "linkDistance": 250
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,15 +54,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e88b49f137ecfaf",
+    "id": "81c1b6544c989600",
     "type": "split",
     "children": [
       {
-        "id": "7562189f9b7f94b3",
+        "id": "bbb3c6626a41cc12",
         "type": "tabs",
         "children": [
           {
-            "id": "369431915898f012",
+            "id": "bb1d0523a66f4b72",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +75,7 @@
             }
           },
           {
-            "id": "4ebc568bf5f6322f",
+            "id": "e273938f5e7a17b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +92,7 @@
             }
           },
           {
-            "id": "b99360f90546cce4",
+            "id": "a179fa0942fc556c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,24 +105,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "16df7b0cbff1fd58",
+    "id": "7807517faedaca90",
     "type": "split",
     "children": [
       {
-        "id": "80f37af0ed527080",
+        "id": "f95a40c4ce398f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "4f43c90fe461b8cf",
+            "id": "e9224c4d5dcd1714",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +134,7 @@
             }
           },
           {
-            "id": "b87ce263d588cf2e",
+            "id": "aa2573fc9628dedd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +147,7 @@
             }
           },
           {
-            "id": "b21587203dd21a29",
+            "id": "1ceb549c7cffbffb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +162,7 @@
             }
           },
           {
-            "id": "bb7f128139f09258",
+            "id": "53c3cc3c996548c2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,7 +176,7 @@
             }
           },
           {
-            "id": "c7b68dc567a3ad99",
+            "id": "073cee57aa4a6863",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -157,13 +188,22 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "87483143ac0b35ca",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +213,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b629b323d0403db4",
-  "lastOpenFiles": []
+  "active": "2d230c5f5a0f549a",
+  "lastOpenFiles": [
+    "Reading List/Reading Dashboard.md",
+    "Reading List/Misc/dotta-tweet.md",
+    "Reading List/Misc/arscontexta-tweet.md",
+    "Reading List/Misc/kr0der-tweet.md",
+    "Reading List/Misc/badenglishtea-tweet.md",
+    "Reading List/Databases-Vectors-Graphs/time-series-database-deep-dive.md",
+    "Reading List/Databases-Vectors-Graphs/graph-database-deep-dive.md",
+    "Reading List/Databases-Vectors-Graphs/vector-database-deep-dive.md",
+    "Reading List/Databases-Vectors-Graphs/database-paradigms-and-vectors.md",
+    "Reading List/Databases-Vectors-Graphs/embedding-vector-graph-explainer.md",
+    "Reading List/Infrastructure/cloudflare-tunnel.md",
+    "Reading List/Design-UI/jakub-krehel-tweet.md",
+    "Reading List/Design-UI/rauno-freiberg-tweets.md",
+    "Reading List/Design-UI/desengs.md",
+    "Reading List/Business-Marketing-Product/realmcore-tweet.md",
+    "Reading List/Business-Marketing-Product/eliebakouch-tweet.md",
+    "Reading List/Business-Marketing-Product/darlingtondev-tweet.md",
+    "Reading List/Business-Marketing-Product/witcheer-tweet.md",
+    "Reading List/Business-Marketing-Product/neogoose-tweet.md",
+    "Reading List/Business-Marketing-Product/contentful-dev-blog.md",
+    "Reading List/Business-Marketing-Product/salesforce.md",
+    "Reading List/Business-Marketing-Product/mstockton-tweet.md",
+    "Reading List/Business-Marketing-Product/arvid-kahl-tweet.md",
+    "Reading List/Business-Marketing-Product/ericksky-tweet.md",
+    "Reading List/Business-Marketing-Product/damienghader-tweet.md",
+    "Reading List/Business-Marketing-Product/vibemarketer-tweet.md",
+    "Reading List/Misc",
+    "Reading List/Infrastructure",
+    "Reading List/Dev-Tools-Open-Source",
+    "Reading List/Design-UI",
+    "Reading List/Databases-Vectors-Graphs",
+    "Reading List/Claude-Anthropic-AI-Coding",
+    "Reading List/Business-Marketing-Product",
+    "Reading List/AI-ML-Research",
+    "Reading List/AI-Agents-Automation",
+    "Reading List"
+  ]
 }

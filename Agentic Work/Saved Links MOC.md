@@ -62,6 +62,23 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[OpenSpace Agent Self-Evolution and Shared Skills - @axiaisacat]] — axiaisacat (@axiaisacat)
 - [[The Harness Is Everything Built By Cursor Claude - @rohit4verse]] — Rohit (@rohit4verse)
 - [[How To Be A World-Class Agentic Engineer - @systematicls]] — sysls (@systematicls)
+- [[Harness Memory and Context Must-Read - @morganlinton]] — Morgan (@morganlinton)
+- [[Hermes Multi-Agent Profiles Tutorial - @teknium]] — Teknium (@teknium)
+- [[Meta-Harness Code Release - @yoonholeee]] — Yoonho Lee (@yoonholeee)
+- [[Claude Code Session Management and 1M Context - @trq212]] — Thariq (@trq212)
+- [[From SIMT to Systolic GPU and TPU Architecture - @MainzOnX]] — Adam Mainz (@MainzOnX)
+- [[Claude Code Ultrareview Command and Auto Mode - @claudeai]] — Claude (@claudeai)
+- [[Opus 4.7 Xhigh Mode for Agentic Coders - @Vtrivedy10]] — Viv (@vtrivedy10)
+- [[Domain-Specific Models and Harnesses Win - @Vtrivedy10]] — Viv (@vtrivedy10)
+- [[LLM-as-a-Verifier With Logprob Confidence - @webbigdata]] — webbigdata (@webbigdata)
+- [[Prompt Caching in LLMs Clearly Explained - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[Single-Agent AI Coding Ceiling and Multi-Agent Workflows - @MilksandMatcha]] — Sarah Chieng (@MilksandMatcha)
+- [[From Weights to Context to Harness Engineering - @akshay_pachaar]] — Akshay (@akshay_pachaar)
+- [[Context Engineering Checklist for AI Coding - @kmeanskaran]] — Karan (@kmeanskaran)
+- [[Memory Is Markdown and the Harness Should Stay Thin - @av1dlive]] — Avid (@av1dlive)
+- [[AI Memory Tools Split Into Backends vs Context Substrates - @witcheer]] — witcheer (@witcheer)
+- [[Two-Phase Long-Horizon Agent Workflow]] — Han Xiao (@hxiao)
+- [[Context Engineering for AI - @witcheer]] — witcheer (@witcheer)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -236,7 +253,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 201
+- **Total notes:** 566
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -275,6 +292,12 @@ See [[Twitter Posts MOC]] for full index.
 - [[Collective Intelligence at Your Service 24-7 - @0xSero]] — 0xSero (@0xsero)
 - [[Single-GPU LLM Brain Switches Between Text and Machine Code - @eastlondondev]] — Andrew Jefferson (@eastlondondev)
 - [[G0DM0D3 Jailbroken AI Chat Launch - @elder_plinius]] — Pliny the Liberator (@elder_plinius)
+- [[MiniMax M2.7 Open Source Release - @minimax_ai]] — MiniMax official (@minimax_ai)
+- [[Services-as-Software Business Thesis - @itsalexvacca]] — Alex Vacca (@itsalexvacca)
+- [[QMD Industrial Complex Grows Stronger - @tobi]] — Tobi Lutke (@tobi)
+- [[Use XHigh for Planning and High for Execution - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
+- [[Slate Swarm Coding Agent Launch - @realmcore_]] — akira (@realmcore_)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -203,6 +203,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 
 - [[Why File-Based AI Memory Beats Black-Box Vectors - @Atenov_D]] — Readable folder-based memory stack for research agents instead of opaque vector-only memory that is hard to audit or... (85 likes)
 - [[Qwen3.5 RL Free Notebook - @UnslothAI]] — Unsloth AI (@UnslothAI)
+- [[QMD Industrial Complex Grows Stronger - @tobi]] — Tobi Lutke (@tobi)
 ## Uncategorized
 
 - [[AI Startup Visual Share - @ellen_in_sf]] — Visual content
@@ -224,9 +225,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Post 2036339269867020743 - @kingbootoshi]] — kingbootoshi (@kingbootoshi)
 - [[Testing Larger Models on Qwen3.5 - @0xSero]] — 0xSero (@0xSero)
 - [[TurboQuant 6x KV Compression 8x Speedup - @googleresearch]] — Google Research (@googleresearch)
+- [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
 ## Stats
 
-- **Total tweets:** 220
+- **Total tweets:** 533
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -236,6 +238,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[MSA Memory Sparse Attention to 100M Tokens - @troyhua]] — Troy Hua (@troyhua)
 - [[Single-GPU LLM Brain Switches Between Text and Machine Code - @eastlondondev]] — Andrew Jefferson (@eastlondondev)
 - [[Auto-Inference Optimiser for LLM Inference - @manthanguptaa]] — Manthan Gupta (@manthanguptaa)
+- [[MiniMax M2.7 Open Source Release - @minimax_ai]] — MiniMax official (@minimax_ai)
+- [[From SIMT to Systolic GPU and TPU Architecture - @MainzOnX]] — Adam Mainz (@MainzOnX)
+- [[LLM-as-a-Verifier With Logprob Confidence - @webbigdata]] — webbigdata (@webbigdata)
 
 ## AI Agents
 
@@ -271,6 +276,17 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[OpenSpace Agent Self-Evolution and Shared Skills - @axiaisacat]] — axiaisacat (@axiaisacat)
 - [[How To Be A World-Class Agentic Engineer - @systematicls]] — sysls (@systematicls)
 - [[G0DM0D3 Jailbroken AI Chat Launch - @elder_plinius]] — Pliny the Liberator (@elder_plinius)
+- [[Harness Memory and Context Must-Read - @morganlinton]] — Morgan (@morganlinton)
+- [[Hermes Multi-Agent Profiles Tutorial - @teknium]] — Teknium (@teknium)
+- [[Meta-Harness Code Release - @yoonholeee]] — Yoonho Lee (@yoonholeee)
+- [[Services-as-Software Business Thesis - @itsalexvacca]] — Alex Vacca (@itsalexvacca)
+- [[Domain-Specific Models and Harnesses Win - @Vtrivedy10]] — Viv (@vtrivedy10)
+- [[Single-Agent AI Coding Ceiling and Multi-Agent Workflows - @MilksandMatcha]] — Sarah Chieng (@MilksandMatcha)
+- [[From Weights to Context to Harness Engineering - @akshay_pachaar]] — Akshay (@akshay_pachaar)
+- [[Use XHigh for Planning and High for Execution - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Memory Is Markdown and the Harness Should Stay Thin - @av1dlive]] — Avid (@av1dlive)
+- [[AI Memory Tools Split Into Backends vs Context Substrates - @witcheer]] — witcheer (@witcheer)
+- [[Two-Phase Long-Horizon Agent Workflow]] — Han Xiao (@hxiao)
 
 ## Developer Tools & Code Intelligence
 
@@ -283,6 +299,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Parchi Fork Moves to Sitegeist - @0xSero]] — 0xSero (@0xsero)
 - [[Autoresearch Loop Enables 24 7 Codex Runs - @diygod]] — diygod (@diygod)
 - [[Perplexity Open-Sources PPLX-Embed - @natjin]] — nat (@natjin)
+- [[Claude Code Session Management and 1M Context - @trq212]] — Thariq (@trq212)
+- [[Claude Code Ultrareview Command and Auto Mode - @claudeai]] — Claude (@claudeai)
+- [[Opus 4.7 Xhigh Mode for Agentic Coders - @Vtrivedy10]] — Viv (@vtrivedy10)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -580,3 +599,8 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[（1/8）🚀 Introducing Qwen3]] — Qwen (@Alibaba_Qwen)
 - [[🚀 Just open-sourced 'Harness Engineering' Book — a deep-dive into...]] — AlexZ 🦀 (@blackanger)
 - [[🚨 BREAKING: Vector databases for AI memory just got replaced by MP4 files.]] — How To AI (@HowToAI_)
+
+## Memory & Context
+
+- [[Prompt Caching in LLMs Clearly Explained - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[Context Engineering Checklist for AI Coding - @kmeanskaran]] — Karan (@kmeanskaran)
