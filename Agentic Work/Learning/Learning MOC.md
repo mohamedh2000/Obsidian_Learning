@@ -466,3 +466,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[In this blog, we will learn about Feed-Forward Networks in]] — amitiitbhu (@amitiitbhu)
 - [[One of the best written articles on Harness out there]] — The Code Newsletter (@code_newsletter)
 - [[99% of our production code is written by AI]] — intuitiveml (@intuitiveml)
+- [[LLM-as-a-Verifier Scoring Granularity - @cwolferesearch]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Claude Code Skills Workflow - @polydao]] — Mr. Buzzoni (@polydao)

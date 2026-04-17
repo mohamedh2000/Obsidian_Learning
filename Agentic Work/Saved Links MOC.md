@@ -79,6 +79,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[AI Memory Tools Split Into Backends vs Context Substrates - @witcheer]] — witcheer (@witcheer)
 - [[Two-Phase Long-Horizon Agent Workflow]] — Han Xiao (@hxiao)
 - [[Context Engineering for AI - @witcheer]] — witcheer (@witcheer)
+- [[LLM-as-a-Verifier Scoring Granularity - @cwolferesearch]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Claude Code Skills Workflow - @polydao]] — Mr. Buzzoni (@polydao)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -253,7 +255,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 566
+- **Total notes:** 571
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -298,6 +300,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Use XHigh for Planning and High for Execution - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
 - [[Slate Swarm Coding Agent Launch - @realmcore_]] — akira (@realmcore_)
+- [[E2E Test - @AnthropicAI]] — E2E Test (@AnthropicAI)
+- [[Qwen3.6 Model Drops Day After Download - @neural_avb]] — AVB (@neural_avb)
+- [[Qwen 3.6 Release with Agentic Coding - @ollama]] — ollama (@ollama)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -228,7 +228,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
 ## Stats
 
-- **Total tweets:** 533
+- **Total tweets:** 538
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -241,6 +241,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[MiniMax M2.7 Open Source Release - @minimax_ai]] — MiniMax official (@minimax_ai)
 - [[From SIMT to Systolic GPU and TPU Architecture - @MainzOnX]] — Adam Mainz (@MainzOnX)
 - [[LLM-as-a-Verifier With Logprob Confidence - @webbigdata]] — webbigdata (@webbigdata)
+- [[LLM-as-a-Verifier Scoring Granularity - @cwolferesearch]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Qwen3.6 Model Drops Day After Download - @neural_avb]] — AVB (@neural_avb)
+- [[Qwen 3.6 Release with Agentic Coding - @ollama]] — ollama (@ollama)
 
 ## AI Agents
 
@@ -287,6 +290,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Memory Is Markdown and the Harness Should Stay Thin - @av1dlive]] — Avid (@av1dlive)
 - [[AI Memory Tools Split Into Backends vs Context Substrates - @witcheer]] — witcheer (@witcheer)
 - [[Two-Phase Long-Horizon Agent Workflow]] — Han Xiao (@hxiao)
+- [[E2E Test - @AnthropicAI]] — E2E Test (@AnthropicAI)
+- [[Claude Code Skills Workflow - @polydao]] — Mr. Buzzoni (@polydao)
 
 ## Developer Tools & Code Intelligence
 
