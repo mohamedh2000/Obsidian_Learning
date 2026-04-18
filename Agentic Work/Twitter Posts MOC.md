@@ -228,7 +228,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
 ## Stats
 
-- **Total tweets:** 543
+- **Total tweets:** 544
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -297,6 +297,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Stanford Agentic AI Lecture and Practical Tasks - @deronin_]] — Ronin (@deronin_)
 - [[AI Content System Synced With Knowledge Wiki - @shannholmberg]] — Shann³ (@shannholmberg)
 - [[Data Driven Agent Design with Evals & Hill Climbing Algorithms]] — Viv (@vtrivedy10)
+- [[Autogenesis Self-Evolving Agent Protocol - @omarsar0]] — elvis (@omarsar0)
 
 ## Developer Tools & Code Intelligence
 

@@ -473,3 +473,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Content System Synced With Knowledge Wiki - @shannholmberg]] — Shann³ (@shannholmberg)
 - [[Data Driven Agent Design with Evals & Hill Climbing Algorithms]] — Viv (@vtrivedy10)
 - [[RLM Task Decomposition for LongCoT]] — Brian Bartoldson (@bartoldson)
+- [[Autogenesis Self-Evolving Agent Protocol - @omarsar0]] — elvis (@omarsar0)
