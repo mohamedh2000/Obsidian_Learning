@@ -228,7 +228,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
 ## Stats
 
-- **Total tweets:** 542
+- **Total tweets:** 543
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -244,6 +244,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LLM-as-a-Verifier Scoring Granularity - @cwolferesearch]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
 - [[Qwen3.6 Model Drops Day After Download - @neural_avb]] — AVB (@neural_avb)
 - [[Qwen 3.6 Release with Agentic Coding - @ollama]] — ollama (@ollama)
+- [[RLM Task Decomposition for LongCoT]] — Brian Bartoldson (@bartoldson)
 
 ## AI Agents
 

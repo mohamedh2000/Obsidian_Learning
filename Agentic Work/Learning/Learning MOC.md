@@ -472,3 +472,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Stanford Agentic AI Lecture and Practical Tasks - @deronin_]] — Ronin (@deronin_)
 - [[AI Content System Synced With Knowledge Wiki - @shannholmberg]] — Shann³ (@shannholmberg)
 - [[Data Driven Agent Design with Evals & Hill Climbing Algorithms]] — Viv (@vtrivedy10)
+- [[RLM Task Decomposition for LongCoT]] — Brian Bartoldson (@bartoldson)
