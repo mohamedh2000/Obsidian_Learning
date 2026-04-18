@@ -474,3 +474,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Data Driven Agent Design with Evals & Hill Climbing Algorithms]] — Viv (@vtrivedy10)
 - [[RLM Task Decomposition for LongCoT]] — Brian Bartoldson (@bartoldson)
 - [[Autogenesis Self-Evolving Agent Protocol - @omarsar0]] — elvis (@omarsar0)
+- [[Harness Design for Long-Running Apps]] — Bilgin Ibryam (@bibryam)
+- [[Compound Engineering Optimization Loops]] — Trevin Chow (@trevin)

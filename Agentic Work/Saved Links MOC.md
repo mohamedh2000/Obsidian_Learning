@@ -87,6 +87,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Data Driven Agent Design with Evals & Hill Climbing Algorithms]] — Viv (@vtrivedy10)
 - [[RLM Task Decomposition for LongCoT]] — Brian Bartoldson (@bartoldson)
 - [[Autogenesis Self-Evolving Agent Protocol - @omarsar0]] — elvis (@omarsar0)
+- [[Harness Design for Long-Running Apps]] — Bilgin Ibryam (@bibryam)
+- [[Compound Engineering Optimization Loops]] — Trevin Chow (@trevin)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -261,7 +263,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 577
+- **Total notes:** 579
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
