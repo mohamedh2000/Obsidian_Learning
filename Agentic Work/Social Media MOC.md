@@ -24,3 +24,8 @@ Instagram reels and other social media content saved from iMessage.
 
 - [[Netflix Buying InterPositive for 600M - @yahoofinance]] — Mar 18
 - [[Like Alright Why You Complaining - @overtime]] — Mar 21
+
+## Posts
+
+- [[Brother by Takeshi Kitano - @thefilmpig]] — thefilmpig (@thefilmpig)
+- [[No Other Choice by Park Chan-wook - @thefictioncore]] — thefictioncore (@thefictioncore)

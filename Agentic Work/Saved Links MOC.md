@@ -264,7 +264,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 580
+- **Total notes:** 582
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -312,6 +312,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[E2E Test - @AnthropicAI]] — E2E Test (@AnthropicAI)
 - [[Qwen3.6 Model Drops Day After Download - @neural_avb]] — AVB (@neural_avb)
 - [[Qwen 3.6 Release with Agentic Coding - @ollama]] — ollama (@ollama)
+- [[Brother by Takeshi Kitano - @thefilmpig]] — thefilmpig (@thefilmpig)
+- [[No Other Choice by Park Chan-wook - @thefictioncore]] — thefictioncore (@thefictioncore)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
