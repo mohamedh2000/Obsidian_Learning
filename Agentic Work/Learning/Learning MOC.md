@@ -476,3 +476,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Autogenesis Self-Evolving Agent Protocol - @omarsar0]] — elvis (@omarsar0)
 - [[Harness Design for Long-Running Apps]] — Bilgin Ibryam (@bibryam)
 - [[Compound Engineering Optimization Loops]] — Trevin Chow (@trevin)
+- [[Research Papers Every LLM Engineer Must Read]] — Amit Shekhar (@amitiitbhu)
