@@ -477,3 +477,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Harness Design for Long-Running Apps]] — Bilgin Ibryam (@bibryam)
 - [[Compound Engineering Optimization Loops]] — Trevin Chow (@trevin)
 - [[Research Papers Every LLM Engineer Must Read]] — Amit Shekhar (@amitiitbhu)
+- [[Agent Harness Optimization Guide]] — Alex Ker (@thealexker)

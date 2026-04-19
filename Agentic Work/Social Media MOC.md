@@ -31,3 +31,6 @@ Instagram reels and other social media content saved from iMessage.
 - [[No Other Choice by Park Chan-wook - @thefictioncore]] — thefictioncore (@thefictioncore)
 - [[Night's Show-Off (夜の調子者) - Tokyo Cinematic Reel]] — dedtoto (@dedtoto)
 - [[Brother by Takeshi Kitano - @tacosattire]] — tacosattire (@tacosattire)
+- [[Cyberpunk Anime Genre Overview]] — _anime.amv._ (@_anime.amv._)
+- [[Coffee and Blood - AI Film Aesthetic]] — marat.saviro (@marat.saviro)
+- [[PISTON! MV - It's US Records]] — It's US Records (@itsus_records)
