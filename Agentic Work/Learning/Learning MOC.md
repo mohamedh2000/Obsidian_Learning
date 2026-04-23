@@ -498,3 +498,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[DSPy Agent Skills Part 2 - @intertwineai]] — Bryan Young (@intertwineai)
 - [[30 Minutes with Anthropic Coding Agents Lead - @datachaz]] — Charly Wargnier (@datachaz)
 - [[Autoresearch Multi-Agent Dev Automation - @qingq77]] — Geek Lite (@qingq77)
+- [[Autoreason for On-Page SEO]] — Shann³ (@shannholmberg)
+- [[Karpathy 2-Hour LLM Tutorial]] — Phosphen (@phosphenq)
+- [[B-Trees vs LSM Trees]] — ByteByteGo Newsletter

@@ -234,7 +234,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 ## Stats
 
-- **Total tweets:** 571
+- **Total tweets:** 574
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -254,6 +254,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Research Papers Every LLM Engineer Must Read]] — Amit Shekhar (@amitiitbhu)
 - [[RLMs Are The New Reasoning Models]] — Raymond Weitekamp (@raw_works)
 - [[11 Essential AI Evals Resources - @pauliusztin_]] — Paul Iusztin (@pauliusztin_)
+- [[Karpathy 2-Hour LLM Tutorial]] — Phosphen (@phosphenq)
 
 ## AI Agents
 
@@ -325,6 +326,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DSPy Agent Skills Part 2 - @intertwineai]] — Bryan Young (@intertwineai)
 - [[30 Minutes with Anthropic Coding Agents Lead - @datachaz]] — Charly Wargnier (@datachaz)
 - [[Autoresearch Multi-Agent Dev Automation - @qingq77]] — Geek Lite (@qingq77)
+- [[Autoreason for On-Page SEO]] — Shann³ (@shannholmberg)
 
 ## Developer Tools & Code Intelligence
 
@@ -340,6 +342,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Session Management and 1M Context - @trq212]] — Thariq (@trq212)
 - [[Claude Code Ultrareview Command and Auto Mode - @claudeai]] — Claude (@claudeai)
 - [[Opus 4.7 Xhigh Mode for Agentic Coders - @Vtrivedy10]] — Viv (@vtrivedy10)
+- [[Claude Code Quality Issues April 2024 - Tweet]] — ClaudeDevs (@claudedevs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

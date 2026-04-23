@@ -111,6 +111,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[DSPy Agent Skills Part 2 - @intertwineai]] — Bryan Young (@intertwineai)
 - [[30 Minutes with Anthropic Coding Agents Lead - @datachaz]] — Charly Wargnier (@datachaz)
 - [[Autoresearch Multi-Agent Dev Automation - @qingq77]] — Geek Lite (@qingq77)
+- [[Autoreason for On-Page SEO]] — Shann³ (@shannholmberg)
+- [[Karpathy 2-Hour LLM Tutorial]] — Phosphen (@phosphenq)
+- [[B-Trees vs LSM Trees]] — ByteByteGo Newsletter
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -285,7 +288,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 618
+- **Total notes:** 623
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -350,6 +353,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Replaced 27K Marketing Role with Claude Code - @ericosiu]] — Eric Osiu (@ericosiu)
 - [[GPT-5.4-Pro Interesting Model - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
+- [[Claude Code Quality Issues April 2024 - Tweet]] — ClaudeDevs (@claudedevs)
+- [[Claude Code April 2024 Postmortem]] — Anthropic Engineering
 
 ## Recovered 2026-03-26 — 2026-04-14
 
