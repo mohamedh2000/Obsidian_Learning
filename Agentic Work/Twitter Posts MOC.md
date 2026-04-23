@@ -204,6 +204,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Why File-Based AI Memory Beats Black-Box Vectors - @Atenov_D]] — Readable folder-based memory stack for research agents instead of opaque vector-only memory that is hard to audit or... (85 likes)
 - [[Qwen3.5 RL Free Notebook - @UnslothAI]] — Unsloth AI (@UnslothAI)
 - [[QMD Industrial Complex Grows Stronger - @tobi]] — Tobi Lutke (@tobi)
+- [[Zero to ML Framework in 4 Months]] — NVIDIA AI Developer (@nvidiaaidev)
+- [[LeetCUDA - Open Source CUDA System Tutorial]] — Joruno (@wsl8297)
 ## Uncategorized
 
 - [[AI Startup Visual Share - @ellen_in_sf]] — Visual content
@@ -226,9 +228,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Testing Larger Models on Qwen3.5 - @0xSero]] — 0xSero (@0xSero)
 - [[TurboQuant 6x KV Compression 8x Speedup - @googleresearch]] — Google Research (@googleresearch)
 - [[Post by @obtainer - @obtainer]] — obtainer (@obtainer)
+- [[The Ultimate Guide to Claude Opus 4.7]] — Paweł Huryn (@PawelHuryn)
+- [[Is Opus Purposefully Leaking Its Thinking?]] — 0xSero (@0xsero)
+- [[GPT-5.4-Pro Interesting Model - @theahmadosman]] — Ahmad (@theahmadosman)
+- [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 ## Stats
 
-- **Total tweets:** 549
+- **Total tweets:** 571
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -246,6 +252,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Qwen 3.6 Release with Agentic Coding - @ollama]] — ollama (@ollama)
 - [[RLM Task Decomposition for LongCoT]] — Brian Bartoldson (@bartoldson)
 - [[Research Papers Every LLM Engineer Must Read]] — Amit Shekhar (@amitiitbhu)
+- [[RLMs Are The New Reasoning Models]] — Raymond Weitekamp (@raw_works)
+- [[11 Essential AI Evals Resources - @pauliusztin_]] — Paul Iusztin (@pauliusztin_)
 
 ## AI Agents
 
@@ -303,6 +311,20 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Compound Engineering Optimization Loops]] — Trevin Chow (@trevin)
 - [[Agent Harness Optimization Guide]] — Alex Ker (@thealexker)
 - [[Kevin Simback - Hermes Ecosystem Launch]] — Kevin Simback (@ksimback)
+- [[Anthropic Coding Agents 30-Minute Deep Dive]] — Movez (@0xMovez)
+- [[EvoForge Self-Evolving Agentic Harness]] — Gauri Gupta (@gauri__gupta)
+- [[AutoReason for Ad Creative]] — Shann³ (@shannholmberg)
+- [[DAIR.AI Top AI Papers Week April 2026]] — DAIR.AI (@dair_ai)
+- [[Memory Transfer Learning (MTL) for Coding Agents Explained]] — AVB (@neural_avb)
+- [[The Runtime Behind Production Deep Agents]] — Sydney Runkle (@sydneyrunkle)
+- [[Why I Built dspy-agent-skills]] — Bryan Young (@intertwineai)
+- [[Prompt Auto-Caching Limits Compaction - @rlancemartin]] — Lance Martin (@rlancemartin)
+- [[Ten Principles for Production AI Agents - @rohit4verse]] — Rohit (@rohit4verse)
+- [[Agents Over Workflows - Erik Schluntz Patterns - @rohit4verse]] — Rohit (@rohit4verse)
+- [[Replaced 27K Marketing Role with Claude Code - @ericosiu]] — Eric Osiu (@ericosiu)
+- [[DSPy Agent Skills Part 2 - @intertwineai]] — Bryan Young (@intertwineai)
+- [[30 Minutes with Anthropic Coding Agents Lead - @datachaz]] — Charly Wargnier (@datachaz)
+- [[Autoresearch Multi-Agent Dev Automation - @qingq77]] — Geek Lite (@qingq77)
 
 ## Developer Tools & Code Intelligence
 

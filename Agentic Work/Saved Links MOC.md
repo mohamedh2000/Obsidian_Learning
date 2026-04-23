@@ -91,6 +91,26 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Compound Engineering Optimization Loops]] — Trevin Chow (@trevin)
 - [[Research Papers Every LLM Engineer Must Read]] — Amit Shekhar (@amitiitbhu)
 - [[Agent Harness Optimization Guide]] — Alex Ker (@thealexker)
+- [[Anthropic Coding Agents 30-Minute Deep Dive]] — Movez (@0xMovez)
+- [[EvoForge Self-Evolving Agentic Harness]] — Gauri Gupta (@gauri__gupta)
+- [[AutoReason for Ad Creative]] — Shann³ (@shannholmberg)
+- [[Zero to ML Framework in 4 Months]] — NVIDIA AI Developer (@nvidiaaidev)
+- [[DAIR.AI Top AI Papers Week April 2026]] — DAIR.AI (@dair_ai)
+- [[How LangChain Made Their Docs Test Themselves]] — Naomi Pentrel (LangChain)
+- [[LeetCUDA - Open Source CUDA System Tutorial]] — Joruno (@wsl8297)
+- [[All Agentic Architectures - 17+ State-of-the-Art Patterns]] — FareedKhan-dev
+- [[The Ultimate Guide to Claude Opus 4.7]] — Paweł Huryn (@PawelHuryn)
+- [[Memory Transfer Learning (MTL) for Coding Agents Explained]] — AVB (@neural_avb)
+- [[The Runtime Behind Production Deep Agents]] — Sydney Runkle (@sydneyrunkle)
+- [[RLMs Are The New Reasoning Models]] — Raymond Weitekamp (@raw_works)
+- [[Why I Built dspy-agent-skills]] — Bryan Young (@intertwineai)
+- [[Prompt Auto-Caching Limits Compaction - @rlancemartin]] — Lance Martin (@rlancemartin)
+- [[Ten Principles for Production AI Agents - @rohit4verse]] — Rohit (@rohit4verse)
+- [[Agents Over Workflows - Erik Schluntz Patterns - @rohit4verse]] — Rohit (@rohit4verse)
+- [[11 Essential AI Evals Resources - @pauliusztin_]] — Paul Iusztin (@pauliusztin_)
+- [[DSPy Agent Skills Part 2 - @intertwineai]] — Bryan Young (@intertwineai)
+- [[30 Minutes with Anthropic Coding Agents Lead - @datachaz]] — Charly Wargnier (@datachaz)
+- [[Autoresearch Multi-Agent Dev Automation - @qingq77]] — Geek Lite (@qingq77)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -265,7 +285,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 590
+- **Total notes:** 618
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -322,6 +342,14 @@ See [[Twitter Posts MOC]] for full index.
 - [[Hermes Atlas - Hermes Agent Ecosystem Directory]] — Kevin Simback (@ksimback)
 - [[Kevin Simback - Hermes Ecosystem Launch]] — Kevin Simback (@ksimback)
 - [[PISTON! MV - It's US Records]] — It's US Records (@itsus_records)
+- [[Brother 2000 Yohji Yamamoto Costume Design]] — cozyvu (@cozyvu)
+- [[Heat Blue Light Cinematography Analysis]] — heatuniverse1 (@heatuniverse1)
+- [[Dubai Smart Palm Solar Desalination Grid]] — _.t4haa (@_.t4haa)
+- [[Tatsuyuki Tanaka Cannabis Anime Artist]] — finalformlab (@finalformlab)
+- [[Is Opus Purposefully Leaking Its Thinking?]] — 0xSero (@0xsero)
+- [[Replaced 27K Marketing Role with Claude Code - @ericosiu]] — Eric Osiu (@ericosiu)
+- [[GPT-5.4-Pro Interesting Model - @theahmadosman]] — Ahmad (@theahmadosman)
+- [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

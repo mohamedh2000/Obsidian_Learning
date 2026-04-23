@@ -34,3 +34,7 @@ Instagram reels and other social media content saved from iMessage.
 - [[Cyberpunk Anime Genre Overview]] — _anime.amv._ (@_anime.amv._)
 - [[Coffee and Blood - AI Film Aesthetic]] — marat.saviro (@marat.saviro)
 - [[PISTON! MV - It's US Records]] — It's US Records (@itsus_records)
+- [[Brother 2000 Yohji Yamamoto Costume Design]] — cozyvu (@cozyvu)
+- [[Heat Blue Light Cinematography Analysis]] — heatuniverse1 (@heatuniverse1)
+- [[Dubai Smart Palm Solar Desalination Grid]] — _.t4haa (@_.t4haa)
+- [[Tatsuyuki Tanaka Cannabis Anime Artist]] — finalformlab (@finalformlab)
