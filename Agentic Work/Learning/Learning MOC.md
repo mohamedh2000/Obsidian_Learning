@@ -501,3 +501,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Autoreason for On-Page SEO]] — Shann³ (@shannholmberg)
 - [[Karpathy 2-Hour LLM Tutorial]] — Phosphen (@phosphenq)
 - [[B-Trees vs LSM Trees]] — ByteByteGo Newsletter
+- [[Karpathy ChatGPT Internals Deep Dive]] — divyansh tiwari (@divyansht91162)

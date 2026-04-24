@@ -234,7 +234,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 ## Stats
 
-- **Total tweets:** 578
+- **Total tweets:** 579
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -255,6 +255,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[RLMs Are The New Reasoning Models]] — Raymond Weitekamp (@raw_works)
 - [[11 Essential AI Evals Resources - @pauliusztin_]] — Paul Iusztin (@pauliusztin_)
 - [[Karpathy 2-Hour LLM Tutorial]] — Phosphen (@phosphenq)
+- [[Karpathy ChatGPT Internals Deep Dive]] — divyansh tiwari (@divyansht91162)
 
 ## AI Agents
 
