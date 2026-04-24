@@ -288,7 +288,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 623
+- **Total notes:** 626
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -355,6 +355,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 - [[Claude Code Quality Issues April 2024 - Tweet]] — ClaudeDevs (@claudedevs)
 - [[Claude Code April 2024 Postmortem]] — Anthropic Engineering
+- [[GPT-5.5 vs Claude Opus Comparison - @theahmadosman]] — Ahmad (@theahmadosman)
+- [[Claude Code Head Vibecoding Workflow - @adxtyahq]] — aditya (@adxtyahq)
+- [[Teknium Useful Tool Mention - @teknium]] — Teknium 🪽 (@teknium)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

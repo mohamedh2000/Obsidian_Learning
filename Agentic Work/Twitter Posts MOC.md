@@ -234,7 +234,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 ## Stats
 
-- **Total tweets:** 574
+- **Total tweets:** 577
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -343,6 +343,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Ultrareview Command and Auto Mode - @claudeai]] — Claude (@claudeai)
 - [[Opus 4.7 Xhigh Mode for Agentic Coders - @Vtrivedy10]] — Viv (@vtrivedy10)
 - [[Claude Code Quality Issues April 2024 - Tweet]] — ClaudeDevs (@claudedevs)
+- [[GPT-5.5 vs Claude Opus Comparison - @theahmadosman]] — Ahmad (@theahmadosman)
+- [[Claude Code Head Vibecoding Workflow - @adxtyahq]] — aditya (@adxtyahq)
+- [[Teknium Useful Tool Mention - @teknium]] — Teknium 🪽 (@teknium)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
