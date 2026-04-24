@@ -502,3 +502,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Karpathy 2-Hour LLM Tutorial]] — Phosphen (@phosphenq)
 - [[B-Trees vs LSM Trees]] — ByteByteGo Newsletter
 - [[Karpathy ChatGPT Internals Deep Dive]] — divyansh tiwari (@divyansht91162)
+- [[Lambda-RLMs Harness Blog Review]] — Haitham Bou Ammar (@hbouammar)

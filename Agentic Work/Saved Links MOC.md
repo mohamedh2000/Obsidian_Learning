@@ -115,6 +115,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Karpathy 2-Hour LLM Tutorial]] — Phosphen (@phosphenq)
 - [[B-Trees vs LSM Trees]] — ByteByteGo Newsletter
 - [[Karpathy ChatGPT Internals Deep Dive]] — divyansh tiwari (@divyansht91162)
+- [[Lambda-RLMs Harness Blog Review]] — Haitham Bou Ammar (@hbouammar)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -289,7 +290,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 628
+- **Total notes:** 632
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -360,6 +361,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Claude Code Head Vibecoding Workflow - @adxtyahq]] — aditya (@adxtyahq)
 - [[Teknium Useful Tool Mention - @teknium]] — Teknium 🪽 (@teknium)
 - [[Claude Code Ultrareview Fleet Bug Hunting]] — Twitter/@claudedevs
+- [[Hermes Atlas Updates]] — Kevin Simback (@ksimback)
+- [[GPT-5.5 Meaningful Improvement Review]] — 0xSero (@0xsero)
+- [[DeepSeek 4 Released]] — Chubby (@kimmonismus)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
