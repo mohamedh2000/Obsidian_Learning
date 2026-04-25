@@ -120,6 +120,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
 - [[Production AI Agents in 30 Minutes Anthropic Stack - @codewithimanshu]] — Himanshu Kumar (@codewithimanshu)
 - [[Claude Code Orchestration Workflow with Sub-Agents - @kingbootoshi]] — BOOTOSHI 👑 (@kingbootoshi)
+- [[Claude Code Setup Plugin - Zero Config Automation]] — divyansh tiwari (@divyansht91162)
+- [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
+- [[Hermes Agent Evolutions - 5 New Plugins]] — GitTrend (@gittrend0x)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -294,7 +297,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 638
+- **Total notes:** 641
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

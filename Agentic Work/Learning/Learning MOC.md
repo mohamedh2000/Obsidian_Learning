@@ -507,3 +507,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
 - [[Production AI Agents in 30 Minutes Anthropic Stack - @codewithimanshu]] — Himanshu Kumar (@codewithimanshu)
 - [[Claude Code Orchestration Workflow with Sub-Agents - @kingbootoshi]] — BOOTOSHI 👑 (@kingbootoshi)
+- [[Claude Code Setup Plugin - Zero Config Automation]] — divyansh tiwari (@divyansht91162)
+- [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
+- [[Hermes Agent Evolutions - 5 New Plugins]] — GitTrend (@gittrend0x)

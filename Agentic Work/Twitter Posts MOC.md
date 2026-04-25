@@ -232,9 +232,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Is Opus Purposefully Leaking Its Thinking?]] — 0xSero (@0xsero)
 - [[GPT-5.4-Pro Interesting Model - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
+- [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
 ## Stats
 
-- **Total tweets:** 589
+- **Total tweets:** 592
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -338,6 +339,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Orchestration Workflow with Sub-Agents - @kingbootoshi]] — BOOTOSHI 👑 (@kingbootoshi)
 - [[Hermes Agent v2026.4.23 Release - @nousresearch]] — Nous Research (@nousresearch)
 - [[Hermes Agent v0.11 Major Update - @juliangoldieseo]] — Julian Goldie SEO (@juliangoldieseo)
+- [[Claude Code Setup Plugin - Zero Config Automation]] — divyansh tiwari (@divyansht91162)
+- [[Hermes Agent Evolutions - 5 New Plugins]] — GitTrend (@gittrend0x)
 
 ## Developer Tools & Code Intelligence
 
