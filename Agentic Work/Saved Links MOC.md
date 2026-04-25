@@ -116,6 +116,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[B-Trees vs LSM Trees]] — ByteByteGo Newsletter
 - [[Karpathy ChatGPT Internals Deep Dive]] — divyansh tiwari (@divyansht91162)
 - [[Lambda-RLMs Harness Blog Review]] — Haitham Bou Ammar (@hbouammar)
+- [[The Definitive Guide to Harness Engineering]] — TRAE (@Trae_ai)
+- [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -290,7 +292,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 632
+- **Total notes:** 634
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

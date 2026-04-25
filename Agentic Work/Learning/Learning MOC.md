@@ -503,3 +503,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[B-Trees vs LSM Trees]] — ByteByteGo Newsletter
 - [[Karpathy ChatGPT Internals Deep Dive]] — divyansh tiwari (@divyansht91162)
 - [[Lambda-RLMs Harness Blog Review]] — Haitham Bou Ammar (@hbouammar)
+- [[The Definitive Guide to Harness Engineering]] — TRAE (@Trae_ai)
+- [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)

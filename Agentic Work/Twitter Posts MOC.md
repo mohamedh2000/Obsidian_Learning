@@ -234,7 +234,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 ## Stats
 
-- **Total tweets:** 583
+- **Total tweets:** 585
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -332,6 +332,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Autoreason for On-Page SEO]] — Shann³ (@shannholmberg)
 - [[Hermes Atlas Updates]] — Kevin Simback (@ksimback)
 - [[GPT-5.5 Meaningful Improvement Review]] — 0xSero (@0xsero)
+- [[The Definitive Guide to Harness Engineering]] — TRAE (@Trae_ai)
+- [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
 
 ## Developer Tools & Code Intelligence
 
