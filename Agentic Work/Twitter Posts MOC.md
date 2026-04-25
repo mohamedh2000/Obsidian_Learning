@@ -234,7 +234,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 ## Stats
 
-- **Total tweets:** 586
+- **Total tweets:** 589
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -335,6 +335,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Definitive Guide to Harness Engineering]] — TRAE (@Trae_ai)
 - [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
 - [[Production AI Agents in 30 Minutes Anthropic Stack - @codewithimanshu]] — Himanshu Kumar (@codewithimanshu)
+- [[Claude Code Orchestration Workflow with Sub-Agents - @kingbootoshi]] — BOOTOSHI 👑 (@kingbootoshi)
+- [[Hermes Agent v2026.4.23 Release - @nousresearch]] — Nous Research (@nousresearch)
+- [[Hermes Agent v0.11 Major Update - @juliangoldieseo]] — Julian Goldie SEO (@juliangoldieseo)
 
 ## Developer Tools & Code Intelligence
 

@@ -119,6 +119,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[The Definitive Guide to Harness Engineering]] — TRAE (@Trae_ai)
 - [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
 - [[Production AI Agents in 30 Minutes Anthropic Stack - @codewithimanshu]] — Himanshu Kumar (@codewithimanshu)
+- [[Claude Code Orchestration Workflow with Sub-Agents - @kingbootoshi]] — BOOTOSHI 👑 (@kingbootoshi)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -293,7 +294,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 635
+- **Total notes:** 638
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -367,6 +368,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Hermes Atlas Updates]] — Kevin Simback (@ksimback)
 - [[GPT-5.5 Meaningful Improvement Review]] — 0xSero (@0xsero)
 - [[DeepSeek 4 Released]] — Chubby (@kimmonismus)
+- [[Hermes Agent v2026.4.23 Release - @nousresearch]] — Nous Research (@nousresearch)
+- [[Hermes Agent v0.11 Major Update - @juliangoldieseo]] — Julian Goldie SEO (@juliangoldieseo)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

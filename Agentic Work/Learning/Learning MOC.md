@@ -506,3 +506,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[The Definitive Guide to Harness Engineering]] — TRAE (@Trae_ai)
 - [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
 - [[Production AI Agents in 30 Minutes Anthropic Stack - @codewithimanshu]] — Himanshu Kumar (@codewithimanshu)
+- [[Claude Code Orchestration Workflow with Sub-Agents - @kingbootoshi]] — BOOTOSHI 👑 (@kingbootoshi)
