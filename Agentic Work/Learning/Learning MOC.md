@@ -505,3 +505,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Lambda-RLMs Harness Blog Review]] — Haitham Bou Ammar (@hbouammar)
 - [[The Definitive Guide to Harness Engineering]] — TRAE (@Trae_ai)
 - [[Sub-Agents vs Agent Teams: The Architecture Decision That Changes Everything]] — Suryansh Tiwari (@Suryanshti777)
+- [[Production AI Agents in 30 Minutes Anthropic Stack - @codewithimanshu]] — Himanshu Kumar (@codewithimanshu)
