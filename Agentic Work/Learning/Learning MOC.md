@@ -510,3 +510,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Claude Code Setup Plugin - Zero Config Automation]] — divyansh tiwari (@divyansht91162)
 - [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
 - [[Hermes Agent Evolutions - 5 New Plugins]] — GitTrend (@gittrend0x)
+- [[The Ultimate Hermes Guide - Multi-Agent Team Architecture]] — Nyk (@nyk_builderz)

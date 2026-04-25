@@ -235,7 +235,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
 ## Stats
 
-- **Total tweets:** 592
+- **Total tweets:** 593
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -341,6 +341,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent v0.11 Major Update - @juliangoldieseo]] — Julian Goldie SEO (@juliangoldieseo)
 - [[Claude Code Setup Plugin - Zero Config Automation]] — divyansh tiwari (@divyansht91162)
 - [[Hermes Agent Evolutions - 5 New Plugins]] — GitTrend (@gittrend0x)
+- [[The Ultimate Hermes Guide - Multi-Agent Team Architecture]] — Nyk (@nyk_builderz)
 
 ## Developer Tools & Code Intelligence
 
