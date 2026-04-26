@@ -245,6 +245,42 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Lovable Chat UI Redesign State Reduction]] — niklas (@nklsmhs)
 - [[Remotion Agent Skills HeyGen Integration]] — Remotion (@remotion)
 - [[Beautiful Mermaid Agent Skill for SVG-PNG Export]] — Eleanor Berger (@intellectronica)
+- [[Login Screen Design for AI Data Tool]] — Andrea Montini (@andreamontini)
+- [[Prompt Clarity Article by kloss_xyz]] — am.will (@llmjunky)
+- [[FloatPrompt Continuous Compounding Context]] — MDS (@mds)
+- [[Claude Code Transcript Context Extraction]] — Zac (@perceptualpeak)
+- [[zarazhangrui/frontend-slides - Animation-Rich HTML Presentations Skill]] — zarazhangrui
+- [[Supermemory Plugin for Claude Code]] — Dhravya Shah (@dhravyashah)
+- [[supermemoryai/claude-supermemory - Persistent Memory Plugin]] — supermemoryai
+- [[Your Claude Code is Now Stateful]] — Dhravya Shah (@dhravyashah)
+- [[How to Build an Agent That Never Forgets]] — Rohit (@rohit4verse)
+- [[Building AI Project Manager with Claude Code]] — Nityesh (@nityeshaga)
+- [[Claude Code Playground Plugin for Interactive HTML Playgrounds]] — Thariq (@trq212)
+- [[shadcn-builder - No-Code Form Builder for shadcn/ui]] — iduspara
+- [[HTML Slides with Interactive Navigation Dots]] — Zara Zhang (@zarazhangrui)
+- [[Firecrawl CLI Skill for AI Agent Web Context]] — Sumanth (@sumanth_077)
+- [[Kimi 2.5 iOS 26 Glass Effect One-Shot]] — Legendary (@legendaryy)
+- [[AGENTS.md Self-Updating Trick]] — Pooya Parsa (@_pi0_)
+- [[QMD - On-Device Search Engine for Markdown and Knowledge Bases]] — Tobi Lütke (@tobi)
+- [[Claude Code --from-pr Flag for Session Resume]] — Lydia Hallie (@lydiahallie)
+- [[Pencil and Paper Design Game Changer]] — Kevin ⨀ (@kvncnls)
+- [[AI Agent Three Year Memory System]] — Cathryn (@cathrynlavery)
+- [[Reddit JSON API Trick for LLM Data Extraction]] — Ahmad (@theahmadosman)
+- [[Mission Control Multi-Agent System Guide]] — Bhanu Teja P (@pbteja1998)
+- [[Bun Settings Fix for prefersReducedMotion]] — Daniel San (@dani_avila7)
+- [[Tool UI React Framework for Conversation-Native UIs]] — Tw93 (@hitw93)
+- [[Claude.md Routing Table Best Practice]] — Alex Hillman (@alexhillman)
+- [[Frosted Glass Done Right: iOS vs One UI]] — UI/UX Savior (@uisavior)
+- [[Variant UI Import Site Feature for Design Direction]] — Ty Hughey (@tycreated)
+- [[Claude Code Orchestration Workflow Tutorial]] — cogsec (@affaanmustafa)
+- [[Maestro Automated UI Testing for Twitch]] — Maestro (@maestro__dev)
+- [[User Interface Wiki - Growing Collection of UI Patterns and Best Practices]] — Adham Dannaway (@adhamdannaway)
+- [[Making Complexity Feel Simple - Motion Design Philosophy]] — litch (@litch_motion)
+- [[GSAP WebGL Interactive Web Experience Tutorial on Codrops]] — chakib (@highpfloat)
+- [[Why AI/SaaS/Crypto Brands Use Motion Design - You Can't Film a Dashboard]] — Filippo Carnevale (@filippo_mp4)
+- [[Ruthless App Requirements Interrogator - Zero Assumptions Prompt]] — klöss (@kloss_xyz)
+- [[Kimi K2 Outperforms Gemini 2.5 Flash for Non-Code Applications]] — Theo - t3.gg (@theo)
+- [[Agent SEO/AEO Optimization - Making Your Site Agent-Readable]] — Michael (@michael_chomsky)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -419,7 +455,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 803
+- **Total notes:** 853
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -535,6 +571,20 @@ See [[Twitter Posts MOC]] for full index.
 - [[Design Post - @basit_designs]] — @basit_designs
 - [[Marathon UK Influence Concept Art - @jckhlry]] — JACK (@jckhlry)
 - [[Claude 4.5 Cowork SEO Prompts]] — Sarvesh Shrivastava (@bloggersarvesh)
+- [[InVideo AI Motion Graphics Launch]] — Invideo (@invideoofficial)
+- [[Google Tag Manager and GA4 Integration Guide]] — Google Analytics (@googleanalytics)
+- [[31 Subreddits for Startup Launch Distribution]] — Om Patel (@om_patel5)
+- [[39 Launch Directories for Product Launches]] — Kalash (@kalashbuilds)
+- [[Kyle Anthony Tweet]] — Kyle Anthony (@kyleanthony)
+- [[Ayush Soni Video Tweet]] — Ayush Soni (@ayushsoni_io)
+- [[Viral Video $15K MRR Case Study]] — Pierre-Eliott Lallemant (@pierreeliottlal)
+- [[GPU Build and AI Software Setup Threads]] — Ahmad (@theahmadosman)
+- [[PMFProbe Hackathon Win at Anthropic x Forum Ventures]] — cogsec (@affaanmustafa)
+- [[Chrome Extension as Free 99 DR Backlink]] — Dmytro Krasun (@dmytrokrasun)
+- [[Tweet from @pranathiperii]] — (@pranathiperii)
+- [[Startup Marketing Playbook - 7 Channels That Actually Work]] — Om Patel (@om_patel5)
+- [[Epstein Email Reveals 2015 Pandemic Preparation Discussions]] — Invisidon (@quantumalteredx)
+- [[Billionaire Comment Reaction - What an Inconspicuous Thing to Say]] — Jarv (@on_thebounce)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

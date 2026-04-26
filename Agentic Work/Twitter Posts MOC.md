@@ -182,6 +182,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Mercor $350M Series C at $10B Valuation - @brendanfoody]] — Brendan (can/do) (@brendanfoody)
 - [[High Converting Email Sequence Structure - @boringmarketer]] — The Boring Marketer (@boringmarketer)
 - [[Google and AI Search Traffic Growth - @alexgroberman]] — Alex Groberman (@alexgroberman)
+- [[31 Subreddits for Startup Launch Distribution]] — Om Patel (@om_patel5)
+- [[39 Launch Directories for Product Launches]] — Kalash (@kalashbuilds)
+- [[Viral Video $15K MRR Case Study]] — Pierre-Eliott Lallemant (@pierreeliottlal)
+- [[Startup Marketing Playbook - 7 Channels That Actually Work]] — Om Patel (@om_patel5)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -235,6 +239,14 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[detail.design - Thoughtful Design Details Collection - @adhamdannaway]] — Adham Dannaway (@adhamdannaway)
 - [[Share Modal UI Design]] — Maxim Kuznetsov (@disarto_max)
 - [[Lovable Chat UI Redesign State Reduction]] — niklas (@nklsmhs)
+- [[Login Screen Design for AI Data Tool]] — Andrea Montini (@andreamontini)
+- [[HTML Slides with Interactive Navigation Dots]] — Zara Zhang (@zarazhangrui)
+- [[Pencil and Paper Design Game Changer]] — Kevin ⨀ (@kvncnls)
+- [[Frosted Glass Done Right: iOS vs One UI]] — UI/UX Savior (@uisavior)
+- [[User Interface Wiki - Growing Collection of UI Patterns and Best Practices]] — Adham Dannaway (@adhamdannaway)
+- [[Making Complexity Feel Simple - Motion Design Philosophy]] — litch (@litch_motion)
+- [[GSAP WebGL Interactive Web Experience Tutorial on Codrops]] — chakib (@highpfloat)
+- [[Why AI/SaaS/Crypto Brands Use Motion Design - You Can't Film a Dashboard]] — Filippo Carnevale (@filippo_mp4)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -294,9 +306,19 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Marathon UK Influence Concept Art - @jckhlry]] — JACK (@jckhlry)
 - [[Anthropic 10-Step Prompt Structure Guide]] — AI Edge (@aiedge_)
 - [[Claude 4.5 Cowork SEO Prompts]] — Sarvesh Shrivastava (@bloggersarvesh)
+- [[Google Tag Manager and GA4 Integration Guide]] — Google Analytics (@googleanalytics)
+- [[Kyle Anthony Tweet]] — Kyle Anthony (@kyleanthony)
+- [[Ayush Soni Video Tweet]] — Ayush Soni (@ayushsoni_io)
+- [[GPU Build and AI Software Setup Threads]] — Ahmad (@theahmadosman)
+- [[PMFProbe Hackathon Win at Anthropic x Forum Ventures]] — cogsec (@affaanmustafa)
+- [[Chrome Extension as Free 99 DR Backlink]] — Dmytro Krasun (@dmytrokrasun)
+- [[Tweet from @pranathiperii]] — (@pranathiperii)
+- [[Ruthless App Requirements Interrogator - Zero Assumptions Prompt]] — klöss (@kloss_xyz)
+- [[Epstein Email Reveals 2015 Pandemic Preparation Discussions]] — Invisidon (@quantumalteredx)
+- [[Billionaire Comment Reaction - What an Inconspicuous Thing to Say]] — Jarv (@on_thebounce)
 ## Stats
 
-- **Total tweets:** 718
+- **Total tweets:** 764
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -323,6 +345,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Recursive Language Models MIT Explained - @_avichawla]] — Avi Chawla (@_avichawla)
 - [[RLM GPT-5.2 Performance Boost via Prompting]] — alex zhang (@a1zhang)
 - [[Stanford CS336: Language Modeling from Scratch]] — Tech with Mak (@technmak)
+- [[Kimi 2.5 iOS 26 Glass Effect One-Shot]] — Legendary (@legendaryy)
+- [[Kimi K2 Outperforms Gemini 2.5 Flash for Non-Code Applications]] — Theo - t3.gg (@theo)
 
 ## AI Agents
 
@@ -444,6 +468,18 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Three-Layer Memory System for Clawdbot]] — pixel (@spacepixel)
 - [[Remotion Agent Skills HeyGen Integration]] — Remotion (@remotion)
 - [[Beautiful Mermaid Agent Skill for SVG-PNG Export]] — Eleanor Berger (@intellectronica)
+- [[FloatPrompt Continuous Compounding Context]] — MDS (@mds)
+- [[Supermemory Plugin for Claude Code]] — Dhravya Shah (@dhravyashah)
+- [[Your Claude Code is Now Stateful]] — Dhravya Shah (@dhravyashah)
+- [[How to Build an Agent That Never Forgets]] — Rohit (@rohit4verse)
+- [[Building AI Project Manager with Claude Code]] — Nityesh (@nityeshaga)
+- [[Firecrawl CLI Skill for AI Agent Web Context]] — Sumanth (@sumanth_077)
+- [[AGENTS.md Self-Updating Trick]] — Pooya Parsa (@_pi0_)
+- [[AI Agent Three Year Memory System]] — Cathryn (@cathrynlavery)
+- [[Mission Control Multi-Agent System Guide]] — Bhanu Teja P (@pbteja1998)
+- [[Tool UI React Framework for Conversation-Native UIs]] — Tw93 (@hitw93)
+- [[Claude Code Orchestration Workflow Tutorial]] — cogsec (@affaanmustafa)
+- [[Agent SEO/AEO Optimization - Making Your Site Agent-Readable]] — Michael (@michael_chomsky)
 
 ## Developer Tools & Code Intelligence
 
@@ -487,6 +523,15 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Skills.sh Marketing Prompt Quality]] — David Attias (@david_attisaas)
 - [[Claude Code Custom Keybindings - @bcherny]] — Boris Cherny (@bcherny)
 - [[React2AWS Infrastructure as React Components]] — kanav (@kanavtwt)
+- [[Claude Code Transcript Context Extraction]] — Zac (@perceptualpeak)
+- [[InVideo AI Motion Graphics Launch]] — Invideo (@invideoofficial)
+- [[Claude Code Playground Plugin for Interactive HTML Playgrounds]] — Thariq (@trq212)
+- [[Claude Code --from-pr Flag for Session Resume]] — Lydia Hallie (@lydiahallie)
+- [[Reddit JSON API Trick for LLM Data Extraction]] — Ahmad (@theahmadosman)
+- [[Bun Settings Fix for prefersReducedMotion]] — Daniel San (@dani_avila7)
+- [[Claude.md Routing Table Best Practice]] — Alex Hillman (@alexhillman)
+- [[Variant UI Import Site Feature for Design Direction]] — Ty Hughey (@tycreated)
+- [[Maestro Automated UI Testing for Twitch]] — Maestro (@maestro__dev)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -789,3 +834,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 
 - [[Prompt Caching in LLMs Clearly Explained - @_avichawla]] — Avi Chawla (@_avichawla)
 - [[Context Engineering Checklist for AI Coding - @kmeanskaran]] — Karan (@kmeanskaran)
+- [[Prompt Clarity Article by kloss_xyz]] — am.will (@llmjunky)

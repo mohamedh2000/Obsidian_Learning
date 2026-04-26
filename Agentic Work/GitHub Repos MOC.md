@@ -45,6 +45,10 @@ GitHub repositories saved from iMessage.
 - [[Marketing Skills for AI Coding Agents - coreyhaines31]] — Corey Haines (@coreyhaines31)
 - [[last30days-skill Multi-Platform Research Agent]] — mvanhorn
 - [[antfu/skills - Anthony Fu Agent Skills Collection]] — Anthony Fu (antfu)
+- [[zarazhangrui/frontend-slides - Animation-Rich HTML Presentations Skill]] — zarazhangrui
+- [[supermemoryai/claude-supermemory - Persistent Memory Plugin]] — supermemoryai
+- [[shadcn-builder - No-Code Form Builder for shadcn/ui]] — iduspara
+- [[QMD - On-Device Search Engine for Markdown and Knowledge Bases]] — Tobi Lütke (@tobi)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
