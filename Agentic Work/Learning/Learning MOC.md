@@ -517,3 +517,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[10 GitHub Repos for AI Engineer Jobs - @heynavtoor]] — Nav Toor (@heynavtoor)
 - [[Claude Code Setup Plugin - @nicos_ai]] — Nico (@nicos_ai)
 - [[Recursive Language Models MIT Explained - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[macOS Native App UI Redesign SSH Support]] — 老鬼 (@laogui)
+- [[DeepSeek V4 Coding Agents Launch]] — Together AI (@togethercompute)
+- [[RLM GPT-5.2 Performance Boost via Prompting]] — alex zhang (@a1zhang)
+- [[Stanford CS336: Language Modeling from Scratch]] — Tech with Mak (@technmak)
+- [[Meta-Harness Framework Open Source]] — AlphaSignal AI (@alphasignalai)

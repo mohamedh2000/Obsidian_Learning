@@ -233,9 +233,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT-5.4-Pro Interesting Model - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 - [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
+- [[$47K/Month AI Business in Local Service Industries]] — Zephyr (@zephyr_hg)
 ## Stats
 
-- **Total tweets:** 598
+- **Total tweets:** 604
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -260,6 +261,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Lambda-RLMs Harness Blog Review]] — Haitham Bou Ammar (@hbouammar)
 - [[DeepSeek 4 Released]] — Chubby (@kimmonismus)
 - [[Recursive Language Models MIT Explained - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[RLM GPT-5.2 Performance Boost via Prompting]] — alex zhang (@a1zhang)
+- [[Stanford CS336: Language Modeling from Scratch]] — Tech with Mak (@technmak)
 
 ## AI Agents
 
@@ -347,6 +350,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Skill Graph Content Engine - AI Agent for Multi-Platform Content]] — Ronin (@DeRonin_)
 - [[10 GitHub Repos for AI Engineer Jobs - @heynavtoor]] — Nav Toor (@heynavtoor)
 - [[Claude Code Setup Plugin - @nicos_ai]] — Nico (@nicos_ai)
+- [[DeepSeek V4 Coding Agents Launch]] — Together AI (@togethercompute)
+- [[Meta-Harness Framework Open Source]] — AlphaSignal AI (@alphasignalai)
 
 ## Developer Tools & Code Intelligence
 
@@ -367,6 +372,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Head Vibecoding Workflow - @adxtyahq]] — aditya (@adxtyahq)
 - [[Teknium Useful Tool Mention - @teknium]] — Teknium 🪽 (@teknium)
 - [[Claude Code Ultrareview Fleet Bug Hunting]] — Twitter/@claudedevs
+- [[macOS Native App UI Redesign SSH Support]] — 老鬼 (@laogui)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

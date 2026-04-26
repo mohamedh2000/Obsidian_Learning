@@ -130,6 +130,11 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[10 GitHub Repos for AI Engineer Jobs - @heynavtoor]] — Nav Toor (@heynavtoor)
 - [[Claude Code Setup Plugin - @nicos_ai]] — Nico (@nicos_ai)
 - [[Recursive Language Models MIT Explained - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[macOS Native App UI Redesign SSH Support]] — 老鬼 (@laogui)
+- [[DeepSeek V4 Coding Agents Launch]] — Together AI (@togethercompute)
+- [[RLM GPT-5.2 Performance Boost via Prompting]] — alex zhang (@a1zhang)
+- [[Stanford CS336: Language Modeling from Scratch]] — Tech with Mak (@technmak)
+- [[Meta-Harness Framework Open Source]] — AlphaSignal AI (@alphasignalai)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -304,7 +309,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 648
+- **Total notes:** 654
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -380,6 +385,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[DeepSeek 4 Released]] — Chubby (@kimmonismus)
 - [[Hermes Agent v2026.4.23 Release - @nousresearch]] — Nous Research (@nousresearch)
 - [[Hermes Agent v0.11 Major Update - @juliangoldieseo]] — Julian Goldie SEO (@juliangoldieseo)
+- [[$47K/Month AI Business in Local Service Industries]] — Zephyr (@zephyr_hg)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
