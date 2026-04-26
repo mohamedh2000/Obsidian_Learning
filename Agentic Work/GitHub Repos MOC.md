@@ -43,6 +43,8 @@ GitHub repositories saved from iMessage.
 - [[VibeMux Multi-Agent Terminal Orchestrator]] — UgOrange
 - [[Claude Code Guide Auto-Updated Every 2 Days]] — Cranot/claude-code-guide on GitHub
 - [[Marketing Skills for AI Coding Agents - coreyhaines31]] — Corey Haines (@coreyhaines31)
+- [[last30days-skill Multi-Platform Research Agent]] — mvanhorn
+- [[antfu/skills - Anthony Fu Agent Skills Collection]] — Anthony Fu (antfu)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

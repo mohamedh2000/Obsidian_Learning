@@ -180,6 +180,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (592 likes)
 - [[Options Strategy Education Page - @unusual_whales]] — unusual_whales (@unusual_whales)
 - [[Mercor $350M Series C at $10B Valuation - @brendanfoody]] — Brendan (can/do) (@brendanfoody)
+- [[High Converting Email Sequence Structure - @boringmarketer]] — The Boring Marketer (@boringmarketer)
+- [[Google and AI Search Traffic Growth - @alexgroberman]] — Alex Groberman (@alexgroberman)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -215,6 +217,24 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Startup Card Animation in Pure Figma]] — Basit A. Khan (@basit_designs)
 - [[Praha Isometric Design Portfolio Showcase]] — Praha (@praha37v)
 - [[Animated UI Design Showcase]] — Marcel (@marcelkargul)
+- [[Single Prompt Design Generation]] — Alfi | Design for Startups (@alfifromtoasty)
+- [[Animated Landing Page Design Showcase]] — Asaad Mahmood - The Small Square (@asaadmahmood5)
+- [[Single Animation Elevates Landing Page - @marcelkargul]] — Marcel (@marcelkargul)
+- [[Landing Page Design Joy - @galshirart]] — Gal Shir (@galshirart)
+- [[Anime.js v4.3 Auto Layout Feature - @juliangarnier]] — Julian Garnier (@juliangarnier)
+- [[Micro-interactions on Onboarding Design - @andreamontini]] — Andrea Montini (@andreamontini)
+- [[Dark vs Light Mode Comparison - @karaan_dev]] — Karan (@karaan_dev)
+- [[Design to Dev in One Week - @dawoodui]] — Dawood (@dawoodui)
+- [[Clear Design Removes Explanation Need - @pankajstwt]] — Pankaj (@pankajstwt)
+- [[Design Post - @basit_designs]] — @basit_designs
+- [[Justin Farrugia Maybe Finance Portfolio Work - @justinmfarrugia]] — Justin Farrugia (@justinmfarrugia)
+- [[Design Engineers Are Hot Right Now - @kvncnls]] — Kevin ⨀ (@kvncnls)
+- [[Bloom iOS-Style Pull-Down Menu Component - @joshpuckett]] — joshpuckett (@joshpuckett)
+- [[Task List Animation Flow - @tanjim38]] — Tanjim | SaaS Product Designer (@tanjim38)
+- [[Input Fields That React to Intent - @bossadizenith]] — zenith (@bossadizenith)
+- [[detail.design - Thoughtful Design Details Collection - @adhamdannaway]] — Adham Dannaway (@adhamdannaway)
+- [[Share Modal UI Design]] — Maxim Kuznetsov (@disarto_max)
+- [[Lovable Chat UI Redesign State Reduction]] — niklas (@nklsmhs)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -268,9 +288,15 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Landing Page Showcase App Prompt for V Computer]] — Vibecoding Explained (@learn2vibe)
 - [[GLM-4-Flash on M4 Pro Mac Minis with Exolabs - @alexocheema]] — Alex Cheema (@alexocheema)
 - [[Reaction Tweet - @frankdegods]] — Frank (@frankdegods)
+- [[Ingredients of a $100M ARR Product]] — Ray (@rincidium)
+- [[Romanticize Your Ambitions]] — ₕₐₘₚₜₒₙ (@hamptonism)
+- [[LinkedIn Competitor Follower Outreach System - @dimitarangg]] — Dimitar Angelov (@dimitarangg)
+- [[Marathon UK Influence Concept Art - @jckhlry]] — JACK (@jckhlry)
+- [[Anthropic 10-Step Prompt Structure Guide]] — AI Edge (@aiedge_)
+- [[Claude 4.5 Cowork SEO Prompts]] — Sarvesh Shrivastava (@bloggersarvesh)
 ## Stats
 
-- **Total tweets:** 677
+- **Total tweets:** 718
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -407,6 +433,17 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Tasks Replace Todos - Thariq Announcement]] — Thariq (@trq212)
 - [[Persona Skills for Multi-Stakeholder Feature Evaluation]] — Giuseppe `N3mes1s` (@n3mes1s)
 - [[Claude Code Hidden Swarms Feature - Delegation Mode with Parallel Specialists]] — Mike Kelly (@nicerinperson)
+- [[Async Hooks Enable Parallel Agent Processes]] — Daniel San (@dani_avila7)
+- [[Autonomous Revenue Growth with Agent SDK and MCPs]] — Sam Hogan 🇺🇸 (@samhogan)
+- [[Karpathy Guidelines for Coding Agents - @jiayuan_jy]] — Jiayuan (JY) Zhang (@jiayuan_jy)
+- [[Kimi K2.5 on Ollama Cloud - @ollama]] — ollama (@ollama)
+- [[Firecrawl CLI for Agentic Web Access - @firecrawl]] — Firecrawl (@firecrawl)
+- [[Remotion Skills Integration Update - @remotion]] — Remotion (@remotion)
+- [[Recursive Deep Research Prompt Template - @zxytim]] — Xinyu Zhou (@zxytim)
+- [[Beautiful Mermaid Diagram Renderer]] — Balint Orosz (@balintorosz)
+- [[Three-Layer Memory System for Clawdbot]] — pixel (@spacepixel)
+- [[Remotion Agent Skills HeyGen Integration]] — Remotion (@remotion)
+- [[Beautiful Mermaid Agent Skill for SVG-PNG Export]] — Eleanor Berger (@intellectronica)
 
 ## Developer Tools & Code Intelligence
 
@@ -446,6 +483,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code System Prompts Accessible via CC Mirror Fork]] — Numman Ali (@nummanali)
 - [[Claude Code Task Primitives and Session Persistence Guide]] — Eric Buess (@ericbuess)
 - [[Turn Claude Code Into Claude Teacher with FOR[name].md]] — Zara Zhang (@zarazhangrui)
+- [[Claude Fresh Eyes Code Review Prompt]] — Jeffrey Emanuel (@doodlestein)
+- [[Skills.sh Marketing Prompt Quality]] — David Attias (@david_attisaas)
+- [[Claude Code Custom Keybindings - @bcherny]] — Boris Cherny (@bcherny)
+- [[React2AWS Infrastructure as React Components]] — kanav (@kanavtwt)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

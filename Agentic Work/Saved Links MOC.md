@@ -205,6 +205,46 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Kernel.sh Browser Pools for Pre-Configured Browser Automation]] — Kernel.sh
 - [[Turn Claude Code Into Claude Teacher with FOR[name].md]] — Zara Zhang (@zarazhangrui)
 - [[Claude Code Hidden Swarms Feature - Delegation Mode with Parallel Specialists]] — Mike Kelly (@nicerinperson)
+- [[Claude Fresh Eyes Code Review Prompt]] — Jeffrey Emanuel (@doodlestein)
+- [[Async Hooks Enable Parallel Agent Processes]] — Daniel San (@dani_avila7)
+- [[Single Prompt Design Generation]] — Alfi | Design for Startups (@alfifromtoasty)
+- [[Marketing Skills for AI Agents]] — Corey Haines
+- [[last30days-skill Multi-Platform Research Agent]] — mvanhorn
+- [[Autonomous Revenue Growth with Agent SDK and MCPs]] — Sam Hogan 🇺🇸 (@samhogan)
+- [[Animated Landing Page Design Showcase]] — Asaad Mahmood - The Small Square (@asaadmahmood5)
+- [[Single Animation Elevates Landing Page - @marcelkargul]] — Marcel (@marcelkargul)
+- [[Landing Page Design Joy - @galshirart]] — Gal Shir (@galshirart)
+- [[Anime.js v4.3 Auto Layout Feature - @juliangarnier]] — Julian Garnier (@juliangarnier)
+- [[Micro-interactions on Onboarding Design - @andreamontini]] — Andrea Montini (@andreamontini)
+- [[Dark vs Light Mode Comparison - @karaan_dev]] — Karan (@karaan_dev)
+- [[Design to Dev in One Week - @dawoodui]] — Dawood (@dawoodui)
+- [[Clear Design Removes Explanation Need - @pankajstwt]] — Pankaj (@pankajstwt)
+- [[Karpathy Guidelines for Coding Agents - @jiayuan_jy]] — Jiayuan (JY) Zhang (@jiayuan_jy)
+- [[Justin Farrugia Maybe Finance Portfolio Work - @justinmfarrugia]] — Justin Farrugia (@justinmfarrugia)
+- [[Aceternity Tooltip Card Component - Mouse-Tracking Hover Card]] — Aceternity
+- [[Claude Code Custom Keybindings - @bcherny]] — Boris Cherny (@bcherny)
+- [[Kimi K2.5 on Ollama Cloud - @ollama]] — ollama (@ollama)
+- [[Firecrawl CLI for Agentic Web Access - @firecrawl]] — Firecrawl (@firecrawl)
+- [[Remotion Skills Integration Update - @remotion]] — Remotion (@remotion)
+- [[Recursive Deep Research Prompt Template - @zxytim]] — Xinyu Zhou (@zxytim)
+- [[Design Engineers Are Hot Right Now - @kvncnls]] — Kevin ⨀ (@kvncnls)
+- [[Bloom iOS-Style Pull-Down Menu Component - @joshpuckett]] — joshpuckett (@joshpuckett)
+- [[Task List Animation Flow - @tanjim38]] — Tanjim | SaaS Product Designer (@tanjim38)
+- [[Input Fields That React to Intent - @bossadizenith]] — zenith (@bossadizenith)
+- [[antfu/skills - Anthony Fu Agent Skills Collection]] — Anthony Fu (antfu)
+- [[detail.design - Thoughtful Design Details Collection - @adhamdannaway]] — Adham Dannaway (@adhamdannaway)
+- [[SEO Audit Agent Skill - coreyhaines31]] — coreyhaines31/marketingskills
+- [[Interruptible Animation Pattern - detail.design]] — Rene Wang (@renedotwang)
+- [[Animated Action Button Pattern - detail.design]] — Rene Wang (@renedotwang)
+- [[Morphing Button to Input Pattern - detail.design]] — Rene Wang (@renedotwang) via Nitish Kumar (@nitishkmrk)
+- [[Share Modal UI Design]] — Maxim Kuznetsov (@disarto_max)
+- [[Beautiful Mermaid Diagram Renderer]] — Balint Orosz (@balintorosz)
+- [[Three-Layer Memory System for Clawdbot]] — pixel (@spacepixel)
+- [[Anthropic 10-Step Prompt Structure Guide]] — AI Edge (@aiedge_)
+- [[React2AWS Infrastructure as React Components]] — kanav (@kanavtwt)
+- [[Lovable Chat UI Redesign State Reduction]] — niklas (@nklsmhs)
+- [[Remotion Agent Skills HeyGen Integration]] — Remotion (@remotion)
+- [[Beautiful Mermaid Agent Skill for SVG-PNG Export]] — Eleanor Berger (@intellectronica)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -379,7 +419,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 754
+- **Total notes:** 803
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -486,6 +526,15 @@ See [[Twitter Posts MOC]] for full index.
 - [[Praha Isometric Design Portfolio Showcase]] — Praha (@praha37v)
 - [[Claude Code Tasks Replace Todos - Thariq Announcement]] — Thariq (@trq212)
 - [[Robot.co Task Panel Playground]] — Robot.co
+- [[Ingredients of a $100M ARR Product]] — Ray (@rincidium)
+- [[Skills.sh Marketing Prompt Quality]] — David Attias (@david_attisaas)
+- [[Romanticize Your Ambitions]] — ₕₐₘₚₜₒₙ (@hamptonism)
+- [[High Converting Email Sequence Structure - @boringmarketer]] — The Boring Marketer (@boringmarketer)
+- [[Google and AI Search Traffic Growth - @alexgroberman]] — Alex Groberman (@alexgroberman)
+- [[LinkedIn Competitor Follower Outreach System - @dimitarangg]] — Dimitar Angelov (@dimitarangg)
+- [[Design Post - @basit_designs]] — @basit_designs
+- [[Marathon UK Influence Concept Art - @jckhlry]] — JACK (@jckhlry)
+- [[Claude 4.5 Cowork SEO Prompts]] — Sarvesh Shrivastava (@bloggersarvesh)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
