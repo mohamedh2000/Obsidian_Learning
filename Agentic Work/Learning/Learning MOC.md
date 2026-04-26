@@ -692,3 +692,12 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Claude Code Elegant Redesign Prompt]] — denizen (@dennizor)
 - [[Official Excalidraw MCP Launch]] — Excalidraw (@excalidraw)
 - [[Claude Code SEO Automation Playbook]] — Cody Schneider (@codyschneiderxx)
+- [[Agent-Browser Vercel Sandbox Skill - @ctatedev]] — Chris Tate (@ctatedev)
+- [[Portless v0.6 Custom TLDs and Name Flags - @ctatedev]] — Chris Tate (@ctatedev)
+- [[OpenRAG - Local RAG Platform]] — @githubprojects
+- [[A2UI - Design-to-Code Automation]] — @githubprojects (Google Research)
+- [[Vercel Conversation Minimap UI - @raunofreiberg]] — rauno (@raunofreiberg)
+- [[JSON-Render with Vercel AI SDK - @ctatedev]] — Chris Tate (@ctatedev)
+- [[Agent-Browser DevTools Inspect Command - @ctatedev]] — Chris Tate (@ctatedev)
+- [[GitNexus Knowledge Graph for AI Agents]] — Oliver Prompts (@oliviscusai)
+- [[OpenViking Context Database for AI Agents]] — Simplifying AI (@simplifyinai)

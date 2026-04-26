@@ -250,6 +250,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GSAP WebGL Interactive Web Experience Tutorial on Codrops]] — chakib (@highpfloat)
 - [[Why AI/SaaS/Crypto Brands Use Motion Design - You Can't Film a Dashboard]] — Filippo Carnevale (@filippo_mp4)
 - [[Favorite Design Screens Showcase]] — Emir Ayaz (@emirayaaz)
+- [[Vercel Conversation Minimap UI - @raunofreiberg]] — rauno (@raunofreiberg)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -327,7 +328,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
 ## Stats
 
-- **Total tweets:** 806
+- **Total tweets:** 813
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -500,6 +501,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agent Role Cards for Scoped Responsibilities - @voxyz_ai]] — Vox (@voxyz_ai)
 - [[Destructive Command Guard for AI Agents - @bobjordanjr]] — Bob Jordan (@bobjordanjr)
 - [[Handover Command for Session Continuity - @zarazhangrui]] — Zara Zhang (@zarazhangrui)
+- [[Agent-Browser Vercel Sandbox Skill - @ctatedev]] — Chris Tate (@ctatedev)
+- [[JSON-Render with Vercel AI SDK - @ctatedev]] — Chris Tate (@ctatedev)
+- [[Agent-Browser DevTools Inspect Command - @ctatedev]] — Chris Tate (@ctatedev)
+- [[GitNexus Knowledge Graph for AI Agents]] — Oliver Prompts (@oliviscusai)
+- [[OpenViking Context Database for AI Agents]] — Simplifying AI (@simplifyinai)
 
 ## Developer Tools & Code Intelligence
 
@@ -574,6 +580,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Elegant Redesign Prompt]] — denizen (@dennizor)
 - [[Official Excalidraw MCP Launch]] — Excalidraw (@excalidraw)
 - [[Claude Code SEO Automation Playbook]] — Cody Schneider (@codyschneiderxx)
+- [[Portless v0.6 Custom TLDs and Name Flags - @ctatedev]] — Chris Tate (@ctatedev)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

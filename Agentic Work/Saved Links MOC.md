@@ -305,6 +305,15 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Claude Code Elegant Redesign Prompt]] — denizen (@dennizor)
 - [[Official Excalidraw MCP Launch]] — Excalidraw (@excalidraw)
 - [[Claude Code SEO Automation Playbook]] — Cody Schneider (@codyschneiderxx)
+- [[Agent-Browser Vercel Sandbox Skill - @ctatedev]] — Chris Tate (@ctatedev)
+- [[Portless v0.6 Custom TLDs and Name Flags - @ctatedev]] — Chris Tate (@ctatedev)
+- [[OpenRAG - Local RAG Platform]] — @githubprojects
+- [[A2UI - Design-to-Code Automation]] — @githubprojects (Google Research)
+- [[Vercel Conversation Minimap UI - @raunofreiberg]] — rauno (@raunofreiberg)
+- [[JSON-Render with Vercel AI SDK - @ctatedev]] — Chris Tate (@ctatedev)
+- [[Agent-Browser DevTools Inspect Command - @ctatedev]] — Chris Tate (@ctatedev)
+- [[GitNexus Knowledge Graph for AI Agents]] — Oliver Prompts (@oliviscusai)
+- [[OpenViking Context Database for AI Agents]] — Simplifying AI (@simplifyinai)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -479,7 +488,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 902
+- **Total notes:** 914
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -634,6 +643,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Google Surveillance Orwellian Critique]] — pat.berlinquette (@pat.berlinquette)
 - [[Grok Chat Share]] — Grok (X/Twitter AI)
 - [[Conner O'Malley Outside Space and Time]] — itysldaily (@itysldaily)
+- [[Lin Pesto - Sadece Sevilmek İstedim]] — Lin Pesto
+- [[A$AP Rocky - ROBBERY (feat. Doechii)]] — A$AP Rocky, Doechii
+- [[OpenAI Symphony Autonomous Implementation Runs]] — OpenAI
 
 ## Recovered 2026-03-26 — 2026-04-14
 
