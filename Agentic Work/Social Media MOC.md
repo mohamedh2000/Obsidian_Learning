@@ -39,3 +39,6 @@ Instagram reels and other social media content saved from iMessage.
 - [[Dubai Smart Palm Solar Desalination Grid]] — _.t4haa (@_.t4haa)
 - [[Tatsuyuki Tanaka Cannabis Anime Artist]] — finalformlab (@finalformlab)
 - [[Instagram Contact Invite Link - 2022-07-02]] — Instagram (@instagram)
+- [[The Shield Greatest TV Series Tribute]] — matt_reels (@matt_reels)
+- [[Google Surveillance Orwellian Critique]] — pat.berlinquette (@pat.berlinquette)
+- [[Conner O'Malley Outside Space and Time]] — itysldaily (@itysldaily)

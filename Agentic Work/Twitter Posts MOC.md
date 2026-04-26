@@ -186,6 +186,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[39 Launch Directories for Product Launches]] — Kalash (@kalashbuilds)
 - [[Viral Video $15K MRR Case Study]] — Pierre-Eliott Lallemant (@pierreeliottlal)
 - [[Startup Marketing Playbook - 7 Channels That Actually Work]] — Om Patel (@om_patel5)
+- [[2026 Startup Distribution Checklist]] — Ziwen (@ziwenxu_)
+- [[Reddit DMs Convert 10x Better - Lead Generation Strategy]] — Om Patel (@om_patel5)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -247,6 +249,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Making Complexity Feel Simple - Motion Design Philosophy]] — litch (@litch_motion)
 - [[GSAP WebGL Interactive Web Experience Tutorial on Codrops]] — chakib (@highpfloat)
 - [[Why AI/SaaS/Crypto Brands Use Motion Design - You Can't Film a Dashboard]] — Filippo Carnevale (@filippo_mp4)
+- [[Favorite Design Screens Showcase]] — Emir Ayaz (@emirayaaz)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -316,9 +319,15 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Ruthless App Requirements Interrogator - Zero Assumptions Prompt]] — klöss (@kloss_xyz)
 - [[Epstein Email Reveals 2015 Pandemic Preparation Discussions]] — Invisidon (@quantumalteredx)
 - [[Billionaire Comment Reaction - What an Inconspicuous Thing to Say]] — Jarv (@on_thebounce)
+- [[Dead Tweet - @kubadesign]] — (@kubadesign)
+- [[Dead Tweet - @aidenhunterx]] — (@aidenhunterx)
+- [[Programmatic SEO Playbook - @kalashbuilds]] — Kalash (@kalashvasaniya)
+- [[Tweet Unavailable - @xbenjamminx]] — Unknown (@xbenjamminx)
+- [[WebMCP Chrome 146 Early Preview]] — Maximiliano Firtman (@firt)
+- [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
 ## Stats
 
-- **Total tweets:** 764
+- **Total tweets:** 806
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -347,6 +356,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Stanford CS336: Language Modeling from Scratch]] — Tech with Mak (@technmak)
 - [[Kimi 2.5 iOS 26 Glass Effect One-Shot]] — Legendary (@legendaryy)
 - [[Kimi K2 Outperforms Gemini 2.5 Flash for Non-Code Applications]] — Theo - t3.gg (@theo)
+- [[Recursive Language Models Next Big Thing - @deryatr_]] — Derya Unutmaz, MD (@deryatr_)
 
 ## AI Agents
 
@@ -480,6 +490,16 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tool UI React Framework for Conversation-Native UIs]] — Tw93 (@hitw93)
 - [[Claude Code Orchestration Workflow Tutorial]] — cogsec (@affaanmustafa)
 - [[Agent SEO/AEO Optimization - Making Your Site Agent-Readable]] — Michael (@michael_chomsky)
+- [[llms.txt for AI-Friendly Sites]] — ty (@tjcages)
+- [[Claude Startup Program Open for Applications]] — aditya (@adxtyahq)
+- [[AI Product Strategist Prompt Template]] — kloss (@kloss_xyz)
+- [[Claude SEO Brief Prompt Replaces Ahrefs]] — Jainam Parmar (@aiwithjainam)
+- [[Sandboxes and Snapshots Future Dev Platform]] — can (@can)
+- [[Nested CLAUDE.md Context Architecture]] — Raul Junco (@rauljuncov)
+- [[Chief CLI Task Runner for Claude Code - @mathiashansen]] — Mathias Hansen (@mathiashansen)
+- [[Agent Role Cards for Scoped Responsibilities - @voxyz_ai]] — Vox (@voxyz_ai)
+- [[Destructive Command Guard for AI Agents - @bobjordanjr]] — Bob Jordan (@bobjordanjr)
+- [[Handover Command for Session Continuity - @zarazhangrui]] — Zara Zhang (@zarazhangrui)
 
 ## Developer Tools & Code Intelligence
 
@@ -532,6 +552,28 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude.md Routing Table Best Practice]] — Alex Hillman (@alexhillman)
 - [[Variant UI Import Site Feature for Design Direction]] — Ty Hughey (@tycreated)
 - [[Maestro Automated UI Testing for Twitch]] — Maestro (@maestro__dev)
+- [[Claude Code Session Sharing Now Available]] — Lydia Hallie (@lydiahallie)
+- [[Claude VS Code Extension Browser Connection]] — Thariq (@trq212)
+- [[Claude Code /insights Command for Workflow Analysis]] — Thariq (@trq212)
+- [[SuperDesign Skill AI Designer for Codebase]] — Shawn Yang (@sanyuan0704)
+- [[AI Dev Pace New Normal February 2026]] — brandon (@burcs)
+- [[Vercel AI Accelerator 6M Credits]] — shirish (@shiri_shh)
+- [[CLAUDE.md Must-Have Rules]] — Antoine v.d. SwiftLee (@twannl)
+- [[Vibe Coding Prompt for Opus 4.6 - @morganlinton]] — Miles Deutscher (@milesdeutscher)
+- [[Mobile Vibe Coding Setup with tmux and Tailscale - @chongdashu]] — Chong-U (@chongdashu)
+- [[Claude Hooks with Game Sound Alerts - @delba_oliveira]] — Delba (@delba_oliveira)
+- [[Solo Desktop App Launch - @elithrar]] — Matt Silverlock (@elithrar)
+- [[X Research with Grok - @frankdegods]] — Frank (@frankdegods)
+- [[llms.txt More Important Than sitemap.xml - @kalashbuilds]] — Kalash (@kalashbuilds)
+- [[tmux Mouse Scrolling Fix for Claude Code - @chongdashu]] — Chong-U (@chongdashu)
+- [[Claude Models Never Nerfed Feedback Flow - @trq212]] — Thariq (@trq212)
+- [[Vercel 50K Bill Warning VPS Alternative - @rameerez]] — Javi (@rameerez)
+- [[VPS Migration Story Vercel Overpriced 10-100x - @rameerez]] — Javi (@rameerez)
+- [[Hetzner 5 Dollar VPS Handles Everything - @seloesque]] — SELO (@seloesque)
+- [[Cloudflare Caching VPS Unlimited Bandwidth - @thethiny]] — thethiny (@thethiny)
+- [[Claude Code Elegant Redesign Prompt]] — denizen (@dennizor)
+- [[Official Excalidraw MCP Launch]] — Excalidraw (@excalidraw)
+- [[Claude Code SEO Automation Playbook]] — Cody Schneider (@codyschneiderxx)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

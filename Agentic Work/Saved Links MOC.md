@@ -281,6 +281,30 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Ruthless App Requirements Interrogator - Zero Assumptions Prompt]] — klöss (@kloss_xyz)
 - [[Kimi K2 Outperforms Gemini 2.5 Flash for Non-Code Applications]] — Theo - t3.gg (@theo)
 - [[Agent SEO/AEO Optimization - Making Your Site Agent-Readable]] — Michael (@michael_chomsky)
+- [[Improved Agent Experience with llms.txt and Content Negotiation]] — Peri Langlois (@mintlify)
+- [[Claude Code Session Sharing Now Available]] — Lydia Hallie (@lydiahallie)
+- [[Claude VS Code Extension Browser Connection]] — Thariq (@trq212)
+- [[llms.txt for AI-Friendly Sites]] — ty (@tjcages)
+- [[AI Product Strategist Prompt Template]] — kloss (@kloss_xyz)
+- [[Claude Code /insights Command for Workflow Analysis]] — Thariq (@trq212)
+- [[SuperDesign Skill AI Designer for Codebase]] — Shawn Yang (@sanyuan0704)
+- [[Claude Code Agent Teams Documentation]] — Anthropic Claude Code Docs
+- [[Sandboxes and Snapshots Future Dev Platform]] — can (@can)
+- [[Nested CLAUDE.md Context Architecture]] — Raul Junco (@rauljuncov)
+- [[Mobile Vibe Coding Setup with tmux and Tailscale - @chongdashu]] — Chong-U (@chongdashu)
+- [[Claude Hooks with Game Sound Alerts - @delba_oliveira]] — Delba (@delba_oliveira)
+- [[Solo Desktop App Launch - @elithrar]] — Matt Silverlock (@elithrar)
+- [[Chief CLI Task Runner for Claude Code - @mathiashansen]] — Mathias Hansen (@mathiashansen)
+- [[Agent Role Cards for Scoped Responsibilities - @voxyz_ai]] — Vox (@voxyz_ai)
+- [[tmux Mouse Scrolling Fix for Claude Code - @chongdashu]] — Chong-U (@chongdashu)
+- [[Destructive Command Guard for AI Agents - @bobjordanjr]] — Bob Jordan (@bobjordanjr)
+- [[Handover Command for Session Continuity - @zarazhangrui]] — Zara Zhang (@zarazhangrui)
+- [[Recursive Language Models Next Big Thing - @deryatr_]] — Derya Unutmaz, MD (@deryatr_)
+- [[jgraph-drawio-mcp - Draw.io MCP Server for AI Diagram Generation]] — jgraph
+- [[WebMCP Chrome 146 Early Preview]] — Maximiliano Firtman (@firt)
+- [[Claude Code Elegant Redesign Prompt]] — denizen (@dennizor)
+- [[Official Excalidraw MCP Launch]] — Excalidraw (@excalidraw)
+- [[Claude Code SEO Automation Playbook]] — Cody Schneider (@codyschneiderxx)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -455,7 +479,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 853
+- **Total notes:** 902
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -585,6 +609,31 @@ See [[Twitter Posts MOC]] for full index.
 - [[Startup Marketing Playbook - 7 Channels That Actually Work]] — Om Patel (@om_patel5)
 - [[Epstein Email Reveals 2015 Pandemic Preparation Discussions]] — Invisidon (@quantumalteredx)
 - [[Billionaire Comment Reaction - What an Inconspicuous Thing to Say]] — Jarv (@on_thebounce)
+- [[2026 Startup Distribution Checklist]] — Ziwen (@ziwenxu_)
+- [[Claude Startup Program Open for Applications]] — aditya (@adxtyahq)
+- [[Favorite Design Screens Showcase]] — Emir Ayaz (@emirayaaz)
+- [[Reddit DMs Convert 10x Better - Lead Generation Strategy]] — Om Patel (@om_patel5)
+- [[Claude SEO Brief Prompt Replaces Ahrefs]] — Jainam Parmar (@aiwithjainam)
+- [[AI Dev Pace New Normal February 2026]] — brandon (@burcs)
+- [[Dead Tweet - @kubadesign]] — (@kubadesign)
+- [[Vercel AI Accelerator 6M Credits]] — shirish (@shiri_shh)
+- [[CLAUDE.md Must-Have Rules]] — Antoine v.d. SwiftLee (@twannl)
+- [[Dead Tweet - @aidenhunterx]] — (@aidenhunterx)
+- [[Programmatic SEO Playbook - @kalashbuilds]] — Kalash (@kalashvasaniya)
+- [[Vibe Coding Prompt for Opus 4.6 - @morganlinton]] — Miles Deutscher (@milesdeutscher)
+- [[X Research with Grok - @frankdegods]] — Frank (@frankdegods)
+- [[llms.txt More Important Than sitemap.xml - @kalashbuilds]] — Kalash (@kalashbuilds)
+- [[Tweet Unavailable - @xbenjamminx]] — Unknown (@xbenjamminx)
+- [[Claude Models Never Nerfed Feedback Flow - @trq212]] — Thariq (@trq212)
+- [[Vercel 50K Bill Warning VPS Alternative - @rameerez]] — Javi (@rameerez)
+- [[VPS Migration Story Vercel Overpriced 10-100x - @rameerez]] — Javi (@rameerez)
+- [[Hetzner 5 Dollar VPS Handles Everything - @seloesque]] — SELO (@seloesque)
+- [[Cloudflare Caching VPS Unlimited Bandwidth - @thethiny]] — thethiny (@thethiny)
+- [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
+- [[The Shield Greatest TV Series Tribute]] — matt_reels (@matt_reels)
+- [[Google Surveillance Orwellian Critique]] — pat.berlinquette (@pat.berlinquette)
+- [[Grok Chat Share]] — Grok (X/Twitter AI)
+- [[Conner O'Malley Outside Space and Time]] — itysldaily (@itysldaily)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
