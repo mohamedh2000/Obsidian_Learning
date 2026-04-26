@@ -126,6 +126,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[The Ultimate Hermes Guide - Multi-Agent Team Architecture]] — Nyk (@nyk_builderz)
 - [[Alpha Eval - Agents Making Evals as a Multi-Player Game]] — Viv (@vtrivedy10)
 - [[Skill Graph Content Engine - AI Agent for Multi-Platform Content]] — Ronin (@DeRonin_)
+- [[Learn Harness Engineering Course - walkinglabs]] — Walking Labs (@walkinglabs)
+- [[10 GitHub Repos for AI Engineer Jobs - @heynavtoor]] — Nav Toor (@heynavtoor)
+- [[Claude Code Setup Plugin - @nicos_ai]] — Nico (@nicos_ai)
+- [[Recursive Language Models MIT Explained - @_avichawla]] — Avi Chawla (@_avichawla)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -300,7 +304,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 644
+- **Total notes:** 648
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

@@ -513,3 +513,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[The Ultimate Hermes Guide - Multi-Agent Team Architecture]] — Nyk (@nyk_builderz)
 - [[Alpha Eval - Agents Making Evals as a Multi-Player Game]] — Viv (@vtrivedy10)
 - [[Skill Graph Content Engine - AI Agent for Multi-Platform Content]] — Ronin (@DeRonin_)
+- [[Learn Harness Engineering Course - walkinglabs]] — Walking Labs (@walkinglabs)
+- [[10 GitHub Repos for AI Engineer Jobs - @heynavtoor]] — Nav Toor (@heynavtoor)
+- [[Claude Code Setup Plugin - @nicos_ai]] — Nico (@nicos_ai)
+- [[Recursive Language Models MIT Explained - @_avichawla]] — Avi Chawla (@_avichawla)

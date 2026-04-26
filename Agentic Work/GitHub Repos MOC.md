@@ -36,6 +36,7 @@ GitHub repositories saved from iMessage.
 - [[pi-autoresearch]] — Dave BCN (@davebcn87)
 - [[pi-autoresearch - Autonomous Experiment Loop for pi]] — GitHub (davebcn87)
 - [[All Agentic Architectures - 17+ State-of-the-Art Patterns]] — FareedKhan-dev
+- [[Learn Harness Engineering Course - walkinglabs]] — Walking Labs (@walkinglabs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
