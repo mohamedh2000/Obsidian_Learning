@@ -511,3 +511,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
 - [[Hermes Agent Evolutions - 5 New Plugins]] — GitTrend (@gittrend0x)
 - [[The Ultimate Hermes Guide - Multi-Agent Team Architecture]] — Nyk (@nyk_builderz)
+- [[Alpha Eval - Agents Making Evals as a Multi-Player Game]] — Viv (@vtrivedy10)
+- [[Skill Graph Content Engine - AI Agent for Multi-Platform Content]] — Ronin (@DeRonin_)
