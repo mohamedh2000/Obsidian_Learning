@@ -178,6 +178,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 
 
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (592 likes)
+- [[Options Strategy Education Page - @unusual_whales]] — unusual_whales (@unusual_whales)
+- [[Mercor $350M Series C at $10B Valuation - @brendanfoody]] — Brendan (can/do) (@brendanfoody)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -188,6 +190,18 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 
 - [[Introducing the New Google Stitch - @GoogleLabs]] — Product launch for Google's redesigned Stitch experience: prompt-to-UI generation, smart design agents, and code... (16,217 likes)
 - [[Vibe Design Is Here with Stitch - @venturetwins]] — Early-access demo arguing Stitch feels like pairing with a professional designer from prompt through clickable... (485 likes)
+- [[Icons Animated Multi-Library Collection]] — LN (@ln_dev7)
+- [[Subscription Calendar UI Design]] — Maxim Kuznetsov (@disarto_max)
+- [[Design Spells UI Animation Collection - @abmankendrick]] — Abraham John (@abmankendrick)
+- [[Morphing Button Interaction - @nitishkmrk]] — Nitish Khagwal (@nitishkmrk)
+- [[This One Is For You shadcn - @pontusab]] — Pontus Abrahamsson (@pontusab)
+- [[UI Design Resources Collection 60fps Divs Efecto Raydian - @creativestefan]] — Stefan (@creativestefan)
+- [[Design Spells - Design Detail Inspiration Resource]] — Beka (@designedbybeka)
+- [[CSS Animation Playground - @vojnvk]] — voj (@vojnvk)
+- [[Sneak Peek Product Teaser - @bekacru]] — Beka (@bekacru)
+- [[Clean UI Showcase - @ahtasham_design]] — Ahtasham (@ahtasham_design)
+- [[3D Product Card Design - @Kanishk3D]] — Best Designs On ✧ (@bestdesignsonx)
+- [[Oblivion UI Concept - @intrfacer]] — Ayda Oz (@aydaoz)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -234,9 +248,14 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Problem Solved - @0xsero]] — 0xSero (@0xsero)
 - [[Anthropic Applied AI Team - How to Prompt Claude Properly]] — 0xMarioNawfal (@roundtablespace)
 - [[$47K/Month AI Business in Local Service Industries]] — Zephyr (@zephyr_hg)
+- [[25 Tech Roles No Degree Required - @teneikaask_you]] — Teneika Askew | Analytics & Automation (@teneikaask_you)
+- [[Federal Direct Hire Tech Opportunities - @teneikaask_you]] — Teneika Askew | Analytics & Automation (@teneikaask_you)
+- [[Auditor Life Security Audit Game]] — BradMoon (@xy9301)
+- [[AEO and GEO - AI Visibility SEO Strategy]] — Kalash (@kalashbuilds)
+- [[Landing Page Showcase App Prompt for V Computer]] — Vibecoding Explained (@learn2vibe)
 ## Stats
 
-- **Total tweets:** 604
+- **Total tweets:** 636
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -352,6 +371,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Setup Plugin - @nicos_ai]] — Nico (@nicos_ai)
 - [[DeepSeek V4 Coding Agents Launch]] — Together AI (@togethercompute)
 - [[Meta-Harness Framework Open Source]] — AlphaSignal AI (@alphasignalai)
+- [[AI Stock Market Agent Real-Time Analysis - @ehuanglu]] — el.cine (@ehuanglu)
+- [[Planning With Files Manus Pattern - @mysticaltech]] — The Canaanite (@mysticaltech)
+- [[Holy Trinity of Agentic UI Resources]] — Cole (@colderoshay)
+- [[Claude Code Continuous Learning Skill - @blader]] — Siqi Chen (@blader)
+- [[One Person $1B Team in 2026 - @mattprd]] — Matt Schlicht (@mattprd)
+- [[Design Plugin with 5 Variations and Element Feedback - @0xdesigner]] — 0xDesigner (@0xdesigner)
+- [[Contains Studio 40+ Specialized AI Agents - @oliviscusai]] — Oliver Prompts (@oliviscusai)
 
 ## Developer Tools & Code Intelligence
 
@@ -373,6 +399,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Teknium Useful Tool Mention - @teknium]] — Teknium 🪽 (@teknium)
 - [[Claude Code Ultrareview Fleet Bug Hunting]] — Twitter/@claudedevs
 - [[macOS Native App UI Redesign SSH Support]] — 老鬼 (@laogui)
+- [[Claude Code Content Curation Thread]] — Miles Deutscher (@milesdeutscher)
+- [[1Code Open Source Cursor-Like UI for Claude Code]] — serafim (@serafimcloud)
+- [[Shoogle.dev Unified Component Library Search - @melvynxdev]] — Melvyn (@melvynxdev)
+- [[Hatch.sh Unified Product Development Desktop App - @serrrfirat]] — Firat Sertgoz (@serrrfirat)
+- [[Database Research UI Concept - @insank18]] — Insan (@insank18)
+- [[Cleo Dev - AI-First Web Development Tool]] — Houssein Djirdeh (@hdjirdeh)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

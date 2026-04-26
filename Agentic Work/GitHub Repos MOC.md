@@ -37,6 +37,10 @@ GitHub repositories saved from iMessage.
 - [[pi-autoresearch - Autonomous Experiment Loop for pi]] — GitHub (davebcn87)
 - [[All Agentic Architectures - 17+ State-of-the-Art Patterns]] — FareedKhan-dev
 - [[Learn Harness Engineering Course - walkinglabs]] — Walking Labs (@walkinglabs)
+- [[Awesome Bitcoin - igorbarinov GitHub]] — Igor Barinov (@igorbarinov)
+- [[snarktank/ralph — Autonomous AI Coding Loop]] — snarktank (github.com)
+- [[Ralph Orchestrator Hat-Based Agent Framework]] — mikeyobrien
+- [[VibeMux Multi-Agent Terminal Orchestrator]] — UgOrange
 
 ## Recovered 2026-03-26 — 2026-04-14
 

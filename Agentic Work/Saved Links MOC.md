@@ -135,6 +135,32 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[RLM GPT-5.2 Performance Boost via Prompting]] — alex zhang (@a1zhang)
 - [[Stanford CS336: Language Modeling from Scratch]] — Tech with Mak (@technmak)
 - [[Meta-Harness Framework Open Source]] — AlphaSignal AI (@alphasignalai)
+- [[Awesome Bitcoin - igorbarinov GitHub]] — Igor Barinov (@igorbarinov)
+- [[Planning With Files Manus Pattern - @mysticaltech]] — The Canaanite (@mysticaltech)
+- [[snarktank/ralph — Autonomous AI Coding Loop]] — snarktank (github.com)
+- [[Ralph Orchestrator Hat-Based Agent Framework]] — mikeyobrien
+- [[VibeMux Multi-Agent Terminal Orchestrator]] — UgOrange
+- [[Icons Animated Multi-Library Collection]] — LN (@ln_dev7)
+- [[Subscription Calendar UI Design]] — Maxim Kuznetsov (@disarto_max)
+- [[Liquid Metal WebGL Button Component]] — VengeanceUI
+- [[Holy Trinity of Agentic UI Resources]] — Cole (@colderoshay)
+- [[Claude Code Continuous Learning Skill - @blader]] — Siqi Chen (@blader)
+- [[Design Spells UI Animation Collection - @abmankendrick]] — Abraham John (@abmankendrick)
+- [[Design Plugin with 5 Variations and Element Feedback - @0xdesigner]] — 0xDesigner (@0xdesigner)
+- [[Morphing Button Interaction - @nitishkmrk]] — Nitish Khagwal (@nitishkmrk)
+- [[Shoogle.dev Unified Component Library Search - @melvynxdev]] — Melvyn (@melvynxdev)
+- [[Contains Studio 40+ Specialized AI Agents - @oliviscusai]] — Oliver Prompts (@oliviscusai)
+- [[Hatch.sh Unified Product Development Desktop App - @serrrfirat]] — Firat Sertgoz (@serrrfirat)
+- [[UI Design Resources Collection 60fps Divs Efecto Raydian - @creativestefan]] — Stefan (@creativestefan)
+- [[Design Spells - Design Detail Inspiration Resource]] — Beka (@designedbybeka)
+- [[CSS Animation Playground - @vojnvk]] — voj (@vojnvk)
+- [[Sneak Peek Product Teaser - @bekacru]] — Beka (@bekacru)
+- [[Database Research UI Concept - @insank18]] — Insan (@insank18)
+- [[Clean UI Showcase - @ahtasham_design]] — Ahtasham (@ahtasham_design)
+- [[3D Product Card Design - @Kanishk3D]] — Best Designs On ✧ (@bestdesignsonx)
+- [[Oblivion UI Concept - @intrfacer]] — Ayda Oz (@aydaoz)
+- [[Cleo Dev - AI-First Web Development Tool]] — Houssein Djirdeh (@hdjirdeh)
+- [[Landing Page Showcase App Prompt for V Computer]] — Vibecoding Explained (@learn2vibe)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -309,7 +335,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 654
+- **Total notes:** 704
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -386,6 +412,30 @@ See [[Twitter Posts MOC]] for full index.
 - [[Hermes Agent v2026.4.23 Release - @nousresearch]] — Nous Research (@nousresearch)
 - [[Hermes Agent v0.11 Major Update - @juliangoldieseo]] — Julian Goldie SEO (@juliangoldieseo)
 - [[$47K/Month AI Business in Local Service Industries]] — Zephyr (@zephyr_hg)
+- [[25 Tech Roles No Degree Required - @teneikaask_you]] — Teneika Askew | Analytics & Automation (@teneikaask_you)
+- [[Instagram Contact Invite Link - 2022-07-02]] — Instagram (@instagram)
+- [[YouTube Short RRaQyzJAIM0 - 2023-04-24]] — YouTube (@youtube)
+- [[YouTube Short FhdRisuixVI - 2023-04-25]] — YouTube (@youtube)
+- [[YouTube Short PcGe9QNYxVM - 2023-04-25]] — YouTube (@youtube)
+- [[YouTube Short By9DqKAtg0Q - 2023-04-25]] — YouTube (@youtube)
+- [[YouTube Short _wAq4HMKgvg - 2023-04-30]] — YouTube (@youtube)
+- [[r/leetcode Post HjowrM4VKM - 2023-09-04]] — r/leetcode (@reddit)
+- [[Options Strategy Education Page - @unusual_whales]] — unusual_whales (@unusual_whales)
+- [[Federal Direct Hire Tech Opportunities - @teneikaask_you]] — Teneika Askew | Analytics & Automation (@teneikaask_you)
+- [[Pinecone Job Application - Ashby]] — Pinecone (jobs.ashbyhq.com)
+- [[Bilt Rewards Job Application - Gem]] — Bilt Rewards (jobs.gem.com)
+- [[Cadence Solutions Job Openings - Greenhouse]] — Cadence Solutions (job-boards.greenhouse.io)
+- [[Mercor $350M Series C at $10B Valuation - @brendanfoody]] — Brendan (can/do) (@brendanfoody)
+- [[YouTube Video - Zw4vuqyhoTw]] — YouTube (youtu.be)
+- [[Cheddar Flow Trading Basics Course]] — Cheddar Flow Academy (academy.cheddarflow.com)
+- [[AI Stock Market Agent Real-Time Analysis - @ehuanglu]] — el.cine (@ehuanglu)
+- [[Claude Code Content Curation Thread]] — Miles Deutscher (@milesdeutscher)
+- [[1Code Open Source Cursor-Like UI for Claude Code]] — serafim (@serafimcloud)
+- [[Auditor Life Security Audit Game]] — BradMoon (@xy9301)
+- [[YouTube Video SmYNK0kqaDI]] — YouTube
+- [[One Person $1B Team in 2026 - @mattprd]] — Matt Schlicht (@mattprd)
+- [[This One Is For You shadcn - @pontusab]] — Pontus Abrahamsson (@pontusab)
+- [[AEO and GEO - AI Visibility SEO Strategy]] — Kalash (@kalashbuilds)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
