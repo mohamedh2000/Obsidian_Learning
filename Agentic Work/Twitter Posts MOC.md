@@ -202,6 +202,19 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Clean UI Showcase - @ahtasham_design]] — Ahtasham (@ahtasham_design)
 - [[3D Product Card Design - @Kanishk3D]] — Best Designs On ✧ (@bestdesignsonx)
 - [[Oblivion UI Concept - @intrfacer]] — Ayda Oz (@aydaoz)
+- [[Team Section Design - @itspeterdesign]] — Peter Design (@itspeterdesign)
+- [[Bento Grid Animations - @marcelkargul]] — Marcel (@marcelkargul)
+- [[Motion Layout Prop for Multi-Step Buttons - @mannupaaji]] — Manu Arora (@mannupaaji)
+- [[Framer Animation Showcase - @ensaktas]] — Enes Aktas (@ensaktas)
+- [[Landing Page Micro-Interactions in Days - @jameslaurents]] — James Laurent (@jameslaurents)
+- [[Nucleo Icons Light Active State Design]] — Nucleo Icons (@nucleoicons)
+- [[Selia Open-Source React UI Library V1]] — Nauval (@mhdnauvalazhar)
+- [[Google Stitch Documentation]] — David East (@_davideast)
+- [[Go-To Sites for Design Inspiration]] — UI/UX Savior (@uisavior)
+- [[Locomotive Scroll 5 Now Built on Lenis]] — Locomotive® (@locomotivemtl)
+- [[AI Startup Card Animation in Pure Figma]] — Basit A. Khan (@basit_designs)
+- [[Praha Isometric Design Portfolio Showcase]] — Praha (@praha37v)
+- [[Animated UI Design Showcase]] — Marcel (@marcelkargul)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -253,9 +266,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Auditor Life Security Audit Game]] — BradMoon (@xy9301)
 - [[AEO and GEO - AI Visibility SEO Strategy]] — Kalash (@kalashbuilds)
 - [[Landing Page Showcase App Prompt for V Computer]] — Vibecoding Explained (@learn2vibe)
+- [[GLM-4-Flash on M4 Pro Mac Minis with Exolabs - @alexocheema]] — Alex Cheema (@alexocheema)
+- [[Reaction Tweet - @frankdegods]] — Frank (@frankdegods)
 ## Stats
 
-- **Total tweets:** 636
+- **Total tweets:** 677
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -378,6 +393,20 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[One Person $1B Team in 2026 - @mattprd]] — Matt Schlicht (@mattprd)
 - [[Design Plugin with 5 Variations and Element Feedback - @0xdesigner]] — 0xDesigner (@0xdesigner)
 - [[Contains Studio 40+ Specialized AI Agents - @oliviscusai]] — Oliver Prompts (@oliviscusai)
+- [[AI Employee Folder Structure - @ganimcorey]] — Corey Ganim (@ganimcorey)
+- [[Google Stitch MCP Server for Design-to-Code]] — Wes Roth (@wesroth)
+- [[Pencil Infinite Design Canvas for Claude Code]] — Tom Krcha (@tomkrcha)
+- [[Agentation Visual Feedback Tool for Agents]] — Benji Taylor (@benjitaylor)
+- [[Building Agentation with Agentation]] — Benji Taylor (@benjitaylor)
+- [[Sim Studio AI Agent Orchestration Platform]] — Oliver Prompts (@oliviscusai)
+- [[Flowy Interactive Diagram Tool for Claude Code]] — CJ Hess (@seejayhess)
+- [[Top 5 AI Design Tools for Designers]] — Craftwork (@craftworkdesign)
+- [[Agentation Open Source Agent Interface Library]] — Benji Taylor (@benjitaylor)
+- [[Personal RAG Over All Your Data]] — 0xSero (@0xsero)
+- [[AI-Friendly UI Kits for Vibe Coding]] — Craftwork (@craftworkdesign)
+- [[Claude Code Tasks Replace Todos - Thariq Announcement]] — Thariq (@trq212)
+- [[Persona Skills for Multi-Stakeholder Feature Evaluation]] — Giuseppe `N3mes1s` (@n3mes1s)
+- [[Claude Code Hidden Swarms Feature - Delegation Mode with Parallel Specialists]] — Mike Kelly (@nicerinperson)
 
 ## Developer Tools & Code Intelligence
 
@@ -405,6 +434,18 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hatch.sh Unified Product Development Desktop App - @serrrfirat]] — Firat Sertgoz (@serrrfirat)
 - [[Database Research UI Concept - @insank18]] — Insan (@insank18)
 - [[Cleo Dev - AI-First Web Development Tool]] — Houssein Djirdeh (@hdjirdeh)
+- [[Remotion Code-Free Video Creation - @jnybgr]] — Jonny Burger (@jnybgr)
+- [[Anime.js Layout API Documentation - @juliangarnier]] — Julian Garnier (@juliangarnier)
+- [[Last ASCII Dither Tool You Will Ever Use]] — Alim (@almmaasoglu)
+- [[People Yearn for ASCII and Dither]] — Alim (@almmaasoglu)
+- [[Don't Sleep on Expo Skills]] — Beto (@betomoedano)
+- [[AI Might Actually Take My Job]] — Theo - t3.gg (@theo)
+- [[Claude Code Ctrl+S Prompt Stash Feature]] — Ado (@adocomplete)
+- [[Running 5 Parallel Claude Code Sessions with Notifications]] — Affaan Mustafa (@affaanmustafa)
+- [[Vercel React Best Practices Skill - 12 New Rules]] — Shu (@shuding)
+- [[Claude Code System Prompts Accessible via CC Mirror Fork]] — Numman Ali (@nummanali)
+- [[Claude Code Task Primitives and Session Persistence Guide]] — Eric Buess (@ericbuess)
+- [[Turn Claude Code Into Claude Teacher with FOR[name].md]] — Zara Zhang (@zarazhangrui)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

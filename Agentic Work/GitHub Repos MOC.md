@@ -41,6 +41,8 @@ GitHub repositories saved from iMessage.
 - [[snarktank/ralph — Autonomous AI Coding Loop]] — snarktank (github.com)
 - [[Ralph Orchestrator Hat-Based Agent Framework]] — mikeyobrien
 - [[VibeMux Multi-Agent Terminal Orchestrator]] — UgOrange
+- [[Claude Code Guide Auto-Updated Every 2 Days]] — Cranot/claude-code-guide on GitHub
+- [[Marketing Skills for AI Coding Agents - coreyhaines31]] — Corey Haines (@coreyhaines31)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

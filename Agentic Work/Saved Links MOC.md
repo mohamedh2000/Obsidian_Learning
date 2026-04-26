@@ -161,6 +161,50 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Oblivion UI Concept - @intrfacer]] — Ayda Oz (@aydaoz)
 - [[Cleo Dev - AI-First Web Development Tool]] — Houssein Djirdeh (@hdjirdeh)
 - [[Landing Page Showcase App Prompt for V Computer]] — Vibecoding Explained (@learn2vibe)
+- [[Team Section Design - @itspeterdesign]] — Peter Design (@itspeterdesign)
+- [[Remotion Code-Free Video Creation - @jnybgr]] — Jonny Burger (@jnybgr)
+- [[Bento Grid Animations - @marcelkargul]] — Marcel (@marcelkargul)
+- [[AI Employee Folder Structure - @ganimcorey]] — Corey Ganim (@ganimcorey)
+- [[Motion Layout Prop for Multi-Step Buttons - @mannupaaji]] — Manu Arora (@mannupaaji)
+- [[Framer Animation Showcase - @ensaktas]] — Enes Aktas (@ensaktas)
+- [[Anime.js Layout API Documentation - @juliangarnier]] — Julian Garnier (@juliangarnier)
+- [[GLM-4-Flash on M4 Pro Mac Minis with Exolabs - @alexocheema]] — Alex Cheema (@alexocheema)
+- [[Landing Page Micro-Interactions in Days - @jameslaurents]] — James Laurent (@jameslaurents)
+- [[Last ASCII Dither Tool You Will Ever Use]] — Alim (@almmaasoglu)
+- [[Nucleo Icons Light Active State Design]] — Nucleo Icons (@nucleoicons)
+- [[People Yearn for ASCII and Dither]] — Alim (@almmaasoglu)
+- [[Selia Open-Source React UI Library V1]] — Nauval (@mhdnauvalazhar)
+- [[Claude Code Guide Auto-Updated Every 2 Days]] — Cranot/claude-code-guide on GitHub
+- [[Google Stitch MCP Server for Design-to-Code]] — Wes Roth (@wesroth)
+- [[Don't Sleep on Expo Skills]] — Beto (@betomoedano)
+- [[Google Stitch Documentation]] — David East (@_davideast)
+- [[Go-To Sites for Design Inspiration]] — UI/UX Savior (@uisavior)
+- [[Locomotive Scroll 5 Now Built on Lenis]] — Locomotive® (@locomotivemtl)
+- [[Claude Code Ctrl+S Prompt Stash Feature]] — Ado (@adocomplete)
+- [[Pencil Infinite Design Canvas for Claude Code]] — Tom Krcha (@tomkrcha)
+- [[Pencil Design Tool]] — Pencil
+- [[Agentation Visual Feedback Tool for Agents]] — Benji Taylor (@benjitaylor)
+- [[Building Agentation with Agentation]] — Benji Taylor (@benjitaylor)
+- [[AI Startup Card Animation in Pure Figma]] — Basit A. Khan (@basit_designs)
+- [[Running 5 Parallel Claude Code Sessions with Notifications]] — Affaan Mustafa (@affaanmustafa)
+- [[Sim Studio AI Agent Orchestration Platform]] — Oliver Prompts (@oliviscusai)
+- [[Flowy Interactive Diagram Tool for Claude Code]] — CJ Hess (@seejayhess)
+- [[Top 5 AI Design Tools for Designers]] — Craftwork (@craftworkdesign)
+- [[Agentation Open Source Agent Interface Library]] — Benji Taylor (@benjitaylor)
+- [[Skills.sh - Agent Skills Directory]] — Skills.sh
+- [[Vercel React Best Practices Skill - 12 New Rules]] — Shu (@shuding)
+- [[Animated UI Design Showcase]] — Marcel (@marcelkargul)
+- [[Personal RAG Over All Your Data]] — 0xSero (@0xsero)
+- [[AI-Friendly UI Kits for Vibe Coding]] — Craftwork (@craftworkdesign)
+- [[Claude Code System Prompts Accessible via CC Mirror Fork]] — Numman Ali (@nummanali)
+- [[Persona Skills for Multi-Stakeholder Feature Evaluation]] — Giuseppe `N3mes1s` (@n3mes1s)
+- [[Claude Code Task Primitives and Session Persistence Guide]] — Eric Buess (@ericbuess)
+- [[Aceternity UI Component Library - 200+ Animated React Components]] — Aceternity
+- [[Marketing Skills for AI Coding Agents - coreyhaines31]] — Corey Haines (@coreyhaines31)
+- [[VibeShip AI Coding Security and Memory Toolkit]] — VibeShip
+- [[Kernel.sh Browser Pools for Pre-Configured Browser Automation]] — Kernel.sh
+- [[Turn Claude Code Into Claude Teacher with FOR[name].md]] — Zara Zhang (@zarazhangrui)
+- [[Claude Code Hidden Swarms Feature - Delegation Mode with Parallel Specialists]] — Mike Kelly (@nicerinperson)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -335,7 +379,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 704
+- **Total notes:** 754
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -436,6 +480,12 @@ See [[Twitter Posts MOC]] for full index.
 - [[One Person $1B Team in 2026 - @mattprd]] — Matt Schlicht (@mattprd)
 - [[This One Is For You shadcn - @pontusab]] — Pontus Abrahamsson (@pontusab)
 - [[AEO and GEO - AI Visibility SEO Strategy]] — Kalash (@kalashbuilds)
+- [[CodePen Animation Collection - yykPaw]] — CodePen Collection
+- [[AI Might Actually Take My Job]] — Theo - t3.gg (@theo)
+- [[Reaction Tweet - @frankdegods]] — Frank (@frankdegods)
+- [[Praha Isometric Design Portfolio Showcase]] — Praha (@praha37v)
+- [[Claude Code Tasks Replace Todos - Thariq Announcement]] — Thariq (@trq212)
+- [[Robot.co Task Panel Playground]] — Robot.co
 
 ## Recovered 2026-03-26 — 2026-04-14
 
