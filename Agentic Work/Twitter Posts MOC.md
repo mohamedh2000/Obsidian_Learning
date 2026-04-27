@@ -328,7 +328,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
 ## Stats
 
-- **Total tweets:** 820
+- **Total tweets:** 822
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -513,6 +513,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[teknium Tweet]] — teknium (@teknium)
 - [[evo v0.3 - Autoresearch Agent Plugin with RLMs]] — Alok Bishoyi (@alokbishoyi97)
 - [[AI Engineer GitHub Repos Guide - 10 Essential Repositories]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
+- [[Hermes Labyrinth - Agent Observability]] — 0xMarioNawfal (@roundtablespace)
+- [[Hermes Agent Backup and Transfer]] — Teknium (@teknium)
 
 ## Developer Tools & Code Intelligence
 

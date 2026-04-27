@@ -710,3 +710,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[evo v0.3 - Autoresearch Agent Plugin with RLMs]] — Alok Bishoyi (@alokbishoyi97)
 - [[AI Engineer GitHub Repos Guide - 10 Essential Repositories]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
 - [[LangChain April 2026 Newsletter]] — LangChain Team (@langaboratory)
+- [[Hermes Labyrinth - Agent Observability]] — 0xMarioNawfal (@roundtablespace)
+- [[Hermes Agent Backup and Transfer]] — Teknium (@teknium)
