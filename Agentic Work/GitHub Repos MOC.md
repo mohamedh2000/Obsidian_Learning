@@ -51,6 +51,7 @@ GitHub repositories saved from iMessage.
 - [[QMD - On-Device Search Engine for Markdown and Knowledge Bases]] — Tobi Lütke (@tobi)
 - [[jgraph-drawio-mcp - Draw.io MCP Server for AI Diagram Generation]] — jgraph
 - [[OpenAI Symphony Autonomous Implementation Runs]] — OpenAI
+- [[hermes-labyrinth - Agent Observability Plugin]] — stainlu
 
 ## Recovered 2026-03-26 — 2026-04-14
 

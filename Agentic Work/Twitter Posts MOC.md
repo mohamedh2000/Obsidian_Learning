@@ -328,7 +328,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
 ## Stats
 
-- **Total tweets:** 814
+- **Total tweets:** 820
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -507,6 +507,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agent-Browser DevTools Inspect Command - @ctatedev]] — Chris Tate (@ctatedev)
 - [[GitNexus Knowledge Graph for AI Agents]] — Oliver Prompts (@oliviscusai)
 - [[OpenViking Context Database for AI Agents]] — Simplifying AI (@simplifyinai)
+- [[Pi Agent Review - Minimal Reliable Coding Harness]] — Stefan Streichsbier (@s_streichsbier)
+- [[RLM Pi Harness Architecture - Python REPL with Late Interaction Retrieval]] — Isaac Flath (@isaac_flath)
+- [[DAIR.AI Top Papers April 2025 - DeepSeek V4 and Autogenesis]] — DAIR.AI (@dair_ai)
+- [[teknium Tweet]] — teknium (@teknium)
+- [[evo v0.3 - Autoresearch Agent Plugin with RLMs]] — Alok Bishoyi (@alokbishoyi97)
+- [[AI Engineer GitHub Repos Guide - 10 Essential Repositories]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
 
 ## Developer Tools & Code Intelligence
 

@@ -314,6 +314,14 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Agent-Browser DevTools Inspect Command - @ctatedev]] — Chris Tate (@ctatedev)
 - [[GitNexus Knowledge Graph for AI Agents]] — Oliver Prompts (@oliviscusai)
 - [[OpenViking Context Database for AI Agents]] — Simplifying AI (@simplifyinai)
+- [[Pi Agent Review - Minimal Reliable Coding Harness]] — Stefan Streichsbier (@s_streichsbier)
+- [[RLM Pi Harness Architecture - Python REPL with Late Interaction Retrieval]] — Isaac Flath (@isaac_flath)
+- [[Pi Coding Agent - Minimal Terminal Harness]] — Pi
+- [[DAIR.AI Top Papers April 2025 - DeepSeek V4 and Autogenesis]] — DAIR.AI (@dair_ai)
+- [[teknium Tweet]] — teknium (@teknium)
+- [[hermes-labyrinth - Agent Observability Plugin]] — stainlu
+- [[evo v0.3 - Autoresearch Agent Plugin with RLMs]] — Alok Bishoyi (@alokbishoyi97)
+- [[AI Engineer GitHub Repos Guide - 10 Essential Repositories]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -488,7 +496,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 918
+- **Total notes:** 926
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
