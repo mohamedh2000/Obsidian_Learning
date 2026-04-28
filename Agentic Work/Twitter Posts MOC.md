@@ -188,6 +188,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Startup Marketing Playbook - 7 Channels That Actually Work]] — Om Patel (@om_patel5)
 - [[2026 Startup Distribution Checklist]] — Ziwen (@ziwenxu_)
 - [[Reddit DMs Convert 10x Better - Lead Generation Strategy]] — Om Patel (@om_patel5)
+- [[0xJeff Article Post]] — 0xJeff (@0xjeff)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -326,9 +327,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tweet Unavailable - @xbenjamminx]] — Unknown (@xbenjamminx)
 - [[WebMCP Chrome 146 Early Preview]] — Maximiliano Firtman (@firt)
 - [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
+- [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
 ## Stats
 
-- **Total tweets:** 822
+- **Total tweets:** 825
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -515,6 +517,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Engineer GitHub Repos Guide - 10 Essential Repositories]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
 - [[Hermes Labyrinth - Agent Observability]] — 0xMarioNawfal (@roundtablespace)
 - [[Hermes Agent Backup and Transfer]] — Teknium (@teknium)
+- [[Hermes Agent TouchDesigner Creative Coding]] — Nous Research (@nousresearch)
 
 ## Developer Tools & Code Intelligence
 

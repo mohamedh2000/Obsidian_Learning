@@ -712,3 +712,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[LangChain April 2026 Newsletter]] — LangChain Team (@langaboratory)
 - [[Hermes Labyrinth - Agent Observability]] — 0xMarioNawfal (@roundtablespace)
 - [[Hermes Agent Backup and Transfer]] — Teknium (@teknium)
+- [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
+- [[Hermes Agent TouchDesigner Creative Coding]] — Nous Research (@nousresearch)
