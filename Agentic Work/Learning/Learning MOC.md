@@ -715,3 +715,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
 - [[Hermes Agent TouchDesigner Creative Coding]] — Nous Research (@nousresearch)
 - [[GEPA - Genetic-Pareto Prompt Optimizer]] — Quarq (@quarqlabs)
+- [[GEPA Research GitHub Repository]] — Cyrus (@cyrusnewday)
+- [[Mismanaged Geniuses Hypothesis and GEPA Loops]] — spacy (@dosco)
