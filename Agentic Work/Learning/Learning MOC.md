@@ -714,3 +714,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hermes Agent Backup and Transfer]] — Teknium (@teknium)
 - [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
 - [[Hermes Agent TouchDesigner Creative Coding]] — Nous Research (@nousresearch)
+- [[GEPA - Genetic-Pareto Prompt Optimizer]] — Quarq (@quarqlabs)

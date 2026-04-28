@@ -327,6 +327,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Hermes Agent Backup and Transfer]] — Teknium (@teknium)
 - [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
 - [[Hermes Agent TouchDesigner Creative Coding]] — Nous Research (@nousresearch)
+- [[GEPA - Genetic-Pareto Prompt Optimizer]] — Quarq (@quarqlabs)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -501,7 +502,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 932
+- **Total notes:** 933
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
