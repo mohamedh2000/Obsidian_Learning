@@ -717,3 +717,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GEPA - Genetic-Pareto Prompt Optimizer]] — Quarq (@quarqlabs)
 - [[GEPA Research GitHub Repository]] — Cyrus (@cyrusnewday)
 - [[Mismanaged Geniuses Hypothesis and GEPA Loops]] — spacy (@dosco)
+- [[Hermes Agent - 15 Features You've Never Touched]] — Sharbel (@sharbel)
+- [[The Harness Is the Backend]] — Mike Piccolo (@mfpiccolo)

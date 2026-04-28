@@ -330,6 +330,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GEPA - Genetic-Pareto Prompt Optimizer]] — Quarq (@quarqlabs)
 - [[GEPA Research GitHub Repository]] — Cyrus (@cyrusnewday)
 - [[Mismanaged Geniuses Hypothesis and GEPA Loops]] — spacy (@dosco)
+- [[Hermes Agent - 15 Features You've Never Touched]] — Sharbel (@sharbel)
+- [[The Harness Is the Backend]] — Mike Piccolo (@mfpiccolo)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -504,7 +506,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 935
+- **Total notes:** 937
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

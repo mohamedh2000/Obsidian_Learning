@@ -330,7 +330,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
 ## Stats
 
-- **Total tweets:** 828
+- **Total tweets:** 830
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -521,6 +521,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Labyrinth - Agent Observability]] — 0xMarioNawfal (@roundtablespace)
 - [[Hermes Agent Backup and Transfer]] — Teknium (@teknium)
 - [[Hermes Agent TouchDesigner Creative Coding]] — Nous Research (@nousresearch)
+- [[Hermes Agent - 15 Features You've Never Touched]] — Sharbel (@sharbel)
+- [[The Harness Is the Backend]] — Mike Piccolo (@mfpiccolo)
 
 ## Developer Tools & Code Intelligence
 
