@@ -35,6 +35,23 @@ GitHub repositories saved from iMessage.
 - [[Claude Autoresearch]] — Udit Goenka (@uditgoenka)
 - [[pi-autoresearch]] — Dave BCN (@davebcn87)
 - [[pi-autoresearch - Autonomous Experiment Loop for pi]] — GitHub (davebcn87)
+- [[All Agentic Architectures - 17+ State-of-the-Art Patterns]] — FareedKhan-dev
+- [[Learn Harness Engineering Course - walkinglabs]] — Walking Labs (@walkinglabs)
+- [[Awesome Bitcoin - igorbarinov GitHub]] — Igor Barinov (@igorbarinov)
+- [[snarktank/ralph — Autonomous AI Coding Loop]] — snarktank (github.com)
+- [[Ralph Orchestrator Hat-Based Agent Framework]] — mikeyobrien
+- [[VibeMux Multi-Agent Terminal Orchestrator]] — UgOrange
+- [[Claude Code Guide Auto-Updated Every 2 Days]] — Cranot/claude-code-guide on GitHub
+- [[Marketing Skills for AI Coding Agents - coreyhaines31]] — Corey Haines (@coreyhaines31)
+- [[last30days-skill Multi-Platform Research Agent]] — mvanhorn
+- [[antfu/skills - Anthony Fu Agent Skills Collection]] — Anthony Fu (antfu)
+- [[zarazhangrui/frontend-slides - Animation-Rich HTML Presentations Skill]] — zarazhangrui
+- [[supermemoryai/claude-supermemory - Persistent Memory Plugin]] — supermemoryai
+- [[shadcn-builder - No-Code Form Builder for shadcn/ui]] — iduspara
+- [[QMD - On-Device Search Engine for Markdown and Knowledge Bases]] — Tobi Lütke (@tobi)
+- [[jgraph-drawio-mcp - Draw.io MCP Server for AI Diagram Generation]] — jgraph
+- [[OpenAI Symphony Autonomous Implementation Runs]] — OpenAI
+- [[hermes-labyrinth - Agent Observability Plugin]] — stainlu
 
 ## Recovered 2026-03-26 — 2026-04-14
 
