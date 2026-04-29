@@ -728,3 +728,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Compound Engineering v3.3.0 - Intent Verification]] — Trevin Chow (@trevin)
 - [[Teknium - Hermes Dashboard Plugins Tutorial]] — Teknium 🪽 (@teknium)
 - [[AVB - RLM Applications and Practical Insights]] — AVB (@neural_avb)
+- [[Agent Skills Force Good Documentation - @vtrivedy10]] — Viv (@vtrivedy10)

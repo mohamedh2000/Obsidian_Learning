@@ -332,7 +332,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Teknium - Hermes Dashboard Plugins Tutorial]] — Teknium 🪽 (@teknium)
 ## Stats
 
-- **Total tweets:** 840
+- **Total tweets:** 841
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -533,6 +533,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Symphony Launch Announcement]] — Sherwin Wu (@sherwinwu)
 - [[Hermes Creative Suite TouchDesigner Integration]] — Wes Roth (@wesroth)
 - [[Compound Engineering v3.3.0 - Intent Verification]] — Trevin Chow (@trevin)
+- [[Agent Skills Force Good Documentation - @vtrivedy10]] — Viv (@vtrivedy10)
 
 ## Developer Tools & Code Intelligence
 
