@@ -329,9 +329,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
 - [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
 - [[ASCII Cards Video]] — Praveen Kumar (@praveenisomer)
+- [[Teknium - Hermes Dashboard Plugins Tutorial]] — Teknium 🪽 (@teknium)
 ## Stats
 
-- **Total tweets:** 838
+- **Total tweets:** 840
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -367,6 +368,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Mismanaged Geniuses Hypothesis and GEPA Loops]] — spacy (@dosco)
 - [[How AI Actually Remembers - KV Cache Guide]] — Siddharth (@Pseudo_Sid26)
 - [[GBNF Grammar for 22x Think Token Reduction]] — nash_su - e/acc (@nash_su)
+- [[AVB - RLM Applications and Practical Insights]] — AVB (@neural_avb)
 
 ## AI Agents
 

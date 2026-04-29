@@ -726,3 +726,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Symphony Launch Announcement]] — Sherwin Wu (@sherwinwu)
 - [[Hermes Creative Suite TouchDesigner Integration]] — Wes Roth (@wesroth)
 - [[Compound Engineering v3.3.0 - Intent Verification]] — Trevin Chow (@trevin)
+- [[Teknium - Hermes Dashboard Plugins Tutorial]] — Teknium 🪽 (@teknium)
+- [[AVB - RLM Applications and Practical Insights]] — AVB (@neural_avb)
