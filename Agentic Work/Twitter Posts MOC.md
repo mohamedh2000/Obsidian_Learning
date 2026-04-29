@@ -328,9 +328,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[WebMCP Chrome 146 Early Preview]] — Maximiliano Firtman (@firt)
 - [[Relentless Reps Beat Strategy]] — Alim (@almmaasoglu)
 - [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
+- [[ASCII Cards Video]] — Praveen Kumar (@praveenisomer)
 ## Stats
 
-- **Total tweets:** 830
+- **Total tweets:** 838
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -364,6 +365,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GEPA - Genetic-Pareto Prompt Optimizer]] — Quarq (@quarqlabs)
 - [[GEPA Research GitHub Repository]] — Cyrus (@cyrusnewday)
 - [[Mismanaged Geniuses Hypothesis and GEPA Loops]] — spacy (@dosco)
+- [[How AI Actually Remembers - KV Cache Guide]] — Siddharth (@Pseudo_Sid26)
+- [[GBNF Grammar for 22x Think Token Reduction]] — nash_su - e/acc (@nash_su)
 
 ## AI Agents
 
@@ -523,6 +526,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent TouchDesigner Creative Coding]] — Nous Research (@nousresearch)
 - [[Hermes Agent - 15 Features You've Never Touched]] — Sharbel (@sharbel)
 - [[The Harness Is the Backend]] — Mike Piccolo (@mfpiccolo)
+- [[OpenAI Practical Agent Building Guide]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Symphony Agent Supervision Limit]] — Alex Kotliarskyi (@alex_frantic)
+- [[Symphony Launch Announcement]] — Sherwin Wu (@sherwinwu)
+- [[Hermes Creative Suite TouchDesigner Integration]] — Wes Roth (@wesroth)
+- [[Compound Engineering v3.3.0 - Intent Verification]] — Trevin Chow (@trevin)
 
 ## Developer Tools & Code Intelligence
 

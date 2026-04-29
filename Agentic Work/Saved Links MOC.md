@@ -332,6 +332,13 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Mismanaged Geniuses Hypothesis and GEPA Loops]] — spacy (@dosco)
 - [[Hermes Agent - 15 Features You've Never Touched]] — Sharbel (@sharbel)
 - [[The Harness Is the Backend]] — Mike Piccolo (@mfpiccolo)
+- [[OpenAI Practical Agent Building Guide]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Symphony Agent Supervision Limit]] — Alex Kotliarskyi (@alex_frantic)
+- [[How AI Actually Remembers - KV Cache Guide]] — Siddharth (@Pseudo_Sid26)
+- [[GBNF Grammar for 22x Think Token Reduction]] — nash_su - e/acc (@nash_su)
+- [[Symphony Launch Announcement]] — Sherwin Wu (@sherwinwu)
+- [[Hermes Creative Suite TouchDesigner Integration]] — Wes Roth (@wesroth)
+- [[Compound Engineering v3.3.0 - Intent Verification]] — Trevin Chow (@trevin)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -506,7 +513,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 937
+- **Total notes:** 946
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -669,6 +676,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Rebirth Rose Under Glass Coffin Ring - Silver]] — Regal Rose (@regalrose)
 - [[Feronia Secret Garden Black Onyx Ring - Silver]] — Regal Rose (@regalrose)
 - [[0xJeff Article Post]] — 0xJeff (@0xjeff)
+- [[OpenAI Symphony Orchestration Blog]] — OpenAI
+- [[ASCII Cards Video]] — Praveen Kumar (@praveenisomer)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
