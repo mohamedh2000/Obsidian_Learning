@@ -6,7 +6,7 @@ date_saved: 2026-03-25
 source: "Prithvi Rajasekaran (Anthropic)"
 content_type: guide
 topics: [agent-harnesses, multi-agent-evaluation, context-resets]
-tags: [web, anthropic, ai-agents, learning]
+tags: [web, anthropic, ai-agents, learning, harness-curriculum]
 status: unread
 ---
 

@@ -13,6 +13,14 @@ Educational resources, tutorials, research papers, and reference materials for s
 
 ---
 
+## ⭐ Curated Curricula
+
+Cross-cutting reading paths that pull from multiple folders:
+
+- [[Harness Engineering MOC]] — 9-track curriculum for harness engineering, skill design, prompting. ~130 resources across blogs, papers, repos, and threads. Tag: `#harness-curriculum`
+
+---
+
 ## `RLHF & RL Training/` (10 resources)
 
 Policy gradients, reward modeling, PPO, GRPO, and LLM training methodologies.

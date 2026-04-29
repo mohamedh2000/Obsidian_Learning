@@ -14,13 +14,14 @@ status: unread
 
 > A long-form thread arguing that strong agent outcomes come less from chasing tooling stacks and more from mastering a few durable principles for working with Codex and Claude in production.
 
-| | |
-|---|---|
-| **Source** | sysls (@systematicls) |
-| **Saved** | 2026-03-26 |
-| **Type** | tweet |
-| **Engagement** | 7.6K likes, 1.1K retweets |
-| **URL** | [Link](https://x.com/systematicls/status/2028814227004395561) |
+|                |                                                               |
+| -------------- | ------------------------------------------------------------- |
+| **Source**     | sysls (@systematicls)                                         |
+| **Saved**      | 2026-03-26                                                    |
+| **Type**       | tweet                                                         |
+| **Engagement** | 7.6K likes, 1.1K retweets                                     |
+| **URL**        | [Link](https://x.com/systematicls/status/2028814227004395561) |
+|                |                                                               |
 
 ## Topics
 

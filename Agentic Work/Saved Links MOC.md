@@ -15,6 +15,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 
 [[AI Agents]] | [[LLM Research]] | [[Fine-tuning & Training]] | [[Developer Tools]] | [[Crypto & Web3]] | [[UI & Design Engineering]] | [[Browser Automation]] | [[Open Source]] | [[Claude Code & Anthropic]] | [[AI Startups]]
 
+## Curated Curricula
+
+⭐ [[Harness Engineering MOC]] — 9-track reading path for harness engineering, skill design, and prompting (`#harness-curriculum`)
+
 ---
 
 ## Learning

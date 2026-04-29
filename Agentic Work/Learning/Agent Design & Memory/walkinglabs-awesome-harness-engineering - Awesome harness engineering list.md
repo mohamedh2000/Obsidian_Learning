@@ -6,7 +6,7 @@ date_saved: 2026-03-30
 source: "github.com/walkinglabs"
 content_type: repo
 topics: [Agent Harnesses, Developer Tools]
-tags: [harness, awesome-list, agents]
+tags: [harness, awesome-list, agents, harness-curriculum]
 status: unread
 ---
 

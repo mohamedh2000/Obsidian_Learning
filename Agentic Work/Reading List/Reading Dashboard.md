@@ -3,7 +3,7 @@
 ## Summary by Topic
 ```dataview
 TABLE length(rows) AS "Count"
-FROM "Agentic Work/Reading List"
+FROM "Agentic Work/Reading List" OR "Agentic Work/Learning"
 WHERE status
 GROUP BY topic AS "Topic"
 SORT length(rows) DESC
@@ -12,12 +12,12 @@ SORT length(rows) DESC
 ## Recently Added
 ```dataview
 TABLE
-  added AS "Date",
+  date_saved AS "Date",
   type AS "Type",
   topic AS "Topic"
-FROM "Agentic Work/Reading List"
+FROM "Agentic Work/Reading List" OR "Agentic Work/Learning"
 WHERE status = "unread"
-SORT added DESC
+SORT date_saved DESC
 LIMIT 25
 ```
 
@@ -25,11 +25,11 @@ LIMIT 25
 ```dataview
 TABLE WITHOUT ID
   file.link AS "Note",
-  added AS "Date",
+  date_saved AS "Date",
   type AS "Type",
   topic AS "Topic"
-FROM "Agentic Work/Reading List"
-SORT added DESC
+FROM "Agentic Work/Reading List" OR "Agentic Work/Learning"
+SORT date_saved DESC
 ```
 
 ## Quick Capture Inbox
@@ -37,10 +37,10 @@ SORT added DESC
 TABLE
   url AS "URL",
   type AS "Type",
-  added AS "Added"
+  date_saved AS "Added"
 FROM "Agentic Work/Inbox"
 WHERE status = "unread"
-SORT added DESC
+SORT date_saved DESC
 ```
 
 ## Unread by Topic
@@ -48,8 +48,8 @@ SORT added DESC
 TABLE WITHOUT ID
   file.link AS "Note",
   type AS "Type",
-  added AS "Added"
-FROM "Agentic Work/Reading List"
+  date_saved AS "Added"
+FROM "Agentic Work/Reading List" OR "Agentic Work/Learning"
 WHERE status = "unread"
 GROUP BY topic
 SORT topic ASC
@@ -61,9 +61,9 @@ TABLE
   url AS "URL",
   type AS "Type",
   topic AS "Topic"
-FROM "Agentic Work/Reading List" OR "Agentic Work/Inbox"
+FROM "Agentic Work/Reading List" OR "Agentic Work/Learning" OR "Agentic Work/Inbox"
 WHERE status = "unread"
-SORT added DESC
+SORT date_saved DESC
 ```
 
 ## Currently Reading
@@ -72,7 +72,7 @@ TABLE
   url AS "URL",
   type AS "Type",
   topic AS "Topic"
-FROM "Agentic Work/Reading List" OR "Agentic Work/Inbox"
+FROM "Agentic Work/Reading List" OR "Agentic Work/Learning" OR "Agentic Work/Inbox"
 WHERE status = "reading"
 SORT file.mtime DESC
 ```
@@ -83,7 +83,7 @@ TABLE
   url AS "URL",
   type AS "Type",
   topic AS "Topic"
-FROM "Agentic Work/Reading List" OR "Agentic Work/Inbox"
+FROM "Agentic Work/Reading List" OR "Agentic Work/Learning" OR "Agentic Work/Inbox"
 WHERE status = "done"
 SORT file.mtime DESC
 ```
