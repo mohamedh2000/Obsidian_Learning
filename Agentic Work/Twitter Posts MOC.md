@@ -330,9 +330,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPU MODE Kernel Competition Princeton COS 484]] — GPU MODE (@gpu_mode)
 - [[ASCII Cards Video]] — Praveen Kumar (@praveenisomer)
 - [[Teknium - Hermes Dashboard Plugins Tutorial]] — Teknium 🪽 (@teknium)
+- [[Kimi 2.6 + Opus 4.7 + GPT-5.5 Multi-Model Routing]] — Defileo🔮 (@defileo)
 ## Stats
 
-- **Total tweets:** 841
+- **Total tweets:** 847
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -534,6 +535,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Creative Suite TouchDesigner Integration]] — Wes Roth (@wesroth)
 - [[Compound Engineering v3.3.0 - Intent Verification]] — Trevin Chow (@trevin)
 - [[Agent Skills Force Good Documentation - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[RLM Scaffolding Beats Frontier Models on LongCoT]] — Quarq (@quarqlabs)
+- [[AgentOS Now Supports Claude Code, LangGraph, and DSPy]] — Ashpreet Bedi (@ashpreetbedi)
+- [[Own Your Agent Harness - Intelligence Stack Control]] — Viv (@vtrivedy10)
+- [[HALO - Hierarchical Agent Loop Optimizer]] — Sam Hogan 🇺🇸 (@samhogan)
+- [[RLM Meets Autoresearch for Harness Optimization]] — AVB (@neural_avb)
 
 ## Developer Tools & Code Intelligence
 
