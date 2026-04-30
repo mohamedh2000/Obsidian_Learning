@@ -333,7 +333,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Kimi 2.6 + Opus 4.7 + GPT-5.5 Multi-Model Routing]] — Defileo🔮 (@defileo)
 ## Stats
 
-- **Total tweets:** 847
+- **Total tweets:** 850
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -370,6 +370,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[How AI Actually Remembers - KV Cache Guide]] — Siddharth (@Pseudo_Sid26)
 - [[GBNF Grammar for 22x Think Token Reduction]] — nash_su - e/acc (@nash_su)
 - [[AVB - RLM Applications and Practical Insights]] — AVB (@neural_avb)
+- [[RLM Applied to Video Domain Paper]] — AVB (@neural_avb)
 
 ## AI Agents
 
@@ -540,6 +541,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Own Your Agent Harness - Intelligence Stack Control]] — Viv (@vtrivedy10)
 - [[HALO - Hierarchical Agent Loop Optimizer]] — Sam Hogan 🇺🇸 (@samhogan)
 - [[RLM Meets Autoresearch for Harness Optimization]] — AVB (@neural_avb)
+- [[Hermes Agent Pretext DOM-Free Text Layout]] — Nous Research (@nousresearch)
+- [[OpenClaw Agent RLM DSPy Eval]] — spacy (@dosco)
 
 ## Developer Tools & Code Intelligence
 

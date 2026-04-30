@@ -348,6 +348,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[HALO - Hierarchical Agent Loop Optimizer]] — Sam Hogan 🇺🇸 (@samhogan)
 - [[RLM Meets Autoresearch for Harness Optimization]] — AVB (@neural_avb)
 - [[Kimi 2.6 + Opus 4.7 + GPT-5.5 Multi-Model Routing]] — Defileo🔮 (@defileo)
+- [[RLM Applied to Video Domain Paper]] — AVB (@neural_avb)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -522,7 +523,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 955
+- **Total notes:** 958
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -687,6 +688,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[0xJeff Article Post]] — 0xJeff (@0xjeff)
 - [[OpenAI Symphony Orchestration Blog]] — OpenAI
 - [[ASCII Cards Video]] — Praveen Kumar (@praveenisomer)
+- [[Hermes Agent Pretext DOM-Free Text Layout]] — Nous Research (@nousresearch)
+- [[OpenClaw Agent RLM DSPy Eval]] — spacy (@dosco)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
