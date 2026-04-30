@@ -332,9 +332,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Teknium - Hermes Dashboard Plugins Tutorial]] — Teknium 🪽 (@teknium)
 - [[Kimi 2.6 + Opus 4.7 + GPT-5.5 Multi-Model Routing]] — Defileo🔮 (@defileo)
 - [[MIT AI Textbooks as Claude Project Context]] — Dami-Defi (@@DamiDefi)
+- [[dosco Tweet (Pending)]] — (@dosco)
 ## Stats
 
-- **Total tweets:** 852
+- **Total tweets:** 856
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -372,6 +373,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GBNF Grammar for 22x Think Token Reduction]] — nash_su - e/acc (@nash_su)
 - [[AVB - RLM Applications and Practical Insights]] — AVB (@neural_avb)
 - [[RLM Applied to Video Domain Paper]] — AVB (@neural_avb)
+- [[Continual Training and Targeted Forgetting]] — Viv (@vtrivedy10)
 
 ## AI Agents
 
@@ -545,6 +547,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent Pretext DOM-Free Text Layout]] — Nous Research (@nousresearch)
 - [[OpenClaw Agent RLM DSPy Eval]] — spacy (@dosco)
 - [[Hermes Curator - Automatic Skill Management]] — Teknium (@@teknium)
+- [[DSPy vs Agent Frameworks - RLMs]] — spacy (@dosco)
+- [[Multi-Tenancy for AI Agents - LangSmith]] — Sydney Runkle (@sydneyrunkle)
 
 ## Developer Tools & Code Intelligence
 

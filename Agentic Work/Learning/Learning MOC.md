@@ -738,3 +738,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[RLM Applied to Video Domain Paper]] — AVB (@neural_avb)
 - [[Hermes Curator - Automatic Skill Management]] — Teknium (@@teknium)
 - [[MIT AI Textbooks as Claude Project Context]] — Dami-Defi (@@DamiDefi)
+- [[DSPy vs Agent Frameworks - RLMs]] — spacy (@dosco)
+- [[Continual Training and Targeted Forgetting]] — Viv (@vtrivedy10)
+- [[Multi-Tenancy for AI Agents - LangSmith]] — Sydney Runkle (@sydneyrunkle)
