@@ -736,3 +736,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[RLM Meets Autoresearch for Harness Optimization]] — AVB (@neural_avb)
 - [[Kimi 2.6 + Opus 4.7 + GPT-5.5 Multi-Model Routing]] — Defileo🔮 (@defileo)
 - [[RLM Applied to Video Domain Paper]] — AVB (@neural_avb)
+- [[Hermes Curator - Automatic Skill Management]] — Teknium (@@teknium)
+- [[MIT AI Textbooks as Claude Project Context]] — Dami-Defi (@@DamiDefi)
