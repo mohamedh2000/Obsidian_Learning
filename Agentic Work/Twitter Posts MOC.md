@@ -335,7 +335,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[dosco Tweet (Pending)]] — (@dosco)
 ## Stats
 
-- **Total tweets:** 856
+- **Total tweets:** 858
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -549,6 +549,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Curator - Automatic Skill Management]] — Teknium (@@teknium)
 - [[DSPy vs Agent Frameworks - RLMs]] — spacy (@dosco)
 - [[Multi-Tenancy for AI Agents - LangSmith]] — Sydney Runkle (@sydneyrunkle)
+- [[Cursor Agent Kanban - Task-Based Agent Orchestration]] — 阿绎 AYi (@ayi_ainotes)
 
 ## Developer Tools & Code Intelligence
 
@@ -624,6 +625,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Official Excalidraw MCP Launch]] — Excalidraw (@excalidraw)
 - [[Claude Code SEO Automation Playbook]] — Cody Schneider (@codyschneiderxx)
 - [[Portless v0.6 Custom TLDs and Name Flags - @ctatedev]] — Chris Tate (@ctatedev)
+- [[ghui - Terminal UI for GitHub PRs]] — Kit Langton (@kitlangton)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
