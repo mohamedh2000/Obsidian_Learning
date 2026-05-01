@@ -354,6 +354,16 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[DSPy vs Agent Frameworks - RLMs]] — spacy (@dosco)
 - [[Continual Training and Targeted Forgetting]] — Viv (@vtrivedy10)
 - [[Multi-Tenancy for AI Agents - LangSmith]] — Sydney Runkle (@sydneyrunkle)
+- [[Reducing Entropy in Agentic Systems - @xdotli]] — Xiangyi Li (@xdotli)
+- [[AX Agent RLM with GEPA Built-In - @dosco]] — spacy (@dosco)
+- [[Hermes Architecture Diagram Skill - @mr_r0b0t]] — mr-r0b0t (@mr_r0b0t)
+- [[Hermes Kanban Board for Agent Tasks - @realsigridjin]] — Sigrid Jin (@realsigridjin)
+- [[Auto-Prompting Loop as LLM Scaling Vector - @dosco]] — spacy (@dosco)
+- [[2000 DESIGN.md Files for Agent UI Training - @bbssppllvv]] — Mike Bespalov (@bbssppllvv)
+- [[DSPy as Competitive Advantage - @dosco]] — spacy (@dosco)
+- [[Anime.js Text Animations - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
+- [[GPT-5.5 Codex Full Application Builder - @intheworldofai]] — WorldofAI (@intheworldofai)
+- [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -528,7 +538,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 966
+- **Total notes:** 976
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

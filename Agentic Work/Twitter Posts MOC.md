@@ -252,6 +252,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Why AI/SaaS/Crypto Brands Use Motion Design - You Can't Film a Dashboard]] — Filippo Carnevale (@filippo_mp4)
 - [[Favorite Design Screens Showcase]] — Emir Ayaz (@emirayaaz)
 - [[Vercel Conversation Minimap UI - @raunofreiberg]] — rauno (@raunofreiberg)
+- [[Anime.js Text Animations - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -333,9 +334,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Kimi 2.6 + Opus 4.7 + GPT-5.5 Multi-Model Routing]] — Defileo🔮 (@defileo)
 - [[MIT AI Textbooks as Claude Project Context]] — Dami-Defi (@@DamiDefi)
 - [[dosco Tweet (Pending)]] — (@dosco)
+- [[DSPy as Competitive Advantage - @dosco]] — spacy (@dosco)
+- [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 858
+- **Total tweets:** 868
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -374,6 +377,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AVB - RLM Applications and Practical Insights]] — AVB (@neural_avb)
 - [[RLM Applied to Video Domain Paper]] — AVB (@neural_avb)
 - [[Continual Training and Targeted Forgetting]] — Viv (@vtrivedy10)
+- [[Auto-Prompting Loop as LLM Scaling Vector - @dosco]] — spacy (@dosco)
 
 ## AI Agents
 
@@ -550,6 +554,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DSPy vs Agent Frameworks - RLMs]] — spacy (@dosco)
 - [[Multi-Tenancy for AI Agents - LangSmith]] — Sydney Runkle (@sydneyrunkle)
 - [[Cursor Agent Kanban - Task-Based Agent Orchestration]] — 阿绎 AYi (@ayi_ainotes)
+- [[Reducing Entropy in Agentic Systems - @xdotli]] — Xiangyi Li (@xdotli)
+- [[AX Agent RLM with GEPA Built-In - @dosco]] — spacy (@dosco)
+- [[Hermes Architecture Diagram Skill - @mr_r0b0t]] — mr-r0b0t (@mr_r0b0t)
+- [[Hermes Kanban Board for Agent Tasks - @realsigridjin]] — Sigrid Jin (@realsigridjin)
+- [[2000 DESIGN.md Files for Agent UI Training - @bbssppllvv]] — Mike Bespalov (@bbssppllvv)
+- [[GPT-5.5 Codex Full Application Builder - @intheworldofai]] — WorldofAI (@intheworldofai)
 
 ## Developer Tools & Code Intelligence
 
