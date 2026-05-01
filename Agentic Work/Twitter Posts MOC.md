@@ -338,7 +338,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 868
+- **Total tweets:** 874
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -560,6 +560,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Kanban Board for Agent Tasks - @realsigridjin]] — Sigrid Jin (@realsigridjin)
 - [[2000 DESIGN.md Files for Agent UI Training - @bbssppllvv]] — Mike Bespalov (@bbssppllvv)
 - [[GPT-5.5 Codex Full Application Builder - @intheworldofai]] — WorldofAI (@intheworldofai)
+- [[Codex Chronicle Hidden Feature]] — Josh Kale (@joshkale)
+- [[Codex Chronicle Prompt Example]] — Andrew Ambrosino (@ajambrosino)
+- [[Codex For Everything Features]] — Andrew Ambrosino (@ajambrosino)
+- [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)
+- [[Codex Project Management Tool]] — Bennett (@b_nnett)
+- [[Codex Update (Pending Content)]] — Andrew Ambrosino (@ajambrosino)
 
 ## Developer Tools & Code Intelligence
 

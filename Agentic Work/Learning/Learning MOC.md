@@ -13,14 +13,6 @@ Educational resources, tutorials, research papers, and reference materials for s
 
 ---
 
-## ⭐ Curated Curricula
-
-Cross-cutting reading paths that pull from multiple folders:
-
-- [[Harness Engineering MOC]] — 9-track curriculum for harness engineering, skill design, prompting. ~130 resources across blogs, papers, repos, and threads. Tag: `#harness-curriculum`
-
----
-
 ## `RLHF & RL Training/` (10 resources)
 
 Policy gradients, reward modeling, PPO, GRPO, and LLM training methodologies.
@@ -211,22 +203,12 @@ Organizing, retrieving, and compounding knowledge over time.
 
 
 | [[Why File-Based AI Memory Beats Black-Box Vectors - @Atenov_D]] | Readable folder-based memory stack for research agents instead of opaque vector-only memory that is hard to audit... `#new` |
-## `ROCm & AMD ML/` (1 resource)
-
-Running ROCm on AMD GPUs, fine-tuning transformers on Radeon hardware, and contributing to the AMD ML ecosystem (RDNA 4 / gfx1201, Radeon AI PRO R9700).
-
-| Resource | What You'll Learn |
-|----------|-------------------|
-| [[ROCm Learning Roadmap]] | 5-phase 4–5 month ramp: ROCm container setup → Python/NumPy → Karpathy zero-to-hero → PyTorch + profiling on gfx1201 → fine-tune Llama-3.1-8B / Qwen2.5-7B on 32 GB VRAM → kernels + contribution `#new` |
-
----
-
 ## Stats
 
-- **Total learning resources:** 104
-- **Disciplines:** 9
-- **New this session:** 38
-- **Last updated:** 2026-04-17
+- **Total learning resources:** 103
+- **Disciplines:** 8
+- **New this session:** 37
+- **Last updated:** 2026-03-21
 
 ## Recent
 
@@ -769,3 +751,4 @@ Running ROCm on AMD GPUs, fine-tuning transformers on Radeon hardware, and contr
 - [[Anime.js Text Animations - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[GPT-5.5 Codex Full Application Builder - @intheworldofai]] — WorldofAI (@intheworldofai)
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
+- [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)

@@ -6,7 +6,7 @@ date_saved: 2026-03-13
 source: "Anthropic"
 content_type: guide
 topics: [prompt-engineering, claude-skills, anthropic]
-tags: [claude-ai-coding, harness-curriculum]
+tags: [claude-ai-coding]
 status: unread
 ---
 

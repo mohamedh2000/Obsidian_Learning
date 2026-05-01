@@ -6,7 +6,7 @@ date_saved: 2026-03-30
 source: "Yoonho Lee (@yoonholeee)"
 content_type: tweet
 topics: [Agent Harnesses, RL Training]
-tags: [meta-harness, optimization, harness, harness-curriculum]
+tags: [meta-harness, optimization, harness]
 status: unread
 ---
 

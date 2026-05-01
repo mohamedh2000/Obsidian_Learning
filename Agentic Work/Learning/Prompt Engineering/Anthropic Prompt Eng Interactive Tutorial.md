@@ -6,7 +6,7 @@ date_saved: 2026-03-17
 source: "Anthropic"
 content_type: tutorial
 topics: [prompt-engineering, claude, anthropic, tutorial]
-tags: [learning, tutorial, prompt-engineering, github, harness-curriculum]
+tags: [learning, tutorial, prompt-engineering, github]
 status: unread
 ---
 

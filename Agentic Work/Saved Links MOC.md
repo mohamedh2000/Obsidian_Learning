@@ -15,10 +15,6 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 
 [[AI Agents]] | [[LLM Research]] | [[Fine-tuning & Training]] | [[Developer Tools]] | [[Crypto & Web3]] | [[UI & Design Engineering]] | [[Browser Automation]] | [[Open Source]] | [[Claude Code & Anthropic]] | [[AI Startups]]
 
-## Curated Curricula
-
-⭐ [[Harness Engineering MOC]] — 9-track reading path for harness engineering, skill design, and prompting (`#harness-curriculum`)
-
 ---
 
 ## Learning
@@ -368,6 +364,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Anime.js Text Animations - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[GPT-5.5 Codex Full Application Builder - @intheworldofai]] — WorldofAI (@intheworldofai)
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
+- [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -542,7 +539,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 976
+- **Total notes:** 982
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -712,6 +709,11 @@ See [[Twitter Posts MOC]] for full index.
 - [[dosco Tweet (Pending)]] — (@dosco)
 - [[Cursor Agent Kanban - Task-Based Agent Orchestration]] — 阿绎 AYi (@ayi_ainotes)
 - [[ghui - Terminal UI for GitHub PRs]] — Kit Langton (@kitlangton)
+- [[Codex Chronicle Hidden Feature]] — Josh Kale (@joshkale)
+- [[Codex Chronicle Prompt Example]] — Andrew Ambrosino (@ajambrosino)
+- [[Codex For Everything Features]] — Andrew Ambrosino (@ajambrosino)
+- [[Codex Project Management Tool]] — Bennett (@b_nnett)
+- [[Codex Update (Pending Content)]] — Andrew Ambrosino (@ajambrosino)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
