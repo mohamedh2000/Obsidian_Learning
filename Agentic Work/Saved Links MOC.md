@@ -367,6 +367,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)
 - [[Hermes Agent Goal Loop with Supervisor Model]] — Teknium 🪽 (@teknium)
 - [[evoiz/Agentic-Design-Patterns - Complete AI agent design patterns curriculum]] — Antonio Gulli (@evoiz)
+- [[Middleware Customization for Agent Harnesses - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -541,7 +542,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 984
+- **Total notes:** 985
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

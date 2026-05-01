@@ -754,3 +754,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)
 - [[Hermes Agent Goal Loop with Supervisor Model]] — Teknium 🪽 (@teknium)
 - [[evoiz/Agentic-Design-Patterns - Complete AI agent design patterns curriculum]] — Antonio Gulli (@evoiz)
+- [[Middleware Customization for Agent Harnesses - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
