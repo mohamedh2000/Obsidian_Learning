@@ -52,6 +52,7 @@ GitHub repositories saved from iMessage.
 - [[jgraph-drawio-mcp - Draw.io MCP Server for AI Diagram Generation]] — jgraph
 - [[OpenAI Symphony Autonomous Implementation Runs]] — OpenAI
 - [[hermes-labyrinth - Agent Observability Plugin]] — stainlu
+- [[evoiz/Agentic-Design-Patterns - Complete AI agent design patterns curriculum]] — Antonio Gulli (@evoiz)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

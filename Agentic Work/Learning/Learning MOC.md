@@ -753,3 +753,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 - [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)
 - [[Hermes Agent Goal Loop with Supervisor Model]] — Teknium 🪽 (@teknium)
+- [[evoiz/Agentic-Design-Patterns - Complete AI agent design patterns curriculum]] — Antonio Gulli (@evoiz)
