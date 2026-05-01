@@ -6,7 +6,7 @@ date_saved: 2026-04-14
 source: "The Code Newsletter (@code_newsletter)"
 content_type: tweet
 topics: [Agent Harness, Agent Memory]
-tags: [tweet, handle/code_newsletter]
+tags: [tweet, handle/code_newsletter, harness-curriculum]
 status: unread
 ---
 

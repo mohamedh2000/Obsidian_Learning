@@ -6,7 +6,7 @@ date_saved: 2026-03-27
 source: "Dan McAteer (@daniel_mac8)"
 content_type: tweet
 topics: [LLMs, AI Agents]
-tags: [twitter, daniel_mac8]
+tags: [twitter, daniel_mac8, harness-curriculum]
 status: unread
 ---
 
