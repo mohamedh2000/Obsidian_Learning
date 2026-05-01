@@ -752,3 +752,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT-5.5 Codex Full Application Builder - @intheworldofai]] — WorldofAI (@intheworldofai)
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 - [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)
+- [[Hermes Agent Goal Loop with Supervisor Model]] — Teknium 🪽 (@teknium)

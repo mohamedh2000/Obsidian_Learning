@@ -338,7 +338,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 874
+- **Total tweets:** 875
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -566,6 +566,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agent Curator Four Loops]] — witcheer ☯︎ (@witcheer)
 - [[Codex Project Management Tool]] — Bennett (@b_nnett)
 - [[Codex Update (Pending Content)]] — Andrew Ambrosino (@ajambrosino)
+- [[Hermes Agent Goal Loop with Supervisor Model]] — Teknium 🪽 (@teknium)
 
 ## Developer Tools & Code Intelligence
 
