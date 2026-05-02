@@ -755,3 +755,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hermes Agent Goal Loop with Supervisor Model]] — Teknium 🪽 (@teknium)
 - [[evoiz/Agentic-Design-Patterns - Complete AI agent design patterns curriculum]] — Antonio Gulli (@evoiz)
 - [[Middleware Customization for Agent Harnesses - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
+- [[create_agent - Deep Agents Harness Primitive]] — Viv (@vtrivedy10)
+- [[Compound Engineering 3.4.0 - Strategy and Product Pulse]] — Trevin Chow (@trevin)
+- [[Deep Agents + Browserbase - Web Browsing Agents]] — Harrison Chase (@hwchase17)

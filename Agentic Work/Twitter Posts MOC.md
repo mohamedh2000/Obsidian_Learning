@@ -338,7 +338,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 876
+- **Total tweets:** 879
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -568,6 +568,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Update (Pending Content)]] — Andrew Ambrosino (@ajambrosino)
 - [[Hermes Agent Goal Loop with Supervisor Model]] — Teknium 🪽 (@teknium)
 - [[Middleware Customization for Agent Harnesses - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
+- [[create_agent - Deep Agents Harness Primitive]] — Viv (@vtrivedy10)
+- [[Compound Engineering 3.4.0 - Strategy and Product Pulse]] — Trevin Chow (@trevin)
+- [[Deep Agents + Browserbase - Web Browsing Agents]] — Harrison Chase (@hwchase17)
 
 ## Developer Tools & Code Intelligence
 
