@@ -371,6 +371,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[create_agent - Deep Agents Harness Primitive]] — Viv (@vtrivedy10)
 - [[Compound Engineering 3.4.0 - Strategy and Product Pulse]] — Trevin Chow (@trevin)
 - [[Deep Agents + Browserbase - Web Browsing Agents]] — Harrison Chase (@hwchase17)
+- [[A Primer to Understanding Layouts in NVIDIA CuTe]] — Jino Rohit (@jino_rohit)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -545,7 +546,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 989
+- **Total notes:** 990
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

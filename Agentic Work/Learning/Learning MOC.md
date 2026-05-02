@@ -758,3 +758,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[create_agent - Deep Agents Harness Primitive]] — Viv (@vtrivedy10)
 - [[Compound Engineering 3.4.0 - Strategy and Product Pulse]] — Trevin Chow (@trevin)
 - [[Deep Agents + Browserbase - Web Browsing Agents]] — Harrison Chase (@hwchase17)
+- [[A Primer to Understanding Layouts in NVIDIA CuTe]] — Jino Rohit (@jino_rohit)

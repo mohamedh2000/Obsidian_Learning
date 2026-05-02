@@ -338,7 +338,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 880
+- **Total tweets:** 881
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -951,3 +951,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Prompt Caching in LLMs Clearly Explained - @_avichawla]] — Avi Chawla (@_avichawla)
 - [[Context Engineering Checklist for AI Coding - @kmeanskaran]] — Karan (@kmeanskaran)
 - [[Prompt Clarity Article by kloss_xyz]] — am.will (@llmjunky)
+- [[A Primer to Understanding Layouts in NVIDIA CuTe]] — Jino Rohit (@jino_rohit)
