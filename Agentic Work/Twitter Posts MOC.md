@@ -338,7 +338,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 881
+- **Total tweets:** 885
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -572,6 +572,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Compound Engineering 3.4.0 - Strategy and Product Pulse]] — Trevin Chow (@trevin)
 - [[Deep Agents + Browserbase - Web Browsing Agents]] — Harrison Chase (@hwchase17)
 - [[DeepAgents create_agent Simplicity - Matt Stockton]] — Matt Stockton (@mstockton)
+- [[The Harness is a Context Manager on Behalf of the Model - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[OpenAI Symphony 5x Coding Agent Outcome Setup - @jasonzhou1993]] — Jason Zhou (@jasonzhou1993)
+- [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
 
 ## Developer Tools & Code Intelligence
 
@@ -952,3 +955,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Context Engineering Checklist for AI Coding - @kmeanskaran]] — Karan (@kmeanskaran)
 - [[Prompt Clarity Article by kloss_xyz]] — am.will (@llmjunky)
 - [[A Primer to Understanding Layouts in NVIDIA CuTe]] — Jino Rohit (@jino_rohit)
+- [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)

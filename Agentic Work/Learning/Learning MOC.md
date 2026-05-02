@@ -759,3 +759,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Compound Engineering 3.4.0 - Strategy and Product Pulse]] — Trevin Chow (@trevin)
 - [[Deep Agents + Browserbase - Web Browsing Agents]] — Harrison Chase (@hwchase17)
 - [[A Primer to Understanding Layouts in NVIDIA CuTe]] — Jino Rohit (@jino_rohit)
+- [[The Harness is a Context Manager on Behalf of the Model - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[OpenAI Symphony 5x Coding Agent Outcome Setup - @jasonzhou1993]] — Jason Zhou (@jasonzhou1993)
+- [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
+- [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
