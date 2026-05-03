@@ -253,6 +253,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Favorite Design Screens Showcase]] — Emir Ayaz (@emirayaaz)
 - [[Vercel Conversation Minimap UI - @raunofreiberg]] — rauno (@raunofreiberg)
 - [[Anime.js Text Animations - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
+- [[Image Generation Prompt for AI Agency Website]] — Leon Lin (@lexnlin)
+- [[Image First Code Second Workflow]] — Leon Lin (@lexnlin)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -339,7 +341,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 887
+- **Total tweets:** 890
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -653,6 +655,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code SEO Automation Playbook]] — Cody Schneider (@codyschneiderxx)
 - [[Portless v0.6 Custom TLDs and Name Flags - @ctatedev]] — Chris Tate (@ctatedev)
 - [[ghui - Terminal UI for GitHub PRs]] — Kit Langton (@kitlangton)
+- [[ASCII Magic Explorations]] — Kailash (@kail_designs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

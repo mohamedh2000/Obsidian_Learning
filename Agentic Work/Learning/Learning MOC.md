@@ -765,3 +765,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
 - [[Hermes Agent Ecosystem Top 10 Repos - @so_ainsight]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
 - [[claude-obsidian - AI-Powered Knowledge Engine]] — Maliha Tasnim (@this_is_tasnim)
+- [[Image Generation Prompt for AI Agency Website]] — Leon Lin (@lexnlin)
+- [[Image First Code Second Workflow]] — Leon Lin (@lexnlin)
+- [[ASCII Magic Explorations]] — Kailash (@kail_designs)
