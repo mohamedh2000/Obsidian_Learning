@@ -763,3 +763,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[OpenAI Symphony 5x Coding Agent Outcome Setup - @jasonzhou1993]] — Jason Zhou (@jasonzhou1993)
 - [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
 - [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
+- [[Hermes Agent Ecosystem Top 10 Repos - @so_ainsight]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)

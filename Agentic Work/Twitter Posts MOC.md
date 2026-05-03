@@ -338,7 +338,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 885
+- **Total tweets:** 886
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -575,6 +575,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Harness is a Context Manager on Behalf of the Model - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[OpenAI Symphony 5x Coding Agent Outcome Setup - @jasonzhou1993]] — Jason Zhou (@jasonzhou1993)
 - [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
+- [[Hermes Agent Ecosystem Top 10 Repos - @so_ainsight]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
 
 ## Developer Tools & Code Intelligence
 
