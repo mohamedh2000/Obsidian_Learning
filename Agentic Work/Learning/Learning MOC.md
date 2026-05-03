@@ -764,3 +764,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
 - [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
 - [[Hermes Agent Ecosystem Top 10 Repos - @so_ainsight]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
+- [[claude-obsidian - AI-Powered Knowledge Engine]] — Maliha Tasnim (@this_is_tasnim)

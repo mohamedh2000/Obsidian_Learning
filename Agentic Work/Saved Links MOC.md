@@ -377,6 +377,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
 - [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
 - [[Hermes Agent Ecosystem Top 10 Repos - @so_ainsight]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
+- [[claude-obsidian - AI-Powered Knowledge Engine]] — Maliha Tasnim (@this_is_tasnim)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -551,7 +552,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 997
+- **Total notes:** 998
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
