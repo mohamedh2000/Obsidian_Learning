@@ -341,9 +341,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[dosco Tweet (Pending)]] — (@dosco)
 - [[DSPy as Competitive Advantage - @dosco]] — spacy (@dosco)
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
+- [[luizafurdui Tweet]] — (@luizafurdui)
 ## Stats
 
-- **Total tweets:** 894
+- **Total tweets:** 902
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -383,6 +384,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[RLM Applied to Video Domain Paper]] — AVB (@neural_avb)
 - [[Continual Training and Targeted Forgetting]] — Viv (@vtrivedy10)
 - [[Auto-Prompting Loop as LLM Scaling Vector - @dosco]] — spacy (@dosco)
+- [[Hands-On Modern RL Tutorial]] — Xiuyu Li (@sheriyuo)
 
 ## AI Agents
 
@@ -582,6 +584,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
 - [[Hermes Agent Ecosystem Top 10 Repos - @so_ainsight]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
 - [[Hidden AI Workflows in Organizations - @giyu_codes]] — giyu_codes (@giyu_codes)
+- [[Hermes Agent Operator - New Job Class]] — Teknium 🪽 (@teknium)
+- [[OpenClaw Restaurant Outreach Bot]] — Chris (@everestchris6)
+- [[Pixel Art AI Agents VS Code Extension]] — Simplifying AI (@simplifyinai)
 
 ## Developer Tools & Code Intelligence
 
@@ -660,6 +665,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ghui - Terminal UI for GitHub PRs]] — Kit Langton (@kitlangton)
 - [[ASCII Magic Explorations]] — Kailash (@kail_designs)
 - [[Hiunicorn Studio Lighter Theme - @basit_designs]] — Basit A. Khan (@basit_designs)
+- [[Expandable Menu Interaction with Claude]] — Kailash (@kail_designs)
+- [[Claude Design Masterclass for Beginners]] — Corey Ganim (@coreyganim)
+- [[Petdex - CLI Pixel Pets for Codex]] — 币世王 | 🦅🐬TermMax (@0xkingskuan)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

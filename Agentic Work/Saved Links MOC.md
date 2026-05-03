@@ -386,6 +386,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Lumis Premium Modal Design - @tanjim38]] — Tanjim | AI Product Designer (@tanjim38)
 - [[Grainient Premium Gradients and Backgrounds]] — Grainient
 - [[Hiunicorn Studio Lighter Theme - @basit_designs]] — Basit A. Khan (@basit_designs)
+- [[Hands-On Modern RL Tutorial]] — Xiuyu Li (@sheriyuo)
+- [[Expandable Menu Interaction with Claude]] — Kailash (@kail_designs)
+- [[Claude Design Masterclass for Beginners]] — Corey Ganim (@coreyganim)
+- [[getdesign.md - Design System Collection]] — getdesign.md
+- [[Petdex - CLI Pixel Pets for Codex]] — 币世王 | 🦅🐬TermMax (@0xkingskuan)
+- [[Pixel Art AI Agents VS Code Extension]] — Simplifying AI (@simplifyinai)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -560,7 +566,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1007
+- **Total notes:** 1016
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -739,6 +745,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Better Call Saul Character Study - @saulgoodmanstuff]] — saulgoodmanstuff (@saulgoodmanstuff)
 - [[Al Pacino Scent of a Woman Performance - @cinemasocietyhub]] — cinemasocietyhub (@cinemasocietyhub)
 - [[Hidden AI Workflows in Organizations - @giyu_codes]] — giyu_codes (@giyu_codes)
+- [[Hermes Agent Operator - New Job Class]] — Teknium 🪽 (@teknium)
+- [[luizafurdui Tweet]] — (@luizafurdui)
+- [[OpenClaw Restaurant Outreach Bot]] — Chris (@everestchris6)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -773,3 +773,9 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Lumis Premium Modal Design - @tanjim38]] — Tanjim | AI Product Designer (@tanjim38)
 - [[Grainient Premium Gradients and Backgrounds]] — Grainient
 - [[Hiunicorn Studio Lighter Theme - @basit_designs]] — Basit A. Khan (@basit_designs)
+- [[Hands-On Modern RL Tutorial]] — Xiuyu Li (@sheriyuo)
+- [[Expandable Menu Interaction with Claude]] — Kailash (@kail_designs)
+- [[Claude Design Masterclass for Beginners]] — Corey Ganim (@coreyganim)
+- [[getdesign.md - Design System Collection]] — getdesign.md
+- [[Petdex - CLI Pixel Pets for Codex]] — 币世王 | 🦅🐬TermMax (@0xkingskuan)
+- [[Pixel Art AI Agents VS Code Extension]] — Simplifying AI (@simplifyinai)
