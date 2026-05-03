@@ -42,3 +42,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[The Shield Greatest TV Series Tribute]] — matt_reels (@matt_reels)
 - [[Google Surveillance Orwellian Critique]] — pat.berlinquette (@pat.berlinquette)
 - [[Conner O'Malley Outside Space and Time]] — itysldaily (@itysldaily)
+- [[Better Call Saul Character Study - @saulgoodmanstuff]] — saulgoodmanstuff (@saulgoodmanstuff)
+- [[Al Pacino Scent of a Woman Performance - @cinemasocietyhub]] — cinemasocietyhub (@cinemasocietyhub)
