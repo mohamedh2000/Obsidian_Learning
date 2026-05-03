@@ -768,3 +768,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Image Generation Prompt for AI Agency Website]] — Leon Lin (@lexnlin)
 - [[Image First Code Second Workflow]] — Leon Lin (@lexnlin)
 - [[ASCII Magic Explorations]] — Kailash (@kail_designs)
+- [[Shadcn UI Kit Animated Illustrations]] — Shadcn UI Kit
+- [[Animated Shadcn Components Collection - @tobybelhome]] — Toby (@tobybelhome)
+- [[Lumis Premium Modal Design - @tanjim38]] — Tanjim | AI Product Designer (@tanjim38)
+- [[Grainient Premium Gradients and Backgrounds]] — Grainient
+- [[Hiunicorn Studio Lighter Theme - @basit_designs]] — Basit A. Khan (@basit_designs)

@@ -255,6 +255,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Anime.js Text Animations - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[Image Generation Prompt for AI Agency Website]] — Leon Lin (@lexnlin)
 - [[Image First Code Second Workflow]] — Leon Lin (@lexnlin)
+- [[Animated Shadcn Components Collection - @tobybelhome]] — Toby (@tobybelhome)
+- [[Lumis Premium Modal Design - @tanjim38]] — Tanjim | AI Product Designer (@tanjim38)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -341,7 +343,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 ## Stats
 
-- **Total tweets:** 890
+- **Total tweets:** 894
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -579,6 +581,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[OpenAI Symphony 5x Coding Agent Outcome Setup - @jasonzhou1993]] — Jason Zhou (@jasonzhou1993)
 - [[Productive Local AI Environment Setup - @0xsero]] — 0xSero (@0xsero)
 - [[Hermes Agent Ecosystem Top 10 Repos - @so_ainsight]] — そう｜Claude Codeで始めるAI自動化 (@so_ainsight)
+- [[Hidden AI Workflows in Organizations - @giyu_codes]] — giyu_codes (@giyu_codes)
 
 ## Developer Tools & Code Intelligence
 
@@ -656,6 +659,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Portless v0.6 Custom TLDs and Name Flags - @ctatedev]] — Chris Tate (@ctatedev)
 - [[ghui - Terminal UI for GitHub PRs]] — Kit Langton (@kitlangton)
 - [[ASCII Magic Explorations]] — Kailash (@kail_designs)
+- [[Hiunicorn Studio Lighter Theme - @basit_designs]] — Basit A. Khan (@basit_designs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
