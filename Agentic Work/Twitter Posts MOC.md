@@ -344,7 +344,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[luizafurdui Tweet]] — (@luizafurdui)
 ## Stats
 
-- **Total tweets:** 902
+- **Total tweets:** 903
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -385,6 +385,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Continual Training and Targeted Forgetting]] — Viv (@vtrivedy10)
 - [[Auto-Prompting Loop as LLM Scaling Vector - @dosco]] — spacy (@dosco)
 - [[Hands-On Modern RL Tutorial]] — Xiuyu Li (@sheriyuo)
+- [[Zachary BENSALEM - Adaptive Reasoning Systems Article]] — Zachary BENSALEM (@ZacharyByDesign)
 
 ## AI Agents
 
