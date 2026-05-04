@@ -257,6 +257,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Image First Code Second Workflow]] — Leon Lin (@lexnlin)
 - [[Animated Shadcn Components Collection - @tobybelhome]] — Toby (@tobybelhome)
 - [[Lumis Premium Modal Design - @tanjim38]] — Tanjim | AI Product Designer (@tanjim38)
+- [[Wallpaper Appreciation - @wh0sumit]] — sumit 🏴 (@wh0sumit)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -342,9 +343,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DSPy as Competitive Advantage - @dosco]] — spacy (@dosco)
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 - [[luizafurdui Tweet]] — (@luizafurdui)
+- [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
 ## Stats
 
-- **Total tweets:** 903
+- **Total tweets:** 910
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -588,6 +590,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent Operator - New Job Class]] — Teknium 🪽 (@teknium)
 - [[OpenClaw Restaurant Outreach Bot]] — Chris (@everestchris6)
 - [[Pixel Art AI Agents VS Code Extension]] — Simplifying AI (@simplifyinai)
+- [[Hermes Agent Kanban Multi-Agent - @nousresearch]] — Nous Research (@nousresearch)
+- [[AI Agent Orchestrator Comparison - @dhruvtwt_]] — Dhruv (@dhruvtwt_)
 
 ## Developer Tools & Code Intelligence
 
@@ -669,6 +673,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Expandable Menu Interaction with Claude]] — Kailash (@kail_designs)
 - [[Claude Design Masterclass for Beginners]] — Corey Ganim (@coreyganim)
 - [[Petdex - CLI Pixel Pets for Codex]] — 币世王 | 🦅🐬TermMax (@0xkingskuan)
+- [[Imagegen Frontend Web Skill Update - @lexnlin]] — Leon Lin (@lexnlin)
+- [[Anthropic Claude Code Playbook for Companies - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
+- [[Codex Plugin CC Adversarial Review - @nicos_ai]] — Nico (@nicos_ai)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -779,3 +779,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[getdesign.md - Design System Collection]] — getdesign.md
 - [[Petdex - CLI Pixel Pets for Codex]] — 币世王 | 🦅🐬TermMax (@0xkingskuan)
 - [[Pixel Art AI Agents VS Code Extension]] — Simplifying AI (@simplifyinai)
+- [[Imagegen Frontend Web Skill Update - @lexnlin]] — Leon Lin (@lexnlin)
+- [[Hermes Agent Kanban Multi-Agent - @nousresearch]] — Nous Research (@nousresearch)
+- [[AI Agent Orchestrator Comparison - @dhruvtwt_]] — Dhruv (@dhruvtwt_)
+- [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
+- [[Codex Plugin CC Adversarial Review - @nicos_ai]] — Nico (@nicos_ai)
