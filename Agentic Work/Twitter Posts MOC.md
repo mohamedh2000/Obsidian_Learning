@@ -346,7 +346,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
 ## Stats
 
-- **Total tweets:** 910
+- **Total tweets:** 911
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -592,6 +592,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Pixel Art AI Agents VS Code Extension]] — Simplifying AI (@simplifyinai)
 - [[Hermes Agent Kanban Multi-Agent - @nousresearch]] — Nous Research (@nousresearch)
 - [[AI Agent Orchestrator Comparison - @dhruvtwt_]] — Dhruv (@dhruvtwt_)
+- [[Fleet Agents Multi-Model Support at Scale - @LangChain]] — LangChain (@langchain)
 
 ## Developer Tools & Code Intelligence
 

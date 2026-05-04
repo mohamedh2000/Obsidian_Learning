@@ -784,3 +784,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Agent Orchestrator Comparison - @dhruvtwt_]] — Dhruv (@dhruvtwt_)
 - [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
 - [[Codex Plugin CC Adversarial Review - @nicos_ai]] — Nico (@nicos_ai)
+- [[Fleet Agents Multi-Model Support at Scale - @LangChain]] — LangChain (@langchain)
