@@ -364,7 +364,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image Anime Cult Video Workflow]] — DStudioproject (@d_studioproject)
 ## Stats
 
-- **Total tweets:** 944
+- **Total tweets:** 945
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -407,6 +407,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hands-On Modern RL Tutorial]] — Xiuyu Li (@sheriyuo)
 - [[Zachary BENSALEM - Adaptive Reasoning Systems Article]] — Zachary BENSALEM (@ZacharyByDesign)
 - [[Local GPU AI Research Setup in 3 Months]] — Michel Laclé (@micheltamanda)
+- [[Model Spec Midtraining MSM - @anthropicai]] — Anthropic (@anthropicai)
 
 ## AI Agents
 

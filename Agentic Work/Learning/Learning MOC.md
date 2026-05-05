@@ -809,3 +809,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[The Anatomy of an Agent Harness]] — Vivek Trivedy (LangChain)
 - [[Autodata - Agentic Data Scientist for Training Data]] — DAIR.AI (@dair_ai)
 - [[LangSmith Platform - Agent Observability and Deployment]] — LangChain
+- [[Model Spec Midtraining MSM - @anthropicai]] — Anthropic (@anthropicai)
