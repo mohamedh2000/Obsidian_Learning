@@ -346,7 +346,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
 ## Stats
 
-- **Total tweets:** 911
+- **Total tweets:** 917
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -593,6 +593,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent Kanban Multi-Agent - @nousresearch]] — Nous Research (@nousresearch)
 - [[AI Agent Orchestrator Comparison - @dhruvtwt_]] — Dhruv (@dhruvtwt_)
 - [[Fleet Agents Multi-Model Support at Scale - @LangChain]] — LangChain (@langchain)
+- [[Open Model Mission for Agent Builders - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Tuning Deep Agents for Different Models - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Local LLM Web Stack Setup - @theahmadosman]] — Ahmad (@theahmadosman)
+- [[Local AI Maxxing with Hermes Agent - @witcheer]] — witcheer (@witcheer)
+- [[RLM-FORGE Hermes Hackathon Submission - @jqonly]] — JQ Lee (@jqonly)
 
 ## Developer Tools & Code Intelligence
 
@@ -677,6 +682,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Imagegen Frontend Web Skill Update - @lexnlin]] — Leon Lin (@lexnlin)
 - [[Anthropic Claude Code Playbook for Companies - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[Codex Plugin CC Adversarial Review - @nicos_ai]] — Nico (@nicos_ai)
+- [[Image-to-Code Feedback Request - @lexnlin]] — Leon Lin (@lexnlin)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -398,6 +398,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
 - [[Codex Plugin CC Adversarial Review - @nicos_ai]] — Nico (@nicos_ai)
 - [[Fleet Agents Multi-Model Support at Scale - @LangChain]] — LangChain (@langchain)
+- [[Open Model Mission for Agent Builders - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Tuning Deep Agents for Different Models - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Image-to-Code Feedback Request - @lexnlin]] — Leon Lin (@lexnlin)
+- [[Local LLM Web Stack Setup - @theahmadosman]] — Ahmad (@theahmadosman)
+- [[Local AI Maxxing with Hermes Agent - @witcheer]] — witcheer (@witcheer)
+- [[RLM-FORGE Hermes Hackathon Submission - @jqonly]] — JQ Lee (@jqonly)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -572,7 +578,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1025
+- **Total notes:** 1031
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
