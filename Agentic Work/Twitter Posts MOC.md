@@ -262,6 +262,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tanjim Dashboard Design Inspiration]] — 老鬼 (@laogui)
 - [[GPT Image Brand Identity System Prompt]] — ABDULLAH (@itxabdullaa)
 - [[Japanese Editorial Science Poster Prompt]] — sankalp (@dejavucoder)
+- [[Pixel Manipulation Visual Experiments]] — Sha (@its_sslvr)
+- [[Simple UI, Powerful Motion]] — ALX 🇺🇸 (@alxui_ux)
+- [[Scanning WebGL Background in Unicorn Studio]] — mitkow1 (@mariuszmitkow)
+- [[Best Landing Page of the Month]] — 𝙉𝙤𝙖𝙧𝙩𝙚.𝙗𝙩𝙘 | 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝘽𝙪𝙞𝙡𝙙𝙚r (@gnf_noarte)
+- [[Designer Client Attraction Through Style]] — Alex Socoloff (@socoloffalex)
+- [[Seedance 2.0 Drummer Character Sheet]] — Jerrod Lew (@jerrod_lew)
+- [[Next-Level AI Design Artifacts]] — Carlos E. Perez (@intuitmachine)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -350,9 +357,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
 - [[This Was Genuinely Fun]] — Lisan Al-Gaib (@hashmatti)
 - [[ChatGPT Images + Seedance Character Sheets - @jerrod_lew]] — Jerrod Lew (@jerrod_lew)
+- [[Let That Idea Exist]] — Marto (@martomads)
+- [[Into the Swing-Verse with Seedance 2]] — Latte (@0xbisc)
+- [[GPT Image 2 x Seedance 2.0 Workflow]] — DStudioproject (@d_studioproject)
 ## Stats
 
-- **Total tweets:** 925
+- **Total tweets:** 941
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -394,6 +404,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Auto-Prompting Loop as LLM Scaling Vector - @dosco]] — spacy (@dosco)
 - [[Hands-On Modern RL Tutorial]] — Xiuyu Li (@sheriyuo)
 - [[Zachary BENSALEM - Adaptive Reasoning Systems Article]] — Zachary BENSALEM (@ZacharyByDesign)
+- [[Local GPU AI Research Setup in 3 Months]] — Michel Laclé (@micheltamanda)
 
 ## AI Agents
 
@@ -606,6 +617,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[RLM-FORGE Hermes Hackathon Submission - @jqonly]] — JQ Lee (@jqonly)
 - [[Rising Agent Costs and Small Models]] — Viv (@vtrivedy10)
 - [[Hermes Agent Multi-Profile Gateway Tip]] — Ivan Fioravanti (@ivanfioravanti)
+- [[JSON Visual DNA Prompt Engineering]] — Vigo Zhao (@vigocreativeai)
+- [[15 Hidden Hermes Agent Features]] — shmidt (@shmidtqq)
+- [[Meta Tribe V2 Brain Response Prediction]] — Shann³ (@shannholmberg)
+- [[OpenClaw Hotel Outreach Automation Bot]] — Chris (@everestchris6)
 
 ## Developer Tools & Code Intelligence
 
@@ -691,6 +706,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Anthropic Claude Code Playbook for Companies - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[Codex Plugin CC Adversarial Review - @nicos_ai]] — Nico (@nicos_ai)
 - [[Image-to-Code Feedback Request - @lexnlin]] — Leon Lin (@lexnlin)
+- [[Tailscale for Hermes Workspace on Mobile]] — vmiss (@vmiss33)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

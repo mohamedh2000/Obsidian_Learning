@@ -410,6 +410,14 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GPT Image Brand Identity System Prompt]] — ABDULLAH (@itxabdullaa)
 - [[Hermes Agent Multi-Profile Gateway Tip]] — Ivan Fioravanti (@ivanfioravanti)
 - [[Japanese Editorial Science Poster Prompt]] — sankalp (@dejavucoder)
+- [[LangChain AI - The Agent Engineering Platform]] — LangChain (@langchain-ai)
+- [[JSON Visual DNA Prompt Engineering]] — Vigo Zhao (@vigocreativeai)
+- [[15 Hidden Hermes Agent Features]] — shmidt (@shmidtqq)
+- [[Pixel Manipulation Visual Experiments]] — Sha (@its_sslvr)
+- [[Simple UI, Powerful Motion]] — ALX 🇺🇸 (@alxui_ux)
+- [[Scanning WebGL Background in Unicorn Studio]] — mitkow1 (@mariuszmitkow)
+- [[Local GPU AI Research Setup in 3 Months]] — Michel Laclé (@micheltamanda)
+- [[Best Landing Page of the Month]] — 𝙉𝙤𝙖𝙧𝙩𝙚.𝙗𝙩𝙘 | 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝘽𝙪𝙞𝙡𝙙𝙚r (@gnf_noarte)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -584,7 +592,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1042
+- **Total notes:** 1059
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -774,6 +782,15 @@ See [[Twitter Posts MOC]] for full index.
 - [[This Was Genuinely Fun]] — Lisan Al-Gaib (@hashmatti)
 - [[ChatGPT Images + Seedance Character Sheets - @jerrod_lew]] — Jerrod Lew (@jerrod_lew)
 - [[LangChain Careers - Job Posting]] — LangChain
+- [[Meta Tribe V2 Brain Response Prediction]] — Shann³ (@shannholmberg)
+- [[OpenClaw Hotel Outreach Automation Bot]] — Chris (@everestchris6)
+- [[Designer Client Attraction Through Style]] — Alex Socoloff (@socoloffalex)
+- [[Let That Idea Exist]] — Marto (@martomads)
+- [[Seedance 2.0 Drummer Character Sheet]] — Jerrod Lew (@jerrod_lew)
+- [[Next-Level AI Design Artifacts]] — Carlos E. Perez (@intuitmachine)
+- [[Tailscale for Hermes Workspace on Mobile]] — vmiss (@vmiss33)
+- [[Into the Swing-Verse with Seedance 2]] — Latte (@0xbisc)
+- [[GPT Image 2 x Seedance 2.0 Workflow]] — DStudioproject (@d_studioproject)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
