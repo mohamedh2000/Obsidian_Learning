@@ -418,6 +418,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Scanning WebGL Background in Unicorn Studio]] — mitkow1 (@mariuszmitkow)
 - [[Local GPU AI Research Setup in 3 Months]] — Michel Laclé (@micheltamanda)
 - [[Best Landing Page of the Month]] — 𝙉𝙤𝙖𝙧𝙩𝙚.𝙗𝙩𝙘 | 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝘽𝙪𝙞𝙡𝙙𝙚r (@gnf_noarte)
+- [[The Anatomy of an Agent Harness]] — Vivek Trivedy (LangChain)
+- [[Autodata - Agentic Data Scientist for Training Data]] — DAIR.AI (@dair_ai)
+- [[LangSmith Platform - Agent Observability and Deployment]] — LangChain
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -592,7 +595,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1059
+- **Total notes:** 1064
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -791,6 +794,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Tailscale for Hermes Workspace on Mobile]] — vmiss (@vmiss33)
 - [[Into the Swing-Verse with Seedance 2]] — Latte (@0xbisc)
 - [[GPT Image 2 x Seedance 2.0 Workflow]] — DStudioproject (@d_studioproject)
+- [[Street-Jazz Dance Choreography with ChatGPT and Seedance]] — Dheepan Ratnam (@dheepanratnam)
+- [[GPT Image Anime Cult Video Workflow]] — DStudioproject (@d_studioproject)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

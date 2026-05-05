@@ -806,3 +806,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Scanning WebGL Background in Unicorn Studio]] — mitkow1 (@mariuszmitkow)
 - [[Local GPU AI Research Setup in 3 Months]] — Michel Laclé (@micheltamanda)
 - [[Best Landing Page of the Month]] — 𝙉𝙤𝙖𝙧𝙩𝙚.𝙗𝙩𝙘 | 𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝘽𝙪𝙞𝙡𝙙𝙚r (@gnf_noarte)
+- [[The Anatomy of an Agent Harness]] — Vivek Trivedy (LangChain)
+- [[Autodata - Agentic Data Scientist for Training Data]] — DAIR.AI (@dair_ai)
+- [[LangSmith Platform - Agent Observability and Deployment]] — LangChain

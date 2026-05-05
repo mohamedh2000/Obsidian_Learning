@@ -360,9 +360,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Let That Idea Exist]] — Marto (@martomads)
 - [[Into the Swing-Verse with Seedance 2]] — Latte (@0xbisc)
 - [[GPT Image 2 x Seedance 2.0 Workflow]] — DStudioproject (@d_studioproject)
+- [[Street-Jazz Dance Choreography with ChatGPT and Seedance]] — Dheepan Ratnam (@dheepanratnam)
+- [[GPT Image Anime Cult Video Workflow]] — DStudioproject (@d_studioproject)
 ## Stats
 
-- **Total tweets:** 941
+- **Total tweets:** 944
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -621,6 +623,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[15 Hidden Hermes Agent Features]] — shmidt (@shmidtqq)
 - [[Meta Tribe V2 Brain Response Prediction]] — Shann³ (@shannholmberg)
 - [[OpenClaw Hotel Outreach Automation Bot]] — Chris (@everestchris6)
+- [[Autodata - Agentic Data Scientist for Training Data]] — DAIR.AI (@dair_ai)
 
 ## Developer Tools & Code Intelligence
 
