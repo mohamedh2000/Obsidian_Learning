@@ -404,6 +404,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Local LLM Web Stack Setup - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[Local AI Maxxing with Hermes Agent - @witcheer]] — witcheer (@witcheer)
 - [[RLM-FORGE Hermes Hackathon Submission - @jqonly]] — JQ Lee (@jqonly)
+- [[Rising Agent Costs and Small Models]] — Viv (@vtrivedy10)
+- [[Tanjim Dashboard Design Inspiration]] — 老鬼 (@laogui)
+- [[anvie/evonic — Distributed Agent Platform with Safety Layer]] — anvie (github.com)
+- [[GPT Image Brand Identity System Prompt]] — ABDULLAH (@itxabdullaa)
+- [[Hermes Agent Multi-Profile Gateway Tip]] — Ivan Fioravanti (@ivanfioravanti)
+- [[Japanese Editorial Science Poster Prompt]] — sankalp (@dejavucoder)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -578,7 +584,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1031
+- **Total notes:** 1042
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -763,6 +769,11 @@ See [[Twitter Posts MOC]] for full index.
 - [[Zachary BENSALEM - Adaptive Reasoning Systems Article]] — Zachary BENSALEM (@ZacharyByDesign)
 - [[Anthropic Claude Code Playbook for Companies - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[Wallpaper Appreciation - @wh0sumit]] — sumit 🏴 (@wh0sumit)
+- [[Kit Langton Animations Demo]] — Kit Langton (@kitlangton)
+- [[Elicit — AI Research Assistant]] — Elicit (elicit.com)
+- [[This Was Genuinely Fun]] — Lisan Al-Gaib (@hashmatti)
+- [[ChatGPT Images + Seedance Character Sheets - @jerrod_lew]] — Jerrod Lew (@jerrod_lew)
+- [[LangChain Careers - Job Posting]] — LangChain
 
 ## Recovered 2026-03-26 — 2026-04-14
 

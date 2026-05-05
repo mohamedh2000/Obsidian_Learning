@@ -258,6 +258,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Animated Shadcn Components Collection - @tobybelhome]] — Toby (@tobybelhome)
 - [[Lumis Premium Modal Design - @tanjim38]] — Tanjim | AI Product Designer (@tanjim38)
 - [[Wallpaper Appreciation - @wh0sumit]] — sumit 🏴 (@wh0sumit)
+- [[Kit Langton Animations Demo]] — Kit Langton (@kitlangton)
+- [[Tanjim Dashboard Design Inspiration]] — 老鬼 (@laogui)
+- [[GPT Image Brand Identity System Prompt]] — ABDULLAH (@itxabdullaa)
+- [[Japanese Editorial Science Poster Prompt]] — sankalp (@dejavucoder)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -344,9 +348,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[CDP Browser Tracing with Browserbase - @ayi_ainotes]] — AYi (@ayi_ainotes)
 - [[luizafurdui Tweet]] — (@luizafurdui)
 - [[Flightcn Airport Visualization Extension - @ridemountainpig]] — Yen Cheng Lin ✨ (@ridemountainpig)
+- [[This Was Genuinely Fun]] — Lisan Al-Gaib (@hashmatti)
+- [[ChatGPT Images + Seedance Character Sheets - @jerrod_lew]] — Jerrod Lew (@jerrod_lew)
 ## Stats
 
-- **Total tweets:** 917
+- **Total tweets:** 925
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -598,6 +604,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Local LLM Web Stack Setup - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[Local AI Maxxing with Hermes Agent - @witcheer]] — witcheer (@witcheer)
 - [[RLM-FORGE Hermes Hackathon Submission - @jqonly]] — JQ Lee (@jqonly)
+- [[Rising Agent Costs and Small Models]] — Viv (@vtrivedy10)
+- [[Hermes Agent Multi-Profile Gateway Tip]] — Ivan Fioravanti (@ivanfioravanti)
 
 ## Developer Tools & Code Intelligence
 

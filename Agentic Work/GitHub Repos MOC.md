@@ -53,6 +53,7 @@ GitHub repositories saved from iMessage.
 - [[OpenAI Symphony Autonomous Implementation Runs]] — OpenAI
 - [[hermes-labyrinth - Agent Observability Plugin]] — stainlu
 - [[evoiz/Agentic-Design-Patterns - Complete AI agent design patterns curriculum]] — Antonio Gulli (@evoiz)
+- [[anvie/evonic — Distributed Agent Platform with Safety Layer]] — anvie (github.com)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
