@@ -369,7 +369,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Dance Sauce Choreography Plating Prompt]] — Gadgetify (@gdgtify)
 ## Stats
 
-- **Total tweets:** 953
+- **Total tweets:** 954
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -632,6 +632,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Autodata - Agentic Data Scientist for Training Data]] — DAIR.AI (@dair_ai)
 - [[Hermes Agent HyperFrames Video Skill]] — Nous Research (@nousresearch)
 - [[Hermes HyperFrames Skill Installation]] — Nous Research (@nousresearch)
+- [[LangChain NVIDIA Conversation - @langchain]] — LangChain (@langchain)
 
 ## Developer Tools & Code Intelligence
 
