@@ -269,6 +269,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Designer Client Attraction Through Style]] — Alex Socoloff (@socoloffalex)
 - [[Seedance 2.0 Drummer Character Sheet]] — Jerrod Lew (@jerrod_lew)
 - [[Next-Level AI Design Artifacts]] — Carlos E. Perez (@intuitmachine)
+- [[ChatGPT Streetwear Poster Prompt Design]] — 波妞PONYO (@ponyodong)
+- [[AI Image Gen Design Trends 2026 Research]] — Alex Zhang (@jojogh_007)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -362,9 +364,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 x Seedance 2.0 Workflow]] — DStudioproject (@d_studioproject)
 - [[Street-Jazz Dance Choreography with ChatGPT and Seedance]] — Dheepan Ratnam (@dheepanratnam)
 - [[GPT Image Anime Cult Video Workflow]] — DStudioproject (@d_studioproject)
+- [[ChatGPT Seedance Cooking Tutorial Generation]] — Dheepan Ratnam (@dheepanratnam)
+- [[GPT Image Seedance Cinematic Storyboard Prompt]] — ÀBDŪLLÂH (@itxabdullaa)
+- [[Dance Sauce Choreography Plating Prompt]] — Gadgetify (@gdgtify)
 ## Stats
 
-- **Total tweets:** 945
+- **Total tweets:** 953
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -625,6 +630,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Meta Tribe V2 Brain Response Prediction]] — Shann³ (@shannholmberg)
 - [[OpenClaw Hotel Outreach Automation Bot]] — Chris (@everestchris6)
 - [[Autodata - Agentic Data Scientist for Training Data]] — DAIR.AI (@dair_ai)
+- [[Hermes Agent HyperFrames Video Skill]] — Nous Research (@nousresearch)
+- [[Hermes HyperFrames Skill Installation]] — Nous Research (@nousresearch)
 
 ## Developer Tools & Code Intelligence
 
@@ -711,6 +718,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Plugin CC Adversarial Review - @nicos_ai]] — Nico (@nicos_ai)
 - [[Image-to-Code Feedback Request - @lexnlin]] — Leon Lin (@lexnlin)
 - [[Tailscale for Hermes Workspace on Mobile]] — vmiss (@vmiss33)
+- [[GPT-2 Image Gen Layout Control Discussion]] — AmirMušić (@amirmushich)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

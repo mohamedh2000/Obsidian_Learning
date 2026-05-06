@@ -810,3 +810,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Autodata - Agentic Data Scientist for Training Data]] — DAIR.AI (@dair_ai)
 - [[LangSmith Platform - Agent Observability and Deployment]] — LangChain
 - [[Model Spec Midtraining MSM - @anthropicai]] — Anthropic (@anthropicai)
+- [[Hermes Agent HyperFrames Video Skill]] — Nous Research (@nousresearch)
+- [[Hermes HyperFrames Skill Installation]] — Nous Research (@nousresearch)
+- [[GPT-2 Image Gen Layout Control Discussion]] — AmirMušić (@amirmushich)
+- [[ChatGPT Streetwear Poster Prompt Design]] — 波妞PONYO (@ponyodong)
+- [[AI Image Gen Design Trends 2026 Research]] — Alex Zhang (@jojogh_007)
