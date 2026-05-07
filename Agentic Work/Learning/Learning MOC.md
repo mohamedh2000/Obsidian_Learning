@@ -821,3 +821,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hermes Agent Plugins Documentation - Pluggable Interfaces]] — Nous Research
 - [[Footer Design Showcase]] — Swarnima (@swarnima_otw)
 - [[Midjourney V8.1 SREF Codes Gallery - TischEins]] — Tischeins (@tisch_eins)
+- [[How to Become an AI Engineer in 2026 - Builder's Roadmap]] — Avid (@Av1dlive)
