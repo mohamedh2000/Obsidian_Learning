@@ -436,6 +436,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[How to Become an AI Engineer in 2026 - Builder's Roadmap]] — Avid (@Av1dlive)
 - [[ChatGPT Brand Identity System Workflow]] — Dheepan Ratnam (@dheepanratnam)
 - [[Hermes Agent Cronjobs for Gateway Automation]] — Teknium 🪽 (@teknium)
+- [[BYO Sandbox with Deep Agents]] — LangChain (@langchain)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -610,7 +611,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1099
+- **Total notes:** 1100
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

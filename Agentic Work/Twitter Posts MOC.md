@@ -374,7 +374,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image Gen Prompts & Pipeline Article]] — AmirMušić (@amirmushich)
 ## Stats
 
-- **Total tweets:** 962
+- **Total tweets:** 963
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -640,6 +640,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LangChain NVIDIA Conversation - @langchain]] — LangChain (@langchain)
 - [[How to Become an AI Engineer in 2026 - Builder's Roadmap]] — Avid (@Av1dlive)
 - [[Hermes Agent Cronjobs for Gateway Automation]] — Teknium 🪽 (@teknium)
+- [[BYO Sandbox with Deep Agents]] — LangChain (@langchain)
 
 ## Developer Tools & Code Intelligence
 

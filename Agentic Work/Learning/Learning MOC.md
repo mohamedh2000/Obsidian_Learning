@@ -824,3 +824,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[How to Become an AI Engineer in 2026 - Builder's Roadmap]] — Avid (@Av1dlive)
 - [[ChatGPT Brand Identity System Workflow]] — Dheepan Ratnam (@dheepanratnam)
 - [[Hermes Agent Cronjobs for Gateway Automation]] — Teknium 🪽 (@teknium)
+- [[BYO Sandbox with Deep Agents]] — LangChain (@langchain)
