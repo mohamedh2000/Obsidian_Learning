@@ -815,3 +815,9 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT-2 Image Gen Layout Control Discussion]] — AmirMušić (@amirmushich)
 - [[ChatGPT Streetwear Poster Prompt Design]] — 波妞PONYO (@ponyodong)
 - [[AI Image Gen Design Trends 2026 Research]] — Alex Zhang (@jojogh_007)
+- [[GPT Image Gen Prompts & Pipeline Article]] — AmirMušić (@amirmushich)
+- [[Micrographics Design App - Produx Lab]] — Alex Socoloff (@socoloffalex)
+- [[50 Major Design Styles Reference Guide]] — Slideland｜スライドランド (@slideland229)
+- [[Hermes Agent Plugins Documentation - Pluggable Interfaces]] — Nous Research
+- [[Footer Design Showcase]] — Swarnima (@swarnima_otw)
+- [[Midjourney V8.1 SREF Codes Gallery - TischEins]] — Tischeins (@tisch_eins)

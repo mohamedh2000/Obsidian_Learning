@@ -271,6 +271,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Next-Level AI Design Artifacts]] — Carlos E. Perez (@intuitmachine)
 - [[ChatGPT Streetwear Poster Prompt Design]] — 波妞PONYO (@ponyodong)
 - [[AI Image Gen Design Trends 2026 Research]] — Alex Zhang (@jojogh_007)
+- [[Micrographics Design App - Produx Lab]] — Alex Socoloff (@socoloffalex)
+- [[50 Major Design Styles Reference Guide]] — Slideland｜スライドランド (@slideland229)
+- [[Footer Design Showcase]] — Swarnima (@swarnima_otw)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -367,9 +370,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ChatGPT Seedance Cooking Tutorial Generation]] — Dheepan Ratnam (@dheepanratnam)
 - [[GPT Image Seedance Cinematic Storyboard Prompt]] — ÀBDŪLLÂH (@itxabdullaa)
 - [[Dance Sauce Choreography Plating Prompt]] — Gadgetify (@gdgtify)
+- [[GPT Image Gen Prompts & Pipeline Article]] — AmirMušić (@amirmushich)
 ## Stats
 
-- **Total tweets:** 954
+- **Total tweets:** 959
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -720,6 +724,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Image-to-Code Feedback Request - @lexnlin]] — Leon Lin (@lexnlin)
 - [[Tailscale for Hermes Workspace on Mobile]] — vmiss (@vmiss33)
 - [[GPT-2 Image Gen Layout Control Discussion]] — AmirMušić (@amirmushich)
+- [[Midjourney V8.1 SREF Codes Gallery - TischEins]] — Tischeins (@tisch_eins)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

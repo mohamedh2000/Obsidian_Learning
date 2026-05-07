@@ -427,6 +427,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GPT-2 Image Gen Layout Control Discussion]] — AmirMušić (@amirmushich)
 - [[ChatGPT Streetwear Poster Prompt Design]] — 波妞PONYO (@ponyodong)
 - [[AI Image Gen Design Trends 2026 Research]] — Alex Zhang (@jojogh_007)
+- [[GPT Image Gen Prompts & Pipeline Article]] — AmirMušić (@amirmushich)
+- [[Micrographics Design App - Produx Lab]] — Alex Socoloff (@socoloffalex)
+- [[50 Major Design Styles Reference Guide]] — Slideland｜スライドランド (@slideland229)
+- [[Hermes Agent Plugins Documentation - Pluggable Interfaces]] — Nous Research
+- [[Footer Design Showcase]] — Swarnima (@swarnima_otw)
+- [[Midjourney V8.1 SREF Codes Gallery - TischEins]] — Tischeins (@tisch_eins)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -601,7 +607,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1074
+- **Total notes:** 1096
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -806,6 +812,22 @@ See [[Twitter Posts MOC]] for full index.
 - [[GPT Image Seedance Cinematic Storyboard Prompt]] — ÀBDŪLLÂH (@itxabdullaa)
 - [[Dance Sauce Choreography Plating Prompt]] — Gadgetify (@gdgtify)
 - [[LangChain NVIDIA Conversation - @langchain]] — LangChain (@langchain)
+- [[Empty Space - AI-Generated Retro Anime Trailer]] — thisanimedoesnotexist (@thisanimedoesnotexist)
+- [[Mercy For None - Korean Action Crime Drama]] — cinefy.7 (@cinefy.7)
+- [[Time to Hunt - Korean Dystopian Survival Thriller]] — neweyeofcinema (@neweyeofcinema)
+- [[A Killer Paradox - Korean Crime Thriller K-drama]] — cinefy.7 (@cinefy.7)
+- [[Lettres de Krakovie Tea Scene Animation - @les_monstres]] — les_monstres (@les_monstres)
+- [[Monsters We Make Vol 3 Trailer - @les_monstres]] — les_monstres (@les_monstres)
+- [[Lettres de Krakovie Extended Cut - @les_monstres]] — les_monstres (@les_monstres)
+- [[The Art of Sarah K-Drama Recommendation - @fabeha_n_]] — fabeha_n_ (@fabeha_n_)
+- [[Hunter with a Scalpel K-Drama Recommendation - @karan_nagpuria]] — karan_nagpuria (@karan_nagpuria)
+- [[Egg Film Animated Short - @jpeg.tobin]] — jpeg.tobin (@jpeg.tobin)
+- [[Sword of Symphony Text Fighting Game - @0x0000000]] — stephenddungu.games & 0x0000000 (@00000_00_0x0000000)
+- [[Summit of the Gods Animated Film - @itsjustcinema]] — itsjustcinema (@itsjustcinema)
+- [[For Honor Execution Storyboard - @yey_bot]] — yey_bot (@yey_bot)
+- [[Wine Martini GOBELINS Student Animation - @gobelins.paris]] — GOBELINS Paris (@gobelins.paris)
+- [[Sub Urban - What You Sow Music Video]] — Sub Urban (@suburban)
+- [[Instagram Reel DV6hYe1iJd4]] — Unknown (@unknown)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
