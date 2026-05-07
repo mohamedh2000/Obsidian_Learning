@@ -274,6 +274,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Micrographics Design App - Produx Lab]] — Alex Socoloff (@socoloffalex)
 - [[50 Major Design Styles Reference Guide]] — Slideland｜スライドランド (@slideland229)
 - [[Footer Design Showcase]] — Swarnima (@swarnima_otw)
+- [[ChatGPT Brand Identity System Workflow]] — Dheepan Ratnam (@dheepanratnam)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -373,7 +374,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image Gen Prompts & Pipeline Article]] — AmirMušić (@amirmushich)
 ## Stats
 
-- **Total tweets:** 960
+- **Total tweets:** 962
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -638,6 +639,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes HyperFrames Skill Installation]] — Nous Research (@nousresearch)
 - [[LangChain NVIDIA Conversation - @langchain]] — LangChain (@langchain)
 - [[How to Become an AI Engineer in 2026 - Builder's Roadmap]] — Avid (@Av1dlive)
+- [[Hermes Agent Cronjobs for Gateway Automation]] — Teknium 🪽 (@teknium)
 
 ## Developer Tools & Code Intelligence
 
