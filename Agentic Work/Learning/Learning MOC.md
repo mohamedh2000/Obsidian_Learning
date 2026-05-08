@@ -838,3 +838,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Autobrowse - Browser Agent with Persistent Skill Memory]] — Ronin (@deronin_)
 - [[Agentic Search for Context Engineering]] — ramakrushna— e/acc (@techwith_ram)
 - [[DESIGN.md Files for AI Design Context]] — Santi Torres (@santitorai)
+- [[K-pop Zine Style JSON Prompt Template]] — Vigo Zhao (@vigocreativeai)

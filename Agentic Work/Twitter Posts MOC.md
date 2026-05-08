@@ -392,7 +392,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 + Seedance Cinematic Cycling Video]] — Sharon Riley (@just_sharon7)
 ## Stats
 
-- **Total tweets:** 990
+- **Total tweets:** 991
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -666,6 +666,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LangChain Deep Agents API Integration]] — LangChain (@langchain)
 - [[Agentic Search for Context Engineering]] — ramakrushna— e/acc (@techwith_ram)
 - [[Seedance 2.0 Cinematic Camera Workflows]] — VoxelPlot (@voxelplot)
+- [[K-pop Zine Style JSON Prompt Template]] — Vigo Zhao (@vigocreativeai)
 
 ## Developer Tools & Code Intelligence
 
