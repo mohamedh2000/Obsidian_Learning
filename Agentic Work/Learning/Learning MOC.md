@@ -832,3 +832,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Telegram Streaming for Agents Update]] — Meta Alchemist (@meta_alchemist)
 - [[Seedance2.0 Pasta Animation Prompt Template]] — AIスタジオワンルーム（AIアニメ、動画、漫画） (@studio_oneroom)
+- [[Mixtape Pause Menu Design]] — 𝙉𝙄𝙆𝙁𝙊𝙍 (@nikfor_)
+- [[Hex Brand Kit Snippets]] — Ayush Soni (@ayushsoni_io)
+- [[claude-ads - Paid Advertising Audit Skill]] — Agrici Daniel (@AgriciDaniel)

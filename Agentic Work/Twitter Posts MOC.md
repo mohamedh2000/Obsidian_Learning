@@ -278,6 +278,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Fashion Collection Lookbook Prompt Library]] — Dheepan Ratnam (@Dheepanratnam)
 - [[Crypto Product Design Showcase]] — UXdesigner (@UXdesigner42869)
 - [[Seedance2.0 Pasta Animation Prompt Template]] — AIスタジオワンルーム（AIアニメ、動画、漫画） (@studio_oneroom)
+- [[Mixtape Pause Menu Design]] — 𝙉𝙄𝙆𝙁𝙊𝙍 (@nikfor_)
+- [[Hex Brand Kit Snippets]] — Ayush Soni (@ayushsoni_io)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -389,7 +391,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 980
+- **Total tweets:** 984
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -658,6 +660,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[BYO Sandbox with Deep Agents]] — LangChain (@langchain)
 - [[Hermes Agent 101: The Complete Article Series]] — Neo (@NeoAIForecast)
 - [[Telegram Streaming for Agents Update]] — Meta Alchemist (@meta_alchemist)
+- [[Noustiny - Video Creation Pipeline on Hermes Agent]] — Geek Lite (@qingq77)
 
 ## Developer Tools & Code Intelligence
 
@@ -746,6 +749,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tailscale for Hermes Workspace on Mobile]] — vmiss (@vmiss33)
 - [[GPT-2 Image Gen Layout Control Discussion]] — AmirMušić (@amirmushich)
 - [[Midjourney V8.1 SREF Codes Gallery - TischEins]] — Tischeins (@tisch_eins)
+- [[Google AI Studio Storyboarding Tool]] — Henry Daubrez 🌸💀 (@henrydaubrez)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
