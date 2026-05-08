@@ -825,3 +825,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[ChatGPT Brand Identity System Workflow]] — Dheepan Ratnam (@dheepanratnam)
 - [[Hermes Agent Cronjobs for Gateway Automation]] — Teknium 🪽 (@teknium)
 - [[BYO Sandbox with Deep Agents]] — LangChain (@langchain)
+- [[GPT Image 2 Fashion Collection Lookbook Prompt Library]] — Dheepan Ratnam (@Dheepanratnam)
+- [[Crypto Product Design Showcase]] — UXdesigner (@UXdesigner42869)
+- [[Midjourney SREF Neo-Retro Pop Art Style]] — Midjourney Sref and prompt Library (@promptsref)

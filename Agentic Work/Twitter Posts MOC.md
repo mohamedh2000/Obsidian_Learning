@@ -275,6 +275,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[50 Major Design Styles Reference Guide]] — Slideland｜スライドランド (@slideland229)
 - [[Footer Design Showcase]] — Swarnima (@swarnima_otw)
 - [[ChatGPT Brand Identity System Workflow]] — Dheepan Ratnam (@dheepanratnam)
+- [[GPT Image 2 Fashion Collection Lookbook Prompt Library]] — Dheepan Ratnam (@Dheepanratnam)
+- [[Crypto Product Design Showcase]] — UXdesigner (@UXdesigner42869)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -372,9 +374,20 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image Seedance Cinematic Storyboard Prompt]] — ÀBDŪLLÂH (@itxabdullaa)
 - [[Dance Sauce Choreography Plating Prompt]] — Gadgetify (@gdgtify)
 - [[GPT Image Gen Prompts & Pipeline Article]] — AmirMušić (@amirmushich)
+- [[Pending Tweet - @zyrellix]] — @zyrellix
+- [[Pending Tweet - @kylejeong]] — @kylejeong
+- [[Pending Tweet - @ix00ai]] — @ix00ai
+- [[Pending Tweet - @teknium]] — @teknium
+- [[Pending Tweet - @albiahossain]] — @albiahossain
+- [[Pending Tweet - @lexnlin]] — @lexnlin
+- [[Pending Tweet - @sadiamalik182]] — @sadiamalik182
+- [[Pending Tweet - @allarhaltsonen]] — @allarhaltsonen
+- [[Pending Tweet - @sergeantsref]] — @sergeantsref
+- [[Pending Tweet - @yasirahmadnoori]] — @yasirahmadnoori
+- [[Midjourney SREF Neo-Retro Pop Art Style]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 963
+- **Total tweets:** 976
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
