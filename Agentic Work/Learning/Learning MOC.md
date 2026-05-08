@@ -831,3 +831,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hermes Agent 101: The Complete Article Series]] — Neo (@NeoAIForecast)
 - [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Telegram Streaming for Agents Update]] — Meta Alchemist (@meta_alchemist)
+- [[Seedance2.0 Pasta Animation Prompt Template]] — AIスタジオワンルーム（AIアニメ、動画、漫画） (@studio_oneroom)

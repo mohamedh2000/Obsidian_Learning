@@ -277,6 +277,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ChatGPT Brand Identity System Workflow]] — Dheepan Ratnam (@dheepanratnam)
 - [[GPT Image 2 Fashion Collection Lookbook Prompt Library]] — Dheepan Ratnam (@Dheepanratnam)
 - [[Crypto Product Design Showcase]] — UXdesigner (@UXdesigner42869)
+- [[Seedance2.0 Pasta Animation Prompt Template]] — AIスタジオワンルーム（AIアニメ、動画、漫画） (@studio_oneroom)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -388,7 +389,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 979
+- **Total tweets:** 980
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
