@@ -392,7 +392,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 + Seedance Cinematic Cycling Video]] — Sharon Riley (@just_sharon7)
 ## Stats
 
-- **Total tweets:** 986
+- **Total tweets:** 990
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -663,6 +663,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Telegram Streaming for Agents Update]] — Meta Alchemist (@meta_alchemist)
 - [[Noustiny - Video Creation Pipeline on Hermes Agent]] — Geek Lite (@qingq77)
 - [[Autobrowse - Browser Agent with Persistent Skill Memory]] — Ronin (@deronin_)
+- [[LangChain Deep Agents API Integration]] — LangChain (@langchain)
+- [[Agentic Search for Context Engineering]] — ramakrushna— e/acc (@techwith_ram)
+- [[Seedance 2.0 Cinematic Camera Workflows]] — VoxelPlot (@voxelplot)
 
 ## Developer Tools & Code Intelligence
 
@@ -752,6 +755,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT-2 Image Gen Layout Control Discussion]] — AmirMušić (@amirmushich)
 - [[Midjourney V8.1 SREF Codes Gallery - TischEins]] — Tischeins (@tisch_eins)
 - [[Google AI Studio Storyboarding Tool]] — Henry Daubrez 🌸💀 (@henrydaubrez)
+- [[DESIGN.md Files for AI Design Context]] — Santi Torres (@santitorai)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

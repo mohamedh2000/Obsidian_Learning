@@ -836,3 +836,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hex Brand Kit Snippets]] — Ayush Soni (@ayushsoni_io)
 - [[claude-ads - Paid Advertising Audit Skill]] — Agrici Daniel (@AgriciDaniel)
 - [[Autobrowse - Browser Agent with Persistent Skill Memory]] — Ronin (@deronin_)
+- [[Agentic Search for Context Engineering]] — ramakrushna— e/acc (@techwith_ram)
+- [[DESIGN.md Files for AI Design Context]] — Santi Torres (@santitorai)
