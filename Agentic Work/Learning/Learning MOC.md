@@ -828,3 +828,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT Image 2 Fashion Collection Lookbook Prompt Library]] — Dheepan Ratnam (@Dheepanratnam)
 - [[Crypto Product Design Showcase]] — UXdesigner (@UXdesigner42869)
 - [[Midjourney SREF Neo-Retro Pop Art Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Hermes Agent 101: The Complete Article Series]] — Neo (@NeoAIForecast)
+- [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Telegram Streaming for Agents Update]] — Meta Alchemist (@meta_alchemist)
