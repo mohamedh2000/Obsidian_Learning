@@ -447,6 +447,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Mixtape Pause Menu Design]] — 𝙉𝙄𝙆𝙁𝙊𝙍 (@nikfor_)
 - [[Hex Brand Kit Snippets]] — Ayush Soni (@ayushsoni_io)
 - [[claude-ads - Paid Advertising Audit Skill]] — Agrici Daniel (@AgriciDaniel)
+- [[Autobrowse - Browser Agent with Persistent Skill Memory]] — Ronin (@deronin_)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -621,7 +622,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1122
+- **Total notes:** 1124
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -854,6 +855,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Pending Tweet - @yasirahmadnoori]] — @yasirahmadnoori
 - [[Noustiny - Video Creation Pipeline on Hermes Agent]] — Geek Lite (@qingq77)
 - [[Google AI Studio Storyboarding Tool]] — Henry Daubrez 🌸💀 (@henrydaubrez)
+- [[GPT Image 2 + Seedance Cinematic Cycling Video]] — Sharon Riley (@just_sharon7)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

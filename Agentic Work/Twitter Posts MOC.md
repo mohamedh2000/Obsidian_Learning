@@ -389,9 +389,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Pending Tweet - @yasirahmadnoori]] — @yasirahmadnoori
 - [[Midjourney SREF Neo-Retro Pop Art Style]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[GPT Image 2 + Seedance Cinematic Cycling Video]] — Sharon Riley (@just_sharon7)
 ## Stats
 
-- **Total tweets:** 984
+- **Total tweets:** 986
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -661,6 +662,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent 101: The Complete Article Series]] — Neo (@NeoAIForecast)
 - [[Telegram Streaming for Agents Update]] — Meta Alchemist (@meta_alchemist)
 - [[Noustiny - Video Creation Pipeline on Hermes Agent]] — Geek Lite (@qingq77)
+- [[Autobrowse - Browser Agent with Persistent Skill Memory]] — Ronin (@deronin_)
 
 ## Developer Tools & Code Intelligence
 

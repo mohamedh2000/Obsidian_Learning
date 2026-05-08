@@ -835,3 +835,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Mixtape Pause Menu Design]] — 𝙉𝙄𝙆𝙁𝙊𝙍 (@nikfor_)
 - [[Hex Brand Kit Snippets]] — Ayush Soni (@ayushsoni_io)
 - [[claude-ads - Paid Advertising Audit Skill]] — Agrici Daniel (@AgriciDaniel)
+- [[Autobrowse - Browser Agent with Persistent Skill Memory]] — Ronin (@deronin_)
