@@ -1,4 +1,5 @@
 {
   "theme": "moonstone",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "baseFontSizeAction": false
 }
