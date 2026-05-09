@@ -280,6 +280,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Seedance2.0 Pasta Animation Prompt Template]] — AIスタジオワンルーム（AIアニメ、動画、漫画） (@studio_oneroom)
 - [[Mixtape Pause Menu Design]] — 𝙉𝙄𝙆𝙁𝙊𝙍 (@nikfor_)
 - [[Hex Brand Kit Snippets]] — Ayush Soni (@ayushsoni_io)
+- [[UI Design Magic Timeline Blessing - @krisanfalova]] — Kris Anfalova (@krisanfalova)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -390,9 +391,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney SREF Neo-Retro Pop Art Style]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
 - [[GPT Image 2 + Seedance Cinematic Cycling Video]] — Sharon Riley (@just_sharon7)
+- [[Agent Escort Mission AI Video Demo - @0xbisc]] — Latte (@0xbisc)
 ## Stats
 
-- **Total tweets:** 991
+- **Total tweets:** 994
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -667,6 +669,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agentic Search for Context Engineering]] — ramakrushna— e/acc (@techwith_ram)
 - [[Seedance 2.0 Cinematic Camera Workflows]] — VoxelPlot (@voxelplot)
 - [[K-pop Zine Style JSON Prompt Template]] — Vigo Zhao (@vigocreativeai)
+- [[Parallel Search APIs for Agent Context - @vtrivedy10]] — Viv (@vtrivedy10)
 
 ## Developer Tools & Code Intelligence
 

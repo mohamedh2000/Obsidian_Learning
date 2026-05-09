@@ -839,3 +839,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Agentic Search for Context Engineering]] — ramakrushna— e/acc (@techwith_ram)
 - [[DESIGN.md Files for AI Design Context]] — Santi Torres (@santitorai)
 - [[K-pop Zine Style JSON Prompt Template]] — Vigo Zhao (@vigocreativeai)
+- [[UI Design Magic Timeline Blessing - @krisanfalova]] — Kris Anfalova (@krisanfalova)
