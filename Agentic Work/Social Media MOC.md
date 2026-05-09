@@ -60,3 +60,7 @@ Instagram reels and other social media content saved from iMessage.
 - [[Wine Martini GOBELINS Student Animation - @gobelins.paris]] — GOBELINS Paris (@gobelins.paris)
 - [[Sub Urban - What You Sow Music Video]] — Sub Urban (@suburban)
 - [[Instagram Reel DV6hYe1iJd4]] — Unknown (@unknown)
+- [[Sylvain Chomet on 'A Magnificent Life' - Rethinking the Biopic]] — Cartoon Brew (@cartoonbrew)
+- [[USC 'Caged Bird' 2D Animated Short Film Preview]] — USC Animation (@uscanimation)
+- [[AI Anime 'Girl Boss' - jboogxcreative Patreon Tutorial]] — jboogxcreative (@jboogxcreative)
+- [[DREAMSTATE PARK (PT1) - Creative Direction by TORVÆL]] — TORVÆL (@torvael)
