@@ -846,3 +846,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Midjourney + Shader Lab Visual Design]] — Kuba ✨ (@kubadesign)
 - [[Brain Exploration Company Design]] — Ayush Soni (@ayushsoni_io)
 - [[Hero Image Scroll Effect - Grow Box + Zoom Out]] — Alex Prokhorov (@alexprokhorov)
+- [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)

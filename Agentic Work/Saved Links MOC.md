@@ -458,6 +458,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Midjourney + Shader Lab Visual Design]] — Kuba ✨ (@kubadesign)
 - [[Brain Exploration Company Design]] — Ayush Soni (@ayushsoni_io)
 - [[Hero Image Scroll Effect - Grow Box + Zoom Out]] — Alex Prokhorov (@alexprokhorov)
+- [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -632,7 +633,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1138
+- **Total notes:** 1144
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -870,6 +871,11 @@ See [[Twitter Posts MOC]] for full index.
 - [[Seedance 2.0 Cinematic Camera Workflows]] — VoxelPlot (@voxelplot)
 - [[Parallel Search APIs for Agent Context - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[Agent Escort Mission AI Video Demo - @0xbisc]] — Latte (@0xbisc)
+- [[Last Week's Design Work Showcase]] — vansh (@vanshdevx)
+- [[Like a Lil Snack Media Post]] — 𝔭𝔬𝔢𝔩𝔩𝔩𝔩 (@poellll)
+- [[AI Loaders by imuratalpay]] — Best Designs On ✧ (@bestdesignsonx)
+- [[Build Something Wonderful Website Experience]] — Piyush Jain (@piyushxpj)
+- [[Seedance 2 Video Creation Without Storyboard]] — Nimentrix (@nimentrix)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

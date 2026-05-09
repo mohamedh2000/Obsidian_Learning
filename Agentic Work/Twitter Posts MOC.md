@@ -285,6 +285,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Portfolio Showcase - Favourite Work Collection]] — BenjaminUIX (@benjaminuix)
 - [[Brain Exploration Company Design]] — Ayush Soni (@ayushsoni_io)
 - [[Hero Image Scroll Effect - Grow Box + Zoom Out]] — Alex Prokhorov (@alexprokhorov)
+- [[Last Week's Design Work Showcase]] — vansh (@vanshdevx)
+- [[AI Loaders by imuratalpay]] — Best Designs On ✧ (@bestdesignsonx)
+- [[Build Something Wonderful Website Experience]] — Piyush Jain (@piyushxpj)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -396,9 +399,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney sref 3108000191: Soviet Sci-Fi Poster Style]] — Midjourney Sref and prompt Library (@promptsref)
 - [[GPT Image 2 + Seedance Cinematic Cycling Video]] — Sharon Riley (@just_sharon7)
 - [[Agent Escort Mission AI Video Demo - @0xbisc]] — Latte (@0xbisc)
+- [[Like a Lil Snack Media Post]] — 𝔭𝔬𝔢𝔩𝔩𝔩𝔩 (@poellll)
 ## Stats
 
-- **Total tweets:** 1000
+- **Total tweets:** 1006
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -674,6 +678,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Seedance 2.0 Cinematic Camera Workflows]] — VoxelPlot (@voxelplot)
 - [[K-pop Zine Style JSON Prompt Template]] — Vigo Zhao (@vigocreativeai)
 - [[Parallel Search APIs for Agent Context - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
 
 ## Developer Tools & Code Intelligence
 
@@ -766,6 +771,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DESIGN.md Files for AI Design Context]] — Santi Torres (@santitorai)
 - [[AI Design Workflow - No 3D Needed]] — Kris Anfalova (@krisanfalova)
 - [[Midjourney + Shader Lab Visual Design]] — Kuba ✨ (@kubadesign)
+- [[Seedance 2 Video Creation Without Storyboard]] — Nimentrix (@nimentrix)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
