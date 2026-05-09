@@ -461,6 +461,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
 - [[DeepSeek v4 Flash Local Inference ds4 Engine - @bindureddy]] — Bindu Reddy (@bindureddy)
 - [[Anime.js Interactive Site with Claude - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
+- [[GPT Image Designer-Grade Poster Prompt]] — Calira (@caliraval)
+- [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
+- [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -635,7 +638,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1152
+- **Total notes:** 1155
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

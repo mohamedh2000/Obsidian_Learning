@@ -290,6 +290,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Build Something Wonderful Website Experience]] — Piyush Jain (@piyushxpj)
 - [[Dark Mode Sports/Tech & Luxury Fashion Brand Identity Prompts]] — NoorAI (@noorwithwifi)
 - [[Anime.js Interactive Site with Claude - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
+- [[GPT Image Designer-Grade Poster Prompt]] — Calira (@caliraval)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -406,7 +407,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DeepSeek v4 Flash Local Inference ds4 Engine - @bindureddy]] — Bindu Reddy (@bindureddy)
 ## Stats
 
-- **Total tweets:** 1010
+- **Total tweets:** 1013
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -683,6 +684,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[K-pop Zine Style JSON Prompt Template]] — Vigo Zhao (@vigocreativeai)
 - [[Parallel Search APIs for Agent Context - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
+- [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
 
 ## Developer Tools & Code Intelligence
 
@@ -776,6 +778,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Design Workflow - No 3D Needed]] — Kris Anfalova (@krisanfalova)
 - [[Midjourney + Shader Lab Visual Design]] — Kuba ✨ (@kubadesign)
 - [[Seedance 2 Video Creation Without Storyboard]] — Nimentrix (@nimentrix)
+- [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

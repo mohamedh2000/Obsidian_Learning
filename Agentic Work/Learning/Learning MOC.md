@@ -849,3 +849,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
 - [[DeepSeek v4 Flash Local Inference ds4 Engine - @bindureddy]] — Bindu Reddy (@bindureddy)
 - [[Anime.js Interactive Site with Claude - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
+- [[GPT Image Designer-Grade Poster Prompt]] — Calira (@caliraval)
+- [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
+- [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
