@@ -452,6 +452,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[DESIGN.md Files for AI Design Context]] — Santi Torres (@santitorai)
 - [[K-pop Zine Style JSON Prompt Template]] — Vigo Zhao (@vigocreativeai)
 - [[UI Design Magic Timeline Blessing - @krisanfalova]] — Kris Anfalova (@krisanfalova)
+- [[AI Design Workflow - No 3D Needed]] — Kris Anfalova (@krisanfalova)
+- [[3 Rules for Better UI - Typography, Whitespace, Microinteractions]] — Kris Anfalova (@krisanfalova)
+- [[Portfolio Showcase - Favourite Work Collection]] — BenjaminUIX (@benjaminuix)
+- [[Midjourney + Shader Lab Visual Design]] — Kuba ✨ (@kubadesign)
+- [[Brain Exploration Company Design]] — Ayush Soni (@ayushsoni_io)
+- [[Hero Image Scroll Effect - Grow Box + Zoom Out]] — Alex Prokhorov (@alexprokhorov)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -626,7 +632,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1132
+- **Total notes:** 1138
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

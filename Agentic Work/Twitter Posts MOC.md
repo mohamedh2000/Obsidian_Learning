@@ -281,6 +281,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Mixtape Pause Menu Design]] — 𝙉𝙄𝙆𝙁𝙊𝙍 (@nikfor_)
 - [[Hex Brand Kit Snippets]] — Ayush Soni (@ayushsoni_io)
 - [[UI Design Magic Timeline Blessing - @krisanfalova]] — Kris Anfalova (@krisanfalova)
+- [[3 Rules for Better UI - Typography, Whitespace, Microinteractions]] — Kris Anfalova (@krisanfalova)
+- [[Portfolio Showcase - Favourite Work Collection]] — BenjaminUIX (@benjaminuix)
+- [[Brain Exploration Company Design]] — Ayush Soni (@ayushsoni_io)
+- [[Hero Image Scroll Effect - Grow Box + Zoom Out]] — Alex Prokhorov (@alexprokhorov)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -394,7 +398,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agent Escort Mission AI Video Demo - @0xbisc]] — Latte (@0xbisc)
 ## Stats
 
-- **Total tweets:** 994
+- **Total tweets:** 1000
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -760,6 +764,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney V8.1 SREF Codes Gallery - TischEins]] — Tischeins (@tisch_eins)
 - [[Google AI Studio Storyboarding Tool]] — Henry Daubrez 🌸💀 (@henrydaubrez)
 - [[DESIGN.md Files for AI Design Context]] — Santi Torres (@santitorai)
+- [[AI Design Workflow - No 3D Needed]] — Kris Anfalova (@krisanfalova)
+- [[Midjourney + Shader Lab Visual Design]] — Kuba ✨ (@kubadesign)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
