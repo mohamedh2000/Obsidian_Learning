@@ -289,6 +289,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Loaders by imuratalpay]] — Best Designs On ✧ (@bestdesignsonx)
 - [[Build Something Wonderful Website Experience]] — Piyush Jain (@piyushxpj)
 - [[Dark Mode Sports/Tech & Luxury Fashion Brand Identity Prompts]] — NoorAI (@noorwithwifi)
+- [[Anime.js Interactive Site with Claude - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -402,9 +403,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agent Escort Mission AI Video Demo - @0xbisc]] — Latte (@0xbisc)
 - [[Like a Lil Snack Media Post]] — 𝔭𝔬𝔢𝔩𝔩𝔩𝔩 (@poellll)
 - [[GPT Image 2 + Seedance 2.0 Color-Coded Storyboard Workflow]] — Kōda (@aimikoda)
+- [[DeepSeek v4 Flash Local Inference ds4 Engine - @bindureddy]] — Bindu Reddy (@bindureddy)
 ## Stats
 
-- **Total tweets:** 1008
+- **Total tweets:** 1010
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

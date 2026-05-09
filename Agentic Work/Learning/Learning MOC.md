@@ -847,3 +847,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Brain Exploration Company Design]] — Ayush Soni (@ayushsoni_io)
 - [[Hero Image Scroll Effect - Grow Box + Zoom Out]] — Alex Prokhorov (@alexprokhorov)
 - [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
+- [[DeepSeek v4 Flash Local Inference ds4 Engine - @bindureddy]] — Bindu Reddy (@bindureddy)
+- [[Anime.js Interactive Site with Claude - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
