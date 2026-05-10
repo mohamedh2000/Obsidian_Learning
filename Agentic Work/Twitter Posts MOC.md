@@ -291,6 +291,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Dark Mode Sports/Tech & Luxury Fashion Brand Identity Prompts]] — NoorAI (@noorwithwifi)
 - [[Anime.js Interactive Site with Claude - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
 - [[GPT Image Designer-Grade Poster Prompt]] — Calira (@caliraval)
+- [[ASCII Backgrounds Landing Page Design - @uihssn]] — Ahmed Hassan (@uihssn)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -408,7 +409,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 ## Stats
 
-- **Total tweets:** 1014
+- **Total tweets:** 1016
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -686,6 +687,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Parallel Search APIs for Agent Context - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
 - [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
+- [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
 
 ## Developer Tools & Code Intelligence
 

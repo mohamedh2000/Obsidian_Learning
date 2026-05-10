@@ -853,3 +853,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
 - [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
 - [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
+- [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)

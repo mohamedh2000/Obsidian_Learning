@@ -465,6 +465,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
 - [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
 - [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
+- [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -639,7 +640,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1156
+- **Total notes:** 1161
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -888,6 +889,10 @@ See [[Twitter Posts MOC]] for full index.
 - [[USC 'Caged Bird' 2D Animated Short Film Preview]] — USC Animation (@uscanimation)
 - [[AI Anime 'Girl Boss' - jboogxcreative Patreon Tutorial]] — jboogxcreative (@jboogxcreative)
 - [[DREAMSTATE PARK (PT1) - Creative Direction by TORVÆL]] — TORVÆL (@torvael)
+- [[Nippon Sangoku Anime Edit]] — bra1nooo_tt (@bra1nooo_tt)
+- [[Cowboy Bebop (1998) Scene]] — foryouclips (@foryouclips)
+- [[Pi - AI Agent Coding Toolkit]] — earendil-works on GitHub
+- [[ASCII Backgrounds Landing Page Design - @uihssn]] — Ahmed Hassan (@uihssn)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
