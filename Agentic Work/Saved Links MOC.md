@@ -467,6 +467,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 - [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
 - [[ASCII Art Motion Design in Framer]] — Oriku (@oriku175)
+- [[K2 Smart Prompts for Graphic Poster Design]] — AmirMušić (@amirmushich)
+- [[GPT Image 2 Campaign Workflow - Gucci x Crocs]] — AmirMušić (@amirmushich)
+- [[Codex Three.js Magic Book Particle Dissolve Effect]] — 大话ocean (@ocean0726772007)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -641,7 +644,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1165
+- **Total notes:** 1169
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1244,3 +1247,7 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[（1/8）🚀 Introducing Qwen3]] — Qwen (@Alibaba_Qwen)
 - [[🚀 Just open-sourced 'Harness Engineering' Book — a deep-dive into...]] — AlexZ 🦀 (@blackanger)
 - [[🚨 BREAKING: Vector databases for AI memory just got replaced by MP4 files.]] — How To AI (@HowToAI_)
+
+## Other
+
+- [[Creative Builder Inspiration Reply]] — FLO - Creative Builder (@flonocode)

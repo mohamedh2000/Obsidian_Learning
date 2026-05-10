@@ -855,3 +855,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 - [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
 - [[ASCII Art Motion Design in Framer]] — Oriku (@oriku175)
+- [[K2 Smart Prompts for Graphic Poster Design]] — AmirMušić (@amirmushich)
+- [[GPT Image 2 Campaign Workflow - Gucci x Crocs]] — AmirMušić (@amirmushich)
+- [[Codex Three.js Magic Book Particle Dissolve Effect]] — 大话ocean (@ocean0726772007)
