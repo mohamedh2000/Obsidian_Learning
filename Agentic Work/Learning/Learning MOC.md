@@ -854,3 +854,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
 - [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 - [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
+- [[ASCII Art Motion Design in Framer]] — Oriku (@oriku175)
