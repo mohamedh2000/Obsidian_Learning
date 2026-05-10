@@ -858,3 +858,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[K2 Smart Prompts for Graphic Poster Design]] — AmirMušić (@amirmushich)
 - [[GPT Image 2 Campaign Workflow - Gucci x Crocs]] — AmirMušić (@amirmushich)
 - [[Codex Three.js Magic Book Particle Dissolve Effect]] — 大话ocean (@ocean0726772007)
+- [[Three Color Minimalist Design - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)

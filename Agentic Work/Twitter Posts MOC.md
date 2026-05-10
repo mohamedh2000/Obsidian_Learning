@@ -296,6 +296,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[MetricAi Brand Visual Identity Design - @ahmedcreatives]] — Ahmed (@ahmedcreatives)
 - [[K2 Smart Prompts for Graphic Poster Design]] — AmirMušić (@amirmushich)
 - [[GPT Image 2 Campaign Workflow - Gucci x Crocs]] — AmirMušić (@amirmushich)
+- [[Three Color Minimalist Design - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -418,7 +419,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[YC and Sequoia AI Investments]] — Founder Thoughts & Strategies (@mogulinfluence)
 ## Stats
 
-- **Total tweets:** 1026
+- **Total tweets:** 1027
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
