@@ -298,6 +298,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Campaign Workflow - Gucci x Crocs]] — AmirMušić (@amirmushich)
 - [[Three Color Minimalist Design - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 - [[kubadesign Tweet - @kubadesign]] — kubadesign (@kubadesign)
+- [[Negative Space in UI Design - Luxury Brand Principle - @krisanfalova]] — Kris Anfalova (@krisanfalova)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -420,9 +421,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[YC and Sequoia AI Investments]] — Founder Thoughts & Strategies (@mogulinfluence)
 - [[OpenClaw Local Business Automation Bot]] — Chris (@everestchris6)
 - [[Minimal Monochrome Illustration Prompt - @aleenaamiir]] — Aleena Amir (@aleenaamiir)
+- [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1032
+- **Total tweets:** 1034
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

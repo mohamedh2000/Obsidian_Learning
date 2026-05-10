@@ -861,3 +861,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Three Color Minimalist Design - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 - [[pi-treebase - Interactive Session Tree for pi.dev]] — gray (@fu5ha)
 - [[Minimal Monochrome Illustration Prompt - @aleenaamiir]] — Aleena Amir (@aleenaamiir)
+- [[Negative Space in UI Design - Luxury Brand Principle - @krisanfalova]] — Kris Anfalova (@krisanfalova)
+- [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
