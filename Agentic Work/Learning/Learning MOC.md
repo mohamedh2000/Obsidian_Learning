@@ -852,3 +852,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT Image Designer-Grade Poster Prompt]] — Calira (@caliraval)
 - [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
 - [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
+- [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
