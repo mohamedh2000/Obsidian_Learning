@@ -297,6 +297,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[K2 Smart Prompts for Graphic Poster Design]] — AmirMušić (@amirmushich)
 - [[GPT Image 2 Campaign Workflow - Gucci x Crocs]] — AmirMušić (@amirmushich)
 - [[Three Color Minimalist Design - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
+- [[kubadesign Tweet - @kubadesign]] — kubadesign (@kubadesign)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -418,9 +419,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 on Lart AI]] — Sairah (@sairah_0)
 - [[YC and Sequoia AI Investments]] — Founder Thoughts & Strategies (@mogulinfluence)
 - [[OpenClaw Local Business Automation Bot]] — Chris (@everestchris6)
+- [[Minimal Monochrome Illustration Prompt - @aleenaamiir]] — Aleena Amir (@aleenaamiir)
 ## Stats
 
-- **Total tweets:** 1030
+- **Total tweets:** 1032
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
