@@ -414,9 +414,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Seedance 2.0 Storyboard to Video Prompt - @aimikoda]] — Kōda (@aimikoda)
 - [[Intent Engineering and Specs Archeology - @dboskovic]] — David Boskovic (@dboskovic)
 - [[Creative Builder Inspiration Reply]] — FLO - Creative Builder (@flonocode)
+- [[GPT Image 2 on Lart AI]] — Sairah (@sairah_0)
+- [[YC and Sequoia AI Investments]] — Founder Thoughts & Strategies (@mogulinfluence)
 ## Stats
 
-- **Total tweets:** 1024
+- **Total tweets:** 1026
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
