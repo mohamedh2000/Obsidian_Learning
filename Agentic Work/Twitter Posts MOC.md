@@ -417,9 +417,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Creative Builder Inspiration Reply]] — FLO - Creative Builder (@flonocode)
 - [[GPT Image 2 on Lart AI]] — Sairah (@sairah_0)
 - [[YC and Sequoia AI Investments]] — Founder Thoughts & Strategies (@mogulinfluence)
+- [[OpenClaw Local Business Automation Bot]] — Chris (@everestchris6)
 ## Stats
 
-- **Total tweets:** 1027
+- **Total tweets:** 1030
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -793,6 +794,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Seedance 2 Video Creation Without Storyboard]] — Nimentrix (@nimentrix)
 - [[GPT Image x Seedance Game Teaser Workflow]] — DStudioproject (@d_studioproject)
 - [[Codex Three.js Magic Book Particle Dissolve Effect]] — 大话ocean (@ocean0726772007)
+- [[PPT Skill by Guizang]] — 歸藏(guizang.ai) (@op7418)
+- [[pi-treebase - Interactive Session Tree for pi.dev]] — gray (@fu5ha)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
