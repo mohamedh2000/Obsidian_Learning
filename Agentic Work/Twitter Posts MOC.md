@@ -293,6 +293,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image Designer-Grade Poster Prompt]] — Calira (@caliraval)
 - [[ASCII Backgrounds Landing Page Design - @uihssn]] — Ahmed Hassan (@uihssn)
 - [[ASCII Art Motion Design in Framer]] — Oriku (@oriku175)
+- [[MetricAi Brand Visual Identity Design - @ahmedcreatives]] — Ahmed (@ahmedcreatives)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -408,9 +409,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 + Seedance 2.0 Color-Coded Storyboard Workflow]] — Kōda (@aimikoda)
 - [[DeepSeek v4 Flash Local Inference ds4 Engine - @bindureddy]] — Bindu Reddy (@bindureddy)
 - [[AI Image Style System Prompts - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
+- [[Seedance 2.0 Storyboard to Video Prompt - @aimikoda]] — Kōda (@aimikoda)
+- [[Intent Engineering and Specs Archeology - @dboskovic]] — David Boskovic (@dboskovic)
 ## Stats
 
-- **Total tweets:** 1017
+- **Total tweets:** 1020
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
