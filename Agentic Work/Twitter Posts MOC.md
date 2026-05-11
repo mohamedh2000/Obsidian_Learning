@@ -299,6 +299,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Three Color Minimalist Design - @vigocreativeai]] — Vigo Zhao (@vigocreativeai)
 - [[kubadesign Tweet - @kubadesign]] — kubadesign (@kubadesign)
 - [[Negative Space in UI Design - Luxury Brand Principle - @krisanfalova]] — Kris Anfalova (@krisanfalova)
+- [[Keramica Studio Branding and Web Design]] — Swarnima (@swarnima_otw)
+- [[Cozy Fonts That Feel Like Home]] — Albia (@albiahossain)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -424,7 +426,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1034
+- **Total tweets:** 1037
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -703,6 +705,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[RAO: Recursive Agent Optimization]] — Apurva Gandhi (@apurvasgandhi)
 - [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
 - [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
+- [[GPT Images 2.0 Insane Prompt]] — Sharbel (@sharbel)
 
 ## Developer Tools & Code Intelligence
 
