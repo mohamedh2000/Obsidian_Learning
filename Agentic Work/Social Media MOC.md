@@ -78,3 +78,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Mixed Media Paper and Paint Art]] — lo203www (@lo203www)
 - [[Tomorrows Road Retro Collage Edit]] — Projeto Ciberdelia (@projetociberdelia)
 - [[Radiohead Creep Motorcycle Edit]] — hakkai.yzf (@hakkai.yzf)
+- [[Lower Manhattan Cinematic Edit]] — olli_slatter (@olli_slatter)
