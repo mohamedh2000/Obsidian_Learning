@@ -657,7 +657,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1201
+- **Total notes:** 1214
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -929,6 +929,19 @@ See [[Twitter Posts MOC]] for full index.
 - [[Tomorrows Road Retro Collage Edit]] — Projeto Ciberdelia (@projetociberdelia)
 - [[Radiohead Creep Motorcycle Edit]] — hakkai.yzf (@hakkai.yzf)
 - [[Lower Manhattan Cinematic Edit]] — olli_slatter (@olli_slatter)
+- [[PIG1987 Metalheart Webcore Aesthetic Reel]] — PIG1987 (@pig1987.of)
+- [[HGCreative South Asian Videography Showcase]] — Homegrown (@homegrownin)
+- [[Snow Day Hand Animated Alley Cat]] — wmacwood (@wmacwood)
+- [[Synesthesia Visual with Crystal Castles]] — Projeto Ciberdelia (@projetociberdelia)
+- [[Organized Chaos Glitch Art Mashup]] — ebtrsi (@ebtrsi)
+- [[NEON - Hong Kong Taxi Animation (Gobelins FX 2026)]] — GOBELINS Paris (@gobelins.paris)
+- [[Times Cut Short - Vent Animation]] — miss_kulik (@miss_kulik)
+- [[Jameelaaa Clinic Creative Laser Ad]] — Jameelaaa Clinic (@jameelaaaclinic)
+- [[Filmmakers Poker Night Cinematography]] — Paddy Cartwright (@paddy.cartwright)
+- [[Lost Signal - Thundercat Doomscroll Visual]] — Projeto Ciberdelia (@projetociberdelia)
+- [[Hunt Showdown Trait Animation - Blast Sense]] — settoknow (@settoknow)
+- [[Data Cigarette - New Media Art by criswvr]] — criswvr (@criswvr)
+- [[Floating Area - Finesse Scar Visual]] — worldaer (@worldaer)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
