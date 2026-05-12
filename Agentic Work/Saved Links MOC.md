@@ -478,6 +478,11 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GPT Images 2.0 Insane Prompt]] — Sharbel (@sharbel)
 - [[Keramica Studio Branding and Web Design]] — Swarnima (@swarnima_otw)
 - [[Cozy Fonts That Feel Like Home]] — Albia (@albiahossain)
+- [[Luxury Real Estate Websites with Claude]] — FHILY👑 (@oluwaphilemon1)
+- [[LTX Flows Prompt to Asset Package]] — AmirMušić (@amirmushich)
+- [[Midjourney Handcrafted Layouts]] — BenjaminUIX (@benjaminuix)
+- [[Design Work to Music]] — Mike Kus (@mikekus)
+- [[Claude Agent View Parallel Sessions]] — ClaudeDevs (@claudedevs)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -652,7 +657,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1185
+- **Total notes:** 1190
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

@@ -866,3 +866,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT Images 2.0 Insane Prompt]] — Sharbel (@sharbel)
 - [[Keramica Studio Branding and Web Design]] — Swarnima (@swarnima_otw)
 - [[Cozy Fonts That Feel Like Home]] — Albia (@albiahossain)
+- [[Luxury Real Estate Websites with Claude]] — FHILY👑 (@oluwaphilemon1)
+- [[LTX Flows Prompt to Asset Package]] — AmirMušić (@amirmushich)
+- [[Midjourney Handcrafted Layouts]] — BenjaminUIX (@benjaminuix)
+- [[Design Work to Music]] — Mike Kus (@mikekus)
+- [[Claude Agent View Parallel Sessions]] — ClaudeDevs (@claudedevs)

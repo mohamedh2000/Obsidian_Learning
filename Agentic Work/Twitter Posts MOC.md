@@ -302,6 +302,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Keramica Studio Branding and Web Design]] — Swarnima (@swarnima_otw)
 - [[Cozy Fonts That Feel Like Home]] — Albia (@albiahossain)
 - [[Claude 3D Scroll Animation Tutorial]] — FHILY👑 (@oluwaphilemon1)
+- [[Luxury Real Estate Websites with Claude]] — FHILY👑 (@oluwaphilemon1)
+- [[LTX Flows Prompt to Asset Package]] — AmirMušić (@amirmushich)
+- [[Midjourney Handcrafted Layouts]] — BenjaminUIX (@benjaminuix)
+- [[Design Work to Music]] — Mike Kus (@mikekus)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -427,7 +431,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1038
+- **Total tweets:** 1043
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -707,6 +711,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Creative Workflow - Kris Anfalova]] — Kris Anfalova (@krisanfalova)
 - [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
 - [[GPT Images 2.0 Insane Prompt]] — Sharbel (@sharbel)
+- [[Claude Agent View Parallel Sessions]] — ClaudeDevs (@claudedevs)
 
 ## Developer Tools & Code Intelligence
 
