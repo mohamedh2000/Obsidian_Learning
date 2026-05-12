@@ -317,6 +317,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Full Website Coming Soon Preview]] — Tony | web designer (@tony_dsgn)
 - [[AI Brand Design Differentiation - Three Distinct Directions]] — Ahmed (@ahmedcreatives)
 - [[Neon Pop Comic Style Reference - Midjourney SREF 1362248015]] — midlibrary (@midlibrary_io)
+- [[ASCII Cards Design Showcase - @praveenisomer]] — Praveen Kumar (@praveenisomer)
+- [[Backgrounds Collection Drop - @kail_designs]] — Kailash (@kail_designs)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -442,7 +444,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1055
+- **Total tweets:** 1058
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -821,6 +823,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[PPT Skill by Guizang]] — 歸藏(guizang.ai) (@op7418)
 - [[pi-treebase - Interactive Session Tree for pi.dev]] — gray (@fu5ha)
 - [[Improvised Card UI for a 5-Figure Website Build]] — Praveen Kumar👾 (@praveenisomer)
+- [[Cinematic Single Scroll Page with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

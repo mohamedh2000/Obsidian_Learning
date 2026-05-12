@@ -883,3 +883,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Full Website Coming Soon Preview]] — Tony | web designer (@tony_dsgn)
 - [[AI Brand Design Differentiation - Three Distinct Directions]] — Ahmed (@ahmedcreatives)
 - [[Neon Pop Comic Style Reference - Midjourney SREF 1362248015]] — midlibrary (@midlibrary_io)
+- [[ASCII Cards Design Showcase - @praveenisomer]] — Praveen Kumar (@praveenisomer)
+- [[Backgrounds Collection Drop - @kail_designs]] — Kailash (@kail_designs)
+- [[Cinematic Single Scroll Page with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)

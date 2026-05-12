@@ -495,6 +495,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Full Website Coming Soon Preview]] — Tony | web designer (@tony_dsgn)
 - [[AI Brand Design Differentiation - Three Distinct Directions]] — Ahmed (@ahmedcreatives)
 - [[Neon Pop Comic Style Reference - Midjourney SREF 1362248015]] — midlibrary (@midlibrary_io)
+- [[ASCII Cards Design Showcase - @praveenisomer]] — Praveen Kumar (@praveenisomer)
+- [[Backgrounds Collection Drop - @kail_designs]] — Kailash (@kail_designs)
+- [[Cinematic Single Scroll Page with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -669,7 +672,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1226
+- **Total notes:** 1229
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
