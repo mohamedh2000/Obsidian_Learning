@@ -881,3 +881,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Improvised Card UI for a 5-Figure Website Build]] — Praveen Kumar👾 (@praveenisomer)
 - [[AI Animation Narrative Rhythm - Static to Dynamic]] — Vigo Zhao (@vigocreativeai)
 - [[Full Website Coming Soon Preview]] — Tony | web designer (@tony_dsgn)
+- [[AI Brand Design Differentiation - Three Distinct Directions]] — Ahmed (@ahmedcreatives)
+- [[Neon Pop Comic Style Reference - Midjourney SREF 1362248015]] — midlibrary (@midlibrary_io)

@@ -315,6 +315,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Halftone Hero Design with Nano Banana Pro]] — Yasir Ahmad Noori (@yasirahmadnoori)
 - [[AI Animation Narrative Rhythm - Static to Dynamic]] — Vigo Zhao (@vigocreativeai)
 - [[Full Website Coming Soon Preview]] — Tony | web designer (@tony_dsgn)
+- [[AI Brand Design Differentiation - Three Distinct Directions]] — Ahmed (@ahmedcreatives)
+- [[Neon Pop Comic Style Reference - Midjourney SREF 1362248015]] — midlibrary (@midlibrary_io)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -440,7 +442,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1053
+- **Total tweets:** 1055
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
