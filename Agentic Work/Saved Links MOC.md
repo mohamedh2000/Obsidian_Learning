@@ -657,7 +657,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1190
+- **Total notes:** 1200
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -918,6 +918,16 @@ See [[Twitter Posts MOC]] for full index.
 - [[OpenClaw Local Business Automation Bot]] — Chris (@everestchris6)
 - [[kubadesign Tweet - @kubadesign]] — kubadesign (@kubadesign)
 - [[neosian_ Seoul Art Post]] — neosian_ (@neosian_)
+- [[NILFRUITS Bluffman VOCALOID Animation]] — vinegar56vinegar (@vinegar56vinegar)
+- [[Yorushika Bubble Official MV]] — Yorushika (@yorushika_official_)
+- [[Motion Matrix After Effects Cube Transition]] — moti0n.matrix (@moti0n.matrix)
+- [[Mononoke Movie Snake God Trailer 2]] — Mononoke Movie Official (@mononoke_movie_official)
+- [[Alfiemotion New AI Image Model Preview]] — alfiemotion (@alfiemotion)
+- [[The Marías Back To Me Animation]] — nglyskawa (@nglyskawa)
+- [[Through Liminal Running Edit]] — by.kody (@by.kody)
+- [[Mixed Media Paper and Paint Art]] — lo203www (@lo203www)
+- [[Tomorrows Road Retro Collage Edit]] — Projeto Ciberdelia (@projetociberdelia)
+- [[Radiohead Creep Motorcycle Edit]] — hakkai.yzf (@hakkai.yzf)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
