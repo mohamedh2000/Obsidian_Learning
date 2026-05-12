@@ -319,6 +319,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Neon Pop Comic Style Reference - Midjourney SREF 1362248015]] — midlibrary (@midlibrary_io)
 - [[ASCII Cards Design Showcase - @praveenisomer]] — Praveen Kumar (@praveenisomer)
 - [[Backgrounds Collection Drop - @kail_designs]] — Kailash (@kail_designs)
+- [[Structured JSON Prompts for Visual Language Systems]] — Vigo Zhao (@vigocreativeai)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -444,7 +445,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1058
+- **Total tweets:** 1059
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

@@ -886,3 +886,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[ASCII Cards Design Showcase - @praveenisomer]] — Praveen Kumar (@praveenisomer)
 - [[Backgrounds Collection Drop - @kail_designs]] — Kailash (@kail_designs)
 - [[Cinematic Single Scroll Page with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
+- [[Structured JSON Prompts for Visual Language Systems]] — Vigo Zhao (@vigocreativeai)
