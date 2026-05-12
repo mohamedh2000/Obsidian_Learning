@@ -313,6 +313,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ASCII Magic Design Explorations]] — Kailash (@kail_designs)
 - [[GPT Image Fashion Editorial Poster Prompt]] — Anissa (@simplyannisa)
 - [[Halftone Hero Design with Nano Banana Pro]] — Yasir Ahmad Noori (@yasirahmadnoori)
+- [[AI Animation Narrative Rhythm - Static to Dynamic]] — Vigo Zhao (@vigocreativeai)
+- [[Full Website Coming Soon Preview]] — Tony | web designer (@tony_dsgn)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -438,7 +440,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1050
+- **Total tweets:** 1053
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -816,6 +818,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Three.js Magic Book Particle Dissolve Effect]] — 大话ocean (@ocean0726772007)
 - [[PPT Skill by Guizang]] — 歸藏(guizang.ai) (@op7418)
 - [[pi-treebase - Interactive Session Tree for pi.dev]] — gray (@fu5ha)
+- [[Improvised Card UI for a 5-Figure Website Build]] — Praveen Kumar👾 (@praveenisomer)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -878,3 +878,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[ASCII Magic Design Explorations]] — Kailash (@kail_designs)
 - [[GPT Image Fashion Editorial Poster Prompt]] — Anissa (@simplyannisa)
 - [[Halftone Hero Design with Nano Banana Pro]] — Yasir Ahmad Noori (@yasirahmadnoori)
+- [[Improvised Card UI for a 5-Figure Website Build]] — Praveen Kumar👾 (@praveenisomer)
+- [[AI Animation Narrative Rhythm - Static to Dynamic]] — Vigo Zhao (@vigocreativeai)
+- [[Full Website Coming Soon Preview]] — Tony | web designer (@tony_dsgn)
