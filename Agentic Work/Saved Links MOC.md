@@ -483,6 +483,13 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Midjourney Handcrafted Layouts]] — BenjaminUIX (@benjaminuix)
 - [[Design Work to Music]] — Mike Kus (@mikekus)
 - [[Claude Agent View Parallel Sessions]] — ClaudeDevs (@claudedevs)
+- [[Cinematic Website Design with Claude]] — FHILY (@oluwaphilemon1)
+- [[ASCII Backgrounds for Premium Hero Sections]] — Ahmed Hassan (@uihssn)
+- [[90s Road Trip Magazine Cover Aesthetic with JSON]] — Vigo Zhao (@vigocreativeai)
+- [[Old Tech Renaissance Design Direction]] — Swarnima (@swarnima_otw)
+- [[ASCII Magic Design Explorations]] — Kailash (@kail_designs)
+- [[GPT Image Fashion Editorial Poster Prompt]] — Anissa (@simplyannisa)
+- [[Halftone Hero Design with Nano Banana Pro]] — Yasir Ahmad Noori (@yasirahmadnoori)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -657,7 +664,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1214
+- **Total notes:** 1221
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

@@ -306,6 +306,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LTX Flows Prompt to Asset Package]] — AmirMušić (@amirmushich)
 - [[Midjourney Handcrafted Layouts]] — BenjaminUIX (@benjaminuix)
 - [[Design Work to Music]] — Mike Kus (@mikekus)
+- [[Cinematic Website Design with Claude]] — FHILY (@oluwaphilemon1)
+- [[ASCII Backgrounds for Premium Hero Sections]] — Ahmed Hassan (@uihssn)
+- [[90s Road Trip Magazine Cover Aesthetic with JSON]] — Vigo Zhao (@vigocreativeai)
+- [[Old Tech Renaissance Design Direction]] — Swarnima (@swarnima_otw)
+- [[ASCII Magic Design Explorations]] — Kailash (@kail_designs)
+- [[GPT Image Fashion Editorial Poster Prompt]] — Anissa (@simplyannisa)
+- [[Halftone Hero Design with Nano Banana Pro]] — Yasir Ahmad Noori (@yasirahmadnoori)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -431,7 +438,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
 ## Stats
 
-- **Total tweets:** 1043
+- **Total tweets:** 1050
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
