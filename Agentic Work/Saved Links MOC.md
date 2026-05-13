@@ -684,7 +684,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1243
+- **Total notes:** 1258
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -970,6 +970,21 @@ See [[Twitter Posts MOC]] for full index.
 - [[Data Cigarette - New Media Art by criswvr]] — criswvr (@criswvr)
 - [[Floating Area - Finesse Scar Visual]] — worldaer (@worldaer)
 - [[We Were Not Made to Stay Still - @twentyone21___]] — 21 (@twentyone21___)
+- [[Media Post Viral Engagement - @solisolsoli]] — soli (@solisolsoli)
+- [[Vintage Stamp GPT Image Prompt - @naiknelofar788]] — simeon-sanai (@naiknelofar788)
+- [[AI Art Post - @aiporium_]] — (@aiporium_)
+- [[Media Post - @postwook]] — (@postwook)
+- [[Seedance 2.0 Painting Animation - @panoramajasmin]] — Thamer Ossra (@panoramajasmin)
+- [[Rear View Sunset by Jenny Bloomfield - @solisolsoli]] — soli (@solisolsoli)
+- [[Visual Art Post - @panoramajasmin]] — Thamer Ossra (@panoramajasmin)
+- [[Paved With Good Intentions - @plethoraau]] — Pleth (@plethoraau)
+- [[After Dark AI Animation - @stasox]] — stasox (@stasox)
+- [[Rhythm Is a Dancer AI Animation - @furyssv]] — furyssv (@furyssv)
+- [[World of Horror 1-bit RPG Review]] — kuroketta (@kuroketta)
+- [[NY State of Mind Neon Noir Edit]] — turkwise (@turkwise)
+- [[Everybody Wants to Rule the World 1985 Analysis]] — essaarthanusa (@essaarthanusa)
+- [[Flashing Lights Mumbai Cinematic Edit]] — anuraag__d (@anuraag__d)
+- [[Jigsaw Falling Into Place Radiohead Analysis]] — radiohead.afterimage (@radiohead.afterimage)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
