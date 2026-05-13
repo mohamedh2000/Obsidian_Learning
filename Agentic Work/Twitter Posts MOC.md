@@ -491,9 +491,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Westward NFT Mints Thank You]] — tokioflo (@tokioflo)
 - [[Tweet from bongdoe]] — bongdoe (@bongdoe)
 - [[Tweet from slava3ngl]] — slava3ngl (@slava3ngl)
+- [[Media Post - @animel7316]] — animel7316 (@animel7316)
+- [[Art Video Post - @artfanszone]] — Art Fans Zone (@artfanszone)
 ## Stats
 
-- **Total tweets:** 1114
+- **Total tweets:** 1116
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
