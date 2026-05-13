@@ -320,6 +320,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ASCII Cards Design Showcase - @praveenisomer]] — Praveen Kumar (@praveenisomer)
 - [[Backgrounds Collection Drop - @kail_designs]] — Kailash (@kail_designs)
 - [[Structured JSON Prompts for Visual Language Systems]] — Vigo Zhao (@vigocreativeai)
+- [[Hero Section with Paper MCP in 45 Mins]] — saint (@saintdsgn)
+- [[gotingeorgig Design Post]] — (@gotingeorgig)
+- [[Vintage Stamp Poster Prompt for Any City]] — Saul Goodman (@goodmanprotocol)
+- [[Two Products Same Brand Showcase]] — Bakers Studio (@studiobakers)
+- [[Eggstasy Logo Brand Identity - @abduzeedo]] — abdz. (@abduzeedo)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -443,9 +448,17 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[OpenClaw Local Business Automation Bot]] — Chris (@everestchris6)
 - [[Minimal Monochrome Illustration Prompt - @aleenaamiir]] — Aleena Amir (@aleenaamiir)
 - [[3DCellForge Image to 3D Model Open Source - @servasyy_ai]] — huangserva (@servasyy_ai)
+- [[Thursdays Branding Done Right]] — Seán (@seanfinlay_)
+- [[Vibrant Comic Illustration SREF 3625107528]] — midlibrary (@midlibrary_io)
+- [[Krea K2 + Figma Ribbed Glass Typography Test]] — AmirMušić (@amirmushich)
+- [[Orange Ink Graphic Novel SREF 2634375946 Niji 6]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Sevra Visual Identity Design]] — Irfan Khatri (@dzineloop)
+- [[Swirling Red Woodcut SREF 1800459676]] — midlibrary (@midlibrary_io)
+- [[Tweet from elfilter_a - @elfilter_a]] — elfilter_a (@elfilter_a)
+- [[We Were Not Made to Stay Still - @twentyone21___]] — 21 (@twentyone21___)
 ## Stats
 
-- **Total tweets:** 1059
+- **Total tweets:** 1072
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

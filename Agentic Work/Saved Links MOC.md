@@ -499,6 +499,17 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Backgrounds Collection Drop - @kail_designs]] — Kailash (@kail_designs)
 - [[Cinematic Single Scroll Page with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
 - [[Structured JSON Prompts for Visual Language Systems]] — Vigo Zhao (@vigocreativeai)
+- [[Thursdays Branding Done Right]] — Seán (@seanfinlay_)
+- [[Hero Section with Paper MCP in 45 Mins]] — saint (@saintdsgn)
+- [[Vibrant Comic Illustration SREF 3625107528]] — midlibrary (@midlibrary_io)
+- [[Krea K2 + Figma Ribbed Glass Typography Test]] — AmirMušić (@amirmushich)
+- [[gotingeorgig Design Post]] — (@gotingeorgig)
+- [[Vintage Stamp Poster Prompt for Any City]] — Saul Goodman (@goodmanprotocol)
+- [[Two Products Same Brand Showcase]] — Bakers Studio (@studiobakers)
+- [[Orange Ink Graphic Novel SREF 2634375946 Niji 6]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Sevra Visual Identity Design]] — Irfan Khatri (@dzineloop)
+- [[Swirling Red Woodcut SREF 1800459676]] — midlibrary (@midlibrary_io)
+- [[Eggstasy Logo Brand Identity - @abduzeedo]] — abdz. (@abduzeedo)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -673,7 +684,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1230
+- **Total notes:** 1243
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -958,6 +969,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Hunt Showdown Trait Animation - Blast Sense]] — settoknow (@settoknow)
 - [[Data Cigarette - New Media Art by criswvr]] — criswvr (@criswvr)
 - [[Floating Area - Finesse Scar Visual]] — worldaer (@worldaer)
+- [[We Were Not Made to Stay Still - @twentyone21___]] — 21 (@twentyone21___)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1312,3 +1324,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[GPT Image 2 on Lart AI]] — Sairah (@sairah_0)
 - [[YC and Sequoia AI Investments]] — Founder Thoughts & Strategies (@mogulinfluence)
 - [[Claude 3D Scroll Animation Tutorial]] — FHILY👑 (@oluwaphilemon1)
+- [[Tweet from elfilter_a - @elfilter_a]] — elfilter_a (@elfilter_a)
