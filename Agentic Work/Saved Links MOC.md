@@ -684,7 +684,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1280
+- **Total notes:** 1292
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1007,6 +1007,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Elfilter Between Stations]] — Elfilter (@elfilter_a)
 - [[Anzomez Hope-less Hope]] — anz (@anzomez)
 - [[Studio Ghibli Pixel Art]] — AnasAbdin 🪐🌿 (@anasabdin)
+- [[Blue Combo NFT Art - @nftlisa]] — nftlisa.eth (nftlisa)
+- [[Liminal Dreams Media Post - @liminal__dreams]] — Liminal Dreams (@liminal__dreams)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1362,3 +1364,13 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[YC and Sequoia AI Investments]] — Founder Thoughts & Strategies (@mogulinfluence)
 - [[Claude 3D Scroll Animation Tutorial]] — FHILY👑 (@oluwaphilemon1)
 - [[Tweet from elfilter_a - @elfilter_a]] — elfilter_a (@elfilter_a)
+- [[Why Can't It Be Mine]] — anz (@anzomez)
+- [[GPT Image 2 Vintage Travel Posters]] — Sairah (@sairah_0)
+- [[Gemini Coca-Cola Macro Product Photography]] — MARCOS (@arsalannazir07)
+- [[Media Post from Gii]] — Gii (@flostitanarum)
+- [[Fragment Collection DM Offer]] — anz (@anzomez)
+- [[Westward NFT Mints Thank You]] — tokioflo (@tokioflo)
+- [[Tweet from bongdoe]] — bongdoe (@bongdoe)
+- [[Presentation Event Thank You]] — あにめる (@animel7316)
+- [[Full Website Coming Soon]] — Tony | web designer (@tony_dsgn)
+- [[Tweet from slava3ngl]] — slava3ngl (@slava3ngl)
