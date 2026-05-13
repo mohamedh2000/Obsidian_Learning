@@ -898,3 +898,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Sevra Visual Identity Design]] — Irfan Khatri (@dzineloop)
 - [[Swirling Red Woodcut SREF 1800459676]] — midlibrary (@midlibrary_io)
 - [[Eggstasy Logo Brand Identity - @abduzeedo]] — abdz. (@abduzeedo)
+- [[Lovable Vertical Scroll Storytelling Design Tips]] — FHILY👑 (@oluwaphilemon1)
+- [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
+- [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)

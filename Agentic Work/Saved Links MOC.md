@@ -510,6 +510,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Sevra Visual Identity Design]] — Irfan Khatri (@dzineloop)
 - [[Swirling Red Woodcut SREF 1800459676]] — midlibrary (@midlibrary_io)
 - [[Eggstasy Logo Brand Identity - @abduzeedo]] — abdz. (@abduzeedo)
+- [[Lovable Vertical Scroll Storytelling Design Tips]] — FHILY👑 (@oluwaphilemon1)
+- [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
+- [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -684,7 +687,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1294
+- **Total notes:** 1301
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1376,3 +1379,7 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Presentation Event Thank You]] — あにめる (@animel7316)
 - [[Full Website Coming Soon]] — Tony | web designer (@tony_dsgn)
 - [[Tweet from slava3ngl]] — slava3ngl (@slava3ngl)
+- [[Tweet from anzomez]] — anzomez (@anzomez)
+- [[5 Days Until Impact Memories Announcement]] — Louis Dazy (@louisdazy)
+- [[Tweet from samstooff]] — samstooff (@samstooff)
+- [[There Is Nothing Left of Me]] — LucaPonsato.eth/tez (@lucaponsatoart)

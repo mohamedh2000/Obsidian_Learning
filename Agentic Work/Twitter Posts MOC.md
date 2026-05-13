@@ -329,6 +329,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Mazin GIF Art - @endless_mazin]] — 『-』M░a░z░i░n 『-』 (@endless_mazin)
 - [[GPT Image 2 Vintage Travel Posters - @missdelulu9]] — Eesha (@missdelulu9)
 - [[Full Website Coming Soon]] — Tony | web designer (@tony_dsgn)
+- [[Lovable Vertical Scroll Storytelling Design Tips]] — FHILY👑 (@oluwaphilemon1)
+- [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -493,9 +495,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tweet from slava3ngl]] — slava3ngl (@slava3ngl)
 - [[Media Post - @animel7316]] — animel7316 (@animel7316)
 - [[Art Video Post - @artfanszone]] — Art Fans Zone (@artfanszone)
+- [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)
+- [[Tweet from anzomez]] — anzomez (@anzomez)
+- [[5 Days Until Impact Memories Announcement]] — Louis Dazy (@louisdazy)
+- [[Tweet from samstooff]] — samstooff (@samstooff)
 ## Stats
 
-- **Total tweets:** 1116
+- **Total tweets:** 1123
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -882,6 +888,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Presentation Event Thank You]] — あにめる (@animel7316)
 - [[Blue Combo NFT Art - @nftlisa]] — nftlisa.eth (nftlisa)
 - [[Liminal Dreams Media Post - @liminal__dreams]] — Liminal Dreams (@liminal__dreams)
+- [[There Is Nothing Left of Me]] — LucaPonsato.eth/tez (@lucaponsatoart)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
