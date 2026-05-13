@@ -513,6 +513,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Lovable Vertical Scroll Storytelling Design Tips]] — FHILY👑 (@oluwaphilemon1)
 - [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
 - [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)
+- [[GPT Image 2 Vintage Collage Prompts]] — Sairah (@sairah_0)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -687,7 +688,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1301
+- **Total notes:** 1303
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1014,6 +1015,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Liminal Dreams Media Post - @liminal__dreams]] — Liminal Dreams (@liminal__dreams)
 - [[Media Post - @animel7316]] — animel7316 (@animel7316)
 - [[Art Video Post - @artfanszone]] — Art Fans Zone (@artfanszone)
+- [[Oaknarrow Gm Post]] — Ø₳₭ ➳ (@Oaknarrow)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -901,3 +901,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Lovable Vertical Scroll Storytelling Design Tips]] — FHILY👑 (@oluwaphilemon1)
 - [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
 - [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)
+- [[GPT Image 2 Vintage Collage Prompts]] — Sairah (@sairah_0)

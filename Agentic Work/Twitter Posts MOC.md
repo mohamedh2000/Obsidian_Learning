@@ -331,6 +331,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Full Website Coming Soon]] — Tony | web designer (@tony_dsgn)
 - [[Lovable Vertical Scroll Storytelling Design Tips]] — FHILY👑 (@oluwaphilemon1)
 - [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
+- [[GPT Image 2 Vintage Collage Prompts]] — Sairah (@sairah_0)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -499,9 +500,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tweet from anzomez]] — anzomez (@anzomez)
 - [[5 Days Until Impact Memories Announcement]] — Louis Dazy (@louisdazy)
 - [[Tweet from samstooff]] — samstooff (@samstooff)
+- [[Oaknarrow Gm Post]] — Ø₳₭ ➳ (@Oaknarrow)
 ## Stats
 
-- **Total tweets:** 1123
+- **Total tweets:** 1125
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
