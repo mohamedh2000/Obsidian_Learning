@@ -902,3 +902,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
 - [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)
 - [[GPT Image 2 Vintage Collage Prompts]] — Sairah (@sairah_0)
+- [[Hermes Agent Org Chart Architecture]] — Shann³ (@shannholmberg)

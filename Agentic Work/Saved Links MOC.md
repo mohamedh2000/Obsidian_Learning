@@ -514,6 +514,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
 - [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)
 - [[GPT Image 2 Vintage Collage Prompts]] — Sairah (@sairah_0)
+- [[Hermes Agent Org Chart Architecture]] — Shann³ (@shannholmberg)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -688,7 +689,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1303
+- **Total notes:** 1307
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1385,3 +1386,6 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[5 Days Until Impact Memories Announcement]] — Louis Dazy (@louisdazy)
 - [[Tweet from samstooff]] — samstooff (@samstooff)
 - [[There Is Nothing Left of Me]] — LucaPonsato.eth/tez (@lucaponsatoart)
+- [[If I Can't Have Fun]] — LucaPonsato.eth/tez (@lucaponsatoart)
+- [[Neurocolor Tweet]] — neurocolor (@neurocolor)
+- [[I Will Fight This War With Love]] — anz (@anzomez)

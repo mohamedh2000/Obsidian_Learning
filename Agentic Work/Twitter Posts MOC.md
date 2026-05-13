@@ -503,7 +503,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Oaknarrow Gm Post]] — Ø₳₭ ➳ (@Oaknarrow)
 ## Stats
 
-- **Total tweets:** 1125
+- **Total tweets:** 1129
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -784,6 +784,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Learning Path Without College - @milksandmatcha]] — Sarah Chieng (@milksandmatcha)
 - [[GPT Images 2.0 Insane Prompt]] — Sharbel (@sharbel)
 - [[Claude Agent View Parallel Sessions]] — ClaudeDevs (@claudedevs)
+- [[Hermes Agent Org Chart Architecture]] — Shann³ (@shannholmberg)
 
 ## Developer Tools & Code Intelligence
 
@@ -891,6 +892,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Blue Combo NFT Art - @nftlisa]] — nftlisa.eth (nftlisa)
 - [[Liminal Dreams Media Post - @liminal__dreams]] — Liminal Dreams (@liminal__dreams)
 - [[There Is Nothing Left of Me]] — LucaPonsato.eth/tez (@lucaponsatoart)
+- [[If I Can't Have Fun]] — LucaPonsato.eth/tez (@lucaponsatoart)
+- [[Neurocolor Tweet]] — neurocolor (@neurocolor)
+- [[I Will Fight This War With Love]] — anz (@anzomez)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
