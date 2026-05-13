@@ -684,7 +684,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1258
+- **Total notes:** 1277
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -985,6 +985,25 @@ See [[Twitter Posts MOC]] for full index.
 - [[Everybody Wants to Rule the World 1985 Analysis]] — essaarthanusa (@essaarthanusa)
 - [[Flashing Lights Mumbai Cinematic Edit]] — anuraag__d (@anuraag__d)
 - [[Jigsaw Falling Into Place Radiohead Analysis]] — radiohead.afterimage (@radiohead.afterimage)
+- [[Book Poster Design Inspiration - @hudconpapi]] — i'm going insane unfortunately (@hudconpapi)
+- [[lonpel Tweet - @__lonpel__]] — @__lonpel__
+- [[postwook Tweet - @postwook]] — @postwook
+- [[Fairy Tale Aesthetics Visual - @ftaesthetics7]] — Fairy Tale Aesthetics (@FTAesthetics7)
+- [[Peace of Mind Kaoru Yamada Art - @fraveris]] — Francisco Ribeiro (@fraveris)
+- [[Sunset by Childe Hassam - @impression_ists]] — Impressions (@impression_ists)
+- [[Mazin GIF Art - @endless_mazin]] — 『-』M░a░z░i░n 『-』 (@endless_mazin)
+- [[George Inness Watching the Sun Glow - @dailyclassicart]] — Museum (@dailyclassicart)
+- [[GPT Image 2 Vintage Travel Posters - @missdelulu9]] — Eesha (@missdelulu9)
+- [[GPT Image 2 Seedance Energy Drink Ad - @just_sharon7]] — Sharon Riley (@just_sharon7)
+- [[Parianmarble Tweet]] — Unknown (@parianmarble)
+- [[April Sun by Mikhail Abakumov]] — aralia 🌻 (@aralia_a)
+- [[Garden at Giverny by John Leslie Breck]] — 22:22 (@22hrr22min)
+- [[Arthurian Aesthetics Post]] — Arthurian Aesthetics (@ArthurianA2902)
+- [[AI Video Gallery Exhibition]] — 川津美久 | AI映像 (@mick_cawaz)
+- [[I Know Someday Beautiful Life]] — anz (@anzomez)
+- [[1950s Cairo Evening Scene]] — Malzahran (@malzahran2)
+- [[Autumn in Babylon]] — Hasan Göktepe (@hasangoktepe3d)
+- [[Anzomez Tweet]] — anz (@anzomez)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

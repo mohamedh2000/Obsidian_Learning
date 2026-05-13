@@ -325,6 +325,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Vintage Stamp Poster Prompt for Any City]] — Saul Goodman (@goodmanprotocol)
 - [[Two Products Same Brand Showcase]] — Bakers Studio (@studiobakers)
 - [[Eggstasy Logo Brand Identity - @abduzeedo]] — abdz. (@abduzeedo)
+- [[Book Poster Design Inspiration - @hudconpapi]] — i'm going insane unfortunately (@hudconpapi)
+- [[Mazin GIF Art - @endless_mazin]] — 『-』M░a░z░i░n 『-』 (@endless_mazin)
+- [[GPT Image 2 Vintage Travel Posters - @missdelulu9]] — Eesha (@missdelulu9)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -464,9 +467,24 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Rear View Sunset by Jenny Bloomfield - @solisolsoli]] — soli (@solisolsoli)
 - [[Visual Art Post - @panoramajasmin]] — Thamer Ossra (@panoramajasmin)
 - [[Paved With Good Intentions - @plethoraau]] — Pleth (@plethoraau)
+- [[lonpel Tweet - @__lonpel__]] — @__lonpel__
+- [[postwook Tweet - @postwook]] — @postwook
+- [[Fairy Tale Aesthetics Visual - @ftaesthetics7]] — Fairy Tale Aesthetics (@FTAesthetics7)
+- [[Peace of Mind Kaoru Yamada Art - @fraveris]] — Francisco Ribeiro (@fraveris)
+- [[Sunset by Childe Hassam - @impression_ists]] — Impressions (@impression_ists)
+- [[George Inness Watching the Sun Glow - @dailyclassicart]] — Museum (@dailyclassicart)
+- [[GPT Image 2 Seedance Energy Drink Ad - @just_sharon7]] — Sharon Riley (@just_sharon7)
+- [[Parianmarble Tweet]] — Unknown (@parianmarble)
+- [[April Sun by Mikhail Abakumov]] — aralia 🌻 (@aralia_a)
+- [[Garden at Giverny by John Leslie Breck]] — 22:22 (@22hrr22min)
+- [[AI Video Gallery Exhibition]] — 川津美久 | AI映像 (@mick_cawaz)
+- [[I Know Someday Beautiful Life]] — anz (@anzomez)
+- [[1950s Cairo Evening Scene]] — Malzahran (@malzahran2)
+- [[Autumn in Babylon]] — Hasan Göktepe (@hasangoktepe3d)
+- [[Anzomez Tweet]] — anz (@anzomez)
 ## Stats
 
-- **Total tweets:** 1080
+- **Total tweets:** 1099
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -846,6 +864,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[pi-treebase - Interactive Session Tree for pi.dev]] — gray (@fu5ha)
 - [[Improvised Card UI for a 5-Figure Website Build]] — Praveen Kumar👾 (@praveenisomer)
 - [[Cinematic Single Scroll Page with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
+- [[Arthurian Aesthetics Post]] — Arthurian Aesthetics (@ArthurianA2902)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
