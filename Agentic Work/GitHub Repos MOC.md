@@ -57,6 +57,7 @@ GitHub repositories saved from iMessage.
 - [[LangChain AI - The Agent Engineering Platform]] — LangChain (@langchain-ai)
 - [[claude-ads - Paid Advertising Audit Skill]] — Agrici Daniel (@AgriciDaniel)
 - [[Pi - AI Agent Coding Toolkit]] — earendil-works on GitHub
+- [[DESIGN.md Spec for AI Design Systems]] — Google Labs (@google-labs-code)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

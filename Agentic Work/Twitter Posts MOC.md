@@ -332,6 +332,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Lovable Vertical Scroll Storytelling Design Tips]] — FHILY👑 (@oluwaphilemon1)
 - [[Dither Motion and Japanese Typography Experiments]] — Oriku (@oriku175)
 - [[GPT Image 2 Vintage Collage Prompts]] — Sairah (@sairah_0)
+- [[Midjourney SREF 2581180571 Retro-Futurist Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Midjourney SREF 3782619 Gothic Ink Cyberpunk]] — Midjourney Sref and prompt Library (@promptsref)
+- [[praveenisomer Post - @praveenisomer]] — praveenisomer (@praveenisomer)
+- [[Peak Visual Storytelling in Design]] — Rishabh Joshi (@rishabhhdesigns)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -501,9 +505,16 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[5 Days Until Impact Memories Announcement]] — Louis Dazy (@louisdazy)
 - [[Tweet from samstooff]] — samstooff (@samstooff)
 - [[Oaknarrow Gm Post]] — Ø₳₭ ➳ (@Oaknarrow)
+- [[Timeless Road Photography]] — hachimi (@hakimihamizi)
+- [[Visual Storytelling in One Image]] — dadaist (@dadaist_nft)
+- [[AI Multiplied Capacity Not Free Time]] — Kris Anfalova (@krisanfalova)
+- [[alcrego_ Post]] — (@alcrego_)
+- [[Gianni Viral Media Post - @GianniJ08]] — Gianni® (@GianniJ08)
+- [[New York on 35mm Film - @michaelboegl]] — Michael Boegl (@michaelboegl)
+- [[GPT Image 2 Watercolor Travel Sketchbook Prompt - @taaruk_]] — Taaruk (@taaruk_)
 ## Stats
 
-- **Total tweets:** 1129
+- **Total tweets:** 1150
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -785,6 +796,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Images 2.0 Insane Prompt]] — Sharbel (@sharbel)
 - [[Claude Agent View Parallel Sessions]] — ClaudeDevs (@claudedevs)
 - [[Hermes Agent Org Chart Architecture]] — Shann³ (@shannholmberg)
+- [[LangSmith Engine Automated Issue Detection]] — Harrison Chase (@hwchase17)
+- [[Droid Video Audio Editing Test]] — 0xSero (@0xsero)
+- [[Hermes Agent NVIDIA RTX DGX Spark - @nousresearch]] — Nous Research (@nousresearch)
+- [[LangSmith Engine Recursive Self-Improvement - @caspar_br]] — Caspar Broekhuizen (@caspar_br)
+- [[LangChain New Products - Agent Development Lifecycle]] — LangChain (@langchain)
 
 ## Developer Tools & Code Intelligence
 
@@ -895,6 +911,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[If I Can't Have Fun]] — LucaPonsato.eth/tez (@lucaponsatoart)
 - [[Neurocolor Tweet]] — neurocolor (@neurocolor)
 - [[I Will Fight This War With Love]] — anz (@anzomez)
+- [[Claude for Small Business Launch]] — Nico (@nicos_ai)
+- [[POLYGON1993 GIF Post - @Polygon1993]] — POLYGON1993■ (@Polygon1993)
+- [[Totalis Praesentia NFT Art - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
+- [[a.c.k. Media Post - @lphaCentauriKid]] — a.c.k. (@lphaCentauriKid)
+- [[Art Without AI - @wrdmediafiles]] — wrdmediafiles (@wrdmediafiles)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

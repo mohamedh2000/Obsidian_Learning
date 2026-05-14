@@ -515,6 +515,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GPT 2 Vintage Travel Postage Stamp Prompt]] — Aijaz (@iamsofiaijaz)
 - [[GPT Image 2 Vintage Collage Prompts]] — Sairah (@sairah_0)
 - [[Hermes Agent Org Chart Architecture]] — Shann³ (@shannholmberg)
+- [[Midjourney SREF 2581180571 Retro-Futurist Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Midjourney SREF 3782619 Gothic Ink Cyberpunk]] — Midjourney Sref and prompt Library (@promptsref)
+- [[DESIGN.md Spec for AI Design Systems]] — Google Labs (@google-labs-code)
+- [[Hermes Agent NVIDIA RTX DGX Spark - @nousresearch]] — Nous Research (@nousresearch)
+- [[LangSmith Engine Recursive Self-Improvement - @caspar_br]] — Caspar Broekhuizen (@caspar_br)
+- [[LangChain New Products - Agent Development Lifecycle]] — LangChain (@langchain)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -689,7 +695,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1307
+- **Total notes:** 1329
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1017,6 +1023,21 @@ See [[Twitter Posts MOC]] for full index.
 - [[Media Post - @animel7316]] — animel7316 (@animel7316)
 - [[Art Video Post - @artfanszone]] — Art Fans Zone (@artfanszone)
 - [[Oaknarrow Gm Post]] — Ø₳₭ ➳ (@Oaknarrow)
+- [[LangSmith Engine Automated Issue Detection]] — Harrison Chase (@hwchase17)
+- [[Timeless Road Photography]] — hachimi (@hakimihamizi)
+- [[Visual Storytelling in One Image]] — dadaist (@dadaist_nft)
+- [[AI Multiplied Capacity Not Free Time]] — Kris Anfalova (@krisanfalova)
+- [[alcrego_ Post]] — (@alcrego_)
+- [[Droid Video Audio Editing Test]] — 0xSero (@0xsero)
+- [[Claude for Small Business Launch]] — Nico (@nicos_ai)
+- [[POLYGON1993 GIF Post - @Polygon1993]] — POLYGON1993■ (@Polygon1993)
+- [[Totalis Praesentia NFT Art - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
+- [[a.c.k. Media Post - @lphaCentauriKid]] — a.c.k. (@lphaCentauriKid)
+- [[Gianni Viral Media Post - @GianniJ08]] — Gianni® (@GianniJ08)
+- [[Art Without AI - @wrdmediafiles]] — wrdmediafiles (@wrdmediafiles)
+- [[New York on 35mm Film - @michaelboegl]] — Michael Boegl (@michaelboegl)
+- [[praveenisomer Post - @praveenisomer]] — praveenisomer (@praveenisomer)
+- [[GPT Image 2 Watercolor Travel Sketchbook Prompt - @taaruk_]] — Taaruk (@taaruk_)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1389,3 +1410,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[If I Can't Have Fun]] — LucaPonsato.eth/tez (@lucaponsatoart)
 - [[Neurocolor Tweet]] — neurocolor (@neurocolor)
 - [[I Will Fight This War With Love]] — anz (@anzomez)
+- [[Peak Visual Storytelling in Design]] — Rishabh Joshi (@rishabhhdesigns)
