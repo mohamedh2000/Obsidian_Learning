@@ -521,6 +521,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Hermes Agent NVIDIA RTX DGX Spark - @nousresearch]] — Nous Research (@nousresearch)
 - [[LangSmith Engine Recursive Self-Improvement - @caspar_br]] — Caspar Broekhuizen (@caspar_br)
 - [[LangChain New Products - Agent Development Lifecycle]] — LangChain (@langchain)
+- [[Virtual Filesystem over Elasticsearch]] — Leonie Monigatti (@helloiamleonie)
+- [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
+- [[sybil-solutions/vllm-studio]] — sybil-solutions
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -695,7 +698,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1329
+- **Total notes:** 1336
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1038,6 +1041,10 @@ See [[Twitter Posts MOC]] for full index.
 - [[New York on 35mm Film - @michaelboegl]] — Michael Boegl (@michaelboegl)
 - [[praveenisomer Post - @praveenisomer]] — praveenisomer (@praveenisomer)
 - [[GPT Image 2 Watercolor Travel Sketchbook Prompt - @taaruk_]] — Taaruk (@taaruk_)
+- [[Codex Mobile App Preview Launch]] — OpenAI (@openai)
+- [[Soft Collision NFT Art]] — Elfilter (@elfilter_a)
+- [[The Lands Between Dreams]] — ahad (@wiresandtrees)
+- [[Animation Style Short Film Potential]] — OscarAI (@artedeingenio)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

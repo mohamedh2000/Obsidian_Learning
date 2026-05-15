@@ -909,3 +909,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hermes Agent NVIDIA RTX DGX Spark - @nousresearch]] — Nous Research (@nousresearch)
 - [[LangSmith Engine Recursive Self-Improvement - @caspar_br]] — Caspar Broekhuizen (@caspar_br)
 - [[LangChain New Products - Agent Development Lifecycle]] — LangChain (@langchain)
+- [[Virtual Filesystem over Elasticsearch]] — Leonie Monigatti (@helloiamleonie)
+- [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
+- [[sybil-solutions/vllm-studio]] — sybil-solutions

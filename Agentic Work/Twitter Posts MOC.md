@@ -336,6 +336,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney SREF 3782619 Gothic Ink Cyberpunk]] — Midjourney Sref and prompt Library (@promptsref)
 - [[praveenisomer Post - @praveenisomer]] — praveenisomer (@praveenisomer)
 - [[Peak Visual Storytelling in Design]] — Rishabh Joshi (@rishabhhdesigns)
+- [[Animation Style Short Film Potential]] — OscarAI (@artedeingenio)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -514,7 +515,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Watercolor Travel Sketchbook Prompt - @taaruk_]] — Taaruk (@taaruk_)
 ## Stats
 
-- **Total tweets:** 1150
+- **Total tweets:** 1155
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -801,6 +802,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent NVIDIA RTX DGX Spark - @nousresearch]] — Nous Research (@nousresearch)
 - [[LangSmith Engine Recursive Self-Improvement - @caspar_br]] — Caspar Broekhuizen (@caspar_br)
 - [[LangChain New Products - Agent Development Lifecycle]] — LangChain (@langchain)
+- [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
 
 ## Developer Tools & Code Intelligence
 
@@ -916,6 +918,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Totalis Praesentia NFT Art - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
 - [[a.c.k. Media Post - @lphaCentauriKid]] — a.c.k. (@lphaCentauriKid)
 - [[Art Without AI - @wrdmediafiles]] — wrdmediafiles (@wrdmediafiles)
+- [[Codex Mobile App Preview Launch]] — OpenAI (@openai)
+- [[Soft Collision NFT Art]] — Elfilter (@elfilter_a)
+- [[The Lands Between Dreams]] — ahad (@wiresandtrees)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -58,6 +58,7 @@ GitHub repositories saved from iMessage.
 - [[claude-ads - Paid Advertising Audit Skill]] — Agrici Daniel (@AgriciDaniel)
 - [[Pi - AI Agent Coding Toolkit]] — earendil-works on GitHub
 - [[DESIGN.md Spec for AI Design Systems]] — Google Labs (@google-labs-code)
+- [[sybil-solutions/vllm-studio]] — sybil-solutions
 
 ## Recovered 2026-03-26 — 2026-04-14
 
