@@ -524,6 +524,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Virtual Filesystem over Elasticsearch]] — Leonie Monigatti (@helloiamleonie)
 - [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
 - [[sybil-solutions/vllm-studio]] — sybil-solutions
+- [[HALO - Self-Improving Agents via Harness Optimization]] — Sam Hogan (@samhogan)
+- [[Learn Harness Engineering - AI Agent Course]] — Walking Labs (@walkinglabs)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -698,7 +700,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1336
+- **Total notes:** 1340
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1045,6 +1047,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Soft Collision NFT Art]] — Elfilter (@elfilter_a)
 - [[The Lands Between Dreams]] — ahad (@wiresandtrees)
 - [[Animation Style Short Film Potential]] — OscarAI (@artedeingenio)
+- [[hachimi - Time Standing Still]] — hachimi (@hakimihamizi)
+- [[Elfilter - New Works on Transient Labs]] — Elfilter (@elfilter_a)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

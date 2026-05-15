@@ -513,9 +513,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Gianni Viral Media Post - @GianniJ08]] — Gianni® (@GianniJ08)
 - [[New York on 35mm Film - @michaelboegl]] — Michael Boegl (@michaelboegl)
 - [[GPT Image 2 Watercolor Travel Sketchbook Prompt - @taaruk_]] — Taaruk (@taaruk_)
+- [[hachimi - Time Standing Still]] — hachimi (@hakimihamizi)
 ## Stats
 
-- **Total tweets:** 1155
+- **Total tweets:** 1158
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -803,6 +804,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LangSmith Engine Recursive Self-Improvement - @caspar_br]] — Caspar Broekhuizen (@caspar_br)
 - [[LangChain New Products - Agent Development Lifecycle]] — LangChain (@langchain)
 - [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
+- [[HALO - Self-Improving Agents via Harness Optimization]] — Sam Hogan (@samhogan)
 
 ## Developer Tools & Code Intelligence
 
@@ -921,6 +923,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Mobile App Preview Launch]] — OpenAI (@openai)
 - [[Soft Collision NFT Art]] — Elfilter (@elfilter_a)
 - [[The Lands Between Dreams]] — ahad (@wiresandtrees)
+- [[Elfilter - New Works on Transient Labs]] — Elfilter (@elfilter_a)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

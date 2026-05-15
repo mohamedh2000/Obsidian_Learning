@@ -912,3 +912,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Virtual Filesystem over Elasticsearch]] — Leonie Monigatti (@helloiamleonie)
 - [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
 - [[sybil-solutions/vllm-studio]] — sybil-solutions
+- [[HALO - Self-Improving Agents via Harness Optimization]] — Sam Hogan (@samhogan)
+- [[Learn Harness Engineering - AI Agent Course]] — Walking Labs (@walkinglabs)
