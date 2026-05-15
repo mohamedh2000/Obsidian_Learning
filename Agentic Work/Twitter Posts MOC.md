@@ -341,6 +341,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ASCII Website Section Design]] — Praveen Kumar (@praveenisomer)
 - [[Studio Agar Minimal Portfolio Concept]] — Emisho (@emishonowayi)
 - [[50+ Premium ASCII Backgrounds Free]] — Ahmed Hassan (@uihssn)
+- [[Mobile Design Progress - Tony Dsgn]] — Tony | web designer (@tony_dsgn)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -521,7 +522,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Simple Explorations]] — Georgi (@gotingeorgig)
 ## Stats
 
-- **Total tweets:** 1166
+- **Total tweets:** 1167
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

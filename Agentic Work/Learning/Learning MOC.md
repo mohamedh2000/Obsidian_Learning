@@ -914,3 +914,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[sybil-solutions/vllm-studio]] — sybil-solutions
 - [[HALO - Self-Improving Agents via Harness Optimization]] — Sam Hogan (@samhogan)
 - [[Learn Harness Engineering - AI Agent Course]] — Walking Labs (@walkinglabs)
+- [[Mobile Design Progress - Tony Dsgn]] — Tony | web designer (@tony_dsgn)
