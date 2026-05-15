@@ -337,6 +337,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[praveenisomer Post - @praveenisomer]] — praveenisomer (@praveenisomer)
 - [[Peak Visual Storytelling in Design]] — Rishabh Joshi (@rishabhhdesigns)
 - [[Animation Style Short Film Potential]] — OscarAI (@artedeingenio)
+- [[Interactive Animated Websites with AI Guide]] — 0xMarioNawfal (@roundtablespace)
+- [[ASCII Website Section Design]] — Praveen Kumar (@praveenisomer)
+- [[Studio Agar Minimal Portfolio Concept]] — Emisho (@emishonowayi)
+- [[50+ Premium ASCII Backgrounds Free]] — Ahmed Hassan (@uihssn)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -514,9 +518,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[New York on 35mm Film - @michaelboegl]] — Michael Boegl (@michaelboegl)
 - [[GPT Image 2 Watercolor Travel Sketchbook Prompt - @taaruk_]] — Taaruk (@taaruk_)
 - [[hachimi - Time Standing Still]] — hachimi (@hakimihamizi)
+- [[GPT Image 2 Simple Explorations]] — Georgi (@gotingeorgig)
 ## Stats
 
-- **Total tweets:** 1158
+- **Total tweets:** 1166
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -924,6 +929,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Soft Collision NFT Art]] — Elfilter (@elfilter_a)
 - [[The Lands Between Dreams]] — ahad (@wiresandtrees)
 - [[Elfilter - New Works on Transient Labs]] — Elfilter (@elfilter_a)
+- [[Collage Generator Enhanced with Video Export]] — Elfilter (@elfilter_a)
+- [[Elfilter Useless Creativity Showcase]] — Elfilter (@elfilter_a)
+- [[Fictional Design Agency with Claude Code + Figma MCP]] — Emisho (@emishonowayi)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
