@@ -542,7 +542,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Pending Tweet - @anzomez]] — (@anzomez)
 ## Stats
 
-- **Total tweets:** 1192
+- **Total tweets:** 1193
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -958,6 +958,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Typography Storytelling Website with Claude]] — FHILY (@oluwaphilemon1)
 - [[Vitamin C Ad GPT Image Seedance Workflow]] — DStudioproject (@d_studioproject)
 - [[ASCII Magic Aesthetic Coming to ascii-magic.com]] — Kailash (@kail_designs)
+- [[Exit Request Denied]] — neurocolor (@neurocolor)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
