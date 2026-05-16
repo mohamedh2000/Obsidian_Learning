@@ -544,6 +544,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Anime Ocean in Blender]] — Salman (@visual_salman)
 - [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)
 - [[What is Harness Orchestration]] — Santosh Kumar Radha (Co-founder & CTO, AgentField)
+- [[MANA Drink Brand Website with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
+- [[Typography Choices from Previous Projects - @swarnima_otw]] — Swarnima (@swarnima_otw)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -718,7 +720,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1379
+- **Total notes:** 1384
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1080,6 +1082,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post by @yudho_xyz]] — yudho_xyz (@yudho_xyz)
 - [[Good Vibes Only Art]] — killstrike (@ki11_5trike)
 - [[Post by @macbethai]] — macbethai (@macbethai)
+- [[Fragments 109 Flipped Atmosphere - @sajgemusic]] — Sajge (@sajgemusic)
+- [[Pending Tweet - @elfilter_a]] — (@elfilter_a)
+- [[Pending Tweet - @anzomez]] — (@anzomez)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

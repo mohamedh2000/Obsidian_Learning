@@ -352,6 +352,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Red Woodblock Graphic Midjourney Sref]] — midlibrary (@midlibrary_io)
 - [[Art Style Exploration Teaches Back]] — Happy. (@happy_rymz)
 - [[Anime Ocean in Blender]] — Salman (@visual_salman)
+- [[MANA Drink Brand Website with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
+- [[Typography Choices from Previous Projects - @swarnima_otw]] — Swarnima (@swarnima_otw)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -536,9 +538,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Good Vibes Only Art]] — killstrike (@ki11_5trike)
 - [[Post by @macbethai]] — macbethai (@macbethai)
 - [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)
+- [[Pending Tweet - @elfilter_a]] — (@elfilter_a)
+- [[Pending Tweet - @anzomez]] — (@anzomez)
 ## Stats
 
-- **Total tweets:** 1188
+- **Total tweets:** 1192
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

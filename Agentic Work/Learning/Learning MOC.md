@@ -932,3 +932,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Anime Ocean in Blender]] — Salman (@visual_salman)
 - [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)
 - [[What is Harness Orchestration]] — Santosh Kumar Radha (Co-founder & CTO, AgentField)
+- [[MANA Drink Brand Website with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
+- [[Typography Choices from Previous Projects - @swarnima_otw]] — Swarnima (@swarnima_otw)
