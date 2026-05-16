@@ -107,3 +107,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Elle Adore Diamant - After Effects Edit]] — lbzibz (@lbzibz)
 - [[The End Film History Essay]] — newsincerity (@newsincerity)
 - [[Fragments 109 Flipped Atmosphere - @sajgemusic]] — Sajge (@sajgemusic)
+- [[AI Art Style Preservation Workflow]] — Moe (@ohneis652)
