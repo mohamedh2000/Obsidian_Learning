@@ -342,6 +342,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Studio Agar Minimal Portfolio Concept]] — Emisho (@emishonowayi)
 - [[50+ Premium ASCII Backgrounds Free]] — Ahmed Hassan (@uihssn)
 - [[Mobile Design Progress - Tony Dsgn]] — Tony | web designer (@tony_dsgn)
+- [[Website Journey Design]] — Rishabh Joshi (@rishabhhdesigns)
+- [[Fitness Healthcare Branding]] — Praveen Kumar (@praveenisomer)
+- [[elfilter_a Tweet]] — Unknown (@elfilter_a)
+- [[Brand Evolution Grittier Direction]] — Sean (@seanfinlay_)
+- [[Best Microinteraction Monthly]] — Peter Design (@itspeterdesign)
+- [[GPT Image Vintage Food Packaging Prompt]] — Sairah (@sairah_0)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -520,9 +526,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Watercolor Travel Sketchbook Prompt - @taaruk_]] — Taaruk (@taaruk_)
 - [[hachimi - Time Standing Still]] — hachimi (@hakimihamizi)
 - [[GPT Image 2 Simple Explorations]] — Georgi (@gotingeorgig)
+- [[Fritz Thaulow Water Surface Paintings]] — 耽美なる絵画とモノ (@estetism_jp)
 ## Stats
 
-- **Total tweets:** 1167
+- **Total tweets:** 1179
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -811,6 +818,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LangChain New Products - Agent Development Lifecycle]] — LangChain (@langchain)
 - [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
 - [[HALO - Self-Improving Agents via Harness Optimization]] — Sam Hogan (@samhogan)
+- [[GitHub Agentic AI Developer Certification GH-600]] — Nico (@nicos_ai)
 
 ## Developer Tools & Code Intelligence
 
@@ -933,6 +941,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Collage Generator Enhanced with Video Export]] — Elfilter (@elfilter_a)
 - [[Elfilter Useless Creativity Showcase]] — Elfilter (@elfilter_a)
 - [[Fictional Design Agency with Claude Code + Figma MCP]] — Emisho (@emishonowayi)
+- [[Pixel Art Rainy Day]] — VideoArtGame (@videoartgame)
+- [[Typography Storytelling Website with Claude]] — FHILY (@oluwaphilemon1)
+- [[Vitamin C Ad GPT Image Seedance Workflow]] — DStudioproject (@d_studioproject)
+- [[ASCII Magic Aesthetic Coming to ascii-magic.com]] — Kailash (@kail_designs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
