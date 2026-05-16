@@ -926,3 +926,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Vitamin C Ad GPT Image Seedance Workflow]] — DStudioproject (@d_studioproject)
 - [[GitHub Agentic AI Developer Certification GH-600]] — Nico (@nicos_ai)
 - [[ASCII Magic Aesthetic Coming to ascii-magic.com]] — Kailash (@kail_designs)
+- [[Godly - Web Design Inspiration Gallery]] — Godly (@godaborshfx)
