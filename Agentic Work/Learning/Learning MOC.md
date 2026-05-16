@@ -927,3 +927,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GitHub Agentic AI Developer Certification GH-600]] — Nico (@nicos_ai)
 - [[ASCII Magic Aesthetic Coming to ascii-magic.com]] — Kailash (@kail_designs)
 - [[Godly - Web Design Inspiration Gallery]] — Godly (@godaborshfx)
+- [[Red Woodblock Graphic Midjourney Sref]] — midlibrary (@midlibrary_io)
+- [[Art Style Exploration Teaches Back]] — Happy. (@happy_rymz)
+- [[Anime Ocean in Blender]] — Salman (@visual_salman)
+- [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)

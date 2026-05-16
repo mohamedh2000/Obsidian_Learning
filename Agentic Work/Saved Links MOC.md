@@ -539,6 +539,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GitHub Agentic AI Developer Certification GH-600]] — Nico (@nicos_ai)
 - [[ASCII Magic Aesthetic Coming to ascii-magic.com]] — Kailash (@kail_designs)
 - [[Godly - Web Design Inspiration Gallery]] — Godly (@godaborshfx)
+- [[Red Woodblock Graphic Midjourney Sref]] — midlibrary (@midlibrary_io)
+- [[Art Style Exploration Teaches Back]] — Happy. (@happy_rymz)
+- [[Anime Ocean in Blender]] — Salman (@visual_salman)
+- [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -713,7 +717,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1368
+- **Total notes:** 1378
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1069,6 +1073,12 @@ See [[Twitter Posts MOC]] for full index.
 - [[Eyes Are Everything - Viuta Original Music]] — Viuta (@viutatonight)
 - [[Laundromat - Summer Illustration Animation]] — champ_magnetique (@champ_magnetique)
 - [[Elle Adore Diamant - After Effects Edit]] — lbzibz (@lbzibz)
+- [[The End Film History Essay]] — newsincerity (@newsincerity)
+- [[Post by @konrad_designs]] — konrad_designs (@konrad_designs)
+- [[Post by @wiresandtrees]] — wiresandtrees (@wiresandtrees)
+- [[Post by @yudho_xyz]] — yudho_xyz (@yudho_xyz)
+- [[Good Vibes Only Art]] — killstrike (@ki11_5trike)
+- [[Post by @macbethai]] — macbethai (@macbethai)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

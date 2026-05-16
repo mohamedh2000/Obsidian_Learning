@@ -348,6 +348,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Brand Evolution Grittier Direction]] — Sean (@seanfinlay_)
 - [[Best Microinteraction Monthly]] — Peter Design (@itspeterdesign)
 - [[GPT Image Vintage Food Packaging Prompt]] — Sairah (@sairah_0)
+- [[Post by @konrad_designs]] — konrad_designs (@konrad_designs)
+- [[Red Woodblock Graphic Midjourney Sref]] — midlibrary (@midlibrary_io)
+- [[Art Style Exploration Teaches Back]] — Happy. (@happy_rymz)
+- [[Anime Ocean in Blender]] — Salman (@visual_salman)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -527,9 +531,14 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[hachimi - Time Standing Still]] — hachimi (@hakimihamizi)
 - [[GPT Image 2 Simple Explorations]] — Georgi (@gotingeorgig)
 - [[Fritz Thaulow Water Surface Paintings]] — 耽美なる絵画とモノ (@estetism_jp)
+- [[Post by @wiresandtrees]] — wiresandtrees (@wiresandtrees)
+- [[Post by @yudho_xyz]] — yudho_xyz (@yudho_xyz)
+- [[Good Vibes Only Art]] — killstrike (@ki11_5trike)
+- [[Post by @macbethai]] — macbethai (@macbethai)
+- [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)
 ## Stats
 
-- **Total tweets:** 1179
+- **Total tweets:** 1188
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

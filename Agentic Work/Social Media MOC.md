@@ -105,3 +105,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Eyes Are Everything - Viuta Original Music]] — Viuta (@viutatonight)
 - [[Laundromat - Summer Illustration Animation]] — champ_magnetique (@champ_magnetique)
 - [[Elle Adore Diamant - After Effects Edit]] — lbzibz (@lbzibz)
+- [[The End Film History Essay]] — newsincerity (@newsincerity)
