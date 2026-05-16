@@ -931,3 +931,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Art Style Exploration Teaches Back]] — Happy. (@happy_rymz)
 - [[Anime Ocean in Blender]] — Salman (@visual_salman)
 - [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)
+- [[What is Harness Orchestration]] — Santosh Kumar Radha (Co-founder & CTO, AgentField)
