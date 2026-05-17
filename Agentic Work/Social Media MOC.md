@@ -109,3 +109,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Fragments 109 Flipped Atmosphere - @sajgemusic]] — Sajge (@sajgemusic)
 - [[AI Art Style Preservation Workflow]] — Moe (@ohneis652)
 - [[Invideo AI Skin Realism Prompt System - @invideo_io]] — invideo.io (@invideo.io)
+- [[Cyber City Oedo 808 Aesthetic Analysis]] — celluloid.foliage on Instagram
+- [[Instagram Post DWnkUPiDOZU]] — Instagram

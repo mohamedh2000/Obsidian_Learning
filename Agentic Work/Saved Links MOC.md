@@ -546,6 +546,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[What is Harness Orchestration]] — Santosh Kumar Radha (Co-founder & CTO, AgentField)
 - [[MANA Drink Brand Website with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
 - [[Typography Choices from Previous Projects - @swarnima_otw]] — Swarnima (@swarnima_otw)
+- [[Website Inspiration Sites Collection]] — Jessica Strelioff (@jstrelioff)
+- [[Kimi K2.6 Award-Winning Website Tutorial]] — Viktor Oddy (@viktoroddy)
+- [[Favorite Editorial Layouts Lately]] — Georgi (@gotingeorgig)
+- [[3D Product Packaging Agency Site with Claude]] — FHILY👑 (@oluwaphilemon1)
+- [[Blue Bubble Fisheye Action Poster Visual System]] — Vigo Zhao (@vigocreativeai)
+- [[Premium Hero Sections with Figma and Grok]] — Yasir Ahmad Noori (@yasirahmadnoori)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -720,7 +726,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1391
+- **Total notes:** 1399
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1092,6 +1098,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Grok Hermes Agent X Premium Integration - @xai]] — xAI (@xai)
 - [[Totalis Praesentia NFT Auction - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
 - [[Gothic Rose Romance Midjourney Style - @midlibrary_io]] — midlibrary (@midlibrary_io)
+- [[Cyber City Oedo 808 Aesthetic Analysis]] — celluloid.foliage on Instagram
+- [[Instagram Post DWnkUPiDOZU]] — Instagram
 
 ## Recovered 2026-03-26 — 2026-04-14
 

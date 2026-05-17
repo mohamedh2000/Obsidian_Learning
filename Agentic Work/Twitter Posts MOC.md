@@ -356,6 +356,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[MANA Drink Brand Website with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
 - [[Typography Choices from Previous Projects - @swarnima_otw]] — Swarnima (@swarnima_otw)
 - [[Recent Design Exploration - @konrad_designs]] — Konrad Makowski (@konrad_designs)
+- [[Website Inspiration Sites Collection]] — Jessica Strelioff (@jstrelioff)
+- [[Favorite Editorial Layouts Lately]] — Georgi (@gotingeorgig)
+- [[3D Product Packaging Agency Site with Claude]] — FHILY👑 (@oluwaphilemon1)
+- [[Blue Bubble Fisheye Action Poster Visual System]] — Vigo Zhao (@vigocreativeai)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -545,7 +549,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Gothic Rose Romance Midjourney Style - @midlibrary_io]] — midlibrary (@midlibrary_io)
 ## Stats
 
-- **Total tweets:** 1197
+- **Total tweets:** 1203
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -963,6 +967,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Vitamin C Ad GPT Image Seedance Workflow]] — DStudioproject (@d_studioproject)
 - [[ASCII Magic Aesthetic Coming to ascii-magic.com]] — Kailash (@kail_designs)
 - [[Exit Request Denied]] — neurocolor (@neurocolor)
+- [[Kimi K2.6 Award-Winning Website Tutorial]] — Viktor Oddy (@viktoroddy)
+- [[Premium Hero Sections with Figma and Grok]] — Yasir Ahmad Noori (@yasirahmadnoori)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
