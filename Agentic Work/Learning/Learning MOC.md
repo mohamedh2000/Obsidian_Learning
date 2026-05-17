@@ -940,3 +940,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[3D Product Packaging Agency Site with Claude]] — FHILY👑 (@oluwaphilemon1)
 - [[Blue Bubble Fisheye Action Poster Visual System]] — Vigo Zhao (@vigocreativeai)
 - [[Premium Hero Sections with Figma and Grok]] — Yasir Ahmad Noori (@yasirahmadnoori)
+- [[Brand ROI for YC Startups]] — Praveen Kumar (@praveenisomer)
