@@ -108,3 +108,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[The End Film History Essay]] — newsincerity (@newsincerity)
 - [[Fragments 109 Flipped Atmosphere - @sajgemusic]] — Sajge (@sajgemusic)
 - [[AI Art Style Preservation Workflow]] — Moe (@ohneis652)
+- [[Invideo AI Skin Realism Prompt System - @invideo_io]] — invideo.io (@invideo.io)

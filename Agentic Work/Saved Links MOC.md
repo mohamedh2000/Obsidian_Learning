@@ -720,7 +720,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1386
+- **Total notes:** 1391
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1087,6 +1087,11 @@ See [[Twitter Posts MOC]] for full index.
 - [[Pending Tweet - @anzomez]] — (@anzomez)
 - [[AI Art Style Preservation Workflow]] — Moe (@ohneis652)
 - [[Exit Request Denied]] — neurocolor (@neurocolor)
+- [[Invideo AI Skin Realism Prompt System - @invideo_io]] — invideo.io (@invideo.io)
+- [[Recent Design Exploration - @konrad_designs]] — Konrad Makowski (@konrad_designs)
+- [[Grok Hermes Agent X Premium Integration - @xai]] — xAI (@xai)
+- [[Totalis Praesentia NFT Auction - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
+- [[Gothic Rose Romance Midjourney Style - @midlibrary_io]] — midlibrary (@midlibrary_io)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -189,6 +189,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[2026 Startup Distribution Checklist]] — Ziwen (@ziwenxu_)
 - [[Reddit DMs Convert 10x Better - Lead Generation Strategy]] — Om Patel (@om_patel5)
 - [[0xJeff Article Post]] — 0xJeff (@0xjeff)
+- [[Totalis Praesentia NFT Auction - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -354,6 +355,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Anime Ocean in Blender]] — Salman (@visual_salman)
 - [[MANA Drink Brand Website with Lovable - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
 - [[Typography Choices from Previous Projects - @swarnima_otw]] — Swarnima (@swarnima_otw)
+- [[Recent Design Exploration - @konrad_designs]] — Konrad Makowski (@konrad_designs)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -540,9 +542,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Castle Gate by Ferdinand Knab (1881)]] — Museum (@dailyclassicart)
 - [[Pending Tweet - @elfilter_a]] — (@elfilter_a)
 - [[Pending Tweet - @anzomez]] — (@anzomez)
+- [[Gothic Rose Romance Midjourney Style - @midlibrary_io]] — midlibrary (@midlibrary_io)
 ## Stats
 
-- **Total tweets:** 1193
+- **Total tweets:** 1197
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -832,6 +835,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Virtual Filesystem for AI Agents]] — Leonie (@helloiamleonie)
 - [[HALO - Self-Improving Agents via Harness Optimization]] — Sam Hogan (@samhogan)
 - [[GitHub Agentic AI Developer Certification GH-600]] — Nico (@nicos_ai)
+- [[Grok Hermes Agent X Premium Integration - @xai]] — xAI (@xai)
 
 ## Developer Tools & Code Intelligence
 
