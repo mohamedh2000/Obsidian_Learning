@@ -942,3 +942,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Premium Hero Sections with Figma and Grok]] — Yasir Ahmad Noori (@yasirahmadnoori)
 - [[Brand ROI for YC Startups]] — Praveen Kumar (@praveenisomer)
 - [[Unsplash - Free Stock Photography Platform]] — Unsplash
+- [[Hermes Agent Control Room Blueprint - @shannholmberg]] — Shann³ (@shannholmberg)
+- [[Learn Harness Engineering Guide - @_vmlops]] — Vaishnavi (@_vmlops)
+- [[ASCII Magic Disco Effect Tool - @kail_designs]] — Kailash (@kail_designs)
+- [[ASCII Backgrounds for Hero Sections - @uihssn]] — Ahmed Hassan (@uihssn)
+- [[Visual Journal Weekly Design Curation - @aessestudio]] — Aesse (@aessestudio)

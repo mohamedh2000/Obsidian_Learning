@@ -554,6 +554,11 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Premium Hero Sections with Figma and Grok]] — Yasir Ahmad Noori (@yasirahmadnoori)
 - [[Brand ROI for YC Startups]] — Praveen Kumar (@praveenisomer)
 - [[Unsplash - Free Stock Photography Platform]] — Unsplash
+- [[Hermes Agent Control Room Blueprint - @shannholmberg]] — Shann³ (@shannholmberg)
+- [[Learn Harness Engineering Guide - @_vmlops]] — Vaishnavi (@_vmlops)
+- [[ASCII Magic Disco Effect Tool - @kail_designs]] — Kailash (@kail_designs)
+- [[ASCII Backgrounds for Hero Sections - @uihssn]] — Ahmed Hassan (@uihssn)
+- [[Visual Journal Weekly Design Curation - @aessestudio]] — Aesse (@aessestudio)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -728,7 +733,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1402
+- **Total notes:** 1413
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1103,6 +1108,12 @@ See [[Twitter Posts MOC]] for full index.
 - [[Cyber City Oedo 808 Aesthetic Analysis]] — celluloid.foliage on Instagram
 - [[Instagram Post DWnkUPiDOZU]] — Instagram
 - [[Reevo - AI Revenue Operating System]] — Reevo
+- [[elfilter_a Tweet - @elfilter_a]] — elfilter_a (@elfilter_a)
+- [[Hitomebore Digital Art - @polygon1993]] — POLYGON1993■ (@polygon1993)
+- [[How Detailed Is Your Art - @andzn_]] — andrew (@andzn_)
+- [[Crimson Anime Dream Midjourney sref - @midlibrary_io]] — midlibrary (@midlibrary_io)
+- [[p0ng Video - @r0bp]] — r0bp (@r0bp)
+- [[Hand-Drawn Art MS Paint No AI - @anasabdin]] — AnasAbdin 🪐🌿 (@anasabdin)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

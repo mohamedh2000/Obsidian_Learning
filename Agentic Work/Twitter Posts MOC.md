@@ -361,6 +361,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3D Product Packaging Agency Site with Claude]] — FHILY👑 (@oluwaphilemon1)
 - [[Blue Bubble Fisheye Action Poster Visual System]] — Vigo Zhao (@vigocreativeai)
 - [[Brand ROI for YC Startups]] — Praveen Kumar (@praveenisomer)
+- [[ASCII Backgrounds for Hero Sections - @uihssn]] — Ahmed Hassan (@uihssn)
+- [[Visual Journal Weekly Design Curation - @aessestudio]] — Aesse (@aessestudio)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -548,9 +550,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Pending Tweet - @elfilter_a]] — (@elfilter_a)
 - [[Pending Tweet - @anzomez]] — (@anzomez)
 - [[Gothic Rose Romance Midjourney Style - @midlibrary_io]] — midlibrary (@midlibrary_io)
+- [[elfilter_a Tweet - @elfilter_a]] — elfilter_a (@elfilter_a)
+- [[Crimson Anime Dream Midjourney sref - @midlibrary_io]] — midlibrary (@midlibrary_io)
 ## Stats
 
-- **Total tweets:** 1204
+- **Total tweets:** 1215
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -841,6 +845,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[HALO - Self-Improving Agents via Harness Optimization]] — Sam Hogan (@samhogan)
 - [[GitHub Agentic AI Developer Certification GH-600]] — Nico (@nicos_ai)
 - [[Grok Hermes Agent X Premium Integration - @xai]] — xAI (@xai)
+- [[Hermes Agent Control Room Blueprint - @shannholmberg]] — Shann³ (@shannholmberg)
+- [[Learn Harness Engineering Guide - @_vmlops]] — Vaishnavi (@_vmlops)
 
 ## Developer Tools & Code Intelligence
 
@@ -970,6 +976,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Exit Request Denied]] — neurocolor (@neurocolor)
 - [[Kimi K2.6 Award-Winning Website Tutorial]] — Viktor Oddy (@viktoroddy)
 - [[Premium Hero Sections with Figma and Grok]] — Yasir Ahmad Noori (@yasirahmadnoori)
+- [[Hitomebore Digital Art - @polygon1993]] — POLYGON1993■ (@polygon1993)
+- [[ASCII Magic Disco Effect Tool - @kail_designs]] — Kailash (@kail_designs)
+- [[How Detailed Is Your Art - @andzn_]] — andrew (@andzn_)
+- [[p0ng Video - @r0bp]] — r0bp (@r0bp)
+- [[Hand-Drawn Art MS Paint No AI - @anasabdin]] — AnasAbdin 🪐🌿 (@anasabdin)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
