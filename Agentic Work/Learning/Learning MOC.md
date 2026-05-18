@@ -953,3 +953,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hermes Agent Masterclass Complete Guide]] — Akshay (@akshay_pachaar)
 - [[Cherry Blossom Point Cloud - Three.js Visualization]] — xbh_studio (@xbh_artist)
 - [[Granulation - Visual Effect by Elfilter]] — Elfilter (@elfilter_a)
+- [[Gaming Platform Cards Design]] — Georgi (@gotingeorgig)
+- [[4 Levels of Hermes Agent Setup]] — Shann³ (@shannholmberg)
+- [[Motion Design with Claude Code + Higgsfield MCP]] — Higgsfield AI (@higgsfield)
+- [[GPT Image v2 Urban Streetwear Prompt]] — AmirMušić (@amirmushich)

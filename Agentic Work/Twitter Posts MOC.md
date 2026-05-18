@@ -364,6 +364,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ASCII Backgrounds for Hero Sections - @uihssn]] — Ahmed Hassan (@uihssn)
 - [[Visual Journal Weekly Design Curation - @aessestudio]] — Aesse (@aessestudio)
 - [[Granulation - Visual Effect by Elfilter]] — Elfilter (@elfilter_a)
+- [[Gaming Platform Cards Design]] — Georgi (@gotingeorgig)
+- [[Build Don't Write]] — Zahra | SaaS Web Designer (@zahragr8r)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -555,9 +557,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Crimson Anime Dream Midjourney sref - @midlibrary_io]] — midlibrary (@midlibrary_io)
 - [[Cherry Blossom Point Cloud - Three.js Visualization]] — xbh_studio (@xbh_artist)
 - [[GPT Image 2 Kawaii Muslim Character Prompt]] — Taaruk (@taaruk_)
+- [[GPT Image v2 Urban Streetwear Prompt]] — AmirMušić (@amirmushich)
 ## Stats
 
-- **Total tweets:** 1224
+- **Total tweets:** 1229
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -854,6 +857,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Image Styles GitHub Cookbook]] — Vigo Zhao (@vigocreativeai)
 - [[Hermes Agent Best Learning Resource]] — santi (@santtiagom_)
 - [[Hermes Agent Masterclass Complete Guide]] — Akshay (@akshay_pachaar)
+- [[4 Levels of Hermes Agent Setup]] — Shann³ (@shannholmberg)
+- [[Motion Design with Claude Code + Higgsfield MCP]] — Higgsfield AI (@higgsfield)
 
 ## Developer Tools & Code Intelligence
 
