@@ -363,6 +363,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Brand ROI for YC Startups]] — Praveen Kumar (@praveenisomer)
 - [[ASCII Backgrounds for Hero Sections - @uihssn]] — Ahmed Hassan (@uihssn)
 - [[Visual Journal Weekly Design Curation - @aessestudio]] — Aesse (@aessestudio)
+- [[Granulation - Visual Effect by Elfilter]] — Elfilter (@elfilter_a)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -552,9 +553,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Gothic Rose Romance Midjourney Style - @midlibrary_io]] — midlibrary (@midlibrary_io)
 - [[elfilter_a Tweet - @elfilter_a]] — elfilter_a (@elfilter_a)
 - [[Crimson Anime Dream Midjourney sref - @midlibrary_io]] — midlibrary (@midlibrary_io)
+- [[Cherry Blossom Point Cloud - Three.js Visualization]] — xbh_studio (@xbh_artist)
+- [[GPT Image 2 Kawaii Muslim Character Prompt]] — Taaruk (@taaruk_)
 ## Stats
 
-- **Total tweets:** 1220
+- **Total tweets:** 1224
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -986,6 +989,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[p0ng Video - @r0bp]] — r0bp (@r0bp)
 - [[Hand-Drawn Art MS Paint No AI - @anasabdin]] — AnasAbdin 🪐🌿 (@anasabdin)
 - [[ASCII Magic New Backgrounds Update]] — Kailash (@kail_designs)
+- [[Pixlo - Photo to Video Slideshow Tool]] — Tran Mau Tri Tam ✪ (@tranmautritam)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -951,3 +951,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Image Styles GitHub Cookbook]] — Vigo Zhao (@vigocreativeai)
 - [[Hermes Agent Best Learning Resource]] — santi (@santtiagom_)
 - [[Hermes Agent Masterclass Complete Guide]] — Akshay (@akshay_pachaar)
+- [[Cherry Blossom Point Cloud - Three.js Visualization]] — xbh_studio (@xbh_artist)
+- [[Granulation - Visual Effect by Elfilter]] — Elfilter (@elfilter_a)
