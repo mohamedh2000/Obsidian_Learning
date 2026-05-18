@@ -957,3 +957,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[4 Levels of Hermes Agent Setup]] — Shann³ (@shannholmberg)
 - [[Motion Design with Claude Code + Higgsfield MCP]] — Higgsfield AI (@higgsfield)
 - [[GPT Image v2 Urban Streetwear Prompt]] — AmirMušić (@amirmushich)
+- [[Claude Code in Large Codebases - Best Practices]] — Anthropic Applied AI Team
