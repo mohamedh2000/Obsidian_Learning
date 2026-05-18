@@ -947,3 +947,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[ASCII Magic Disco Effect Tool - @kail_designs]] — Kailash (@kail_designs)
 - [[ASCII Backgrounds for Hero Sections - @uihssn]] — Ahmed Hassan (@uihssn)
 - [[Visual Journal Weekly Design Curation - @aessestudio]] — Aesse (@aessestudio)
+- [[Hermes AI Universal Brain with Claude Code OS]] — Suryansh Tiwari (@suryanshti777)
+- [[AI Image Styles GitHub Cookbook]] — Vigo Zhao (@vigocreativeai)
+- [[Hermes Agent Best Learning Resource]] — santi (@santtiagom_)
+- [[Hermes Agent Masterclass Complete Guide]] — Akshay (@akshay_pachaar)

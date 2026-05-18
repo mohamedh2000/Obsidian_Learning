@@ -554,7 +554,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Crimson Anime Dream Midjourney sref - @midlibrary_io]] — midlibrary (@midlibrary_io)
 ## Stats
 
-- **Total tweets:** 1215
+- **Total tweets:** 1220
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -847,6 +847,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Grok Hermes Agent X Premium Integration - @xai]] — xAI (@xai)
 - [[Hermes Agent Control Room Blueprint - @shannholmberg]] — Shann³ (@shannholmberg)
 - [[Learn Harness Engineering Guide - @_vmlops]] — Vaishnavi (@_vmlops)
+- [[Hermes AI Universal Brain with Claude Code OS]] — Suryansh Tiwari (@suryanshti777)
+- [[AI Image Styles GitHub Cookbook]] — Vigo Zhao (@vigocreativeai)
+- [[Hermes Agent Best Learning Resource]] — santi (@santtiagom_)
+- [[Hermes Agent Masterclass Complete Guide]] — Akshay (@akshay_pachaar)
 
 ## Developer Tools & Code Intelligence
 
@@ -981,6 +985,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[How Detailed Is Your Art - @andzn_]] — andrew (@andzn_)
 - [[p0ng Video - @r0bp]] — r0bp (@r0bp)
 - [[Hand-Drawn Art MS Paint No AI - @anasabdin]] — AnasAbdin 🪐🌿 (@anasabdin)
+- [[ASCII Magic New Backgrounds Update]] — Kailash (@kail_designs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

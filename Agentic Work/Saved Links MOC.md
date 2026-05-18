@@ -559,6 +559,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[ASCII Magic Disco Effect Tool - @kail_designs]] — Kailash (@kail_designs)
 - [[ASCII Backgrounds for Hero Sections - @uihssn]] — Ahmed Hassan (@uihssn)
 - [[Visual Journal Weekly Design Curation - @aessestudio]] — Aesse (@aessestudio)
+- [[Hermes AI Universal Brain with Claude Code OS]] — Suryansh Tiwari (@suryanshti777)
+- [[AI Image Styles GitHub Cookbook]] — Vigo Zhao (@vigocreativeai)
+- [[Hermes Agent Best Learning Resource]] — santi (@santtiagom_)
+- [[Hermes Agent Masterclass Complete Guide]] — Akshay (@akshay_pachaar)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -733,7 +737,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1413
+- **Total notes:** 1418
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1114,6 +1118,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Crimson Anime Dream Midjourney sref - @midlibrary_io]] — midlibrary (@midlibrary_io)
 - [[p0ng Video - @r0bp]] — r0bp (@r0bp)
 - [[Hand-Drawn Art MS Paint No AI - @anasabdin]] — AnasAbdin 🪐🌿 (@anasabdin)
+- [[ASCII Magic New Backgrounds Update]] — Kailash (@kail_designs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
