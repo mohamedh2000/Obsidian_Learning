@@ -967,3 +967,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Refero Design Styles for AI Agents]] — Kailash (@kail_designs)
 - [[RISOGRAPH Hero Section Backgrounds]] — Yasir Ahmad Noori (@yasirahmadnoori)
 - [[Three.js Point Cloud Sakura Tree]] — xbh_studio (@xbh_artist)
+- [[Interactive Archive Concept Day 17 Challenge - @emishonowayi]] — Emisho (@emishonowayi)
