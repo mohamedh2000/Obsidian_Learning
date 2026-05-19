@@ -958,3 +958,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Motion Design with Claude Code + Higgsfield MCP]] — Higgsfield AI (@higgsfield)
 - [[GPT Image v2 Urban Streetwear Prompt]] — AmirMušić (@amirmushich)
 - [[Claude Code in Large Codebases - Best Practices]] — Anthropic Applied AI Team
+- [[Matte Framer Template Free - @shaigexp]] — Shaig (@shaigexp)
+- [[Design Tweet - @bykellymcd]] — Kelly McDermott (@bykellymcd)
+- [[Pixel Art Design - @vicardspixel]] — Vicards Pixel (@vicardspixel)
+- [[Design is a Manner of Good Archive - @kcraytiff]] — Eji Branding ⛳ (@kcraytiff)
+- [[Retro Pop Art Prompt Template - @ludoviccreator]] — LudovicCreator (@ludoviccreator)

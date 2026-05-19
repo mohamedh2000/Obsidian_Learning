@@ -366,6 +366,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Granulation - Visual Effect by Elfilter]] — Elfilter (@elfilter_a)
 - [[Gaming Platform Cards Design]] — Georgi (@gotingeorgig)
 - [[Build Don't Write]] — Zahra | SaaS Web Designer (@zahragr8r)
+- [[Matte Framer Template Free - @shaigexp]] — Shaig (@shaigexp)
+- [[Design Tweet - @bykellymcd]] — Kelly McDermott (@bykellymcd)
+- [[Pixel Art Design - @vicardspixel]] — Vicards Pixel (@vicardspixel)
+- [[Design is a Manner of Good Archive - @kcraytiff]] — Eji Branding ⛳ (@kcraytiff)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -558,9 +562,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Cherry Blossom Point Cloud - Three.js Visualization]] — xbh_studio (@xbh_artist)
 - [[GPT Image 2 Kawaii Muslim Character Prompt]] — Taaruk (@taaruk_)
 - [[GPT Image v2 Urban Streetwear Prompt]] — AmirMušić (@amirmushich)
+- [[Retro Pop Art Prompt Template - @ludoviccreator]] — LudovicCreator (@ludoviccreator)
 ## Stats
 
-- **Total tweets:** 1229
+- **Total tweets:** 1234
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
