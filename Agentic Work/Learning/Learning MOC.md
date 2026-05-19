@@ -964,3 +964,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Design is a Manner of Good Archive - @kcraytiff]] — Eji Branding ⛳ (@kcraytiff)
 - [[Retro Pop Art Prompt Template - @ludoviccreator]] — LudovicCreator (@ludoviccreator)
 - [[Claude Code Setup Plugin - Turn Vanilla Into AI Dev Environment - @suryanshti777]] — Suryansh Tiwari (@suryanshti777)
+- [[Refero Design Styles for AI Agents]] — Kailash (@kail_designs)
+- [[RISOGRAPH Hero Section Backgrounds]] — Yasir Ahmad Noori (@yasirahmadnoori)
+- [[Three.js Point Cloud Sakura Tree]] — xbh_studio (@xbh_artist)
