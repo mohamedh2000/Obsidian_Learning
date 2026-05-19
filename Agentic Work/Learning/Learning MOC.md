@@ -963,3 +963,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Pixel Art Design - @vicardspixel]] — Vicards Pixel (@vicardspixel)
 - [[Design is a Manner of Good Archive - @kcraytiff]] — Eji Branding ⛳ (@kcraytiff)
 - [[Retro Pop Art Prompt Template - @ludoviccreator]] — LudovicCreator (@ludoviccreator)
+- [[Claude Code Setup Plugin - Turn Vanilla Into AI Dev Environment - @suryanshti777]] — Suryansh Tiwari (@suryanshti777)

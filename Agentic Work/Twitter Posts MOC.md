@@ -370,6 +370,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Design Tweet - @bykellymcd]] — Kelly McDermott (@bykellymcd)
 - [[Pixel Art Design - @vicardspixel]] — Vicards Pixel (@vicardspixel)
 - [[Design is a Manner of Good Archive - @kcraytiff]] — Eji Branding ⛳ (@kcraytiff)
+- [[Hero Design Portfolio Showcase - @uiakanksha_]] — Akanksha (@uiakanksha_)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -565,7 +566,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Retro Pop Art Prompt Template - @ludoviccreator]] — LudovicCreator (@ludoviccreator)
 ## Stats
 
-- **Total tweets:** 1234
+- **Total tweets:** 1236
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -864,6 +865,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent Masterclass Complete Guide]] — Akshay (@akshay_pachaar)
 - [[4 Levels of Hermes Agent Setup]] — Shann³ (@shannholmberg)
 - [[Motion Design with Claude Code + Higgsfield MCP]] — Higgsfield AI (@higgsfield)
+- [[Claude Code Setup Plugin - Turn Vanilla Into AI Dev Environment - @suryanshti777]] — Suryansh Tiwari (@suryanshti777)
 
 ## Developer Tools & Code Intelligence
 
