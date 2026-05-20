@@ -378,6 +378,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Website Design Visual Showcase]] — Kailash (@kail_designs)
 - [[GPT Image Lookbook Layout Prompts]] — AmirMušić (@amirmushich)
 - [[AI Visual Prompt Cookbook GitHub]] — Vigo Zhao (@vigocreativeai)
+- [[Better Together Luxury Branding Elements - @swarnima_otw]] — Swarnima (@swarnima_otw)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -572,9 +573,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image v2 Urban Streetwear Prompt]] — AmirMušić (@amirmushich)
 - [[Retro Pop Art Prompt Template - @ludoviccreator]] — LudovicCreator (@ludoviccreator)
 - [[This Time Again Notes]] — anz (@anzomez)
+- [[anzomez Tweet - @anzomez]] — (@anzomez)
+- [[samstooff Tweet - @samstooff]] — (@samstooff)
 ## Stats
 
-- **Total tweets:** 1248
+- **Total tweets:** 1252
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -875,6 +878,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Motion Design with Claude Code + Higgsfield MCP]] — Higgsfield AI (@higgsfield)
 - [[Claude Code Setup Plugin - Turn Vanilla Into AI Dev Environment - @suryanshti777]] — Suryansh Tiwari (@suryanshti777)
 - [[Refero Design Styles for AI Agents]] — Kailash (@kail_designs)
+- [[Labs Hiring Continual Learning Agent Traces - @vtrivedy10]] — Viv (@vtrivedy10)
 
 ## Developer Tools & Code Intelligence
 

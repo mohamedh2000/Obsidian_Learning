@@ -973,3 +973,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT Image Lookbook Layout Prompts]] — AmirMušić (@amirmushich)
 - [[AI Visual Prompt Cookbook GitHub]] — Vigo Zhao (@vigocreativeai)
 - [[Storytelling Website with Claude Three.js GSAP Lenis]] — FHILY👑 (@oluwaphilemon1)
+- [[Labs Hiring Continual Learning Agent Traces - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Better Together Luxury Branding Elements - @swarnima_otw]] — Swarnima (@swarnima_otw)
