@@ -758,7 +758,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1444
+- **Total notes:** 1446
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1526,3 +1526,5 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[ASCII Website Section Design]] — Praveen Kumar (@praveenisomer)
 - [[Studio Agar Minimal Portfolio Concept]] — Emisho (@emishonowayi)
 - [[50+ Premium ASCII Backgrounds Free]] — Ahmed Hassan (@uihssn)
+- [[This Time Again Notes]] — anz (@anzomez)
+- [[Google Flow Tools Introduction]] — Google Flow (@flowbygoogle)

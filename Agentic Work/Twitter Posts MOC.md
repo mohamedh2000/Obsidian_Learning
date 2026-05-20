@@ -570,9 +570,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Kawaii Muslim Character Prompt]] — Taaruk (@taaruk_)
 - [[GPT Image v2 Urban Streetwear Prompt]] — AmirMušić (@amirmushich)
 - [[Retro Pop Art Prompt Template - @ludoviccreator]] — LudovicCreator (@ludoviccreator)
+- [[This Time Again Notes]] — anz (@anzomez)
 ## Stats
 
-- **Total tweets:** 1244
+- **Total tweets:** 1246
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1010,6 +1011,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ASCII Magic New Backgrounds Update]] — Kailash (@kail_designs)
 - [[Pixlo - Photo to Video Slideshow Tool]] — Tran Mau Tri Tam ✪ (@tranmautritam)
 - [[Interactive Archive Concept Day 17 Challenge - @emishonowayi]] — Emisho (@emishonowayi)
+- [[Google Flow Tools Introduction]] — Google Flow (@flowbygoogle)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
