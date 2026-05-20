@@ -968,3 +968,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[RISOGRAPH Hero Section Backgrounds]] — Yasir Ahmad Noori (@yasirahmadnoori)
 - [[Three.js Point Cloud Sakura Tree]] — xbh_studio (@xbh_artist)
 - [[Interactive Archive Concept Day 17 Challenge - @emishonowayi]] — Emisho (@emishonowayi)
+- [[Hero Section Design Exploration]] — Tushar Pandey (@tusharpand0848)
+- [[Website Design Visual Showcase]] — Kailash (@kail_designs)
+- [[GPT Image Lookbook Layout Prompts]] — AmirMušić (@amirmushich)
+- [[AI Visual Prompt Cookbook GitHub]] — Vigo Zhao (@vigocreativeai)
