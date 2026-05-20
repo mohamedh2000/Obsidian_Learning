@@ -190,6 +190,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Reddit DMs Convert 10x Better - Lead Generation Strategy]] — Om Patel (@om_patel5)
 - [[0xJeff Article Post]] — 0xJeff (@0xjeff)
 - [[Totalis Praesentia NFT Auction - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
+- [[SuperRare 1 of 1 NFT Drop]] — anz (@anzomez)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -573,7 +574,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[This Time Again Notes]] — anz (@anzomez)
 ## Stats
 
-- **Total tweets:** 1246
+- **Total tweets:** 1248
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1012,6 +1013,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Pixlo - Photo to Video Slideshow Tool]] — Tran Mau Tri Tam ✪ (@tranmautritam)
 - [[Interactive Archive Concept Day 17 Challenge - @emishonowayi]] — Emisho (@emishonowayi)
 - [[Google Flow Tools Introduction]] — Google Flow (@flowbygoogle)
+- [[Storytelling Website with Claude Three.js GSAP Lenis]] — FHILY👑 (@oluwaphilemon1)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

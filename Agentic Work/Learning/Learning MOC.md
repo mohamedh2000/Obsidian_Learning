@@ -972,3 +972,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Website Design Visual Showcase]] — Kailash (@kail_designs)
 - [[GPT Image Lookbook Layout Prompts]] — AmirMušić (@amirmushich)
 - [[AI Visual Prompt Cookbook GitHub]] — Vigo Zhao (@vigocreativeai)
+- [[Storytelling Website with Claude Three.js GSAP Lenis]] — FHILY👑 (@oluwaphilemon1)
