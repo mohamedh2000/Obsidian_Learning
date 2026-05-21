@@ -986,3 +986,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Medium Article Cover Animation by Adrian]] — Adrian (@adrianinmotion)
 - [[Fragments Motion Graphics - Jestin]] — Jestin (@fate_szn)
 - [[2026 Design AI Report - 10 Key Takeaways]] — AmirMušić (@amirmushich)
+- [[Folder Animation by @AdityaSur11 - @bestdesignsonx]] — Best Designs On ✧ (@bestdesignsonx)
+- [[Minimal Architecture Studio Hero - @designbysaif]] — s4if (@designbysaif)

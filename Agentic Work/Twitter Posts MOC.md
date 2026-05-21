@@ -390,6 +390,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Medium Article Cover Animation by Adrian]] — Adrian (@adrianinmotion)
 - [[Fragments Motion Graphics - Jestin]] — Jestin (@fate_szn)
 - [[2026 Design AI Report - 10 Key Takeaways]] — AmirMušić (@amirmushich)
+- [[Folder Animation by @AdityaSur11 - @bestdesignsonx]] — Best Designs On ✧ (@bestdesignsonx)
+- [[Minimal Architecture Studio Hero - @designbysaif]] — s4if (@designbysaif)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -591,7 +593,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
 ## Stats
 
-- **Total tweets:** 1271
+- **Total tweets:** 1273
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
