@@ -379,6 +379,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image Lookbook Layout Prompts]] — AmirMušić (@amirmushich)
 - [[AI Visual Prompt Cookbook GitHub]] — Vigo Zhao (@vigocreativeai)
 - [[Better Together Luxury Branding Elements - @swarnima_otw]] — Swarnima (@swarnima_otw)
+- [[Load Animation Reference]] — Tony | web designer (@tony_dsgn)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -575,9 +576,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[This Time Again Notes]] — anz (@anzomez)
 - [[anzomez Tweet - @anzomez]] — (@anzomez)
 - [[samstooff Tweet - @samstooff]] — (@samstooff)
+- [[ChatGPT Cinematic Portrait Prompt]] — Eesha (@missdelulu9)
+- [[Media Post - Adhiraj Singh]] — Adhiraj Singh (@adhiraj_otw)
 ## Stats
 
-- **Total tweets:** 1252
+- **Total tweets:** 1255
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
