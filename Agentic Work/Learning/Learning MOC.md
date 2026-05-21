@@ -979,3 +979,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[OBSCURA About Page Design]] — Vlad Shum (@vladshum_)
 - [[Local AI Setup with Codex CLI]] — Ahmad (@theahmadosman)
 - [[Claude Code Multi-Agent Orchestration Deep Dive]] — Eloi | UGC IA (@eloiljf)
+- [[Midjourney SREF 3642456687 - Luxury Pink Dreamy Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[OTSU by Aran - Visual Journal Feature]] — Aesse (@aessestudio)
+- [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
+- [[Creative Contact Page by Locomotive MTL]] — Aurelien (@aurelien_gz)
+- [[Medium Article Cover Animation by Adrian]] — Adrian (@adrianinmotion)

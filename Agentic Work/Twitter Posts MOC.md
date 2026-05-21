@@ -384,6 +384,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Balsakstudio Framer Showcase]] — Satto.studio (@satto_studio)
 - [[Anthropic Design Appreciation]] — Victoria (@victoria_framer)
 - [[OBSCURA About Page Design]] — Vlad Shum (@vladshum_)
+- [[Midjourney SREF 3642456687 - Luxury Pink Dreamy Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[OTSU by Aran - Visual Journal Feature]] — Aesse (@aessestudio)
+- [[Creative Contact Page by Locomotive MTL]] — Aurelien (@aurelien_gz)
+- [[Medium Article Cover Animation by Adrian]] — Adrian (@adrianinmotion)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -582,9 +586,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[samstooff Tweet - @samstooff]] — (@samstooff)
 - [[ChatGPT Cinematic Portrait Prompt]] — Eesha (@missdelulu9)
 - [[Media Post - Adhiraj Singh]] — Adhiraj Singh (@adhiraj_otw)
+- [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
 ## Stats
 
-- **Total tweets:** 1263
+- **Total tweets:** 1268
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
