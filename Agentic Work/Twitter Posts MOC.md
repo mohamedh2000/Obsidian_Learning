@@ -380,6 +380,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Visual Prompt Cookbook GitHub]] — Vigo Zhao (@vigocreativeai)
 - [[Better Together Luxury Branding Elements - @swarnima_otw]] — Swarnima (@swarnima_otw)
 - [[Load Animation Reference]] — Tony | web designer (@tony_dsgn)
+- [[Preview Detail Observation]] — Luiza Furdui (@luizafurdui)
+- [[Balsakstudio Framer Showcase]] — Satto.studio (@satto_studio)
+- [[Anthropic Design Appreciation]] — Victoria (@victoria_framer)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -580,7 +583,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Media Post - Adhiraj Singh]] — Adhiraj Singh (@adhiraj_otw)
 ## Stats
 
-- **Total tweets:** 1255
+- **Total tweets:** 1259
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1021,6 +1024,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Interactive Archive Concept Day 17 Challenge - @emishonowayi]] — Emisho (@emishonowayi)
 - [[Google Flow Tools Introduction]] — Google Flow (@flowbygoogle)
 - [[Storytelling Website with Claude Three.js GSAP Lenis]] — FHILY👑 (@oluwaphilemon1)
+- [[AI Image Generator App UI]] — Atiqur Rahaman (@atiq31416)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
