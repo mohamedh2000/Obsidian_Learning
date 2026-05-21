@@ -977,3 +977,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Better Together Luxury Branding Elements - @swarnima_otw]] — Swarnima (@swarnima_otw)
 - [[Inference Engines for LLMs & Local AI Hardware (2026 Edition)]] — Ahmad (@TheAhmadOsman)
 - [[OBSCURA About Page Design]] — Vlad Shum (@vladshum_)
+- [[Local AI Setup with Codex CLI]] — Ahmad (@theahmadosman)
+- [[Claude Code Multi-Agent Orchestration Deep Dive]] — Eloi | UGC IA (@eloiljf)

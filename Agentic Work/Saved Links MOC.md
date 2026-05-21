@@ -589,6 +589,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Better Together Luxury Branding Elements - @swarnima_otw]] — Swarnima (@swarnima_otw)
 - [[Inference Engines for LLMs & Local AI Hardware (2026 Edition)]] — Ahmad (@TheAhmadOsman)
 - [[OBSCURA About Page Design]] — Vlad Shum (@vladshum_)
+- [[Local AI Setup with Codex CLI]] — Ahmad (@theahmadosman)
+- [[Claude Code Multi-Agent Orchestration Deep Dive]] — Eloi | UGC IA (@eloiljf)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -763,7 +765,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1461
+- **Total notes:** 1463
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

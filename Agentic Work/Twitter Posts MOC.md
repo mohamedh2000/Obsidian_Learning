@@ -584,7 +584,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Media Post - Adhiraj Singh]] — Adhiraj Singh (@adhiraj_otw)
 ## Stats
 
-- **Total tweets:** 1261
+- **Total tweets:** 1263
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -887,6 +887,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Setup Plugin - Turn Vanilla Into AI Dev Environment - @suryanshti777]] — Suryansh Tiwari (@suryanshti777)
 - [[Refero Design Styles for AI Agents]] — Kailash (@kail_designs)
 - [[Labs Hiring Continual Learning Agent Traces - @vtrivedy10]] — Viv (@vtrivedy10)
+- [[Claude Code Multi-Agent Orchestration Deep Dive]] — Eloi | UGC IA (@eloiljf)
 
 ## Developer Tools & Code Intelligence
 
@@ -1027,6 +1028,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Google Flow Tools Introduction]] — Google Flow (@flowbygoogle)
 - [[Storytelling Website with Claude Three.js GSAP Lenis]] — FHILY👑 (@oluwaphilemon1)
 - [[AI Image Generator App UI]] — Atiqur Rahaman (@atiq31416)
+- [[Local AI Setup with Codex CLI]] — Ahmad (@theahmadosman)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
