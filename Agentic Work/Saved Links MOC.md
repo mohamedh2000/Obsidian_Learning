@@ -774,7 +774,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1473
+- **Total notes:** 1474
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1165,6 +1165,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[anzomez Tweet - @anzomez]] — (@anzomez)
 - [[samstooff Tweet - @samstooff]] — (@samstooff)
 - [[LangChain Sandbox Auth Proxy]] — LangChain (@langchain)
+- [[Sahadi's - Brooklyn]] — Apple Maps
 
 ## Recovered 2026-03-26 — 2026-04-14
 
