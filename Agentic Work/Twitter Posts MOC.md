@@ -388,6 +388,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[OTSU by Aran - Visual Journal Feature]] — Aesse (@aessestudio)
 - [[Creative Contact Page by Locomotive MTL]] — Aurelien (@aurelien_gz)
 - [[Medium Article Cover Animation by Adrian]] — Adrian (@adrianinmotion)
+- [[Fragments Motion Graphics - Jestin]] — Jestin (@fate_szn)
+- [[2026 Design AI Report - 10 Key Takeaways]] — AmirMušić (@amirmushich)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -589,7 +591,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
 ## Stats
 
-- **Total tweets:** 1268
+- **Total tweets:** 1271
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -893,6 +895,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Refero Design Styles for AI Agents]] — Kailash (@kail_designs)
 - [[Labs Hiring Continual Learning Agent Traces - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[Claude Code Multi-Agent Orchestration Deep Dive]] — Eloi | UGC IA (@eloiljf)
+- [[LangChain Sandbox Auth Proxy]] — LangChain (@langchain)
 
 ## Developer Tools & Code Intelligence
 

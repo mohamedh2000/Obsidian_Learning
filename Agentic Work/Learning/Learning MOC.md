@@ -984,3 +984,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
 - [[Creative Contact Page by Locomotive MTL]] — Aurelien (@aurelien_gz)
 - [[Medium Article Cover Animation by Adrian]] — Adrian (@adrianinmotion)
+- [[Fragments Motion Graphics - Jestin]] — Jestin (@fate_szn)
+- [[2026 Design AI Report - 10 Key Takeaways]] — AmirMušić (@amirmushich)
