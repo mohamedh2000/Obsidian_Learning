@@ -383,6 +383,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Preview Detail Observation]] — Luiza Furdui (@luizafurdui)
 - [[Balsakstudio Framer Showcase]] — Satto.studio (@satto_studio)
 - [[Anthropic Design Appreciation]] — Victoria (@victoria_framer)
+- [[OBSCURA About Page Design]] — Vlad Shum (@vladshum_)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -583,7 +584,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Media Post - Adhiraj Singh]] — Adhiraj Singh (@adhiraj_otw)
 ## Stats
 
-- **Total tweets:** 1259
+- **Total tweets:** 1261
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -627,6 +628,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Zachary BENSALEM - Adaptive Reasoning Systems Article]] — Zachary BENSALEM (@ZacharyByDesign)
 - [[Local GPU AI Research Setup in 3 Months]] — Michel Laclé (@micheltamanda)
 - [[Model Spec Midtraining MSM - @anthropicai]] — Anthropic (@anthropicai)
+- [[Inference Engines for LLMs & Local AI Hardware (2026 Edition)]] — Ahmad (@TheAhmadOsman)
 
 ## AI Agents
 

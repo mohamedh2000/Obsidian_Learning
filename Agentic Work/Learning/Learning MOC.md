@@ -975,3 +975,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Storytelling Website with Claude Three.js GSAP Lenis]] — FHILY👑 (@oluwaphilemon1)
 - [[Labs Hiring Continual Learning Agent Traces - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[Better Together Luxury Branding Elements - @swarnima_otw]] — Swarnima (@swarnima_otw)
+- [[Inference Engines for LLMs & Local AI Hardware (2026 Edition)]] — Ahmad (@TheAhmadOsman)
+- [[OBSCURA About Page Design]] — Vlad Shum (@vladshum_)
