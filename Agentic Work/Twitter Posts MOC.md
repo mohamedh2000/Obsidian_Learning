@@ -598,7 +598,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tweet - @mnilax]] — (@mnilax)
 ## Stats
 
-- **Total tweets:** 1283
+- **Total tweets:** 1284
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -907,6 +907,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Ponder Agentic Video Editor]] — Timothy Wang (@timwangyc)
 - [[Auto-Dreamer: RL Agent Memory Consolidation]] — Chongrui Ye (@chongrui28836)
 - [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)
+- [[Hermes Agent Desktop App Launch]] — 0xMarioNawfal (@roundtablespace)
 
 ## Developer Tools & Code Intelligence
 

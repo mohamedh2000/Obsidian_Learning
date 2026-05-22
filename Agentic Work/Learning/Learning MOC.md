@@ -994,3 +994,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[About Page Design - Rushing Moose Framer Template]] — frederik (@froessell)
 - [[Features Section Design]] — Sai Satvik (@saisatvik_)
 - [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)
+- [[Hermes Agent Desktop App Launch]] — 0xMarioNawfal (@roundtablespace)
