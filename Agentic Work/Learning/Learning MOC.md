@@ -990,3 +990,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Minimal Architecture Studio Hero - @designbysaif]] — s4if (@designbysaif)
 - [[Qwen 3.7 Max Beats Opus 4.6 Benchmarks]] — Sudo su (@sudoingx)
 - [[Scroll-Driven SVG Map Animations with GSAP]] — Manoela Ilic (@crnacura)
+- [[Auto-Dreamer: RL Agent Memory Consolidation]] — Chongrui Ye (@chongrui28836)
+- [[About Page Design - Rushing Moose Framer Template]] — frederik (@froessell)
+- [[Features Section Design]] — Sai Satvik (@saisatvik_)
+- [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)

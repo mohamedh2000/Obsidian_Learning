@@ -393,6 +393,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Folder Animation by @AdityaSur11 - @bestdesignsonx]] — Best Designs On ✧ (@bestdesignsonx)
 - [[Minimal Architecture Studio Hero - @designbysaif]] — s4if (@designbysaif)
 - [[Good Design Starts Where Prompts Stop]] — Deni (@denibozo)
+- [[About Page Design - Rushing Moose Framer Template]] — frederik (@froessell)
+- [[Features Section Design]] — Sai Satvik (@saisatvik_)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -593,9 +595,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Media Post - Adhiraj Singh]] — Adhiraj Singh (@adhiraj_otw)
 - [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
 - [[Tweet by @theahmadosman]] — (@theahmadosman)
+- [[Tweet - @mnilax]] — (@mnilax)
 ## Stats
 
-- **Total tweets:** 1277
+- **Total tweets:** 1283
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -901,6 +904,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Multi-Agent Orchestration Deep Dive]] — Eloi | UGC IA (@eloiljf)
 - [[LangChain Sandbox Auth Proxy]] — LangChain (@langchain)
 - [[Qwen 3.7 Max Beats Opus 4.6 Benchmarks]] — Sudo su (@sudoingx)
+- [[Ponder Agentic Video Editor]] — Timothy Wang (@timwangyc)
+- [[Auto-Dreamer: RL Agent Memory Consolidation]] — Chongrui Ye (@chongrui28836)
+- [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)
 
 ## Developer Tools & Code Intelligence
 

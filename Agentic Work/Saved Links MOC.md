@@ -602,6 +602,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Minimal Architecture Studio Hero - @designbysaif]] — s4if (@designbysaif)
 - [[Qwen 3.7 Max Beats Opus 4.6 Benchmarks]] — Sudo su (@sudoingx)
 - [[Scroll-Driven SVG Map Animations with GSAP]] — Manoela Ilic (@crnacura)
+- [[Auto-Dreamer: RL Agent Memory Consolidation]] — Chongrui Ye (@chongrui28836)
+- [[About Page Design - Rushing Moose Framer Template]] — frederik (@froessell)
+- [[Features Section Design]] — Sai Satvik (@saisatvik_)
+- [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -776,7 +780,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1478
+- **Total notes:** 1485
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1170,6 +1174,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Sahadi's - Brooklyn]] — Apple Maps
 - [[Tweet by @theahmadosman]] — (@theahmadosman)
 - [[Good Design Starts Where Prompts Stop]] — Deni (@denibozo)
+- [[Ponder Agentic Video Editor]] — Timothy Wang (@timwangyc)
+- [[A$AP Rocky - No Trespassing]] — projetociberdelia (@projetociberdelia)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1560,3 +1566,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[AI Image Generator App UI]] — Atiqur Rahaman (@atiq31416)
 - [[Balsakstudio Framer Showcase]] — Satto.studio (@satto_studio)
 - [[Anthropic Design Appreciation]] — Victoria (@victoria_framer)
+- [[Tweet - @mnilax]] — (@mnilax)
