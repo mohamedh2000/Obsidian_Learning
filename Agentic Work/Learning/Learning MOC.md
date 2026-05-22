@@ -988,3 +988,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[2026 Design AI Report - 10 Key Takeaways]] — AmirMušić (@amirmushich)
 - [[Folder Animation by @AdityaSur11 - @bestdesignsonx]] — Best Designs On ✧ (@bestdesignsonx)
 - [[Minimal Architecture Studio Hero - @designbysaif]] — s4if (@designbysaif)
+- [[Qwen 3.7 Max Beats Opus 4.6 Benchmarks]] — Sudo su (@sudoingx)
+- [[Scroll-Driven SVG Map Animations with GSAP]] — Manoela Ilic (@crnacura)

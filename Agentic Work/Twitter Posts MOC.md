@@ -392,6 +392,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[2026 Design AI Report - 10 Key Takeaways]] — AmirMušić (@amirmushich)
 - [[Folder Animation by @AdityaSur11 - @bestdesignsonx]] — Best Designs On ✧ (@bestdesignsonx)
 - [[Minimal Architecture Studio Hero - @designbysaif]] — s4if (@designbysaif)
+- [[Good Design Starts Where Prompts Stop]] — Deni (@denibozo)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -591,9 +592,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ChatGPT Cinematic Portrait Prompt]] — Eesha (@missdelulu9)
 - [[Media Post - Adhiraj Singh]] — Adhiraj Singh (@adhiraj_otw)
 - [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
+- [[Tweet by @theahmadosman]] — (@theahmadosman)
 ## Stats
 
-- **Total tweets:** 1273
+- **Total tweets:** 1277
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -898,6 +900,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Labs Hiring Continual Learning Agent Traces - @vtrivedy10]] — Viv (@vtrivedy10)
 - [[Claude Code Multi-Agent Orchestration Deep Dive]] — Eloi | UGC IA (@eloiljf)
 - [[LangChain Sandbox Auth Proxy]] — LangChain (@langchain)
+- [[Qwen 3.7 Max Beats Opus 4.6 Benchmarks]] — Sudo su (@sudoingx)
 
 ## Developer Tools & Code Intelligence
 
@@ -1039,6 +1042,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Storytelling Website with Claude Three.js GSAP Lenis]] — FHILY👑 (@oluwaphilemon1)
 - [[AI Image Generator App UI]] — Atiqur Rahaman (@atiq31416)
 - [[Local AI Setup with Codex CLI]] — Ahmad (@theahmadosman)
+- [[Scroll-Driven SVG Map Animations with GSAP]] — Manoela Ilic (@crnacura)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
