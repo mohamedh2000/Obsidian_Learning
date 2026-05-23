@@ -395,6 +395,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Good Design Starts Where Prompts Stop]] — Deni (@denibozo)
 - [[About Page Design - Rushing Moose Framer Template]] — frederik (@froessell)
 - [[Features Section Design]] — Sai Satvik (@saisatvik_)
+- [[AI in Design 2026 Report by Robyn Park]] — robyn park (@robynxpark)
+- [[Cartier Watches and Wonders 2026 - CSS Design Award]] — CSS Design Awards (@cssdesignawards)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -596,9 +598,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 + Seedance 2 + Claude Workflow]] — Viktor Oddy (@viktoroddy)
 - [[Tweet by @theahmadosman]] — (@theahmadosman)
 - [[Tweet - @mnilax]] — (@mnilax)
+- [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
 ## Stats
 
-- **Total tweets:** 1284
+- **Total tweets:** 1288
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1050,6 +1053,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Image Generator App UI]] — Atiqur Rahaman (@atiq31416)
 - [[Local AI Setup with Codex CLI]] — Ahmad (@theahmadosman)
 - [[Scroll-Driven SVG Map Animations with GSAP]] — Manoela Ilic (@crnacura)
+- [[Elfilter - Wanna Meet Up Tonight NFT]] — Elfilter (@elfilter_a)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

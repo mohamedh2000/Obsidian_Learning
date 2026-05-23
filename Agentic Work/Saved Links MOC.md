@@ -607,6 +607,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Features Section Design]] — Sai Satvik (@saisatvik_)
 - [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)
 - [[Hermes Agent Desktop App Launch]] — 0xMarioNawfal (@roundtablespace)
+- [[AI in Design 2026 Report by Robyn Park]] — robyn park (@robynxpark)
+- [[Cartier Watches and Wonders 2026 - CSS Design Award]] — CSS Design Awards (@cssdesignawards)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -781,7 +783,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1486
+- **Total notes:** 1490
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1177,6 +1179,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Good Design Starts Where Prompts Stop]] — Deni (@denibozo)
 - [[Ponder Agentic Video Editor]] — Timothy Wang (@timwangyc)
 - [[A$AP Rocky - No Trespassing]] — projetociberdelia (@projetociberdelia)
+- [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
+- [[Elfilter - Wanna Meet Up Tonight NFT]] — Elfilter (@elfilter_a)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

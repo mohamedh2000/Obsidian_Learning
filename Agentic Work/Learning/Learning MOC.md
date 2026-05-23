@@ -995,3 +995,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Features Section Design]] — Sai Satvik (@saisatvik_)
 - [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)
 - [[Hermes Agent Desktop App Launch]] — 0xMarioNawfal (@roundtablespace)
+- [[AI in Design 2026 Report by Robyn Park]] — robyn park (@robynxpark)
+- [[Cartier Watches and Wonders 2026 - CSS Design Award]] — CSS Design Awards (@cssdesignawards)
