@@ -400,6 +400,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Framer Invoice Page Interaction - @ishanzaad]] — ZAAD (@ishanzaad)
 - [[GPT Image 2 x Seedance Burger Ad - @d_studioproject]] — DStudioproject (@d_studioproject)
 - [[ElevenLabs Brand Teardown - @unrootdesign]] — Adam 🌿 Unroot.design (@unrootdesign)
+- [[Midjourney Sref Codes Collection]] — Sgt Sref (@sergeantsref)
+- [[Cleo AI Site of the Day]] — awwwards. (@awwwards)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -604,9 +606,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
 - [[Elfilter Visual Media Post]] — Elfilter (@elfilter_a)
 - [[Rogue NFT Edition Sale]] — tokioflo (@tokioflo)
+- [[benjaminuix Tweet]] — (@benjaminuix)
+- [[wiresandtrees Tweet]] — (@wiresandtrees)
+- [[IchiZo Visual Post]] — IchiZo (@ichi_zo_ichi)
 ## Stats
 
-- **Total tweets:** 1297
+- **Total tweets:** 1302
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

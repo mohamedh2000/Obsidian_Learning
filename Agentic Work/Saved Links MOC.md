@@ -614,6 +614,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Framer Invoice Page Interaction - @ishanzaad]] — ZAAD (@ishanzaad)
 - [[GPT Image 2 x Seedance Burger Ad - @d_studioproject]] — DStudioproject (@d_studioproject)
 - [[ElevenLabs Brand Teardown - @unrootdesign]] — Adam 🌿 Unroot.design (@unrootdesign)
+- [[Midjourney Sref Codes Collection]] — Sgt Sref (@sergeantsref)
+- [[Cleo AI Site of the Day]] — awwwards. (@awwwards)
+- [[Anthropic Academy Learning Resources]] — Anthropic
+- [[GitHub Agentic Certification]] — GitHub Learn
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -788,7 +792,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1501
+- **Total notes:** 1508
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1191,6 +1195,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Gemini 3.5 Flash Visual Understanding - @geminiapp]] — Google Gemini (@geminiapp)
 - [[Elfilter Visual Media Post]] — Elfilter (@elfilter_a)
 - [[Rogue NFT Edition Sale]] — tokioflo (@tokioflo)
+- [[IchiZo Visual Post]] — IchiZo (@ichi_zo_ichi)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1583,3 +1588,5 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Anthropic Design Appreciation]] — Victoria (@victoria_framer)
 - [[Tweet - @mnilax]] — (@mnilax)
 - [[DESIGN.md AI Design Workflow with GPT-5.5]] — FHILY👑 (@oluwaphilemon1)
+- [[benjaminuix Tweet]] — (@benjaminuix)
+- [[wiresandtrees Tweet]] — (@wiresandtrees)

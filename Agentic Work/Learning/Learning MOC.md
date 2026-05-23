@@ -1002,3 +1002,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Framer Invoice Page Interaction - @ishanzaad]] — ZAAD (@ishanzaad)
 - [[GPT Image 2 x Seedance Burger Ad - @d_studioproject]] — DStudioproject (@d_studioproject)
 - [[ElevenLabs Brand Teardown - @unrootdesign]] — Adam 🌿 Unroot.design (@unrootdesign)
+- [[Midjourney Sref Codes Collection]] — Sgt Sref (@sergeantsref)
+- [[Cleo AI Site of the Day]] — awwwards. (@awwwards)
+- [[Anthropic Academy Learning Resources]] — Anthropic
+- [[GitHub Agentic Certification]] — GitHub Learn

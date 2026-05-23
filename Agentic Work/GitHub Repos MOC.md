@@ -60,6 +60,7 @@ GitHub repositories saved from iMessage.
 - [[DESIGN.md Spec for AI Design Systems]] — Google Labs (@google-labs-code)
 - [[sybil-solutions/vllm-studio]] — sybil-solutions
 - [[Anthropic Knowledge Work Plugins]] — Anthropic (@anthropics)
+- [[GitHub Agentic Certification]] — GitHub Learn
 
 ## Recovered 2026-03-26 — 2026-04-14
 
