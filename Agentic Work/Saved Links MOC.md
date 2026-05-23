@@ -610,6 +610,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[AI in Design 2026 Report by Robyn Park]] — robyn park (@robynxpark)
 - [[Cartier Watches and Wonders 2026 - CSS Design Award]] — CSS Design Awards (@cssdesignawards)
 - [[Google Eng-Practices Code Review Guidelines - @_vmlops]] — Vaishnavi (@_vmlops)
+- [[Anthropic Knowledge Work Plugins]] — Anthropic (@anthropics)
+- [[Framer Invoice Page Interaction - @ishanzaad]] — ZAAD (@ishanzaad)
+- [[GPT Image 2 x Seedance Burger Ad - @d_studioproject]] — DStudioproject (@d_studioproject)
+- [[ElevenLabs Brand Teardown - @unrootdesign]] — Adam 🌿 Unroot.design (@unrootdesign)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -784,7 +788,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1493
+- **Total notes:** 1499
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1183,6 +1187,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
 - [[Elfilter - Wanna Meet Up Tonight NFT]] — Elfilter (@elfilter_a)
 - [[Higgsfield MCP Motion Design Pipeline]] — builtbystephan (@builtbystephan)
+- [[Codex Locked Computer Use - @openaidevs]] — OpenAI Developers (@openaidevs)
+- [[Gemini 3.5 Flash Visual Understanding - @geminiapp]] — Google Gemini (@geminiapp)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -998,3 +998,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI in Design 2026 Report by Robyn Park]] — robyn park (@robynxpark)
 - [[Cartier Watches and Wonders 2026 - CSS Design Award]] — CSS Design Awards (@cssdesignawards)
 - [[Google Eng-Practices Code Review Guidelines - @_vmlops]] — Vaishnavi (@_vmlops)
+- [[Anthropic Knowledge Work Plugins]] — Anthropic (@anthropics)
+- [[Framer Invoice Page Interaction - @ishanzaad]] — ZAAD (@ishanzaad)
+- [[GPT Image 2 x Seedance Burger Ad - @d_studioproject]] — DStudioproject (@d_studioproject)
+- [[ElevenLabs Brand Teardown - @unrootdesign]] — Adam 🌿 Unroot.design (@unrootdesign)

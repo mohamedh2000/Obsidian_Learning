@@ -59,6 +59,7 @@ GitHub repositories saved from iMessage.
 - [[Pi - AI Agent Coding Toolkit]] — earendil-works on GitHub
 - [[DESIGN.md Spec for AI Design Systems]] — Google Labs (@google-labs-code)
 - [[sybil-solutions/vllm-studio]] — sybil-solutions
+- [[Anthropic Knowledge Work Plugins]] — Anthropic (@anthropics)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

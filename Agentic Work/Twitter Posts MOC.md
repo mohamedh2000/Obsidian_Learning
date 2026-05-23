@@ -397,6 +397,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Features Section Design]] — Sai Satvik (@saisatvik_)
 - [[AI in Design 2026 Report by Robyn Park]] — robyn park (@robynxpark)
 - [[Cartier Watches and Wonders 2026 - CSS Design Award]] — CSS Design Awards (@cssdesignawards)
+- [[Framer Invoice Page Interaction - @ishanzaad]] — ZAAD (@ishanzaad)
+- [[GPT Image 2 x Seedance Burger Ad - @d_studioproject]] — DStudioproject (@d_studioproject)
+- [[ElevenLabs Brand Teardown - @unrootdesign]] — Adam 🌿 Unroot.design (@unrootdesign)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -601,7 +604,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
 ## Stats
 
-- **Total tweets:** 1290
+- **Total tweets:** 1295
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -911,6 +914,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Auto-Dreamer: RL Agent Memory Consolidation]] — Chongrui Ye (@chongrui28836)
 - [[Kimi K2.6 Solo Dev Agency with Obsidian]] — Noisy (@noisyb0y1)
 - [[Hermes Agent Desktop App Launch]] — 0xMarioNawfal (@roundtablespace)
+- [[Codex Locked Computer Use - @openaidevs]] — OpenAI Developers (@openaidevs)
+- [[Gemini 3.5 Flash Visual Understanding - @geminiapp]] — Google Gemini (@geminiapp)
 
 ## Developer Tools & Code Intelligence
 
