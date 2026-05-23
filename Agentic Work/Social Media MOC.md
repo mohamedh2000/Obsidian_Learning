@@ -115,3 +115,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Higgsfield MCP Motion Design Pipeline]] — builtbystephan (@builtbystephan)
 - [[Microsoft Trellis 4B Image to 3D Model]] — futurewalt.ai (@futurewalt.ai)
 - [[Motion Design with Claude and Higgsfield MCP]] — Higgsfield AI (@higgsfield.ai)
+- [[Higgsfield AI CMO - Gemini Supercomputer Integration]] — Higgsfield AI (@higgsfield.ai)
+- [[Sriracha Sauce AI Spec Ad - Seedance 2.0]] — Max Chen (@max_chen05)
