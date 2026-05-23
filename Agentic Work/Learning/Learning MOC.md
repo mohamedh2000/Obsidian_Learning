@@ -997,3 +997,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hermes Agent Desktop App Launch]] — 0xMarioNawfal (@roundtablespace)
 - [[AI in Design 2026 Report by Robyn Park]] — robyn park (@robynxpark)
 - [[Cartier Watches and Wonders 2026 - CSS Design Award]] — CSS Design Awards (@cssdesignawards)
+- [[Google Eng-Practices Code Review Guidelines - @_vmlops]] — Vaishnavi (@_vmlops)
