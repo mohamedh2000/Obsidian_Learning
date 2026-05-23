@@ -112,3 +112,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Cyber City Oedo 808 Aesthetic Analysis]] — celluloid.foliage on Instagram
 - [[Instagram Post DWnkUPiDOZU]] — Instagram
 - [[A$AP Rocky - No Trespassing]] — projetociberdelia (@projetociberdelia)
+- [[Higgsfield MCP Motion Design Pipeline]] — builtbystephan (@builtbystephan)

@@ -783,7 +783,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1490
+- **Total notes:** 1492
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1181,6 +1181,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[A$AP Rocky - No Trespassing]] — projetociberdelia (@projetociberdelia)
 - [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
 - [[Elfilter - Wanna Meet Up Tonight NFT]] — Elfilter (@elfilter_a)
+- [[Higgsfield MCP Motion Design Pipeline]] — builtbystephan (@builtbystephan)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1572,3 +1573,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Balsakstudio Framer Showcase]] — Satto.studio (@satto_studio)
 - [[Anthropic Design Appreciation]] — Victoria (@victoria_framer)
 - [[Tweet - @mnilax]] — (@mnilax)
+- [[DESIGN.md AI Design Workflow with GPT-5.5]] — FHILY👑 (@oluwaphilemon1)

@@ -601,7 +601,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
 ## Stats
 
-- **Total tweets:** 1288
+- **Total tweets:** 1289
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1054,6 +1054,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Local AI Setup with Codex CLI]] — Ahmad (@theahmadosman)
 - [[Scroll-Driven SVG Map Animations with GSAP]] — Manoela Ilic (@crnacura)
 - [[Elfilter - Wanna Meet Up Tonight NFT]] — Elfilter (@elfilter_a)
+- [[DESIGN.md AI Design Workflow with GPT-5.5]] — FHILY👑 (@oluwaphilemon1)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
