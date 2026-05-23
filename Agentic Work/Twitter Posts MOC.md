@@ -602,9 +602,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tweet by @theahmadosman]] — (@theahmadosman)
 - [[Tweet - @mnilax]] — (@mnilax)
 - [[Claude 7-Prompt Website Build]] — FHILY👑 (@oluwaphilemon1)
+- [[Elfilter Visual Media Post]] — Elfilter (@elfilter_a)
+- [[Rogue NFT Edition Sale]] — tokioflo (@tokioflo)
 ## Stats
 
-- **Total tweets:** 1295
+- **Total tweets:** 1297
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
