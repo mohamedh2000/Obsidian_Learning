@@ -113,3 +113,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Instagram Post DWnkUPiDOZU]] — Instagram
 - [[A$AP Rocky - No Trespassing]] — projetociberdelia (@projetociberdelia)
 - [[Higgsfield MCP Motion Design Pipeline]] — builtbystephan (@builtbystephan)
+- [[Microsoft Trellis 4B Image to 3D Model]] — futurewalt.ai (@futurewalt.ai)
