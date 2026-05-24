@@ -121,3 +121,6 @@ Instagram reels and other social media content saved from iMessage.
 - [[GVFI x Birubaru Merch Collab]] — gvfi_id (@gvfi_id)
 - [[Kaleidoscope Ego Electronic Music]] — Sajge (@sajgemusic)
 - [[Creating UI Animations with AI]] — John Bucog (@johnbucog)
+- [[Maven Melbourne Barber Edit Reel]] — mavenmelbourne on Instagram
+- [[Japan Cinematography Reel]] — bsonnntag on Instagram
+- [[Lovart AI Multi-Angle Tutorial]] — by.shlabu on Instagram
