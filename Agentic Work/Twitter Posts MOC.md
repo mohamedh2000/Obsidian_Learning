@@ -404,6 +404,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Cleo AI Site of the Day]] — awwwards. (@awwwards)
 - [[My Art in Red Quote Tweet]] — Louis Dazy (@louisdazy)
 - [[ASCII Backgrounds Design Addiction]] — Ahmed Hassan (@uihssn)
+- [[Deadmaskss Tweet]] — Twitter/@deadmaskss
+- [[Magenta Noir Comic Midjourney Sref]] — midlibrary (@midlibrary_io)
+- [[Bloom in the Rain Art Sale]] — Salman (@visual_salman)
+- [[Vespertinovsp Tweet]] — Twitter/@vespertinovsp
+- [[Dark Neon Vector Midjourney Sref]] — midlibrary (@midlibrary_io)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -613,7 +618,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[IchiZo Visual Post]] — IchiZo (@ichi_zo_ichi)
 ## Stats
 
-- **Total tweets:** 1306
+- **Total tweets:** 1311
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

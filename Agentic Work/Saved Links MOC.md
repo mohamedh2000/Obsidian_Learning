@@ -793,7 +793,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1520
+- **Total notes:** 1525
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1208,6 +1208,11 @@ See [[Twitter Posts MOC]] for full index.
 - [[GVFI x Birubaru Merch Collab]] — gvfi_id (@gvfi_id)
 - [[Kaleidoscope Ego Electronic Music]] — Sajge (@sajgemusic)
 - [[Creating UI Animations with AI]] — John Bucog (@johnbucog)
+- [[Deadmaskss Tweet]] — Twitter/@deadmaskss
+- [[Magenta Noir Comic Midjourney Sref]] — midlibrary (@midlibrary_io)
+- [[Bloom in the Rain Art Sale]] — Salman (@visual_salman)
+- [[Vespertinovsp Tweet]] — Twitter/@vespertinovsp
+- [[Dark Neon Vector Midjourney Sref]] — midlibrary (@midlibrary_io)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
