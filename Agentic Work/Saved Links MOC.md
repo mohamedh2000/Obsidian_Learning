@@ -618,6 +618,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Cleo AI Site of the Day]] — awwwards. (@awwwards)
 - [[Anthropic Academy Learning Resources]] — Anthropic
 - [[GitHub Agentic Certification]] — GitHub Learn
+- [[Ultimate Hermes Agent Guide]] — kaize (@0x_kaize)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -792,7 +793,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1512
+- **Total notes:** 1520
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1200,6 +1201,13 @@ See [[Twitter Posts MOC]] for full index.
 - [[Motion Design with Claude and Higgsfield MCP]] — Higgsfield AI (@higgsfield.ai)
 - [[Higgsfield AI CMO - Gemini Supercomputer Integration]] — Higgsfield AI (@higgsfield.ai)
 - [[Sriracha Sauce AI Spec Ad - Seedance 2.0]] — Max Chen (@max_chen05)
+- [[Claude Certified Architect Resources]] — ZARA (@heyzarakhan)
+- [[My Art in Red Quote Tweet]] — Louis Dazy (@louisdazy)
+- [[ASCII Backgrounds Design Addiction]] — Ahmed Hassan (@uihssn)
+- [[Cinematography Japan Color Grading]] — bsonnntag (@bsonnntag)
+- [[GVFI x Birubaru Merch Collab]] — gvfi_id (@gvfi_id)
+- [[Kaleidoscope Ego Electronic Music]] — Sajge (@sajgemusic)
+- [[Creating UI Animations with AI]] — John Bucog (@johnbucog)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -402,6 +402,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ElevenLabs Brand Teardown - @unrootdesign]] — Adam 🌿 Unroot.design (@unrootdesign)
 - [[Midjourney Sref Codes Collection]] — Sgt Sref (@sergeantsref)
 - [[Cleo AI Site of the Day]] — awwwards. (@awwwards)
+- [[My Art in Red Quote Tweet]] — Louis Dazy (@louisdazy)
+- [[ASCII Backgrounds Design Addiction]] — Ahmed Hassan (@uihssn)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -611,7 +613,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[IchiZo Visual Post]] — IchiZo (@ichi_zo_ichi)
 ## Stats
 
-- **Total tweets:** 1302
+- **Total tweets:** 1306
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -656,6 +658,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Local GPU AI Research Setup in 3 Months]] — Michel Laclé (@micheltamanda)
 - [[Model Spec Midtraining MSM - @anthropicai]] — Anthropic (@anthropicai)
 - [[Inference Engines for LLMs & Local AI Hardware (2026 Edition)]] — Ahmad (@TheAhmadOsman)
+- [[Claude Certified Architect Resources]] — ZARA (@heyzarakhan)
 
 ## AI Agents
 
@@ -923,6 +926,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Agent Desktop App Launch]] — 0xMarioNawfal (@roundtablespace)
 - [[Codex Locked Computer Use - @openaidevs]] — OpenAI Developers (@openaidevs)
 - [[Gemini 3.5 Flash Visual Understanding - @geminiapp]] — Google Gemini (@geminiapp)
+- [[Ultimate Hermes Agent Guide]] — kaize (@0x_kaize)
 
 ## Developer Tools & Code Intelligence
 

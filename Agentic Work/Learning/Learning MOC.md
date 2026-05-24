@@ -1006,3 +1006,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Cleo AI Site of the Day]] — awwwards. (@awwwards)
 - [[Anthropic Academy Learning Resources]] — Anthropic
 - [[GitHub Agentic Certification]] — GitHub Learn
+- [[Ultimate Hermes Agent Guide]] — kaize (@0x_kaize)

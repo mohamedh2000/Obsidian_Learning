@@ -117,3 +117,7 @@ Instagram reels and other social media content saved from iMessage.
 - [[Motion Design with Claude and Higgsfield MCP]] — Higgsfield AI (@higgsfield.ai)
 - [[Higgsfield AI CMO - Gemini Supercomputer Integration]] — Higgsfield AI (@higgsfield.ai)
 - [[Sriracha Sauce AI Spec Ad - Seedance 2.0]] — Max Chen (@max_chen05)
+- [[Cinematography Japan Color Grading]] — bsonnntag (@bsonnntag)
+- [[GVFI x Birubaru Merch Collab]] — gvfi_id (@gvfi_id)
+- [[Kaleidoscope Ego Electronic Music]] — Sajge (@sajgemusic)
+- [[Creating UI Animations with AI]] — John Bucog (@johnbucog)
