@@ -409,6 +409,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Bloom in the Rain Art Sale]] — Salman (@visual_salman)
 - [[Vespertinovsp Tweet]] — Twitter/@vespertinovsp
 - [[Dark Neon Vector Midjourney Sref]] — midlibrary (@midlibrary_io)
+- [[WIP Project Snippet - @akilastudiocom]] — Agustin Dell' Aquila (@akilastudiocom)
+- [[Brand Exploration in Progress - @tony_dsgn]] — Tony | web designer (@tony_dsgn)
+- [[Visual Journal Weekly Showcase - @aessestudio]] — Aesse (@aessestudio)
+- [[Triangle Window Aesthetic Prompts GPT - @xiaoxiaodong01]] — 小小东 (@xiaoxiaodong01)
+- [[Math Curve Loaders CSS Library - @vincentlogic]] — Vincent Logic | 信号＞噪音 (@vincentlogic)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -616,9 +621,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[benjaminuix Tweet]] — (@benjaminuix)
 - [[wiresandtrees Tweet]] — (@wiresandtrees)
 - [[IchiZo Visual Post]] — IchiZo (@ichi_zo_ichi)
+- [[Noir Cartoon Style for Femme Fatales - @artedeingenio]] — OscarAI (@artedeingenio)
+- [[Tokyo Dome Ukiyo-e Travel Poster GPT Image - @jzaib4269]] — Jahan Zaib (@jzaib4269)
 ## Stats
 
-- **Total tweets:** 1311
+- **Total tweets:** 1320
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1077,6 +1084,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Elfilter - Wanna Meet Up Tonight NFT]] — Elfilter (@elfilter_a)
 - [[DESIGN.md AI Design Workflow with GPT-5.5]] — FHILY👑 (@oluwaphilemon1)
 - [[Google Eng-Practices Code Review Guidelines - @_vmlops]] — Vaishnavi (@_vmlops)
+- [[Midjourney SREF 569235527 Film Cinematic Style - @promptsref]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Visual Media Post - @zresinn]] — Zresin (@Zresinn)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
