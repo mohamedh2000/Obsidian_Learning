@@ -124,3 +124,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Maven Melbourne Barber Edit Reel]] — mavenmelbourne on Instagram
 - [[Japan Cinematography Reel]] — bsonnntag on Instagram
 - [[Lovart AI Multi-Angle Tutorial]] — by.shlabu on Instagram
+- [[Higgsfield MCP Cursor Integration]] — Higgsfield AI (@higgsfield.ai)
+- [[Instagram Reel (Restricted Content)]] — Unknown
