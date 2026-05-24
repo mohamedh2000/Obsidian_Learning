@@ -1007,3 +1007,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Anthropic Academy Learning Resources]] — Anthropic
 - [[GitHub Agentic Certification]] — GitHub Learn
 - [[Ultimate Hermes Agent Guide]] — kaize (@0x_kaize)
+- [[Magnetism - Creative Agency Portfolio]] — Magnetism (@magnetism.fr)
+- [[Google Stitch DESIGN.md Open Source]] — Cassia Xu (@Google)
