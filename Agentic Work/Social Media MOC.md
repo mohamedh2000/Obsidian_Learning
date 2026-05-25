@@ -129,3 +129,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Motion Logo Design with Syntx AI]] — Vijay Raj (@vijay.raj.designer)
 - [[Osteria Renata Italian Diner Content - @osteriarenata]] — osteriarenata on Instagram
 - [[HK Express Commercial Production Reel - @henrylee_119]] — henrylee_119 on Instagram
+- [[AI Video Directing Tips - Stop Prompting, Start Directing]] — trivaigod (@trivaigod)

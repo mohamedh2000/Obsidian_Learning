@@ -799,7 +799,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1563
+- **Total notes:** 1564
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1249,6 +1249,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Universal Luxury Brand Poster Prompt GPT Image 2]] — simeon-sanai (@naiknelofar788)
 - [[Osteria Renata Italian Diner Content - @osteriarenata]] — osteriarenata on Instagram
 - [[HK Express Commercial Production Reel - @henrylee_119]] — henrylee_119 on Instagram
+- [[AI Video Directing Tips - Stop Prompting, Start Directing]] — trivaigod (@trivaigod)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
