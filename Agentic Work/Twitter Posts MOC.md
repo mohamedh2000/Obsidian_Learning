@@ -414,6 +414,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Visual Journal Weekly Showcase - @aessestudio]] — Aesse (@aessestudio)
 - [[Triangle Window Aesthetic Prompts GPT - @xiaoxiaodong01]] — 小小东 (@xiaoxiaodong01)
 - [[Math Curve Loaders CSS Library - @vincentlogic]] — Vincent Logic | 信号＞噪音 (@vincentlogic)
+- [[MotionGraphics SHARETIME]] — しあさ (@shiasa__)
+- [[GPT Image 2 Vogue Fashion Illustration Prompt]] — Ciri (@ciri_ai)
+- [[Universal Luxury Brand Poster Prompt GPT Image 2]] — simeon-sanai (@naiknelofar788)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -626,9 +629,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Beat It Video]] — Zresin (@Zresinn)
 - [[Pushing Realism with Higgsfield Supercomputer]] — DStudioproject (@d_studioproject)
 - [[Midjourney V7 Retro-Industrial Sci-Fi Style Reference]] — OscarAI (@artedeingenio)
+- [[90s Japan Nostalgia Never Goes Away]] — KAIN/カイン (@y2kkain)
+- [[Fragments of My World]] — 21 (@twentyone21___)
+- [[Mazin GIF Post]] — 『-』M░a░z░i░n 『-』 (@endless_mazin)
+- [[Tweet from @_7ewd_]] — @_7ewd_
 ## Stats
 
-- **Total tweets:** 1326
+- **Total tweets:** 1336
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -945,6 +952,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Image to Video for Landing Pages]] — Meng To (@mengto)
 - [[Premium Hero Section Built with AI]] — Viktor Oddy (@viktoroddy)
 - [[Rookie Clown GPT Image 2 + Seedance 2]] — Latte (@0xbisc)
+- [[PEEK Coming to ax-agent]] — spacy (@dosco)
+- [[Agent Swarms Masterclass from Kimi Founder]] — Kirill (@kirillk_web3)
+- [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)
 
 ## Developer Tools & Code Intelligence
 

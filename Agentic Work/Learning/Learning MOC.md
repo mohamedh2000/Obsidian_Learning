@@ -1009,3 +1009,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Ultimate Hermes Agent Guide]] — kaize (@0x_kaize)
 - [[Magnetism - Creative Agency Portfolio]] — Magnetism (@magnetism.fr)
 - [[Google Stitch DESIGN.md Open Source]] — Cassia Xu (@Google)
+- [[PEEK Coming to ax-agent]] — spacy (@dosco)
+- [[Agent Swarms Masterclass from Kimi Founder]] — Kirill (@kirillk_web3)
+- [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)

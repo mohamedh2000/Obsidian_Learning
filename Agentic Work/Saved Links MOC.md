@@ -621,6 +621,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Ultimate Hermes Agent Guide]] — kaize (@0x_kaize)
 - [[Magnetism - Creative Agency Portfolio]] — Magnetism (@magnetism.fr)
 - [[Google Stitch DESIGN.md Open Source]] — Cassia Xu (@Google)
+- [[PEEK Coming to ax-agent]] — spacy (@dosco)
+- [[Agent Swarms Masterclass from Kimi Founder]] — Kirill (@kirillk_web3)
+- [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -795,7 +798,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1549
+- **Total notes:** 1560
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1237,6 +1240,12 @@ See [[Twitter Posts MOC]] for full index.
 - [[Beat It Video]] — Zresin (@Zresinn)
 - [[Pushing Realism with Higgsfield Supercomputer]] — DStudioproject (@d_studioproject)
 - [[Midjourney V7 Retro-Industrial Sci-Fi Style Reference]] — OscarAI (@artedeingenio)
+- [[MotionGraphics SHARETIME]] — しあさ (@shiasa__)
+- [[90s Japan Nostalgia Never Goes Away]] — KAIN/カイン (@y2kkain)
+- [[Fragments of My World]] — 21 (@twentyone21___)
+- [[OpenSlide - Open Source Slide Presentation Tool]] — OpenSlide
+- [[GPT Image 2 Vogue Fashion Illustration Prompt]] — Ciri (@ciri_ai)
+- [[Universal Luxury Brand Poster Prompt GPT Image 2]] — simeon-sanai (@naiknelofar788)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1631,3 +1640,5 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[DESIGN.md AI Design Workflow with GPT-5.5]] — FHILY👑 (@oluwaphilemon1)
 - [[benjaminuix Tweet]] — (@benjaminuix)
 - [[wiresandtrees Tweet]] — (@wiresandtrees)
+- [[Mazin GIF Post]] — 『-』M░a░z░i░n 『-』 (@endless_mazin)
+- [[Tweet from @_7ewd_]] — @_7ewd_
