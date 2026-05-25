@@ -1014,3 +1014,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)
 - [[Ultimate AI Researcher Projects Roadmap - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[Building with Claude - CSS and GSAP Techniques]] — FHILY (@oluwaphilemon1)
+- [[Pi Distributed Inference Multi-Server Setup]] — 0xSero (@0xsero)
+- [[Bob Beaute Brand Identity by Kurppa Hosk]] — Aesse (@aessestudio)
+- [[How to Build Your Own LLM from Scratch in 5 Stages]] — Codez (@0xcodez)
+- [[Google Engineering Practices Documentation]] — google/eng-practices

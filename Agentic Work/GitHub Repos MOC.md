@@ -61,6 +61,7 @@ GitHub repositories saved from iMessage.
 - [[sybil-solutions/vllm-studio]] — sybil-solutions
 - [[Anthropic Knowledge Work Plugins]] — Anthropic (@anthropics)
 - [[GitHub Agentic Certification]] — GitHub Learn
+- [[Google Engineering Practices Documentation]] — google/eng-practices
 
 ## Recovered 2026-03-26 — 2026-04-14
 

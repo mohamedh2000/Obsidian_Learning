@@ -626,6 +626,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)
 - [[Ultimate AI Researcher Projects Roadmap - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[Building with Claude - CSS and GSAP Techniques]] — FHILY (@oluwaphilemon1)
+- [[Pi Distributed Inference Multi-Server Setup]] — 0xSero (@0xsero)
+- [[Bob Beaute Brand Identity by Kurppa Hosk]] — Aesse (@aessestudio)
+- [[How to Build Your Own LLM from Scratch in 5 Stages]] — Codez (@0xcodez)
+- [[Google Engineering Practices Documentation]] — google/eng-practices
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -800,7 +804,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1566
+- **Total notes:** 1571
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1252,6 +1256,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[HK Express Commercial Production Reel - @henrylee_119]] — henrylee_119 on Instagram
 - [[AI Video Directing Tips - Stop Prompting, Start Directing]] — trivaigod (@trivaigod)
 - [[Glyphic Bio - Protein Sequencing Design by Obys Agency]] — Lenis (@lenissmooth)
+- [[rishabhhdesigns Tweet]] — (@rishabhhdesigns)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
