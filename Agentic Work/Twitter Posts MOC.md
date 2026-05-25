@@ -625,7 +625,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tokyo Dome Ukiyo-e Travel Poster GPT Image - @jzaib4269]] — Jahan Zaib (@jzaib4269)
 ## Stats
 
-- **Total tweets:** 1320
+- **Total tweets:** 1323
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -939,6 +939,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Locked Computer Use - @openaidevs]] — OpenAI Developers (@openaidevs)
 - [[Gemini 3.5 Flash Visual Understanding - @geminiapp]] — Google Gemini (@geminiapp)
 - [[Ultimate Hermes Agent Guide]] — kaize (@0x_kaize)
+- [[Image to Video for Landing Pages]] — Meng To (@mengto)
+- [[Premium Hero Section Built with AI]] — Viktor Oddy (@viktoroddy)
+- [[Rookie Clown GPT Image 2 + Seedance 2]] — Latte (@0xbisc)
 
 ## Developer Tools & Code Intelligence
 

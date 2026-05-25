@@ -795,7 +795,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1542
+- **Total notes:** 1546
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1230,6 +1230,10 @@ See [[Twitter Posts MOC]] for full index.
 - [[Visual Media Post - @zresinn]] — Zresin (@Zresinn)
 - [[Higgsfield MCP Cursor Integration]] — Higgsfield AI (@higgsfield.ai)
 - [[Instagram Reel (Restricted Content)]] — Unknown
+- [[Motion Logo Design with Syntx AI]] — Vijay Raj (@vijay.raj.designer)
+- [[Image to Video for Landing Pages]] — Meng To (@mengto)
+- [[Premium Hero Section Built with AI]] — Viktor Oddy (@viktoroddy)
+- [[Rookie Clown GPT Image 2 + Seedance 2]] — Latte (@0xbisc)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

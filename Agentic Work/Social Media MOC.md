@@ -126,3 +126,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Lovart AI Multi-Angle Tutorial]] — by.shlabu on Instagram
 - [[Higgsfield MCP Cursor Integration]] — Higgsfield AI (@higgsfield.ai)
 - [[Instagram Reel (Restricted Content)]] — Unknown
+- [[Motion Logo Design with Syntx AI]] — Vijay Raj (@vijay.raj.designer)
