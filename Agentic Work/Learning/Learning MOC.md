@@ -1013,3 +1013,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Agent Swarms Masterclass from Kimi Founder]] — Kirill (@kirillk_web3)
 - [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)
 - [[Ultimate AI Researcher Projects Roadmap - @theahmadosman]] — Ahmad (@theahmadosman)
+- [[Building with Claude - CSS and GSAP Techniques]] — FHILY (@oluwaphilemon1)
