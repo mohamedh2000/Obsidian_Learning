@@ -623,9 +623,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[IchiZo Visual Post]] — IchiZo (@ichi_zo_ichi)
 - [[Noir Cartoon Style for Femme Fatales - @artedeingenio]] — OscarAI (@artedeingenio)
 - [[Tokyo Dome Ukiyo-e Travel Poster GPT Image - @jzaib4269]] — Jahan Zaib (@jzaib4269)
+- [[Beat It Video]] — Zresin (@Zresinn)
+- [[Pushing Realism with Higgsfield Supercomputer]] — DStudioproject (@d_studioproject)
+- [[Midjourney V7 Retro-Industrial Sci-Fi Style Reference]] — OscarAI (@artedeingenio)
 ## Stats
 
-- **Total tweets:** 1323
+- **Total tweets:** 1326
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
