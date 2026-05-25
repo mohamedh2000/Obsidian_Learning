@@ -127,3 +127,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Higgsfield MCP Cursor Integration]] — Higgsfield AI (@higgsfield.ai)
 - [[Instagram Reel (Restricted Content)]] — Unknown
 - [[Motion Logo Design with Syntx AI]] — Vijay Raj (@vijay.raj.designer)
+- [[Osteria Renata Italian Diner Content - @osteriarenata]] — osteriarenata on Instagram
+- [[HK Express Commercial Production Reel - @henrylee_119]] — henrylee_119 on Instagram

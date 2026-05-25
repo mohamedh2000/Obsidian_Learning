@@ -1012,3 +1012,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[PEEK Coming to ax-agent]] — spacy (@dosco)
 - [[Agent Swarms Masterclass from Kimi Founder]] — Kirill (@kirillk_web3)
 - [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)
+- [[Ultimate AI Researcher Projects Roadmap - @theahmadosman]] — Ahmad (@theahmadosman)

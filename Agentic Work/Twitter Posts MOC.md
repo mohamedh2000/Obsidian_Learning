@@ -635,7 +635,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tweet from @_7ewd_]] — @_7ewd_
 ## Stats
 
-- **Total tweets:** 1336
+- **Total tweets:** 1337
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -681,6 +681,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Model Spec Midtraining MSM - @anthropicai]] — Anthropic (@anthropicai)
 - [[Inference Engines for LLMs & Local AI Hardware (2026 Edition)]] — Ahmad (@TheAhmadOsman)
 - [[Claude Certified Architect Resources]] — ZARA (@heyzarakhan)
+- [[Ultimate AI Researcher Projects Roadmap - @theahmadosman]] — Ahmad (@theahmadosman)
 
 ## AI Agents
 
