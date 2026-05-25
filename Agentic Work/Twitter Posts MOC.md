@@ -418,6 +418,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Vogue Fashion Illustration Prompt]] — Ciri (@ciri_ai)
 - [[Universal Luxury Brand Poster Prompt GPT Image 2]] — simeon-sanai (@naiknelofar788)
 - [[Building with Claude - CSS and GSAP Techniques]] — FHILY (@oluwaphilemon1)
+- [[Glyphic Bio - Protein Sequencing Design by Obys Agency]] — Lenis (@lenissmooth)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -636,7 +637,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Tweet from @_7ewd_]] — @_7ewd_
 ## Stats
 
-- **Total tweets:** 1338
+- **Total tweets:** 1339
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
