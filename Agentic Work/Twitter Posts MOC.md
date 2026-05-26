@@ -642,7 +642,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
 ## Stats
 
-- **Total tweets:** 1347
+- **Total tweets:** 1348
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -690,6 +690,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Certified Architect Resources]] — ZARA (@heyzarakhan)
 - [[Ultimate AI Researcher Projects Roadmap - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[How to Build Your Own LLM from Scratch in 5 Stages]] — Codez (@0xcodez)
+- [[vLLM Studio Updates - @0xsero]] — 0xSero (@0xsero)
 
 ## AI Agents
 
