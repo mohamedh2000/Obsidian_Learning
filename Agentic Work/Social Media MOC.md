@@ -130,3 +130,8 @@ Instagram reels and other social media content saved from iMessage.
 - [[Osteria Renata Italian Diner Content - @osteriarenata]] — osteriarenata on Instagram
 - [[HK Express Commercial Production Reel - @henrylee_119]] — henrylee_119 on Instagram
 - [[AI Video Directing Tips - Stop Prompting, Start Directing]] — trivaigod (@trivaigod)
+- [[Kaleidoscope Ego Gotham Vibes - @sajgemusic]] — Sajge (@sajgemusic)
+- [[Creative Cooking Visual Edit - @nadav_._levi]] — Nadav Levi (@nadav_._levi)
+- [[Coca Cola Commercial Edit - @furiafuria.tv]] — Furia TV (@furiafuria.tv)
+- [[Late Night Jazz Band Vibes - @le.royale.bar]] — Le Royale Bar (@le.royale.bar)
+- [[Prisoners No More Talk Edit - @furyssv]] — Fury (@furyssv)
