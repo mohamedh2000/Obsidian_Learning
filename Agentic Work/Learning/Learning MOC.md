@@ -1018,3 +1018,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Bob Beaute Brand Identity by Kurppa Hosk]] — Aesse (@aessestudio)
 - [[How to Build Your Own LLM from Scratch in 5 Stages]] — Codez (@0xcodez)
 - [[Google Engineering Practices Documentation]] — google/eng-practices
+- [[Midjourney Cyberpunk Vaporwave Style Reference]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Brand Design Portfolio - Resident]] — Resident (@residentlab)
+- [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
+- [[Valthera Neo-Medieval Brand Identity by Estúdio 017]] — The Brand Identity (@tweetsbytbi)

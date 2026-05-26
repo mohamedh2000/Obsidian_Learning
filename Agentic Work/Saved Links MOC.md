@@ -630,6 +630,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Bob Beaute Brand Identity by Kurppa Hosk]] — Aesse (@aessestudio)
 - [[How to Build Your Own LLM from Scratch in 5 Stages]] — Codez (@0xcodez)
 - [[Google Engineering Practices Documentation]] — google/eng-practices
+- [[Midjourney Cyberpunk Vaporwave Style Reference]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Brand Design Portfolio - Resident]] — Resident (@residentlab)
+- [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
+- [[Valthera Neo-Medieval Brand Identity by Estúdio 017]] — The Brand Identity (@tweetsbytbi)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -804,7 +808,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1576
+- **Total notes:** 1580
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

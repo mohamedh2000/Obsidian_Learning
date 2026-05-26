@@ -420,6 +420,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Building with Claude - CSS and GSAP Techniques]] — FHILY (@oluwaphilemon1)
 - [[Glyphic Bio - Protein Sequencing Design by Obys Agency]] — Lenis (@lenissmooth)
 - [[Bob Beaute Brand Identity by Kurppa Hosk]] — Aesse (@aessestudio)
+- [[Brand Design Portfolio - Resident]] — Resident (@residentlab)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -637,9 +638,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Mazin GIF Post]] — 『-』M░a░z░i░n 『-』 (@endless_mazin)
 - [[Tweet from @_7ewd_]] — @_7ewd_
 - [[rishabhhdesigns Tweet]] — (@rishabhhdesigns)
+- [[Midjourney Cyberpunk Vaporwave Style Reference]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
 ## Stats
 
-- **Total tweets:** 1343
+- **Total tweets:** 1347
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1109,6 +1112,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Google Eng-Practices Code Review Guidelines - @_vmlops]] — Vaishnavi (@_vmlops)
 - [[Midjourney SREF 569235527 Film Cinematic Style - @promptsref]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Visual Media Post - @zresinn]] — Zresin (@Zresinn)
+- [[Valthera Neo-Medieval Brand Identity by Estúdio 017]] — The Brand Identity (@tweetsbytbi)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
