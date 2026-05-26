@@ -808,7 +808,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1581
+- **Total notes:** 1590
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1267,6 +1267,15 @@ See [[Twitter Posts MOC]] for full index.
 - [[Late Night Jazz Band Vibes - @le.royale.bar]] — Le Royale Bar (@le.royale.bar)
 - [[Prisoners No More Talk Edit - @furyssv]] — Fury (@furyssv)
 - [[vLLM Studio Updates - @0xsero]] — 0xSero (@0xsero)
+- [[Born to Create - Osmose Film Announcement]] — Osmose (@0smos3)
+- [[Pickles Busan - Korean Food Video]] — Mokkey (@__mokkey)
+- [[Born to Create - Osmose Reel]] — Osmose (@0smos3)
+- [[Avia Restaurant - Culinary Art Video]] — Avia Restaurant (@avia_restaurant_)
+- [[DaVinci Resolve Flow Editing Tutorial]] — Masle Edit (@masle.edit)
+- [[Met Gala 2026 Afterparty - Premium Edit]] — Fury (@furyssv)
+- [[DOQ Barbers - Toolkit Promo Video]] — DOQ Barbers (@doqbarbers)
+- [[Premium Video Editing Skills Tutorial]] — Rabinn FX (@rabinn.fx)
+- [[AI Video Sequence Creation Guide]] — OGuillermi (@oguillermi)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
