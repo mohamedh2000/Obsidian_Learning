@@ -146,3 +146,8 @@ Instagram reels and other social media content saved from iMessage.
 - [[AI Video Sequence Creation Guide]] — OGuillermi (@oguillermi)
 - [[MyMoon Art Reel - @cdvg]] — cdvg (@cdvg)
 - [[Slow Shutter Cinematography Flow Course - @furyssv]] — furyssv (@furyssv)
+- [[Video Editing Day Behind the Scenes]] — art.getman (@art.getman)
+- [[Creative Filming and Editing Tips Carousel]] — cj.filmed.it (@cj.filmed.it)
+- [[Eyes Are Everything - Viuta Music Release]] — viutatonight (@viutatonight)
+- [[AI Visual Effects in DaVinci Resolve]] — tewiemakesmedia (@tewiemakesmedia)
+- [[TouchDesigner Visuals - Imogen Heap Remix]] — phs.wrk (@phs.wrk)
