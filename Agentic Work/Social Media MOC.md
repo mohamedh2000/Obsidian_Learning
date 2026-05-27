@@ -145,3 +145,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Premium Video Editing Skills Tutorial]] — Rabinn FX (@rabinn.fx)
 - [[AI Video Sequence Creation Guide]] — OGuillermi (@oguillermi)
 - [[MyMoon Art Reel - @cdvg]] — cdvg (@cdvg)
+- [[Slow Shutter Cinematography Flow Course - @furyssv]] — furyssv (@furyssv)
