@@ -62,6 +62,8 @@ GitHub repositories saved from iMessage.
 - [[Anthropic Knowledge Work Plugins]] — Anthropic (@anthropics)
 - [[GitHub Agentic Certification]] — GitHub Learn
 - [[Google Engineering Practices Documentation]] — google/eng-practices
+- [[ai-infra-curriculum/ai-infra-engineer-learning]] — ai-infra-curriculum
+- [[rjs/shaping-skills]] — rjs (Ryan Singer)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

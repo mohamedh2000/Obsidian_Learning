@@ -421,6 +421,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Glyphic Bio - Protein Sequencing Design by Obys Agency]] — Lenis (@lenissmooth)
 - [[Bob Beaute Brand Identity by Kurppa Hosk]] — Aesse (@aessestudio)
 - [[Brand Design Portfolio - Resident]] — Resident (@residentlab)
+- [[Building with Lovable 3D WebGL GSAP]] — FHILY👑 (@oluwaphilemon1)
+- [[Synthetic Bloom Visual Typography Exploration]] — Artemii Lebedev (@artemiulebedev)
+- [[Son Daven Carpathian Luxury Scroll]] — Lenis (@lenissmooth)
+- [[VC Site Design Philosophy - Tony Dsgn]] — Tony | web designer (@tony_dsgn)
+- [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -640,9 +645,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[rishabhhdesigns Tweet]] — (@rishabhhdesigns)
 - [[Midjourney Cyberpunk Vaporwave Style Reference]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
+- [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
 ## Stats
 
-- **Total tweets:** 1349
+- **Total tweets:** 1360
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -967,6 +973,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Skills Auto-Discovery Prompt]] — Vaibhav (VB) Srivastav (@reach_vb)
 - [[Pi Distributed Inference Multi-Server Setup]] — 0xSero (@0xsero)
 - [[Minimal RLM Training Harness - @a1zhang]] — alex zhang (@a1zhang)
+- [[Favorite Engineering Skills for AI]] — George from 🕹prodmgmt.world (@nurijanian)
+- [[Taste Skill AI Frontend Design Upgrade]] — Vincent Logic | 信号＞噪音 (@vincentlogic)
+- [[Awesome Agent Orchestrators Curated List]] — Tom Dörr (@tom_doerr)
 
 ## Developer Tools & Code Intelligence
 
@@ -1115,6 +1124,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney SREF 569235527 Film Cinematic Style - @promptsref]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Visual Media Post - @zresinn]] — Zresin (@Zresinn)
 - [[Valthera Neo-Medieval Brand Identity by Estúdio 017]] — The Brand Identity (@tweetsbytbi)
+- [[Claude Design Brand Guidelines Generator]] — AmirMušić (@amirmushich)
+- [[AI Asset Generator for Design - Adrien Ninet]] — Adrien Ninet (@adrien_ninet)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

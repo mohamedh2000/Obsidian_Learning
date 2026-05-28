@@ -635,6 +635,18 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
 - [[Valthera Neo-Medieval Brand Identity by Estúdio 017]] — The Brand Identity (@tweetsbytbi)
 - [[Minimal RLM Training Harness - @a1zhang]] — alex zhang (@a1zhang)
+- [[Building with Lovable 3D WebGL GSAP]] — FHILY👑 (@oluwaphilemon1)
+- [[Synthetic Bloom Visual Typography Exploration]] — Artemii Lebedev (@artemiulebedev)
+- [[ai-infra-curriculum/ai-infra-engineer-learning]] — ai-infra-curriculum
+- [[rjs/shaping-skills]] — rjs (Ryan Singer)
+- [[Favorite Engineering Skills for AI]] — George from 🕹prodmgmt.world (@nurijanian)
+- [[Son Daven Carpathian Luxury Scroll]] — Lenis (@lenissmooth)
+- [[Taste Skill AI Frontend Design Upgrade]] — Vincent Logic | 信号＞噪音 (@vincentlogic)
+- [[Awesome Agent Orchestrators Curated List]] — Tom Dörr (@tom_doerr)
+- [[VC Site Design Philosophy - Tony Dsgn]] — Tony | web designer (@tony_dsgn)
+- [[AI Asset Generator for Design - Adrien Ninet]] — Adrien Ninet (@adrien_ninet)
+- [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
+- [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -809,7 +821,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1598
+- **Total notes:** 1611
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1284,6 +1296,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Eyes Are Everything - Viuta Music Release]] — viutatonight (@viutatonight)
 - [[AI Visual Effects in DaVinci Resolve]] — tewiemakesmedia (@tewiemakesmedia)
 - [[TouchDesigner Visuals - Imogen Heap Remix]] — phs.wrk (@phs.wrk)
+- [[Claude Design Brand Guidelines Generator]] — AmirMušić (@amirmushich)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
