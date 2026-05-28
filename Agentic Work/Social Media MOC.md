@@ -169,3 +169,7 @@ Instagram reels and other social media content saved from iMessage.
 - [[Mask Transition Tutorial - DaVinci Resolve - @yuyenwng]] — yuyenwng (@yuyenwng)
 - [[Gemini Omni Video Editing Capabilities - @evolving.ai]] — evolving.ai (@evolving.ai)
 - [[The Art of Creating - Cinematic Edit - @crlos.mp4]] — crlos.mp4 (@crlos.mp4)
+- [[Filmsupply Film & Music Periodical Newsletter]] — Filmsupply (@filmsupply)
+- [[Cosmos Animation Edit - Peak Editing Style]] — Cosmos (@cosmos)
+- [[Krotos Studio Sound Design Tool - Emax Films]] — Emax Films (@emax.films)
+- [[Ocular Sounds - Professional Sound Effects Collection]] — Ocular Sounds (@ocular.sounds)
