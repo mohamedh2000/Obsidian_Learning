@@ -652,9 +652,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
 - [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
 - [[Claude Higgsfield Supercomputer Realism - @d_studioproject]] — DStudioproject (@d_studioproject)
+- [[GPT Image 2 Plus Antigravity Prompt - @viktoroddy]] — Viktor Oddy (@viktoroddy)
 ## Stats
 
-- **Total tweets:** 1375
+- **Total tweets:** 1377
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1141,6 +1142,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code After Effects MCP Integration - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
 - [[VibeMotion-1 Open Source Figma-to-Video Editor]] — AmirMusic (@amirmushich)
 - [[Higgsfield Video Generation Won]] — SEV (@sevas_ae)
+- [[Opus 4.8 Live in Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
