@@ -1041,3 +1041,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Stills Design Trend Report 2026]] — Stills
 - [[Building with Claude - Three.js WebGL GSAP Lottie Stack]] — FHILY (@oluwaphilemon1)
 - [[VibeMotion-1 Open Source Figma-to-Video Editor]] — AmirMusic (@amirmushich)
+- [[Transitions.dev - Essential Web App Transitions Collection]] — Jakub Antalik
+- [[Midjourney Cyberpunk Neon Style sref 981309314]] — Midjourney Sref and prompt Library (@promptsref)
+- [[getdesign.md Production-Grade DESIGN.md Analysis]] — Kailash (@kail_designs)
+- [[GUA Candy After Effects Motion Graphics]] — 𝙂𝙐𝘼 (@gua_seed)
+- [[Young Vic Theatre Brand Identity]] — The Brand Identity (@tweetsbytbi)

@@ -428,6 +428,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
 - [[Facebook Paper Web Recreation]] — Vardnan Sivarajah (@svardnan)
 - [[Building with Claude - Three.js WebGL GSAP Lottie Stack]] — FHILY (@oluwaphilemon1)
+- [[Midjourney Cyberpunk Neon Style sref 981309314]] — Midjourney Sref and prompt Library (@promptsref)
+- [[GUA Candy After Effects Motion Graphics]] — 𝙂𝙐𝘼 (@gua_seed)
+- [[Young Vic Theatre Brand Identity]] — The Brand Identity (@tweetsbytbi)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -651,7 +654,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Higgsfield Supercomputer Realism - @d_studioproject]] — DStudioproject (@d_studioproject)
 ## Stats
 
-- **Total tweets:** 1370
+- **Total tweets:** 1375
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -982,6 +985,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Awesome Agent Orchestrators Curated List]] — Tom Dörr (@tom_doerr)
 - [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)
 - [[Pancake AI Autonomous Company Agent]] — Nico (@nicos_ai)
+- [[getdesign.md Production-Grade DESIGN.md Analysis]] — Kailash (@kail_designs)
 
 ## Developer Tools & Code Intelligence
 
@@ -1136,6 +1140,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Verse Visual 01 // Rain Studies - NFT Art Gift]] — Dave (@dave_krugman)
 - [[Claude Code After Effects MCP Integration - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
 - [[VibeMotion-1 Open Source Figma-to-Video Editor]] — AmirMusic (@amirmushich)
+- [[Higgsfield Video Generation Won]] — SEV (@sevas_ae)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

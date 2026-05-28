@@ -653,6 +653,11 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Stills Design Trend Report 2026]] — Stills
 - [[Building with Claude - Three.js WebGL GSAP Lottie Stack]] — FHILY (@oluwaphilemon1)
 - [[VibeMotion-1 Open Source Figma-to-Video Editor]] — AmirMusic (@amirmushich)
+- [[Transitions.dev - Essential Web App Transitions Collection]] — Jakub Antalik
+- [[Midjourney Cyberpunk Neon Style sref 981309314]] — Midjourney Sref and prompt Library (@promptsref)
+- [[getdesign.md Production-Grade DESIGN.md Analysis]] — Kailash (@kail_designs)
+- [[GUA Candy After Effects Motion Graphics]] — 𝙂𝙐𝘼 (@gua_seed)
+- [[Young Vic Theatre Brand Identity]] — The Brand Identity (@tweetsbytbi)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -827,7 +832,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1647
+- **Total notes:** 1653
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1333,6 +1338,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Video Editing Techniques Lately - @shadi.3001]] — shadi.3001 (@shadi.3001)
 - [[Claude Code After Effects MCP Integration - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
 - [[Claude Higgsfield Supercomputer Realism - @d_studioproject]] — DStudioproject (@d_studioproject)
+- [[Higgsfield Video Generation Won]] — SEV (@sevas_ae)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
