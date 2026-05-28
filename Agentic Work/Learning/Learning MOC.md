@@ -1049,3 +1049,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Anthropic Production AI Agents Workshop]] — Avid (@av1dlive)
 - [[Subagents on Steroids Discussion]] — AVB (@neural_avb)
 - [[DeepSeek Industry Impact and MiMo]] — AVB (@neural_avb)
+- [[Vercel Naive Design Rebrand Principles]] — AmirMušić (@amirmushich)

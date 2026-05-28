@@ -431,6 +431,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney Cyberpunk Neon Style sref 981309314]] — Midjourney Sref and prompt Library (@promptsref)
 - [[GUA Candy After Effects Motion Graphics]] — 𝙂𝙐𝘼 (@gua_seed)
 - [[Young Vic Theatre Brand Identity]] — The Brand Identity (@tweetsbytbi)
+- [[Vercel Naive Design Rebrand Principles]] — AmirMušić (@amirmushich)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -655,7 +656,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Plus Antigravity Prompt - @viktoroddy]] — Viktor Oddy (@viktoroddy)
 ## Stats
 
-- **Total tweets:** 1380
+- **Total tweets:** 1381
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
