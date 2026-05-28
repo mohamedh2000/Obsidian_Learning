@@ -1039,3 +1039,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Facebook Paper Web Recreation]] — Vardnan Sivarajah (@svardnan)
 - [[Gemini Omni Video Editing Capabilities - @evolving.ai]] — evolving.ai (@evolving.ai)
 - [[Stills Design Trend Report 2026]] — Stills
+- [[Building with Claude - Three.js WebGL GSAP Lottie Stack]] — FHILY (@oluwaphilemon1)
+- [[VibeMotion-1 Open Source Figma-to-Video Editor]] — AmirMusic (@amirmushich)

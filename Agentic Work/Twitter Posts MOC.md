@@ -427,6 +427,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[VC Site Design Philosophy - Tony Dsgn]] — Tony | web designer (@tony_dsgn)
 - [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
 - [[Facebook Paper Web Recreation]] — Vardnan Sivarajah (@svardnan)
+- [[Building with Claude - Three.js WebGL GSAP Lottie Stack]] — FHILY (@oluwaphilemon1)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -650,7 +651,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Higgsfield Supercomputer Realism - @d_studioproject]] — DStudioproject (@d_studioproject)
 ## Stats
 
-- **Total tweets:** 1368
+- **Total tweets:** 1370
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1134,6 +1135,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Wonder to Framer Copy-Paste Plugin]] — frederik (@froessell)
 - [[Verse Visual 01 // Rain Studies - NFT Art Gift]] — Dave (@dave_krugman)
 - [[Claude Code After Effects MCP Integration - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
+- [[VibeMotion-1 Open Source Figma-to-Video Editor]] — AmirMusic (@amirmushich)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
