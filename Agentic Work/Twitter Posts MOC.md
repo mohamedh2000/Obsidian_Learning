@@ -656,7 +656,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Plus Antigravity Prompt - @viktoroddy]] — Viktor Oddy (@viktoroddy)
 ## Stats
 
-- **Total tweets:** 1381
+- **Total tweets:** 1383
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -991,6 +991,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[getdesign.md Production-Grade DESIGN.md Analysis]] — Kailash (@kail_designs)
 - [[Anthropic Production AI Agents Workshop]] — Avid (@av1dlive)
 - [[Subagents on Steroids Discussion]] — AVB (@neural_avb)
+- [[Claude Code Dynamic Workflows - @_catwu]] — cat (@_catwu)
 
 ## Developer Tools & Code Intelligence
 
@@ -1147,6 +1148,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[VibeMotion-1 Open Source Figma-to-Video Editor]] — AmirMusic (@amirmushich)
 - [[Higgsfield Video Generation Won]] — SEV (@sevas_ae)
 - [[Opus 4.8 Live in Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[GapCut Video Editor - @youraipulse]] — AI Pulse (@youraipulse)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

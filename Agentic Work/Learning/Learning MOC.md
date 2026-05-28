@@ -1050,3 +1050,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Subagents on Steroids Discussion]] — AVB (@neural_avb)
 - [[DeepSeek Industry Impact and MiMo]] — AVB (@neural_avb)
 - [[Vercel Naive Design Rebrand Principles]] — AmirMušić (@amirmushich)
+- [[Claude Code Dynamic Workflows - @_catwu]] — cat (@_catwu)
+- [[GapCut Video Editor - @youraipulse]] — AI Pulse (@youraipulse)
