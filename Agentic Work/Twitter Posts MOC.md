@@ -426,6 +426,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Son Daven Carpathian Luxury Scroll]] — Lenis (@lenissmooth)
 - [[VC Site Design Philosophy - Tony Dsgn]] — Tony | web designer (@tony_dsgn)
 - [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
+- [[Facebook Paper Web Recreation]] — Vardnan Sivarajah (@svardnan)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -648,7 +649,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
 ## Stats
 
-- **Total tweets:** 1364
+- **Total tweets:** 1366
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -978,6 +979,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Taste Skill AI Frontend Design Upgrade]] — Vincent Logic | 信号＞噪音 (@vincentlogic)
 - [[Awesome Agent Orchestrators Curated List]] — Tom Dörr (@tom_doerr)
 - [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)
+- [[Pancake AI Autonomous Company Agent]] — Nico (@nicos_ai)
 
 ## Developer Tools & Code Intelligence
 
