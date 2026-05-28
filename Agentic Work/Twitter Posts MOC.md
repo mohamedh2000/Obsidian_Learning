@@ -648,7 +648,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
 ## Stats
 
-- **Total tweets:** 1360
+- **Total tweets:** 1364
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -697,6 +697,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Ultimate AI Researcher Projects Roadmap - @theahmadosman]] — Ahmad (@theahmadosman)
 - [[How to Build Your Own LLM from Scratch in 5 Stages]] — Codez (@0xcodez)
 - [[vLLM Studio Updates - @0xsero]] — 0xSero (@0xsero)
+- [[3 Benefits of Writing Technical Pieces Yourself Instead of with an LLM]] — Viv (@vtrivedy10)
 
 ## AI Agents
 
@@ -976,6 +977,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Favorite Engineering Skills for AI]] — George from 🕹prodmgmt.world (@nurijanian)
 - [[Taste Skill AI Frontend Design Upgrade]] — Vincent Logic | 信号＞噪音 (@vincentlogic)
 - [[Awesome Agent Orchestrators Curated List]] — Tom Dörr (@tom_doerr)
+- [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)
 
 ## Developer Tools & Code Intelligence
 
@@ -1126,6 +1128,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Valthera Neo-Medieval Brand Identity by Estúdio 017]] — The Brand Identity (@tweetsbytbi)
 - [[Claude Design Brand Guidelines Generator]] — AmirMušić (@amirmushich)
 - [[AI Asset Generator for Design - Adrien Ninet]] — Adrien Ninet (@adrien_ninet)
+- [[Wonder to Framer Copy-Paste Plugin]] — frederik (@froessell)
+- [[Verse Visual 01 // Rain Studies - NFT Art Gift]] — Dave (@dave_krugman)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

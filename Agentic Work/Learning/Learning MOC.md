@@ -1035,3 +1035,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Asset Generator for Design - Adrien Ninet]] — Adrien Ninet (@adrien_ninet)
 - [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
 - [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
+- [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)

@@ -647,6 +647,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[AI Asset Generator for Design - Adrien Ninet]] — Adrien Ninet (@adrien_ninet)
 - [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
 - [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
+- [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -821,7 +822,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1611
+- **Total notes:** 1627
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1297,6 +1298,21 @@ See [[Twitter Posts MOC]] for full index.
 - [[AI Visual Effects in DaVinci Resolve]] — tewiemakesmedia (@tewiemakesmedia)
 - [[TouchDesigner Visuals - Imogen Heap Remix]] — phs.wrk (@phs.wrk)
 - [[Claude Design Brand Guidelines Generator]] — AmirMušić (@amirmushich)
+- [[Audio Suspense Technique - The Pit]] — art.getman (@art.getman)
+- [[2026 Commercial Filmmaking Trends - Music as Foundation]] — Musicbed (@musicbed)
+- [[Mile Square Cafe Vibe Reel]] — Mile Square Cafe (@milesquarecafe)
+- [[In The Mood For Love - Student Opening Credits]] — GOBELINS Paris (@gobelins.paris) / @taymiya.mp4
+- [[Food Diary - Nothing Beats a Simple Meal]] — Lorenz Groche (@lorenzgroche)
+- [[Robot Arm Production - Three Takeaways]] — Nick Nelson (@iamnicknelson)
+- [[The Roots Beneath - Bleachworld Visuals]] — Sajge (@sajgemusic)
+- [[Leon's Bagels NYC - Brand Lifestyle Reel]] — Leon's Bagels NYC (@leonsbagelsnyc)
+- [[Weekly Clips Edit - Cuts and Color]] — CJ (@cj.filmed.it)
+- [[Novanoxone Cinematic Art Post]] — novanoxone (@novanoxone)
+- [[The Creative Act - crlos.mp4 Cinematic Reel]] — crlos.mp4 (@crlos.mp4)
+- [[Adelaide Hidden Gems - itsvinaypinto Travel Reel]] — itsvinaypinto (@itsvinaypinto)
+- [[3 Benefits of Writing Technical Pieces Yourself Instead of with an LLM]] — Viv (@vtrivedy10)
+- [[Wonder to Framer Copy-Paste Plugin]] — frederik (@froessell)
+- [[Verse Visual 01 // Rain Studies - NFT Art Gift]] — Dave (@dave_krugman)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
