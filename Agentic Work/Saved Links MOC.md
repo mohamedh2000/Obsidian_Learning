@@ -825,7 +825,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1643
+- **Total notes:** 1645
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1329,6 +1329,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Krotos Studio Sound Design Tool - Emax Films]] — Emax Films (@emax.films)
 - [[Ocular Sounds - Professional Sound Effects Collection]] — Ocular Sounds (@ocular.sounds)
 - [[Video Editing Techniques Lately - @shadi.3001]] — shadi.3001 (@shadi.3001)
+- [[Claude Code After Effects MCP Integration - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
+- [[Claude Higgsfield Supercomputer Realism - @d_studioproject]] — DStudioproject (@d_studioproject)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

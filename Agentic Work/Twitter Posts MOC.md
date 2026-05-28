@@ -647,9 +647,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney Cyberpunk Vaporwave Style Reference]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Prompt Canvas Collection]] — MeiGen AI (@meigen7982)
 - [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
+- [[Claude Higgsfield Supercomputer Realism - @d_studioproject]] — DStudioproject (@d_studioproject)
 ## Stats
 
-- **Total tweets:** 1366
+- **Total tweets:** 1368
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1132,6 +1133,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Asset Generator for Design - Adrien Ninet]] — Adrien Ninet (@adrien_ninet)
 - [[Wonder to Framer Copy-Paste Plugin]] — frederik (@froessell)
 - [[Verse Visual 01 // Rain Studies - NFT Art Gift]] — Dave (@dave_krugman)
+- [[Claude Code After Effects MCP Integration - @oluwaphilemon1]] — FHILY👑 (@oluwaphilemon1)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
