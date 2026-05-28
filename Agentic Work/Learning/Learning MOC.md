@@ -1038,3 +1038,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)
 - [[Facebook Paper Web Recreation]] — Vardnan Sivarajah (@svardnan)
 - [[Gemini Omni Video Editing Capabilities - @evolving.ai]] — evolving.ai (@evolving.ai)
+- [[Stills Design Trend Report 2026]] — Stills
