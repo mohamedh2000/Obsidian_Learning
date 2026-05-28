@@ -655,7 +655,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Plus Antigravity Prompt - @viktoroddy]] — Viktor Oddy (@viktoroddy)
 ## Stats
 
-- **Total tweets:** 1377
+- **Total tweets:** 1380
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -705,6 +705,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[How to Build Your Own LLM from Scratch in 5 Stages]] — Codez (@0xcodez)
 - [[vLLM Studio Updates - @0xsero]] — 0xSero (@0xsero)
 - [[3 Benefits of Writing Technical Pieces Yourself Instead of with an LLM]] — Viv (@vtrivedy10)
+- [[DeepSeek Industry Impact and MiMo]] — AVB (@neural_avb)
 
 ## AI Agents
 
@@ -987,6 +988,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)
 - [[Pancake AI Autonomous Company Agent]] — Nico (@nicos_ai)
 - [[getdesign.md Production-Grade DESIGN.md Analysis]] — Kailash (@kail_designs)
+- [[Anthropic Production AI Agents Workshop]] — Avid (@av1dlive)
+- [[Subagents on Steroids Discussion]] — AVB (@neural_avb)
 
 ## Developer Tools & Code Intelligence
 

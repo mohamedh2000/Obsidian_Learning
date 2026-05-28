@@ -1046,3 +1046,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[getdesign.md Production-Grade DESIGN.md Analysis]] — Kailash (@kail_designs)
 - [[GUA Candy After Effects Motion Graphics]] — 𝙂𝙐𝘼 (@gua_seed)
 - [[Young Vic Theatre Brand Identity]] — The Brand Identity (@tweetsbytbi)
+- [[Anthropic Production AI Agents Workshop]] — Avid (@av1dlive)
+- [[Subagents on Steroids Discussion]] — AVB (@neural_avb)
+- [[DeepSeek Industry Impact and MiMo]] — AVB (@neural_avb)
