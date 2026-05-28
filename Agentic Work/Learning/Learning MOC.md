@@ -1052,3 +1052,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Vercel Naive Design Rebrand Principles]] — AmirMušić (@amirmushich)
 - [[Claude Code Dynamic Workflows - @_catwu]] — cat (@_catwu)
 - [[GapCut Video Editor - @youraipulse]] — AI Pulse (@youraipulse)
+- [[Ampersand No.3 In & Out Typography Style - @sebcornelius]] — Seb Cornelius (@sebcornelius)
+- [[Flip Book Component in Framer - @mrblackstudio]] — Lee Black (@mrblackstudio)
+- [[Seamless Infinite Scroll with GSAP and Lenis - Codrops]] — Joe Ben Taylor (Codrops)

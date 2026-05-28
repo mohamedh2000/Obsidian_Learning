@@ -432,6 +432,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GUA Candy After Effects Motion Graphics]] — 𝙂𝙐𝘼 (@gua_seed)
 - [[Young Vic Theatre Brand Identity]] — The Brand Identity (@tweetsbytbi)
 - [[Vercel Naive Design Rebrand Principles]] — AmirMušić (@amirmushich)
+- [[Ampersand No.3 In & Out Typography Style - @sebcornelius]] — Seb Cornelius (@sebcornelius)
+- [[Flip Book Component in Framer - @mrblackstudio]] — Lee Black (@mrblackstudio)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -654,9 +656,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[INK Speed Video - Claude Midjourney Seedance Workflow]] — INK (@0xink_)
 - [[Claude Higgsfield Supercomputer Realism - @d_studioproject]] — DStudioproject (@d_studioproject)
 - [[GPT Image 2 Plus Antigravity Prompt - @viktoroddy]] — Viktor Oddy (@viktoroddy)
+- [[Bongdoe Post - @bongdoe]] — (@bongdoe)
 ## Stats
 
-- **Total tweets:** 1383
+- **Total tweets:** 1386
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

@@ -664,6 +664,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Vercel Naive Design Rebrand Principles]] — AmirMušić (@amirmushich)
 - [[Claude Code Dynamic Workflows - @_catwu]] — cat (@_catwu)
 - [[GapCut Video Editor - @youraipulse]] — AI Pulse (@youraipulse)
+- [[Ampersand No.3 In & Out Typography Style - @sebcornelius]] — Seb Cornelius (@sebcornelius)
+- [[Flip Book Component in Framer - @mrblackstudio]] — Lee Black (@mrblackstudio)
+- [[Seamless Infinite Scroll with GSAP and Lenis - Codrops]] — Joe Ben Taylor (Codrops)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -838,7 +841,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1661
+- **Total notes:** 1665
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1347,6 +1350,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Higgsfield Video Generation Won]] — SEV (@sevas_ae)
 - [[GPT Image 2 Plus Antigravity Prompt - @viktoroddy]] — Viktor Oddy (@viktoroddy)
 - [[Opus 4.8 Live in Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[Bongdoe Post - @bongdoe]] — (@bongdoe)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
