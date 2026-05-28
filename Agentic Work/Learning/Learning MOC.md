@@ -1037,3 +1037,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Osmo Showcase - Hildén & Kaira GSAP Components]] — Osmo (@osmosupply)
 - [[Iterative AutoResearch for Improving Agent Skills]] — Kyle Jeong (@kylejeong)
 - [[Facebook Paper Web Recreation]] — Vardnan Sivarajah (@svardnan)
+- [[Gemini Omni Video Editing Capabilities - @evolving.ai]] — evolving.ai (@evolving.ai)
