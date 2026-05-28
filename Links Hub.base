@@ -1,0 +1,138 @@
+filters:
+  and:
+    - 'note.url != null'
+
+properties:
+  note.platform:
+    displayName: Platform
+  note.topics:
+    displayName: Topics
+  note.content_type:
+    displayName: Genre
+  note.date_saved:
+    displayName: Saved
+  note.source:
+    displayName: Author
+  note.url:
+    displayName: URL
+  note.status:
+    displayName: Status
+  note.tags:
+    displayName: Tags
+
+views:
+  - type: cards
+    name: Grid
+    image: note.cover_image
+    order:
+      - file.name
+      - note.platform
+      - note.content_type
+      - note.topics
+      - note.date_saved
+      - note.source
+    sort:
+      - property: note.date_saved
+        direction: DESC
+
+  - type: table
+    name: By Platform
+    groupBy:
+      property: note.platform
+      direction: ASC
+    order:
+      - file.name
+      - note.content_type
+      - note.topics
+      - note.date_saved
+      - note.source
+    sort:
+      - property: note.date_saved
+        direction: DESC
+
+  - type: table
+    name: By Genre
+    groupBy:
+      property: note.content_type
+      direction: ASC
+    order:
+      - file.name
+      - note.platform
+      - note.topics
+      - note.date_saved
+      - note.source
+    sort:
+      - property: note.date_saved
+        direction: DESC
+
+  - type: table
+    name: By Topic
+    groupBy:
+      property: note.topics
+      direction: ASC
+    order:
+      - file.name
+      - note.platform
+      - note.content_type
+      - note.date_saved
+      - note.source
+    sort:
+      - property: note.date_saved
+        direction: DESC
+
+  - type: table
+    name: By Date
+    order:
+      - file.name
+      - note.platform
+      - note.content_type
+      - note.topics
+      - note.date_saved
+      - note.source
+    sort:
+      - property: note.date_saved
+        direction: DESC
+
+  - type: table
+    name: This Month
+    filters:
+      and:
+        - 'note.date_saved >= date(today) - duration("30 days")'
+    groupBy:
+      property: note.platform
+      direction: ASC
+    order:
+      - file.name
+      - note.content_type
+      - note.topics
+      - note.date_saved
+      - note.source
+    sort:
+      - property: note.date_saved
+        direction: DESC
+
+  - type: table
+    name: Unread
+    filters:
+      and:
+        - 'note.status == "unread"'
+    groupBy:
+      property: note.platform
+      direction: ASC
+    order:
+      - file.name
+      - note.content_type
+      - note.topics
+      - note.date_saved
+    sort:
+      - property: note.date_saved
+        direction: DESC
+
+  - type: list
+    name: Compact
+    order:
+      - file.name
+      - note.date_saved
+    sort:
+      - property: note.date_saved
+        direction: DESC
