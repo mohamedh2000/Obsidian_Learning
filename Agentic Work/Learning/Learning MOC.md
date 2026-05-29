@@ -1055,3 +1055,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Ampersand No.3 In & Out Typography Style - @sebcornelius]] — Seb Cornelius (@sebcornelius)
 - [[Flip Book Component in Framer - @mrblackstudio]] — Lee Black (@mrblackstudio)
 - [[Seamless Infinite Scroll with GSAP and Lenis - Codrops]] — Joe Ben Taylor (Codrops)
+- [[Don Molinico Red Refined Rolling Smooth]] — Lenis (@lenissmooth)
