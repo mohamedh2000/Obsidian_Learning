@@ -455,6 +455,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Zero to ML Framework in 4 Months]] — NVIDIA AI Developer (@nvidiaaidev)
 - [[LeetCUDA - Open Source CUDA System Tutorial]] — Joruno (@wsl8297)
 - [[claude-obsidian - AI-Powered Knowledge Engine]] — Maliha Tasnim (@this_is_tasnim)
+- [[Obsidian Productive Vault System]] — CyrilXBT (@cyrilxbt)
 ## Uncategorized
 
 - [[AI Startup Visual Share - @ellen_in_sf]] — Visual content
@@ -662,7 +663,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPU Performance Summaries in 6 Minutes - @rohanpaul_ai]] — Rohan Paul (@rohanpaul_ai)
 ## Stats
 
-- **Total tweets:** 1396
+- **Total tweets:** 1398
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -713,6 +714,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[vLLM Studio Updates - @0xsero]] — 0xSero (@0xsero)
 - [[3 Benefits of Writing Technical Pieces Yourself Instead of with an LLM]] — Viv (@vtrivedy10)
 - [[DeepSeek Industry Impact and MiMo]] — AVB (@neural_avb)
+- [[On Policy Distillation Resource Collection]] — AVB (@neural_avb)
 
 ## AI Agents
 

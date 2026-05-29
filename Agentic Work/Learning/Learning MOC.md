@@ -1065,3 +1065,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[hexo-ai-sia - Self Improving AI Framework]] — hexo-ai
 - [[Understand-Anything Code to Knowledge Graph Visualizer - @chenzeze777]] — 阿泽 AZe (@chenzeze777)
 - [[Mid-Conversation System Messages - Anthropic Docs]] — Anthropic (platform.claude.com)
+- [[On Policy Distillation Resource Collection]] — AVB (@neural_avb)
+- [[Obsidian Productive Vault System]] — CyrilXBT (@cyrilxbt)
