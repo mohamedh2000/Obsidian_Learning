@@ -174,3 +174,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Krotos Studio Sound Design Tool - Emax Films]] — Emax Films (@emax.films)
 - [[Ocular Sounds - Professional Sound Effects Collection]] — Ocular Sounds (@ocular.sounds)
 - [[Video Editing Techniques Lately - @shadi.3001]] — shadi.3001 (@shadi.3001)
+- [[Maven Melbourne Kitchen Pass Edit]] — Maven Melbourne (@mavenmelbourne)
+- [[Four Editors Pro Video Assets]] — Four Editors (@foureditors)
