@@ -436,6 +436,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Flip Book Component in Framer - @mrblackstudio]] — Lee Black (@mrblackstudio)
 - [[Don Molinico Red Refined Rolling Smooth]] — Lenis (@lenissmooth)
 - [[Motion Sites AI Prompt Library for Website Design - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
+- [[mymind Brand Artifacts Week 22 - @vanschneider]] — Tobias van Schneider (@vanschneider)
+- [[Produx Design Hero Animation Evolution - @yousufsoomrodev]] — Yousuf (@yousufsoomrodev)
+- [[Seedance 2.0 Fantasy Animation Style - @artedeingenio]] — OscarAI (@artedeingenio)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -661,9 +664,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image 2 Plus Antigravity Prompt - @viktoroddy]] — Viktor Oddy (@viktoroddy)
 - [[Bongdoe Post - @bongdoe]] — (@bongdoe)
 - [[GPU Performance Summaries in 6 Minutes - @rohanpaul_ai]] — Rohan Paul (@rohanpaul_ai)
+- [[Seedance 2.0 Dance Video Workflow - @totaku_original]] — TOTAKU™ (@totaku_original)
 ## Stats
 
-- **Total tweets:** 1398
+- **Total tweets:** 1405
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1006,6 +1010,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Self Improving AI SIA Framework Tops MLE-Bench - @sumanth_077]] — Sumanth (@sumanth_077)
 - [[Hermes Analyst Capabilities Overview - @0xjeff]] — 0xJeff (@0xjeff)
 - [[Dynamic Workflows in Claude Code - @sidbid]] — Sid (@sidbid)
+- [[Glif Agent Music Video Generation - @heyglif]] — GLIF (@heyglif)
 
 ## Developer Tools & Code Intelligence
 
@@ -1164,6 +1169,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Opus 4.8 Live in Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
 - [[GapCut Video Editor - @youraipulse]] — AI Pulse (@youraipulse)
 - [[Understand-Anything Code to Knowledge Graph Visualizer - @chenzeze777]] — 阿泽 AZe (@chenzeze777)
+- [[Layout to Code with Claude AI - @berlickfold]] — Bernardo Lickfold (@berlickfold)
+- [[Quiet Contemplation Visual - @anzomez]] — anz (@anzomez)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

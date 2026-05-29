@@ -176,3 +176,6 @@ Instagram reels and other social media content saved from iMessage.
 - [[Video Editing Techniques Lately - @shadi.3001]] — shadi.3001 (@shadi.3001)
 - [[Maven Melbourne Kitchen Pass Edit]] — Maven Melbourne (@mavenmelbourne)
 - [[Four Editors Pro Video Assets]] — Four Editors (@foureditors)
+- [[kiuzr Motion Design Reel]] — kiuzr (@kiuzr)
+- [[Filmsupply Awards 2025 Winners]] — Filmsupply (@filmsupply)
+- [[Dehancer Film Color Grading Tutorial]] — Sebastian Brochero (@brocherosebastian)
