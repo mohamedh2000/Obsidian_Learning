@@ -668,6 +668,15 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Flip Book Component in Framer - @mrblackstudio]] — Lee Black (@mrblackstudio)
 - [[Seamless Infinite Scroll with GSAP and Lenis - Codrops]] — Joe Ben Taylor (Codrops)
 - [[Don Molinico Red Refined Rolling Smooth]] — Lenis (@lenissmooth)
+- [[GPU Performance Summaries in 6 Minutes - @rohanpaul_ai]] — Rohan Paul (@rohanpaul_ai)
+- [[Codex Skill for Hand-Drawn Article Illustrations - @geekbb]] — Geek (@geekbb)
+- [[helloianneo-ian-xiaohei-illustrations - Hand-Drawn Illustration Codex Skill]] — helloianneo
+- [[RLM Paper and Dynamic Workflows Future - @a1zhang]] — alex zhang (@a1zhang)
+- [[Self Improving AI SIA Framework Tops MLE-Bench - @sumanth_077]] — Sumanth (@sumanth_077)
+- [[SIA Self Improving AI Framework - arxiv 2605.27276]] — arXiv
+- [[hexo-ai-sia - Self Improving AI Framework]] — hexo-ai
+- [[Understand-Anything Code to Knowledge Graph Visualizer - @chenzeze777]] — 阿泽 AZe (@chenzeze777)
+- [[Mid-Conversation System Messages - Anthropic Docs]] — Anthropic (platform.claude.com)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -842,7 +851,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1667
+- **Total notes:** 1679
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1353,6 +1362,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Opus 4.8 Live in Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
 - [[Bongdoe Post - @bongdoe]] — (@bongdoe)
 - [[Mark AI Systems for AI CoreAutoAI Blog]] — alex zhang (@a1zhang)
+- [[Motion Sites AI Prompt Library for Website Design - @oluwaphilemon1]] — FHILY (@oluwaphilemon1)
+- [[Hermes Analyst Capabilities Overview - @0xjeff]] — 0xJeff (@0xjeff)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1749,3 +1760,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[wiresandtrees Tweet]] — (@wiresandtrees)
 - [[Mazin GIF Post]] — 『-』M░a░z░i░n 『-』 (@endless_mazin)
 - [[Tweet from @_7ewd_]] — @_7ewd_
+- [[Dynamic Workflows in Claude Code - @sidbid]] — Sid (@sidbid)

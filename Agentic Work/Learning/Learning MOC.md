@@ -1056,3 +1056,12 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Flip Book Component in Framer - @mrblackstudio]] — Lee Black (@mrblackstudio)
 - [[Seamless Infinite Scroll with GSAP and Lenis - Codrops]] — Joe Ben Taylor (Codrops)
 - [[Don Molinico Red Refined Rolling Smooth]] — Lenis (@lenissmooth)
+- [[GPU Performance Summaries in 6 Minutes - @rohanpaul_ai]] — Rohan Paul (@rohanpaul_ai)
+- [[Codex Skill for Hand-Drawn Article Illustrations - @geekbb]] — Geek (@geekbb)
+- [[helloianneo-ian-xiaohei-illustrations - Hand-Drawn Illustration Codex Skill]] — helloianneo
+- [[RLM Paper and Dynamic Workflows Future - @a1zhang]] — alex zhang (@a1zhang)
+- [[Self Improving AI SIA Framework Tops MLE-Bench - @sumanth_077]] — Sumanth (@sumanth_077)
+- [[SIA Self Improving AI Framework - arxiv 2605.27276]] — arXiv
+- [[hexo-ai-sia - Self Improving AI Framework]] — hexo-ai
+- [[Understand-Anything Code to Knowledge Graph Visualizer - @chenzeze777]] — 阿泽 AZe (@chenzeze777)
+- [[Mid-Conversation System Messages - Anthropic Docs]] — Anthropic (platform.claude.com)

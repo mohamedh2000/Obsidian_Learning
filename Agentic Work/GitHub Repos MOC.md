@@ -64,6 +64,8 @@ GitHub repositories saved from iMessage.
 - [[Google Engineering Practices Documentation]] — google/eng-practices
 - [[ai-infra-curriculum/ai-infra-engineer-learning]] — ai-infra-curriculum
 - [[rjs/shaping-skills]] — rjs (Ryan Singer)
+- [[helloianneo-ian-xiaohei-illustrations - Hand-Drawn Illustration Codex Skill]] — helloianneo
+- [[hexo-ai-sia - Self Improving AI Framework]] — hexo-ai
 
 ## Recovered 2026-03-26 — 2026-04-14
 
