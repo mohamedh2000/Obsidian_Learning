@@ -1067,3 +1067,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Mid-Conversation System Messages - Anthropic Docs]] — Anthropic (platform.claude.com)
 - [[On Policy Distillation Resource Collection]] — AVB (@neural_avb)
 - [[Obsidian Productive Vault System]] — CyrilXBT (@cyrilxbt)
+- [[Midjourney SREF 2829995587 - Liquid Dreamy Visuals]] — Midjourney Sref and prompt Library (@promptsref)
