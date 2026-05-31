@@ -447,6 +447,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Seedance 2.0 + GPT Image AfterEffects Style Video Workflow]] — ヤノ(Ryuki_Yano) (@ryuki_yano)
 - [[Midjourney to GPT Image 3D Character Sheet Pipeline]] — Kōda (@aimikoda)
 - [[Seedance 2.0 Storyboard to Video Prompt]] — Kōda (@aimikoda)
+- [[Ampersand No. 8 - Rise & Fall in Spline]] — Seb Cornelius (@sebcornelius)
+- [[GPT Image 2 Brand Identity System Prompt]] — Ciri (@ciri_ai)
+- [[Design Progress Visual - @satyamvizually]] — Satyam Gopal (@satyamvizually)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -685,9 +688,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Video Camera Prompt - First Person Chase Scene]] — おのもの| YouTube x AI (user_monom)
 - [[GPT Image Cinematic Storyboard Generation Prompt]] — Kōda (@aimikoda)
 - [[naru5123 Tweet]] — (@naru5123)
+- [[AI Aerial Shots Draw Flight Path - World Landmark Mashup FPV]] — Larus Canus (@mrlarus)
 ## Stats
 
-- **Total tweets:** 1433
+- **Total tweets:** 1437
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

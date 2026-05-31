@@ -872,7 +872,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1725
+- **Total notes:** 1730
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1395,6 +1395,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[After Effects Masking Workflow - willtschafer]] — willtschafer (@willtschafer)
 - [[Instagram Reel - @nedova.m.v]] — nedova.m.v (@nedova.m.v) on Instagram
 - [[neko_visuals - After Effects Edit]] — neko_visuals (@neko_visuals)
+- [[Romantic Decay Coffee Reel - @eeveningskye]] — eeveningskye (@eeveningskye)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1807,3 +1808,7 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Brand Exploration Design - @oakline_studio]] — Oakline (@oakline_studio)
 - [[AI Video Camera Prompt - First Person Chase Scene]] — おのもの| YouTube x AI (user_monom)
 - [[naru5123 Tweet]] — (@naru5123)
+- [[AI Aerial Shots Draw Flight Path - World Landmark Mashup FPV]] — Larus Canus (@mrlarus)
+- [[Ampersand No. 8 - Rise & Fall in Spline]] — Seb Cornelius (@sebcornelius)
+- [[GPT Image 2 Brand Identity System Prompt]] — Ciri (@ciri_ai)
+- [[Design Progress Visual - @satyamvizually]] — Satyam Gopal (@satyamvizually)
