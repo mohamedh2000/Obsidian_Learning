@@ -682,6 +682,15 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Midjourney SREF 2829995587 - Liquid Dreamy Visuals]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Flash Attention 4 Beginner Guide]] — alex zhang (@a1zhang)
 - [[Prime Intellect Hosted Evaluations Launch]] — alex zhang (@a1zhang)
+- [[Design Websites Worth Bookmarking Collection]] — 𝐍𝐨𝐚𝐡 (@noahelhadedy)
+- [[Flipbook 3D Component Demo]] — Matt (@matthias_oel)
+- [[AKIBArabbit Anime Real-Life Composite MV]] — WTR (@wtry1102)
+- [[Ghostnote Live MV with AI Tools]] — Mankyu | AI動画生成 (@manaimovie)
+- [[RLM vs ReAct CodeAct Programmatic Tool Calling]] — alex zhang (@a1zhang)
+- [[Midjourney Bioluminescent Ocean Ritual Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Codex Dynamic Workflows Open Source]] — Dan McAteer (@daniel_mac8)
+- [[Seedance 2.0 Anime Transformation Sequence Prompt]] — Mr.Iancu (@iancu_ai)
+- [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -856,7 +865,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1696
+- **Total notes:** 1713
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1374,6 +1383,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[kiuzr Motion Design Reel]] — kiuzr (@kiuzr)
 - [[Filmsupply Awards 2025 Winners]] — Filmsupply (@filmsupply)
 - [[Dehancer Film Color Grading Tutorial]] — Sebastian Brochero (@brocherosebastian)
+- [[Cat and Skater Girl Anime Seedance2]] — keshi (@keshiaiart)
+- [[AI Video Keyframe Generation Question]] — Raine Kuroha (@rainekuroha)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1778,3 +1789,9 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Layout to Code with Claude AI - @berlickfold]] — Bernardo Lickfold (@berlickfold)
 - [[Glif Agent Music Video Generation - @heyglif]] — GLIF (@heyglif)
 - [[Quiet Contemplation Visual - @anzomez]] — anz (@anzomez)
+- [[Pitch Deck Visual Design Persuasion - @halodhimas]] — Dhimas Putra (@halodhimas)
+- [[InVideo Agent One Animated Short Film - @anima_labs]] — Anima (@anima_labs)
+- [[AKARI Anime Short with Seedance 2.0 - @kurohakopicture]] — kurohako pictures (@kurohakopicture)
+- [[Different With You Visual - @polygon1993]] — POLYGON1993■ (@polygon1993)
+- [[Simple Things Photography - @swarnima_otw]] — Swarnima (@swarnima_otw)
+- [[Brand Exploration Design - @oakline_studio]] — Oakline (@oakline_studio)

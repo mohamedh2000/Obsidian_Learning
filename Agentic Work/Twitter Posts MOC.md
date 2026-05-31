@@ -439,6 +439,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[mymind Brand Artifacts Week 22 - @vanschneider]] — Tobias van Schneider (@vanschneider)
 - [[Produx Design Hero Animation Evolution - @yousufsoomrodev]] — Yousuf (@yousufsoomrodev)
 - [[Seedance 2.0 Fantasy Animation Style - @artedeingenio]] — OscarAI (@artedeingenio)
+- [[Design Websites Worth Bookmarking Collection]] — 𝐍𝐨𝐚𝐡 (@noahelhadedy)
+- [[Flipbook 3D Component Demo]] — Matt (@matthias_oel)
+- [[Pitch Deck Visual Design Persuasion - @halodhimas]] — Dhimas Putra (@halodhimas)
+- [[Brand Exploration Design - @oakline_studio]] — Oakline (@oakline_studio)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -666,9 +670,17 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPU Performance Summaries in 6 Minutes - @rohanpaul_ai]] — Rohan Paul (@rohanpaul_ai)
 - [[Seedance 2.0 Dance Video Workflow - @totaku_original]] — TOTAKU™ (@totaku_original)
 - [[Midjourney SREF 2829995587 - Liquid Dreamy Visuals]] — Midjourney Sref and prompt Library (@promptsref)
+- [[AKIBArabbit Anime Real-Life Composite MV]] — WTR (@wtry1102)
+- [[Ghostnote Live MV with AI Tools]] — Mankyu | AI動画生成 (@manaimovie)
+- [[Cat and Skater Girl Anime Seedance2]] — keshi (@keshiaiart)
+- [[Midjourney Bioluminescent Ocean Ritual Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Seedance 2.0 Anime Transformation Sequence Prompt]] — Mr.Iancu (@iancu_ai)
+- [[AI Video Keyframe Generation Question]] — Raine Kuroha (@rainekuroha)
+- [[AKARI Anime Short with Seedance 2.0 - @kurohakopicture]] — kurohako pictures (@kurohakopicture)
+- [[Simple Things Photography - @swarnima_otw]] — Swarnima (@swarnima_otw)
 ## Stats
 
-- **Total tweets:** 1408
+- **Total tweets:** 1425
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1014,6 +1026,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Dynamic Workflows in Claude Code - @sidbid]] — Sid (@sidbid)
 - [[Glif Agent Music Video Generation - @heyglif]] — GLIF (@heyglif)
 - [[Prime Intellect Hosted Evaluations Launch]] — alex zhang (@a1zhang)
+- [[RLM vs ReAct CodeAct Programmatic Tool Calling]] — alex zhang (@a1zhang)
+- [[Codex Dynamic Workflows Open Source]] — Dan McAteer (@daniel_mac8)
+- [[InVideo Agent One Animated Short Film - @anima_labs]] — Anima (@anima_labs)
+- [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
 
 ## Developer Tools & Code Intelligence
 
@@ -1174,6 +1190,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Understand-Anything Code to Knowledge Graph Visualizer - @chenzeze777]] — 阿泽 AZe (@chenzeze777)
 - [[Layout to Code with Claude AI - @berlickfold]] — Bernardo Lickfold (@berlickfold)
 - [[Quiet Contemplation Visual - @anzomez]] — anz (@anzomez)
+- [[Different With You Visual - @polygon1993]] — POLYGON1993■ (@polygon1993)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
