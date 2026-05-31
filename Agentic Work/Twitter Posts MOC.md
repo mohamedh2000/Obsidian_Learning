@@ -689,9 +689,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GPT Image Cinematic Storyboard Generation Prompt]] — Kōda (@aimikoda)
 - [[naru5123 Tweet]] — (@naru5123)
 - [[AI Aerial Shots Draw Flight Path - World Landmark Mashup FPV]] — Larus Canus (@mrlarus)
+- [[Stylus Scribens Vulgaris Specimen Art - @mojapoly]] — Hitoshi Morita (@mojapoly)
 ## Stats
 
-- **Total tweets:** 1437
+- **Total tweets:** 1438
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
