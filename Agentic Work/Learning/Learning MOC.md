@@ -1081,3 +1081,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
 - [[Guizang Social Card Skill]] — op7418 (@op7418)
 - [[Design for Extensibility in AI Workflows]] — 太田賢一／Design Mgr (@kenichiota0711)
+- [[Visual Journal Weekly Design Digest]] — Aesse (@aessestudio)
+- [[Seedance 2.0 + GPT Image AfterEffects Style Video Workflow]] — ヤノ(Ryuki_Yano) (@ryuki_yano)
+- [[Midjourney to GPT Image 3D Character Sheet Pipeline]] — Kōda (@aimikoda)
+- [[GPT Image Cinematic Storyboard Generation Prompt]] — Kōda (@aimikoda)
+- [[Seedance 2.0 Storyboard to Video Prompt]] — Kōda (@aimikoda)

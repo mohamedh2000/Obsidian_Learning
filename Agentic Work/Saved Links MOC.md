@@ -693,6 +693,11 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
 - [[Guizang Social Card Skill]] — op7418 (@op7418)
 - [[Design for Extensibility in AI Workflows]] — 太田賢一／Design Mgr (@kenichiota0711)
+- [[Visual Journal Weekly Design Digest]] — Aesse (@aessestudio)
+- [[Seedance 2.0 + GPT Image AfterEffects Style Video Workflow]] — ヤノ(Ryuki_Yano) (@ryuki_yano)
+- [[Midjourney to GPT Image 3D Character Sheet Pipeline]] — Kōda (@aimikoda)
+- [[GPT Image Cinematic Storyboard Generation Prompt]] — Kōda (@aimikoda)
+- [[Seedance 2.0 Storyboard to Video Prompt]] — Kōda (@aimikoda)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -867,7 +872,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1718
+- **Total notes:** 1724
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1800,3 +1805,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Simple Things Photography - @swarnima_otw]] — Swarnima (@swarnima_otw)
 - [[Brand Exploration Design - @oakline_studio]] — Oakline (@oakline_studio)
 - [[AI Video Camera Prompt - First Person Chase Scene]] — おのもの| YouTube x AI (user_monom)
+- [[naru5123 Tweet]] — (@naru5123)
