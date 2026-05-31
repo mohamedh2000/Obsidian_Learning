@@ -1086,3 +1086,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Midjourney to GPT Image 3D Character Sheet Pipeline]] — Kōda (@aimikoda)
 - [[GPT Image Cinematic Storyboard Generation Prompt]] — Kōda (@aimikoda)
 - [[Seedance 2.0 Storyboard to Video Prompt]] — Kōda (@aimikoda)
+- [[LLMs.txt: Google Saying Two Different Things?]] — blazonstudio (@blazonstudio)
