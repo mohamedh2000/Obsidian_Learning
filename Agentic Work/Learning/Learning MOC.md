@@ -1068,3 +1068,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[On Policy Distillation Resource Collection]] — AVB (@neural_avb)
 - [[Obsidian Productive Vault System]] — CyrilXBT (@cyrilxbt)
 - [[Midjourney SREF 2829995587 - Liquid Dreamy Visuals]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Flash Attention 4 Beginner Guide]] — alex zhang (@a1zhang)
+- [[Prime Intellect Hosted Evaluations Launch]] — alex zhang (@a1zhang)

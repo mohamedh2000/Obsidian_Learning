@@ -668,7 +668,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney SREF 2829995587 - Liquid Dreamy Visuals]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 1406
+- **Total tweets:** 1408
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -720,6 +720,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3 Benefits of Writing Technical Pieces Yourself Instead of with an LLM]] — Viv (@vtrivedy10)
 - [[DeepSeek Industry Impact and MiMo]] — AVB (@neural_avb)
 - [[On Policy Distillation Resource Collection]] — AVB (@neural_avb)
+- [[Flash Attention 4 Beginner Guide]] — alex zhang (@a1zhang)
 
 ## AI Agents
 
@@ -1012,6 +1013,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hermes Analyst Capabilities Overview - @0xjeff]] — 0xJeff (@0xjeff)
 - [[Dynamic Workflows in Claude Code - @sidbid]] — Sid (@sidbid)
 - [[Glif Agent Music Video Generation - @heyglif]] — GLIF (@heyglif)
+- [[Prime Intellect Hosted Evaluations Launch]] — alex zhang (@a1zhang)
 
 ## Developer Tools & Code Intelligence
 
