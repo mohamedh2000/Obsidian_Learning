@@ -681,7 +681,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Video Camera Prompt - First Person Chase Scene]] — おのもの| YouTube x AI (user_monom)
 ## Stats
 
-- **Total tweets:** 1426
+- **Total tweets:** 1427
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1031,6 +1031,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Dynamic Workflows Open Source]] — Dan McAteer (@daniel_mac8)
 - [[InVideo Agent One Animated Short Film - @anima_labs]] — Anima (@anima_labs)
 - [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
+- [[Design for Extensibility in AI Workflows]] — 太田賢一／Design Mgr (@kenichiota0711)
 
 ## Developer Tools & Code Intelligence
 
