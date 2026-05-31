@@ -179,3 +179,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[kiuzr Motion Design Reel]] — kiuzr (@kiuzr)
 - [[Filmsupply Awards 2025 Winners]] — Filmsupply (@filmsupply)
 - [[Dehancer Film Color Grading Tutorial]] — Sebastian Brochero (@brocherosebastian)
+- [[After Effects Masking Workflow - willtschafer]] — willtschafer (@willtschafer)

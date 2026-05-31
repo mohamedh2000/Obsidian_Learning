@@ -678,9 +678,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Video Keyframe Generation Question]] — Raine Kuroha (@rainekuroha)
 - [[AKARI Anime Short with Seedance 2.0 - @kurohakopicture]] — kurohako pictures (@kurohakopicture)
 - [[Simple Things Photography - @swarnima_otw]] — Swarnima (@swarnima_otw)
+- [[AI Video Camera Prompt - First Person Chase Scene]] — おのもの| YouTube x AI (user_monom)
 ## Stats
 
-- **Total tweets:** 1425
+- **Total tweets:** 1426
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

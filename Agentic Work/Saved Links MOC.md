@@ -865,7 +865,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1713
+- **Total notes:** 1715
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1385,6 +1385,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Dehancer Film Color Grading Tutorial]] — Sebastian Brochero (@brocherosebastian)
 - [[Cat and Skater Girl Anime Seedance2]] — keshi (@keshiaiart)
 - [[AI Video Keyframe Generation Question]] — Raine Kuroha (@rainekuroha)
+- [[After Effects Masking Workflow - willtschafer]] — willtschafer (@willtschafer)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1795,3 +1796,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Different With You Visual - @polygon1993]] — POLYGON1993■ (@polygon1993)
 - [[Simple Things Photography - @swarnima_otw]] — Swarnima (@swarnima_otw)
 - [[Brand Exploration Design - @oakline_studio]] — Oakline (@oakline_studio)
+- [[AI Video Camera Prompt - First Person Chase Scene]] — おのもの| YouTube x AI (user_monom)
