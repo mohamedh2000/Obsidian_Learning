@@ -181,3 +181,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Dehancer Film Color Grading Tutorial]] — Sebastian Brochero (@brocherosebastian)
 - [[After Effects Masking Workflow - willtschafer]] — willtschafer (@willtschafer)
 - [[Instagram Reel - @nedova.m.v]] — nedova.m.v (@nedova.m.v) on Instagram
+- [[neko_visuals - After Effects Edit]] — neko_visuals (@neko_visuals)
