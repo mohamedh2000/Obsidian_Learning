@@ -1079,3 +1079,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Codex Dynamic Workflows Open Source]] — Dan McAteer (@daniel_mac8)
 - [[Seedance 2.0 Anime Transformation Sequence Prompt]] — Mr.Iancu (@iancu_ai)
 - [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
+- [[Guizang Social Card Skill]] — op7418 (@op7418)

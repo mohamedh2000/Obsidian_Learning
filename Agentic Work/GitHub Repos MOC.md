@@ -66,6 +66,7 @@ GitHub repositories saved from iMessage.
 - [[rjs/shaping-skills]] — rjs (Ryan Singer)
 - [[helloianneo-ian-xiaohei-illustrations - Hand-Drawn Illustration Codex Skill]] — helloianneo
 - [[hexo-ai-sia - Self Improving AI Framework]] — hexo-ai
+- [[Guizang Social Card Skill]] — op7418 (@op7418)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
