@@ -470,6 +470,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LeetCUDA - Open Source CUDA System Tutorial]] — Joruno (@wsl8297)
 - [[claude-obsidian - AI-Powered Knowledge Engine]] — Maliha Tasnim (@this_is_tasnim)
 - [[Obsidian Productive Vault System]] — CyrilXBT (@cyrilxbt)
+- [[Obsidian Canvases as AI Data Visualization]] — George from prodmgmt.world (@nurijanian)
 ## Uncategorized
 
 - [[AI Startup Visual Share - @ellen_in_sf]] — Visual content
@@ -691,9 +692,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Aerial Shots Draw Flight Path - World Landmark Mashup FPV]] — Larus Canus (@mrlarus)
 - [[Stylus Scribens Vulgaris Specimen Art - @mojapoly]] — Hitoshi Morita (@mojapoly)
 - [[Midjourney sref 1973657662 - Wong Kar-wai 90s Asian City Night Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Good You vs Evil You - ChatGPT Seedance]] — MD (@mdmadeit)
 ## Stats
 
-- **Total tweets:** 1441
+- **Total tweets:** 1443
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
