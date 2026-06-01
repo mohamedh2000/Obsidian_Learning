@@ -704,6 +704,14 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[agents-best-practices]] — DenisSergeevitch
 - [[Obsidian Canvases as AI Data Visualization]] — George from prodmgmt.world (@nurijanian)
 - [[Awesome Hermes Agent]] — 0xNyk (@0xNyk)
+- [[Awwwards May SOTM Voting Call]] — awwwards. (@awwwards)
+- [[Qwen 3.7 Plus Multimodal Hybrid Agent]] — thehype. (@thehypedotnews)
+- [[Claude Plus Framer Build Workflow]] — FHILY👑 (@oluwaphilemon1)
+- [[MAAP Editorial Layouts Exploration - @oliver_gareis]] — Oliver Gareis (@oliver_gareis)
+- [[Multi Agent Workflows Full Guide - @av1dlive]] — Avid (@av1dlive)
+- [[Memorar Visual Identity - @rebrandgallery]] — Rebrand (@rebrandgallery)
+- [[Charmer Studio WOTD - @cssdesignawards]] — CSS Design Awards (@cssdesignawards)
+- [[Scroll Animation by learnframer - @collectui]] — Collect UI (@collectui)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -878,7 +886,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1743
+- **Total notes:** 1757
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1409,6 +1417,12 @@ See [[Twitter Posts MOC]] for full index.
 - [[Pocket Makati Cafe - denocampo]] — denocampo (@denocampo)
 - [[Pepes Winter Chalet - pepesitalianliquor]] — pepesitalianliquor (@pepesitalianliquor)
 - [[Good You vs Evil You - ChatGPT Seedance]] — MD (@mdmadeit)
+- [[Intlab0000 Pending Tweet]] — Unknown (@intlab0000)
+- [[Let's See Where It Goes]] — Breeze (@breezechai)
+- [[Lightweight Social Media Planner Build]] — Seb Cornelius (@sebcornelius)
+- [[Sungvisuals Pending Tweet]] — Unknown (@sungvisuals)
+- [[90s Cyberpunk AI Art Animation]] — Nokosu (@nokosu_kansoku)
+- [[The Clutter Protocol]] — Sha (@its_sslvr)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

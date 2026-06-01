@@ -1092,3 +1092,11 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[agents-best-practices]] — DenisSergeevitch
 - [[Obsidian Canvases as AI Data Visualization]] — George from prodmgmt.world (@nurijanian)
 - [[Awesome Hermes Agent]] — 0xNyk (@0xNyk)
+- [[Awwwards May SOTM Voting Call]] — awwwards. (@awwwards)
+- [[Qwen 3.7 Plus Multimodal Hybrid Agent]] — thehype. (@thehypedotnews)
+- [[Claude Plus Framer Build Workflow]] — FHILY👑 (@oluwaphilemon1)
+- [[MAAP Editorial Layouts Exploration - @oliver_gareis]] — Oliver Gareis (@oliver_gareis)
+- [[Multi Agent Workflows Full Guide - @av1dlive]] — Avid (@av1dlive)
+- [[Memorar Visual Identity - @rebrandgallery]] — Rebrand (@rebrandgallery)
+- [[Charmer Studio WOTD - @cssdesignawards]] — CSS Design Awards (@cssdesignawards)
+- [[Scroll Animation by learnframer - @collectui]] — Collect UI (@collectui)

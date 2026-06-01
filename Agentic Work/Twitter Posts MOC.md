@@ -450,6 +450,14 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Ampersand No. 8 - Rise & Fall in Spline]] — Seb Cornelius (@sebcornelius)
 - [[GPT Image 2 Brand Identity System Prompt]] — Ciri (@ciri_ai)
 - [[Design Progress Visual - @satyamvizually]] — Satyam Gopal (@satyamvizually)
+- [[Awwwards May SOTM Voting Call]] — awwwards. (@awwwards)
+- [[90s Cyberpunk AI Art Animation]] — Nokosu (@nokosu_kansoku)
+- [[Claude Plus Framer Build Workflow]] — FHILY👑 (@oluwaphilemon1)
+- [[The Clutter Protocol]] — Sha (@its_sslvr)
+- [[MAAP Editorial Layouts Exploration - @oliver_gareis]] — Oliver Gareis (@oliver_gareis)
+- [[Memorar Visual Identity - @rebrandgallery]] — Rebrand (@rebrandgallery)
+- [[Charmer Studio WOTD - @cssdesignawards]] — CSS Design Awards (@cssdesignawards)
+- [[Scroll Animation by learnframer - @collectui]] — Collect UI (@collectui)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -693,9 +701,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Stylus Scribens Vulgaris Specimen Art - @mojapoly]] — Hitoshi Morita (@mojapoly)
 - [[Midjourney sref 1973657662 - Wong Kar-wai 90s Asian City Night Style]] — Midjourney Sref and prompt Library (@promptsref)
 - [[Good You vs Evil You - ChatGPT Seedance]] — MD (@mdmadeit)
+- [[Intlab0000 Pending Tweet]] — Unknown (@intlab0000)
+- [[Let's See Where It Goes]] — Breeze (@breezechai)
+- [[Sungvisuals Pending Tweet]] — Unknown (@sungvisuals)
 ## Stats
 
-- **Total tweets:** 1443
+- **Total tweets:** 1457
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1047,6 +1058,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
 - [[Design for Extensibility in AI Workflows]] — 太田賢一／Design Mgr (@kenichiota0711)
 - [[MiniMax M3 - Open-Weights Frontier Model]] — MiniMax (official) (@minimax_ai)
+- [[Qwen 3.7 Plus Multimodal Hybrid Agent]] — thehype. (@thehypedotnews)
+- [[Multi Agent Workflows Full Guide - @av1dlive]] — Avid (@av1dlive)
 
 ## Developer Tools & Code Intelligence
 
@@ -1209,6 +1222,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Quiet Contemplation Visual - @anzomez]] — anz (@anzomez)
 - [[Different With You Visual - @polygon1993]] — POLYGON1993■ (@polygon1993)
 - [[SPECIMEN Archive of Unknown Species by Hitoshi Morita]] — Hitoshi Morita (@mojapoly)
+- [[Lightweight Social Media Planner Build]] — Seb Cornelius (@sebcornelius)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
