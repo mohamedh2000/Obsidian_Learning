@@ -1091,3 +1091,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[MiniMax M3 - Open-Weights Frontier Model]] — MiniMax (official) (@minimax_ai)
 - [[agents-best-practices]] — DenisSergeevitch
 - [[Obsidian Canvases as AI Data Visualization]] — George from prodmgmt.world (@nurijanian)
+- [[Awesome Hermes Agent]] — 0xNyk (@0xNyk)

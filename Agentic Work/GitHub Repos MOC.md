@@ -68,6 +68,7 @@ GitHub repositories saved from iMessage.
 - [[hexo-ai-sia - Self Improving AI Framework]] — hexo-ai
 - [[Guizang Social Card Skill]] — op7418 (@op7418)
 - [[agents-best-practices]] — DenisSergeevitch
+- [[Awesome Hermes Agent]] — 0xNyk (@0xNyk)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
