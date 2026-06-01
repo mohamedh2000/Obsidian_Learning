@@ -699,6 +699,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GPT Image Cinematic Storyboard Generation Prompt]] — Kōda (@aimikoda)
 - [[Seedance 2.0 Storyboard to Video Prompt]] — Kōda (@aimikoda)
 - [[LLMs.txt: Google Saying Two Different Things?]] — blazonstudio (@blazonstudio)
+- [[Midjourney sref 1973657662 - Wong Kar-wai 90s Asian City Night Style]] — Midjourney Sref and prompt Library (@promptsref)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -873,7 +874,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1732
+- **Total notes:** 1735
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1398,6 +1399,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[neko_visuals - After Effects Edit]] — neko_visuals (@neko_visuals)
 - [[Romantic Decay Coffee Reel - @eeveningskye]] — eeveningskye (@eeveningskye)
 - [[Stylus Scribens Vulgaris Specimen Art - @mojapoly]] — Hitoshi Morita (@mojapoly)
+- [[ElevenLabs Flows Node-Based Audio Tool]] — renthedirector (@renthedirector)
+- [[SPECIMEN Archive of Unknown Species by Hitoshi Morita]] — Hitoshi Morita (@mojapoly)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

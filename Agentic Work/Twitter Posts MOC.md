@@ -690,9 +690,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[naru5123 Tweet]] — (@naru5123)
 - [[AI Aerial Shots Draw Flight Path - World Landmark Mashup FPV]] — Larus Canus (@mrlarus)
 - [[Stylus Scribens Vulgaris Specimen Art - @mojapoly]] — Hitoshi Morita (@mojapoly)
+- [[Midjourney sref 1973657662 - Wong Kar-wai 90s Asian City Night Style]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 1438
+- **Total tweets:** 1440
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1204,6 +1205,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Layout to Code with Claude AI - @berlickfold]] — Bernardo Lickfold (@berlickfold)
 - [[Quiet Contemplation Visual - @anzomez]] — anz (@anzomez)
 - [[Different With You Visual - @polygon1993]] — POLYGON1993■ (@polygon1993)
+- [[SPECIMEN Archive of Unknown Species by Hitoshi Morita]] — Hitoshi Morita (@mojapoly)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
