@@ -1100,3 +1100,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Memorar Visual Identity - @rebrandgallery]] — Rebrand (@rebrandgallery)
 - [[Charmer Studio WOTD - @cssdesignawards]] — CSS Design Awards (@cssdesignawards)
 - [[Scroll Animation by learnframer - @collectui]] — Collect UI (@collectui)
+- [[Hermes Agent Skills Hub - Working with Skills]] — Nous Research
