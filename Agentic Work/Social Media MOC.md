@@ -184,3 +184,6 @@ Instagram reels and other social media content saved from iMessage.
 - [[neko_visuals - After Effects Edit]] — neko_visuals (@neko_visuals)
 - [[Romantic Decay Coffee Reel - @eeveningskye]] — eeveningskye (@eeveningskye)
 - [[ElevenLabs Flows Node-Based Audio Tool]] — renthedirector (@renthedirector)
+- [[Tokyo Photo Montage - spiritshooter.jp]] — spiritshooter.jp (@spiritshooter.jp)
+- [[Pocket Makati Cafe - denocampo]] — denocampo (@denocampo)
+- [[Pepes Winter Chalet - pepesitalianliquor]] — pepesitalianliquor (@pepesitalianliquor)
