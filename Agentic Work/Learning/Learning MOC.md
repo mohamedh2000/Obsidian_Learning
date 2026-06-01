@@ -1088,3 +1088,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Seedance 2.0 Storyboard to Video Prompt]] — Kōda (@aimikoda)
 - [[LLMs.txt: Google Saying Two Different Things?]] — blazonstudio (@blazonstudio)
 - [[Midjourney sref 1973657662 - Wong Kar-wai 90s Asian City Night Style]] — Midjourney Sref and prompt Library (@promptsref)
+- [[MiniMax M3 - Open-Weights Frontier Model]] — MiniMax (official) (@minimax_ai)

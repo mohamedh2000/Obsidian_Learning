@@ -693,7 +693,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Midjourney sref 1973657662 - Wong Kar-wai 90s Asian City Night Style]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 1440
+- **Total tweets:** 1441
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1044,6 +1044,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[InVideo Agent One Animated Short Film - @anima_labs]] — Anima (@anima_labs)
 - [[Ora Agent Readiness Report - @assaf_elovic]] — Assaf Elovic (@assaf_elovic)
 - [[Design for Extensibility in AI Workflows]] — 太田賢一／Design Mgr (@kenichiota0711)
+- [[MiniMax M3 - Open-Weights Frontier Model]] — MiniMax (official) (@minimax_ai)
 
 ## Developer Tools & Code Intelligence
 
