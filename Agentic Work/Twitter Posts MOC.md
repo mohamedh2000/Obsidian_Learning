@@ -458,6 +458,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Memorar Visual Identity - @rebrandgallery]] — Rebrand (@rebrandgallery)
 - [[Charmer Studio WOTD - @cssdesignawards]] — CSS Design Awards (@cssdesignawards)
 - [[Scroll Animation by learnframer - @collectui]] — Collect UI (@collectui)
+- [[Textarea Field-Sizing CSS Tip - @gabriell_lab]] — Gabriel (@gabriell_lab)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -704,9 +705,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Intlab0000 Pending Tweet]] — Unknown (@intlab0000)
 - [[Let's See Where It Goes]] — Breeze (@breezechai)
 - [[Sungvisuals Pending Tweet]] — Unknown (@sungvisuals)
+- [[Rhythm Game Full Combo Achievement - @studio_U_A]] — UA Studio (@studio_U_A)
 ## Stats
 
-- **Total tweets:** 1457
+- **Total tweets:** 1463
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1060,6 +1062,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[MiniMax M3 - Open-Weights Frontier Model]] — MiniMax (official) (@minimax_ai)
 - [[Qwen 3.7 Plus Multimodal Hybrid Agent]] — thehype. (@thehypedotnews)
 - [[Multi Agent Workflows Full Guide - @av1dlive]] — Avid (@av1dlive)
+- [[Claude Workflows and Self-Prompting Systems - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
+- [[Self-Evolving Agent Skills with SkillOpt - @hooeem]] — hoeem (@hooeem)
+- [[Blossom Carousel Docs and Agent Skills - @jesper_vos]] — Jesper Vos (@jesper_vos)
 
 ## Developer Tools & Code Intelligence
 
@@ -1223,6 +1228,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Different With You Visual - @polygon1993]] — POLYGON1993■ (@polygon1993)
 - [[SPECIMEN Archive of Unknown Species by Hitoshi Morita]] — Hitoshi Morita (@mojapoly)
 - [[Lightweight Social Media Planner Build]] — Seb Cornelius (@sebcornelius)
+- [[Supaste Clipboard Manager - @soltwagner]] — Solt Wagner (@soltwagner)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -1101,3 +1101,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Charmer Studio WOTD - @cssdesignawards]] — CSS Design Awards (@cssdesignawards)
 - [[Scroll Animation by learnframer - @collectui]] — Collect UI (@collectui)
 - [[Hermes Agent Skills Hub - Working with Skills]] — Nous Research
+- [[Claude Workflows and Self-Prompting Systems - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
+- [[Self-Evolving Agent Skills with SkillOpt - @hooeem]] — hoeem (@hooeem)
+- [[Blossom Carousel Docs and Agent Skills - @jesper_vos]] — Jesper Vos (@jesper_vos)
+- [[Textarea Field-Sizing CSS Tip - @gabriell_lab]] — Gabriel (@gabriell_lab)
