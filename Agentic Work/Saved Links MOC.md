@@ -718,6 +718,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Blossom Carousel Docs and Agent Skills - @jesper_vos]] — Jesper Vos (@jesper_vos)
 - [[Textarea Field-Sizing CSS Tip - @gabriell_lab]] — Gabriel (@gabriell_lab)
 - [[Claude Design Experiments May Recap - @yanliudesign]] — Yan Liu (@yanliudesign)
+- [[Perplexity Sandbox - Code Execution for AI Agents]] — Perplexity AI
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -892,7 +893,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1766
+- **Total notes:** 1768
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1432,6 +1433,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Rhythm Game Full Combo Achievement - @studio_U_A]] — UA Studio (@studio_U_A)
 - [[Supaste Clipboard Manager - @soltwagner]] — Solt Wagner (@soltwagner)
 - [[Opus 4.8 Higgsfield MCP Meta Ads - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
+- [[Supaste - macOS Clipboard Manager]] — Solt Wagner (@soltwagner)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

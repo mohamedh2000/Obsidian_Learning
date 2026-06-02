@@ -709,7 +709,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Rhythm Game Full Combo Achievement - @studio_U_A]] — UA Studio (@studio_U_A)
 ## Stats
 
-- **Total tweets:** 1465
+- **Total tweets:** 1466
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1231,6 +1231,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Lightweight Social Media Planner Build]] — Seb Cornelius (@sebcornelius)
 - [[Supaste Clipboard Manager - @soltwagner]] — Solt Wagner (@soltwagner)
 - [[Opus 4.8 Higgsfield MCP Meta Ads - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
+- [[Supaste - macOS Clipboard Manager]] — Solt Wagner (@soltwagner)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -1106,3 +1106,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Blossom Carousel Docs and Agent Skills - @jesper_vos]] — Jesper Vos (@jesper_vos)
 - [[Textarea Field-Sizing CSS Tip - @gabriell_lab]] — Gabriel (@gabriell_lab)
 - [[Claude Design Experiments May Recap - @yanliudesign]] — Yan Liu (@yanliudesign)
+- [[Perplexity Sandbox - Code Execution for AI Agents]] — Perplexity AI
