@@ -1107,3 +1107,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Textarea Field-Sizing CSS Tip - @gabriell_lab]] — Gabriel (@gabriell_lab)
 - [[Claude Design Experiments May Recap - @yanliudesign]] — Yan Liu (@yanliudesign)
 - [[Perplexity Sandbox - Code Execution for AI Agents]] — Perplexity AI
+- [[Kimi K2 - Open Source Agent Swarm Model]] — Moonshot AI (kimi.com)
+- [[Dynamic Workflows in Claude Code - @trq212]] — Thariq (@trq212)
