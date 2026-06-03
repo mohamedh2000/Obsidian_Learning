@@ -460,6 +460,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Scroll Animation by learnframer - @collectui]] — Collect UI (@collectui)
 - [[Textarea Field-Sizing CSS Tip - @gabriell_lab]] — Gabriel (@gabriell_lab)
 - [[Claude Design Experiments May Recap - @yanliudesign]] — Yan Liu (@yanliudesign)
+- [[Design Exploration Joy - Diverse Projects]] — Swarnima (@swarnima_otw)
+- [[3D Card Carousel with Wave Physics and Thin-Film Shading]] — ColtonTollett (@colton__tollett)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -708,9 +710,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Sungvisuals Pending Tweet]] — Unknown (@sungvisuals)
 - [[Rhythm Game Full Combo Achievement - @studio_U_A]] — UA Studio (@studio_U_A)
 - [[Matt Van Horn Media Post - @mvanhorn]] — Matt Van Horn (@mvanhorn)
+- [[Getting Things Ready for Tomorrow - Breeze Teaser]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1471
+- **Total tweets:** 1477
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1237,6 +1240,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Opus 4.8 Higgsfield MCP Meta Ads - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[Supaste - macOS Clipboard Manager]] — Solt Wagner (@soltwagner)
 - [[Claude Code Self-Verification Feedback Loop - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[Claude Design Tutorial - Build Webs with Opus 4.7]] — matt (@mattknowsai)
+- [[Kombai 2.0 - First AI Design Engineer]] — Dipanjan Dey (@Dipanjan_Dey)
+- [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

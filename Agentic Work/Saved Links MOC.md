@@ -722,6 +722,15 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Kimi K2 - Open Source Agent Swarm Model]] — Moonshot AI (kimi.com)
 - [[Dynamic Workflows in Claude Code - @trq212]] — Thariq (@trq212)
 - [[Claude Code Harness Engineering Masterclass]] — AVB (@neural_avb)
+- [[Claude Design Tutorial - Build Webs with Opus 4.7]] — matt (@mattknowsai)
+- [[Kombai 2.0 - First AI Design Engineer]] — Dipanjan Dey (@Dipanjan_Dey)
+- [[Design Exploration Joy - Diverse Projects]] — Swarnima (@swarnima_otw)
+- [[DNA Motion Typography Timeline Preview]] — kiuzr
+- [[Bangkok Street Photography Reel]] — doingfine.x
+- [[Negative Space Blender Animation]] — aus.tonic
+- [[Mixed Media AI Tool - Higgsfield Demo]] — johnbucog
+- [[3D Card Carousel with Wave Physics and Thin-Film Shading]] — ColtonTollett (@colton__tollett)
+- [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -896,7 +905,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1775
+- **Total notes:** 1787
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1441,6 +1450,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Matt Van Horn Media Post - @mvanhorn]] — Matt Van Horn (@mvanhorn)
 - [[Claude Code Self-Verification Feedback Loop - @claudedevs]] — ClaudeDevs (@claudedevs)
 - [[Alex Zhang Post - @a1zhang]] — Alex Zhang (@a1zhang)
+- [[Frenchie Melbourne - $14 New Dishes Launch]] — frenchie.melb
+- [[Kru Coffee Aesthetic Reel]] — krucoffee
+- [[Getting Things Ready for Tomorrow - Breeze Teaser]] — Breeze (@breezechai)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

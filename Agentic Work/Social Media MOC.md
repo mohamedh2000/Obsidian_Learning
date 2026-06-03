@@ -187,3 +187,9 @@ Instagram reels and other social media content saved from iMessage.
 - [[Tokyo Photo Montage - spiritshooter.jp]] — spiritshooter.jp (@spiritshooter.jp)
 - [[Pocket Makati Cafe - denocampo]] — denocampo (@denocampo)
 - [[Pepes Winter Chalet - pepesitalianliquor]] — pepesitalianliquor (@pepesitalianliquor)
+- [[Frenchie Melbourne - $14 New Dishes Launch]] — frenchie.melb
+- [[DNA Motion Typography Timeline Preview]] — kiuzr
+- [[Bangkok Street Photography Reel]] — doingfine.x
+- [[Kru Coffee Aesthetic Reel]] — krucoffee
+- [[Negative Space Blender Animation]] — aus.tonic
+- [[Mixed Media AI Tool - Higgsfield Demo]] — johnbucog

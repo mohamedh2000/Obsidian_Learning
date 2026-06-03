@@ -1110,3 +1110,12 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Kimi K2 - Open Source Agent Swarm Model]] — Moonshot AI (kimi.com)
 - [[Dynamic Workflows in Claude Code - @trq212]] — Thariq (@trq212)
 - [[Claude Code Harness Engineering Masterclass]] — AVB (@neural_avb)
+- [[Claude Design Tutorial - Build Webs with Opus 4.7]] — matt (@mattknowsai)
+- [[Kombai 2.0 - First AI Design Engineer]] — Dipanjan Dey (@Dipanjan_Dey)
+- [[Design Exploration Joy - Diverse Projects]] — Swarnima (@swarnima_otw)
+- [[DNA Motion Typography Timeline Preview]] — kiuzr
+- [[Bangkok Street Photography Reel]] — doingfine.x
+- [[Negative Space Blender Animation]] — aus.tonic
+- [[Mixed Media AI Tool - Higgsfield Demo]] — johnbucog
+- [[3D Card Carousel with Wave Physics and Thin-Film Shading]] — ColtonTollett (@colton__tollett)
+- [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
