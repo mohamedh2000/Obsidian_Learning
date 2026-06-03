@@ -715,9 +715,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Getting Things Ready for Tomorrow - Breeze Teaser]] — Breeze (@breezechai)
 - [[Breeze - Moon Cleaning Art]] — Breeze (@breezechai)
 - [[Elfilter - Collapsed Perspective]] — Elfilter (@elfilter_a)
+- [[Ideogram v4 Open Weights Release - State of the Art Image Model]] — Hugging Face (@huggingface)
+- [[The HTML Brand: The Rise of Input-Based Outcomes]] — Emmett Shine (@emmettshine)
 ## Stats
 
-- **Total tweets:** 1481
+- **Total tweets:** 1483
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

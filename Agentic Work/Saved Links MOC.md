@@ -906,7 +906,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1792
+- **Total notes:** 1795
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1458,6 +1458,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[hedoήist - First Animated Short with Grok]] — hedoήist (@hedo_ist)
 - [[Elfilter - Collapsed Perspective]] — Elfilter (@elfilter_a)
 - [[Limy AI Search Optimization]] — Limy.ai
+- [[Searchable - AI Search Visibility & Analytics Platform]] — Searchable Limited
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1874,3 +1875,5 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Ampersand No. 8 - Rise & Fall in Spline]] — Seb Cornelius (@sebcornelius)
 - [[GPT Image 2 Brand Identity System Prompt]] — Ciri (@ciri_ai)
 - [[Design Progress Visual - @satyamvizually]] — Satyam Gopal (@satyamvizually)
+- [[Ideogram v4 Open Weights Release - State of the Art Image Model]] — Hugging Face (@huggingface)
+- [[The HTML Brand: The Rise of Input-Based Outcomes]] — Emmett Shine (@emmettshine)
