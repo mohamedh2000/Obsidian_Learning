@@ -1109,3 +1109,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Perplexity Sandbox - Code Execution for AI Agents]] — Perplexity AI
 - [[Kimi K2 - Open Source Agent Swarm Model]] — Moonshot AI (kimi.com)
 - [[Dynamic Workflows in Claude Code - @trq212]] — Thariq (@trq212)
+- [[Claude Code Harness Engineering Masterclass]] — AVB (@neural_avb)
