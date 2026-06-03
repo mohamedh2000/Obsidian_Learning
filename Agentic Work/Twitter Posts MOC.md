@@ -707,9 +707,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Let's See Where It Goes]] — Breeze (@breezechai)
 - [[Sungvisuals Pending Tweet]] — Unknown (@sungvisuals)
 - [[Rhythm Game Full Combo Achievement - @studio_U_A]] — UA Studio (@studio_U_A)
+- [[Matt Van Horn Media Post - @mvanhorn]] — Matt Van Horn (@mvanhorn)
 ## Stats
 
-- **Total tweets:** 1468
+- **Total tweets:** 1471
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -762,6 +763,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DeepSeek Industry Impact and MiMo]] — AVB (@neural_avb)
 - [[On Policy Distillation Resource Collection]] — AVB (@neural_avb)
 - [[Flash Attention 4 Beginner Guide]] — alex zhang (@a1zhang)
+- [[Alex Zhang Post - @a1zhang]] — Alex Zhang (@a1zhang)
 
 ## AI Agents
 
@@ -1234,6 +1236,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Supaste Clipboard Manager - @soltwagner]] — Solt Wagner (@soltwagner)
 - [[Opus 4.8 Higgsfield MCP Meta Ads - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[Supaste - macOS Clipboard Manager]] — Solt Wagner (@soltwagner)
+- [[Claude Code Self-Verification Feedback Loop - @claudedevs]] — ClaudeDevs (@claudedevs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

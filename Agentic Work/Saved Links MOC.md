@@ -896,7 +896,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1772
+- **Total notes:** 1775
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1438,6 +1438,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Opus 4.8 Higgsfield MCP Meta Ads - @roundtablespace]] — 0xMarioNawfal (@roundtablespace)
 - [[Supaste - macOS Clipboard Manager]] — Solt Wagner (@soltwagner)
 - [[Agency Positioning Strategy Refinement - Grok Share]] — Grok Conversation
+- [[Matt Van Horn Media Post - @mvanhorn]] — Matt Van Horn (@mvanhorn)
+- [[Claude Code Self-Verification Feedback Loop - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[Alex Zhang Post - @a1zhang]] — Alex Zhang (@a1zhang)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
