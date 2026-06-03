@@ -1120,3 +1120,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[3D Card Carousel with Wave Physics and Thin-Film Shading]] — ColtonTollett (@colton__tollett)
 - [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
 - [[Casa Esquina Visual Identity by PARCHE]] — Rebrand (@rebrandgallery)
+- [[Lighthouse AI Agent Audit]] — Chrome for Developers (@chromiumdev)

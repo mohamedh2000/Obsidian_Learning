@@ -719,7 +719,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The HTML Brand: The Rise of Input-Based Outcomes]] — Emmett Shine (@emmettshine)
 ## Stats
 
-- **Total tweets:** 1483
+- **Total tweets:** 1484
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1079,6 +1079,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Blossom Carousel Docs and Agent Skills - @jesper_vos]] — Jesper Vos (@jesper_vos)
 - [[Dynamic Workflows in Claude Code - @trq212]] — Thariq (@trq212)
 - [[Claude Code Harness Engineering Masterclass]] — AVB (@neural_avb)
+- [[Lighthouse AI Agent Audit]] — Chrome for Developers (@chromiumdev)
 
 ## Developer Tools & Code Intelligence
 
