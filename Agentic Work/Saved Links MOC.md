@@ -731,6 +731,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Mixed Media AI Tool - Higgsfield Demo]] — johnbucog
 - [[3D Card Carousel with Wave Physics and Thin-Film Shading]] — ColtonTollett (@colton__tollett)
 - [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
+- [[Casa Esquina Visual Identity by PARCHE]] — Rebrand (@rebrandgallery)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -905,7 +906,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1787
+- **Total notes:** 1791
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1453,6 +1454,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Frenchie Melbourne - $14 New Dishes Launch]] — frenchie.melb
 - [[Kru Coffee Aesthetic Reel]] — krucoffee
 - [[Getting Things Ready for Tomorrow - Breeze Teaser]] — Breeze (@breezechai)
+- [[Breeze - Moon Cleaning Art]] — Breeze (@breezechai)
+- [[hedoήist - First Animated Short with Grok]] — hedoήist (@hedo_ist)
+- [[Elfilter - Collapsed Perspective]] — Elfilter (@elfilter_a)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

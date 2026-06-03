@@ -1119,3 +1119,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Mixed Media AI Tool - Higgsfield Demo]] — johnbucog
 - [[3D Card Carousel with Wave Physics and Thin-Film Shading]] — ColtonTollett (@colton__tollett)
 - [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
+- [[Casa Esquina Visual Identity by PARCHE]] — Rebrand (@rebrandgallery)
