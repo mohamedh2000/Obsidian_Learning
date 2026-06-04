@@ -907,7 +907,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1796
+- **Total notes:** 1801
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1878,3 +1878,8 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Design Progress Visual - @satyamvizually]] — Satyam Gopal (@satyamvizually)
 - [[Ideogram v4 Open Weights Release - State of the Art Image Model]] — Hugging Face (@huggingface)
 - [[The HTML Brand: The Rise of Input-Based Outcomes]] — Emmett Shine (@emmettshine)
+- [[Design Engineer Tools Collection]] — Dhruv (@dhruvtwt_)
+- [[Componine Website Launch Preview]] — Dhimas Putra (@halodhimas)
+- [[Anime Ink Effects Asset Pack 200 Pieces]] — NopiA (@__nopia)
+- [[Midjourney to Seedance 2.0 Video Workflow]] — Allar Haltsonen (@allarhaltsonen)
+- [[Oberon Framer Template Preview]] — Timofey Bak (@_mayweather)

@@ -464,6 +464,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3D Card Carousel with Wave Physics and Thin-Film Shading]] — ColtonTollett (@colton__tollett)
 - [[hedoήist - First Animated Short with Grok]] — hedoήist (@hedo_ist)
 - [[Casa Esquina Visual Identity by PARCHE]] — Rebrand (@rebrandgallery)
+- [[Componine Website Launch Preview]] — Dhimas Putra (@halodhimas)
+- [[Anime Ink Effects Asset Pack 200 Pieces]] — NopiA (@__nopia)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -717,9 +719,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Elfilter - Collapsed Perspective]] — Elfilter (@elfilter_a)
 - [[Ideogram v4 Open Weights Release - State of the Art Image Model]] — Hugging Face (@huggingface)
 - [[The HTML Brand: The Rise of Input-Based Outcomes]] — Emmett Shine (@emmettshine)
+- [[Midjourney to Seedance 2.0 Video Workflow]] — Allar Haltsonen (@allarhaltsonen)
 ## Stats
 
-- **Total tweets:** 1484
+- **Total tweets:** 1489
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1250,6 +1253,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Design Tutorial - Build Webs with Opus 4.7]] — matt (@mattknowsai)
 - [[Kombai 2.0 - First AI Design Engineer]] — Dipanjan Dey (@Dipanjan_Dey)
 - [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
+- [[Design Engineer Tools Collection]] — Dhruv (@dhruvtwt_)
+- [[Oberon Framer Template Preview]] — Timofey Bak (@_mayweather)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
