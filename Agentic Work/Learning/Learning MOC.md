@@ -1131,3 +1131,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Smooth Collaboration at 16px]] — Ayan Ahmed (@ayan_052)
 - [[Lessons from Building Claude Code - How Anthropic Uses Skills]] — Thariq Shihipar (Anthropic)
 - [[alexknowshtml/claude-skills - /teach]] — alexknowshtml
+- [[Dynamic Workflows and On-The-Fly Harness Generation]] — elvis (@omarsar0)

@@ -733,7 +733,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[iino_design Tweet]] — iino_design (@iino_design)
 ## Stats
 
-- **Total tweets:** 1500
+- **Total tweets:** 1501
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1094,6 +1094,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Dynamic Workflows in Claude Code - @trq212]] — Thariq (@trq212)
 - [[Claude Code Harness Engineering Masterclass]] — AVB (@neural_avb)
 - [[Lighthouse AI Agent Audit]] — Chrome for Developers (@chromiumdev)
+- [[Dynamic Workflows and On-The-Fly Harness Generation]] — elvis (@omarsar0)
 
 ## Developer Tools & Code Intelligence
 
