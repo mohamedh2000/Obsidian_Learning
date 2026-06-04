@@ -69,6 +69,7 @@ GitHub repositories saved from iMessage.
 - [[Guizang Social Card Skill]] — op7418 (@op7418)
 - [[agents-best-practices]] — DenisSergeevitch
 - [[Awesome Hermes Agent]] — 0xNyk (@0xNyk)
+- [[alexknowshtml/claude-skills - /teach]] — alexknowshtml
 
 ## Recovered 2026-03-26 — 2026-04-14
 
