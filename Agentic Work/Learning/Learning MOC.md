@@ -1132,3 +1132,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Lessons from Building Claude Code - How Anthropic Uses Skills]] — Thariq Shihipar (Anthropic)
 - [[alexknowshtml/claude-skills - /teach]] — alexknowshtml
 - [[Dynamic Workflows and On-The-Fly Harness Generation]] — elvis (@omarsar0)
+- [[ElevenLabs Hermes Agent Voice Calling]] — ElevenLabs Developers (@elevenlabsdevs)
+- [[AI Agent Phone Number - 4 Lines Python]] — francesco rosciano (@frank__rosh)
+- [[AI Agent Swarms Complete Guide - Kimi K2.6]] — Avid (@Av1dlive)
+- [[Crystal Typography CGI Prompt - Luxury Brand]] — AmirMušić (@amirmushich)

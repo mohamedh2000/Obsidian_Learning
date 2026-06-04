@@ -474,6 +474,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Rive Interactive Shader Embedding]] — Bartek Radziejewski (@radbar_1)
 - [[Smooth Collaboration at 16px]] — Ayan Ahmed (@ayan_052)
 - [[Drice - Norma Site Rebuild]] — Drice (@driceroland)
+- [[Crystal Typography CGI Prompt - Luxury Brand]] — AmirMušić (@amirmushich)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -734,7 +735,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Unavailable Tweet]] — Unknown (@vtrivedy10)
 ## Stats
 
-- **Total tweets:** 1502
+- **Total tweets:** 1506
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1096,6 +1097,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Harness Engineering Masterclass]] — AVB (@neural_avb)
 - [[Lighthouse AI Agent Audit]] — Chrome for Developers (@chromiumdev)
 - [[Dynamic Workflows and On-The-Fly Harness Generation]] — elvis (@omarsar0)
+- [[ElevenLabs Hermes Agent Voice Calling]] — ElevenLabs Developers (@elevenlabsdevs)
+- [[AI Agent Phone Number - 4 Lines Python]] — francesco rosciano (@frank__rosh)
+- [[AI Agent Swarms Complete Guide - Kimi K2.6]] — Avid (@Av1dlive)
 
 ## Developer Tools & Code Intelligence
 
