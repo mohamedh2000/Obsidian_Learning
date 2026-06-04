@@ -733,6 +733,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
 - [[Casa Esquina Visual Identity by PARCHE]] — Rebrand (@rebrandgallery)
 - [[Lighthouse AI Agent Audit]] — Chrome for Developers (@chromiumdev)
+- [[Emigré Magazine Internet Archive]] — ໊ (@4llmy1uv__)
+- [[Ray's by Base Brand Identity]] — Brand Archive (@brandarchivexyz)
+- [[16px Studio Collaboration]] — 16px (@16pxstudio)
+- [[Launch Videos Best Practices]] — Mark Vassilevskiy (@markknd)
+- [[Refern Workspace Selector UI]] — refern. (@refernapp)
+- [[iii Website Button Design]] — iii (@iiidevs)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -907,7 +913,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1801
+- **Total notes:** 1808
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1883,3 +1889,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Anime Ink Effects Asset Pack 200 Pieces]] — NopiA (@__nopia)
 - [[Midjourney to Seedance 2.0 Video Workflow]] — Allar Haltsonen (@allarhaltsonen)
 - [[Oberon Framer Template Preview]] — Timofey Bak (@_mayweather)
+- [[GTA Cheat Code of Today]] — Rahul Chakraborty (@hckmstrrahul)

@@ -466,6 +466,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Casa Esquina Visual Identity by PARCHE]] — Rebrand (@rebrandgallery)
 - [[Componine Website Launch Preview]] — Dhimas Putra (@halodhimas)
 - [[Anime Ink Effects Asset Pack 200 Pieces]] — NopiA (@__nopia)
+- [[Emigré Magazine Internet Archive]] — ໊ (@4llmy1uv__)
+- [[16px Studio Collaboration]] — 16px (@16pxstudio)
+- [[Launch Videos Best Practices]] — Mark Vassilevskiy (@markknd)
+- [[Refern Workspace Selector UI]] — refern. (@refernapp)
+- [[iii Website Button Design]] — iii (@iiidevs)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -720,9 +725,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Ideogram v4 Open Weights Release - State of the Art Image Model]] — Hugging Face (@huggingface)
 - [[The HTML Brand: The Rise of Input-Based Outcomes]] — Emmett Shine (@emmettshine)
 - [[Midjourney to Seedance 2.0 Video Workflow]] — Allar Haltsonen (@allarhaltsonen)
+- [[GTA Cheat Code of Today]] — Rahul Chakraborty (@hckmstrrahul)
+- [[Ray's by Base Brand Identity]] — Brand Archive (@brandarchivexyz)
 ## Stats
 
-- **Total tweets:** 1489
+- **Total tweets:** 1496
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
