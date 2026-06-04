@@ -1127,3 +1127,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Launch Videos Best Practices]] — Mark Vassilevskiy (@markknd)
 - [[Refern Workspace Selector UI]] — refern. (@refernapp)
 - [[iii Website Button Design]] — iii (@iiidevs)
+- [[Rive Interactive Shader Embedding]] — Bartek Radziejewski (@radbar_1)
+- [[Smooth Collaboration at 16px]] — Ayan Ahmed (@ayan_052)
