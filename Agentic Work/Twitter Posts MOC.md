@@ -735,7 +735,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Unavailable Tweet]] — Unknown (@vtrivedy10)
 ## Stats
 
-- **Total tweets:** 1506
+- **Total tweets:** 1509
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1100,6 +1100,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[ElevenLabs Hermes Agent Voice Calling]] — ElevenLabs Developers (@elevenlabsdevs)
 - [[AI Agent Phone Number - 4 Lines Python]] — francesco rosciano (@frank__rosh)
 - [[AI Agent Swarms Complete Guide - Kimi K2.6]] — Avid (@Av1dlive)
+- [[Google AI Gemini Omni Video Prompting Guide]] — Google AI (@GoogleAI)
 
 ## Developer Tools & Code Intelligence
 
@@ -1272,6 +1273,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Transitions.dev - 6 New CSS/React Transitions with Claude Skill]] — Jakub Antalik (@jakubantalik)
 - [[Design Engineer Tools Collection]] — Dhruv (@dhruvtwt_)
 - [[Oberon Framer Template Preview]] — Timofey Bak (@_mayweather)
+- [[Higgsfield MCP Motion Web Apps]] — Higgsfield AI 🧩 (@higgsfield_ai)
+- [[Lenis Podium Scroll Animation]] — Lenis (@lenissmooth)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
