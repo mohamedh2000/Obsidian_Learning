@@ -1129,3 +1129,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[iii Website Button Design]] — iii (@iiidevs)
 - [[Rive Interactive Shader Embedding]] — Bartek Radziejewski (@radbar_1)
 - [[Smooth Collaboration at 16px]] — Ayan Ahmed (@ayan_052)
+- [[Lessons from Building Claude Code - How Anthropic Uses Skills]] — Thariq Shihipar (Anthropic)

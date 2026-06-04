@@ -473,6 +473,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[iii Website Button Design]] — iii (@iiidevs)
 - [[Rive Interactive Shader Embedding]] — Bartek Radziejewski (@radbar_1)
 - [[Smooth Collaboration at 16px]] — Ayan Ahmed (@ayan_052)
+- [[Drice - Norma Site Rebuild]] — Drice (@driceroland)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -732,7 +733,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[iino_design Tweet]] — iino_design (@iino_design)
 ## Stats
 
-- **Total tweets:** 1499
+- **Total tweets:** 1500
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
