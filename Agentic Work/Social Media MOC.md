@@ -196,3 +196,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Pitch Studio - Director's Treatment Tool]] — ATP Pitch Studio (@atpitchstudio)
 - [[Maven Melbourne Private]] — mavenmelbourne
 - [[Denocampo Mugen Ramen Review]] — denocampo
+- [[Dither / Halftone Effects in After Effects]] — jestinwrks (@jestinwrks)
+- [[My Life in Visuals]] — lokinel_ (@lokinel_)
