@@ -752,6 +752,11 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[AI Engineer Skills - Harness & Context Engineering]] — Rohit Ghumare (@ghumare64)
 - [[AI Engineering from Scratch - Open Source Curriculum]] — Rohit Ghumare
 - [[LangSmith Fleet Shared Skills]] — LangChain (@langchain)
+- [[Codex Skill for SaaS Sales Post Generation]] — Kappaemme (@kappaemme1926)
+- [[Inference Engines Guide for Running LLMs Locally]] — Ahmad (@theahmadosman)
+- [[Economy of Minds - Multi-Agent Prompt Optimization via Markets]] — AVB (@neural_avb)
+- [[Building Your First Skill Library for AI Agents]] — Vox (@Voxyz_ai)
+- [[GSAP Skills - Professional Animation for AI Coding Tools]] — 爱丽丝呀！ (@btcqzy1)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -926,7 +931,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1837
+- **Total notes:** 1842
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

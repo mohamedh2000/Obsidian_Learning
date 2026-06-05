@@ -1140,3 +1140,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Engineer Skills - Harness & Context Engineering]] — Rohit Ghumare (@ghumare64)
 - [[AI Engineering from Scratch - Open Source Curriculum]] — Rohit Ghumare
 - [[LangSmith Fleet Shared Skills]] — LangChain (@langchain)
+- [[Codex Skill for SaaS Sales Post Generation]] — Kappaemme (@kappaemme1926)
+- [[Inference Engines Guide for Running LLMs Locally]] — Ahmad (@theahmadosman)
+- [[Economy of Minds - Multi-Agent Prompt Optimization via Markets]] — AVB (@neural_avb)
+- [[Building Your First Skill Library for AI Agents]] — Vox (@Voxyz_ai)
+- [[GSAP Skills - Professional Animation for AI Coding Tools]] — 爱丽丝呀！ (@btcqzy1)
