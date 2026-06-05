@@ -735,7 +735,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Unavailable Tweet]] — Unknown (@vtrivedy10)
 ## Stats
 
-- **Total tweets:** 1509
+- **Total tweets:** 1510
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1101,6 +1101,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Agent Phone Number - 4 Lines Python]] — francesco rosciano (@frank__rosh)
 - [[AI Agent Swarms Complete Guide - Kimi K2.6]] — Avid (@Av1dlive)
 - [[Google AI Gemini Omni Video Prompting Guide]] — Google AI (@GoogleAI)
+- [[AI Engineer Skills - Harness & Context Engineering]] — Rohit Ghumare (@ghumare64)
 
 ## Developer Tools & Code Intelligence
 

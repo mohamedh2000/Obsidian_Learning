@@ -1137,3 +1137,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Agent Swarms Complete Guide - Kimi K2.6]] — Avid (@Av1dlive)
 - [[Crystal Typography CGI Prompt - Luxury Brand]] — AmirMušić (@amirmushich)
 - [[21st.dev Community UI Components]] — 21st.dev
+- [[AI Engineer Skills - Harness & Context Engineering]] — Rohit Ghumare (@ghumare64)
+- [[AI Engineering from Scratch - Open Source Curriculum]] — Rohit Ghumare
