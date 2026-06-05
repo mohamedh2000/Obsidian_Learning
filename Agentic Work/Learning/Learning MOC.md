@@ -1136,3 +1136,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Agent Phone Number - 4 Lines Python]] — francesco rosciano (@frank__rosh)
 - [[AI Agent Swarms Complete Guide - Kimi K2.6]] — Avid (@Av1dlive)
 - [[Crystal Typography CGI Prompt - Luxury Brand]] — AmirMušić (@amirmushich)
+- [[21st.dev Community UI Components]] — 21st.dev
