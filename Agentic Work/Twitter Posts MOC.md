@@ -733,9 +733,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Ray's by Base Brand Identity]] — Brand Archive (@brandarchivexyz)
 - [[iino_design Tweet]] — iino_design (@iino_design)
 - [[Unavailable Tweet]] — Unknown (@vtrivedy10)
+- [[Noodles Got My Attention - @breezechai]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1510
+- **Total tweets:** 1512
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1276,6 +1277,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Oberon Framer Template Preview]] — Timofey Bak (@_mayweather)
 - [[Higgsfield MCP Motion Web Apps]] — Higgsfield AI 🧩 (@higgsfield_ai)
 - [[Lenis Podium Scroll Animation]] — Lenis (@lenissmooth)
+- [[Compound Engineering Dogfood QA Plugin - @kieranklaassen]] — Kieran Klaassen (@kieranklaassen)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
