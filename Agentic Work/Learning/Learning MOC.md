@@ -1139,3 +1139,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[21st.dev Community UI Components]] — 21st.dev
 - [[AI Engineer Skills - Harness & Context Engineering]] — Rohit Ghumare (@ghumare64)
 - [[AI Engineering from Scratch - Open Source Curriculum]] — Rohit Ghumare
+- [[LangSmith Fleet Shared Skills]] — LangChain (@langchain)

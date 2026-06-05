@@ -736,7 +736,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Noodles Got My Attention - @breezechai]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1512
+- **Total tweets:** 1513
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1103,6 +1103,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Agent Swarms Complete Guide - Kimi K2.6]] — Avid (@Av1dlive)
 - [[Google AI Gemini Omni Video Prompting Guide]] — Google AI (@GoogleAI)
 - [[AI Engineer Skills - Harness & Context Engineering]] — Rohit Ghumare (@ghumare64)
+- [[LangSmith Fleet Shared Skills]] — LangChain (@langchain)
 
 ## Developer Tools & Code Intelligence
 
