@@ -475,6 +475,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Smooth Collaboration at 16px]] — Ayan Ahmed (@ayan_052)
 - [[Drice - Norma Site Rebuild]] — Drice (@driceroland)
 - [[Crystal Typography CGI Prompt - Luxury Brand]] — AmirMušić (@amirmushich)
+- [[Best Design Account Recommendation]] — Eugene Riabov (@eugeneniidesign)
+- [[100% Custom Typography 0% AI]] — TRAVIS (@travisuals)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -736,7 +738,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Noodles Got My Attention - @breezechai]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1518
+- **Total tweets:** 1522
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1108,6 +1110,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Codex Skill for SaaS Sales Post Generation]] — Kappaemme (@kappaemme1926)
 - [[Economy of Minds - Multi-Agent Prompt Optimization via Markets]] — AVB (@neural_avb)
 - [[Building Your First Skill Library for AI Agents]] — Vox (@Voxyz_ai)
+- [[Codex Illustration Skill for Explainers]] — Justine Moore (@venturetwins)
+- [[Supergoal - Self-Healing Goal System]] — Robert Courson (@robertcourson)
 
 ## Developer Tools & Code Intelligence
 
