@@ -739,9 +739,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[iino_design Tweet]] — iino_design (@iino_design)
 - [[Unavailable Tweet]] — Unknown (@vtrivedy10)
 - [[Noodles Got My Attention - @breezechai]] — Breeze (@breezechai)
+- [[Breezechai Tweet]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1525
+- **Total tweets:** 1528
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1115,6 +1116,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Building Your First Skill Library for AI Agents]] — Vox (@Voxyz_ai)
 - [[Codex Illustration Skill for Explainers]] — Justine Moore (@venturetwins)
 - [[Supergoal - Self-Healing Goal System]] — Robert Courson (@robertcourson)
+- [[Multi-Agent Prompt Optimization via Market Simulation]] — AVB (@neural_avb)
+- [[Problem-First Skill for Inverting Bad Ideas]] — George from prodmgmt.world (@nurijanian)
 
 ## Developer Tools & Code Intelligence
 

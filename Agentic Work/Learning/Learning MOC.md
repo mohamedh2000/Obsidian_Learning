@@ -1145,3 +1145,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Economy of Minds - Multi-Agent Prompt Optimization via Markets]] — AVB (@neural_avb)
 - [[Building Your First Skill Library for AI Agents]] — Vox (@Voxyz_ai)
 - [[GSAP Skills - Professional Animation for AI Coding Tools]] — 爱丽丝呀！ (@btcqzy1)
+- [[Multi-Agent Prompt Optimization via Market Simulation]] — AVB (@neural_avb)
+- [[Problem-First Skill for Inverting Bad Ideas]] — George from prodmgmt.world (@nurijanian)
