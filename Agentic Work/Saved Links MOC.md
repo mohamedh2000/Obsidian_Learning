@@ -759,6 +759,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[GSAP Skills - Professional Animation for AI Coding Tools]] — 爱丽丝呀！ (@btcqzy1)
 - [[Multi-Agent Prompt Optimization via Market Simulation]] — AVB (@neural_avb)
 - [[Problem-First Skill for Inverting Bad Ideas]] — George from prodmgmt.world (@nurijanian)
+- [[50+ Hands-On AI Engineering Tutorials - @sumanth_077]] — Sumanth (@sumanth_077)
+- [[Understand-Anything Codebase Knowledge Graph - Lum1104]] — Lum1104
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -933,7 +935,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1854
+- **Total notes:** 1859
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1503,6 +1505,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Mr. Black - Black Cat Video]] — raumadmrxyh (@raumadmrxyh)
 - [[NYC Trip Frames Edit]] — ONNO Agency (@onnoagency)
 - [[Breezechai Tweet]] — Breeze (@breezechai)
+- [[Annnimate v3 Launch Announcement - @juli_fella]] — Julian Fella (@juli_fella)
+- [[Annnimate Animation Library]] — Annnimate
+- [[Annnimate Homepage]] — Annnimate
 
 ## Recovered 2026-03-26 — 2026-04-14
 
