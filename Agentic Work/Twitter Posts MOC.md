@@ -477,6 +477,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Crystal Typography CGI Prompt - Luxury Brand]] — AmirMušić (@amirmushich)
 - [[Best Design Account Recommendation]] — Eugene Riabov (@eugeneniidesign)
 - [[100% Custom Typography 0% AI]] — TRAVIS (@travisuals)
+- [[Unseen Studio Digital Designer Job Opening]] — Unseen Studio® (@uns__nstudio)
+- [[Sameer on Modern Design Philosophy]] — Sameer (@_sameerrr0)
+- [[Kris Anfalova on Startup Design Workload]] — Kris Anfalova (@krisanfalova)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -738,7 +741,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Noodles Got My Attention - @breezechai]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1522
+- **Total tweets:** 1525
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
