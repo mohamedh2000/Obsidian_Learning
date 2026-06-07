@@ -742,7 +742,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Breezechai Tweet]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1530
+- **Total tweets:** 1533
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1119,6 +1119,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Multi-Agent Prompt Optimization via Market Simulation]] — AVB (@neural_avb)
 - [[Problem-First Skill for Inverting Bad Ideas]] — George from prodmgmt.world (@nurijanian)
 - [[50+ Hands-On AI Engineering Tutorials - @sumanth_077]] — Sumanth (@sumanth_077)
+- [[Agent Optimization Recipe: Model + Harness]] — Viv (@vtrivedy10)
+- [[Harness-1: 20B Search Agent with State-Externalizing Harness]] — Patrick Jiang (@patpcj)
 
 ## Developer Tools & Code Intelligence
 
@@ -1296,6 +1298,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Compound Engineering Dogfood QA Plugin - @kieranklaassen]] — Kieran Klaassen (@kieranklaassen)
 - [[GSAP Skills - Professional Animation for AI Coding Tools]] — 爱丽丝呀！ (@btcqzy1)
 - [[Annnimate v3 Launch Announcement - @juli_fella]] — Julian Fella (@juli_fella)
+- [[3D Glass Logo Mockup GPT-2 Prompt]] — AmirMušić (@amirmushich)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

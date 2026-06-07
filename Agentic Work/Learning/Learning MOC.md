@@ -1149,3 +1149,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Problem-First Skill for Inverting Bad Ideas]] — George from prodmgmt.world (@nurijanian)
 - [[50+ Hands-On AI Engineering Tutorials - @sumanth_077]] — Sumanth (@sumanth_077)
 - [[Understand-Anything Codebase Knowledge Graph - Lum1104]] — Lum1104
+- [[3D Glass Logo Mockup GPT-2 Prompt]] — AmirMušić (@amirmushich)
+- [[Agent Optimization Recipe: Model + Harness]] — Viv (@vtrivedy10)
+- [[Harness-1: 20B Search Agent with State-Externalizing Harness]] — Patrick Jiang (@patpcj)
