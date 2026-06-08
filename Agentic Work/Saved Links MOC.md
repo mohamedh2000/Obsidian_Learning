@@ -765,6 +765,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Agent Optimization Recipe: Model + Harness]] — Viv (@vtrivedy10)
 - [[Harness-1: 20B Search Agent with State-Externalizing Harness]] — Patrick Jiang (@patpcj)
 - [[Victor Bodega AI Video Scene Prompt Template]] — MD (@mdmadeit)
+- [[Agentic Design Patterns PDF]] — Hari Podaralla (haripodaralla@gmail.com)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -939,7 +940,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1867
+- **Total notes:** 1869
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1515,6 +1516,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[BRO BEEN THRU SOME THINGS]] — twotimevae (@twotimevae)
 - [[3D Flipbook by Matthias Oel]] — Best Designs On ✧ (@bestdesignsonx)
 - [[AI Building Insights - @sairahul1]] — Rahul (@sairahul1)
+- [[Heat Diner Scene - De Niro & Pacino Unrehearsed]] — Afzalistan (@afzalistan)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
