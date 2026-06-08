@@ -480,6 +480,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Unseen Studio Digital Designer Job Opening]] — Unseen Studio® (@uns__nstudio)
 - [[Sameer on Modern Design Philosophy]] — Sameer (@_sameerrr0)
 - [[Kris Anfalova on Startup Design Workload]] — Kris Anfalova (@krisanfalova)
+- [[3D Flipbook by Matthias Oel]] — Best Designs On ✧ (@bestdesignsonx)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -742,7 +743,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Breezechai Tweet]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1533
+- **Total tweets:** 1534
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
