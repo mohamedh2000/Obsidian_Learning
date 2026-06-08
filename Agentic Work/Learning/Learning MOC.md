@@ -1152,3 +1152,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[3D Glass Logo Mockup GPT-2 Prompt]] — AmirMušić (@amirmushich)
 - [[Agent Optimization Recipe: Model + Harness]] — Viv (@vtrivedy10)
 - [[Harness-1: 20B Search Agent with State-Externalizing Harness]] — Patrick Jiang (@patpcj)
+- [[Victor Bodega AI Video Scene Prompt Template]] — MD (@mdmadeit)
