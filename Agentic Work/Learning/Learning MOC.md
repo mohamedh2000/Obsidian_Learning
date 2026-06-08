@@ -1154,3 +1154,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Harness-1: 20B Search Agent with State-Externalizing Harness]] — Patrick Jiang (@patpcj)
 - [[Victor Bodega AI Video Scene Prompt Template]] — MD (@mdmadeit)
 - [[Agentic Design Patterns PDF]] — Hari Podaralla (haripodaralla@gmail.com)
+- [[Compound Engineering Update - Trevin Chow]] — Trevin Chow (@trevin)
