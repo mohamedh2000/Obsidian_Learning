@@ -1155,3 +1155,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Victor Bodega AI Video Scene Prompt Template]] — MD (@mdmadeit)
 - [[Agentic Design Patterns PDF]] — Hari Podaralla (haripodaralla@gmail.com)
 - [[Compound Engineering Update - Trevin Chow]] — Trevin Chow (@trevin)
+- [[loops! - Pre-built Agent Loops by elorm]] — elorm (@elorm)
+- [[Hivemind - Continual Learning for AI Coding Agents]] — Davit (@dbuniatyan)
