@@ -769,6 +769,13 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Compound Engineering Update - Trevin Chow]] — Trevin Chow (@trevin)
 - [[loops! - Pre-built Agent Loops by elorm]] — elorm (@elorm)
 - [[Hivemind - Continual Learning for AI Coding Agents]] — Davit (@dbuniatyan)
+- [[Loop Engineering - Agent Orchestration Paradigm]] — Addy Osmani (@addyosmani)
+- [[Annnimates Detail Page - 63 Hours of Iteration]] — Julian Fella (@juli_fella)
+- [[AI Engineering Resources Megalist]] — aditya (@adxtyahq)
+- [[GEPA - Evolutionary Parameter Optimization Framework]] — gepa-ai (@gepa-ai)
+- [[DSPy - Declarative AI Programming Framework]] — Stanford NLP
+- [[Continual Learning Bench 1.0 Benchmark]] — Lance Martin (@rlancemartin)
+- [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -943,7 +950,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1876
+- **Total notes:** 1899
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1524,6 +1531,11 @@ See [[Twitter Posts MOC]] for full index.
 - [[Winning by Design - How to Create Your Ideal Customer Profile]] — Winning by Design
 - [[DaVinci Resolve Motion Plugin Time Saver]] — eli.ablefx (@eli.ablefx)
 - [[Viral Portfolio Design Template]] — firaxpear (@firaxpear)
+- [[Alok Bishoyi Media Post]] — Alok Bishoyi (@alokbishoyi97)
+- [[AGNT - Local Agent Operating System]] — Nathan Wilbanks (@nathanwilbanks_)
+- [[Pitch Studio]] — Pitch Studio
+- [[The Company Brain Is the Feed]] — Ashwin Gopinath (@ashwingop)
+- [[Maven Melbourne Biscoff Tiramisu Reel]] — Maven Melbourne (@mavenmelbourne)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1958,3 +1970,14 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Sameer on Modern Design Philosophy]] — Sameer (@_sameerrr0)
 - [[Kris Anfalova on Startup Design Workload]] — Kris Anfalova (@krisanfalova)
 - [[Teaching AI to Read Brand Design]] — Rahul Bhadoriya (@rahulbhadoriiya)
+- [[Building Design Studio Portfolio with Claude Code - @invinciDesigns]] — Prathamesh (@invinciDesigns)
+- [[Six Agent Workflow Patterns from Anthropic - @pawelhuryn]] — Paweł Huryn (@pawelhuryn)
+- [[Tresmares Capital by Dgrees Studio - @lenissmooth]] — Lenis (@lenissmooth)
+- [[North Face Micro Design Layouts - @oliver_gareis]] — Oliver Gareis (@oliver_gareis)
+- [[AI Prototyping Replaces Traditional Design Handoff - @quietcomp_]] — 만원만 | manwonman (@quietcomp_)
+- [[AI Apparel Brand PR Video with Kling 3.0 - @totaku_original]] — 𝐓𝐎𝐓𝐀𝐊𝐔™ (@totaku_original)
+- [[Pacôme Portent Portfolio SOTD - @awwwards]] — awwwards. (@awwwards)
+- [[HyperFrames Open Source Templates - @liu8in]] — Bin Liu (@liu8in)
+- [[Hyperframes Claude MCP Connector - @heygen]] — HeyGen (@heygen)
+- [[Claude Fable 5 Announcement - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[Build Things with Three.js TSL]] — Brice (@brice_deg)

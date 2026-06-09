@@ -1157,3 +1157,10 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Compound Engineering Update - Trevin Chow]] — Trevin Chow (@trevin)
 - [[loops! - Pre-built Agent Loops by elorm]] — elorm (@elorm)
 - [[Hivemind - Continual Learning for AI Coding Agents]] — Davit (@dbuniatyan)
+- [[Loop Engineering - Agent Orchestration Paradigm]] — Addy Osmani (@addyosmani)
+- [[Annnimates Detail Page - 63 Hours of Iteration]] — Julian Fella (@juli_fella)
+- [[AI Engineering Resources Megalist]] — aditya (@adxtyahq)
+- [[GEPA - Evolutionary Parameter Optimization Framework]] — gepa-ai (@gepa-ai)
+- [[DSPy - Declarative AI Programming Framework]] — Stanford NLP
+- [[Continual Learning Bench 1.0 Benchmark]] — Lance Martin (@rlancemartin)
+- [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)

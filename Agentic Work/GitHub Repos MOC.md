@@ -71,6 +71,7 @@ GitHub repositories saved from iMessage.
 - [[Awesome Hermes Agent]] — 0xNyk (@0xNyk)
 - [[alexknowshtml/claude-skills - /teach]] — alexknowshtml
 - [[Understand-Anything Codebase Knowledge Graph - Lum1104]] — Lum1104
+- [[GEPA - Evolutionary Parameter Optimization Framework]] — gepa-ai (@gepa-ai)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

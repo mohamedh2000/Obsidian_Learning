@@ -482,6 +482,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Kris Anfalova on Startup Design Workload]] — Kris Anfalova (@krisanfalova)
 - [[3D Flipbook by Matthias Oel]] — Best Designs On ✧ (@bestdesignsonx)
 - [[AI Building Insights - @sairahul1]] — Rahul (@sairahul1)
+- [[Annnimates Detail Page - 63 Hours of Iteration]] — Julian Fella (@juli_fella)
+- [[Tresmares Capital by Dgrees Studio - @lenissmooth]] — Lenis (@lenissmooth)
+- [[North Face Micro Design Layouts - @oliver_gareis]] — Oliver Gareis (@oliver_gareis)
+- [[AI Prototyping Replaces Traditional Design Handoff - @quietcomp_]] — 만원만 | manwonman (@quietcomp_)
+- [[Pacôme Portent Portfolio SOTD - @awwwards]] — awwwards. (@awwwards)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -503,6 +508,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[claude-obsidian - AI-Powered Knowledge Engine]] — Maliha Tasnim (@this_is_tasnim)
 - [[Obsidian Productive Vault System]] — CyrilXBT (@cyrilxbt)
 - [[Obsidian Canvases as AI Data Visualization]] — George from prodmgmt.world (@nurijanian)
+- [[Continual Learning Bench 1.0 Benchmark]] — Lance Martin (@rlancemartin)
 ## Uncategorized
 
 - [[AI Startup Visual Share - @ellen_in_sf]] — Visual content
@@ -743,9 +749,15 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Noodles Got My Attention - @breezechai]] — Breeze (@breezechai)
 - [[Breezechai Tweet]] — Breeze (@breezechai)
 - [[Victor Bodega AI Video Scene Prompt Template]] — MD (@mdmadeit)
+- [[Alok Bishoyi Media Post]] — Alok Bishoyi (@alokbishoyi97)
+- [[AI Apparel Brand PR Video with Kling 3.0 - @totaku_original]] — 𝐓𝐎𝐓𝐀𝐊𝐔™ (@totaku_original)
+- [[Hyperframes Claude MCP Connector - @heygen]] — HeyGen (@heygen)
+- [[Claude Fable 5 Announcement - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[Build Things with Three.js TSL]] — Brice (@brice_deg)
+- [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1539
+- **Total tweets:** 1558
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -800,6 +812,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Flash Attention 4 Beginner Guide]] — alex zhang (@a1zhang)
 - [[Alex Zhang Post - @a1zhang]] — Alex Zhang (@a1zhang)
 - [[Inference Engines Guide for Running LLMs Locally]] — Ahmad (@theahmadosman)
+- [[The Company Brain Is the Feed]] — Ashwin Gopinath (@ashwingop)
 
 ## AI Agents
 
@@ -1126,6 +1139,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Harness-1: 20B Search Agent with State-Externalizing Harness]] — Patrick Jiang (@patpcj)
 - [[Compound Engineering Update - Trevin Chow]] — Trevin Chow (@trevin)
 - [[Hivemind - Continual Learning for AI Coding Agents]] — Davit (@dbuniatyan)
+- [[Loop Engineering - Agent Orchestration Paradigm]] — Addy Osmani (@addyosmani)
+- [[AGNT - Local Agent Operating System]] — Nathan Wilbanks (@nathanwilbanks_)
+- [[AI Engineering Resources Megalist]] — aditya (@adxtyahq)
+- [[Building Design Studio Portfolio with Claude Code - @invinciDesigns]] — Prathamesh (@invinciDesigns)
+- [[Six Agent Workflow Patterns from Anthropic - @pawelhuryn]] — Paweł Huryn (@pawelhuryn)
 
 ## Developer Tools & Code Intelligence
 
@@ -1305,6 +1323,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Annnimate v3 Launch Announcement - @juli_fella]] — Julian Fella (@juli_fella)
 - [[3D Glass Logo Mockup GPT-2 Prompt]] — AmirMušić (@amirmushich)
 - [[Teaching AI to Read Brand Design]] — Rahul Bhadoriya (@rahulbhadoriiya)
+- [[HyperFrames Open Source Templates - @liu8in]] — Bin Liu (@liu8in)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
