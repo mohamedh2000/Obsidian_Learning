@@ -760,7 +760,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[nifinet Tweet 2064397495036440907]] — (@nifinet)
 ## Stats
 
-- **Total tweets:** 1565
+- **Total tweets:** 1567
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1151,6 +1151,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Fable 5 Repo Audit Prompt]] — Meta Alchemist (@meta_alchemist)
 - [[Self-Verification Loops for Long-Running Agents]] — Boris Cherny (@bcherny)
 - [[HyperFrames MCP Agent for Explainer Videos]] — Bin Liu (@liu8in)
+- [[Loop Engineering 14-Step Roadmap - @0xCodez]] — Codez (@0xCodez)
+- [[Agent-First Multi-LLM Research Studio - @degenrsc]] — Rohit Chauhan (@degenrsc)
 
 ## Developer Tools & Code Intelligence
 

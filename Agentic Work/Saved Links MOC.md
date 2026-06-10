@@ -782,6 +782,9 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Self-Verification Loops for Long-Running Agents]] — Boris Cherny (@bcherny)
 - [[Design Engineer Tools Directory]] — James Warner
 - [[HyperFrames MCP Agent for Explainer Videos]] — Bin Liu (@liu8in)
+- [[Loop Engineering 14-Step Roadmap - @0xCodez]] — Codez (@0xCodez)
+- [[AI Design Workshop - Bridge Design Skills to AI]] — Process Masterclass
+- [[Agent-First Multi-LLM Research Studio - @degenrsc]] — Rohit Chauhan (@degenrsc)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -956,7 +959,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1910
+- **Total notes:** 1913
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

@@ -1170,3 +1170,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Self-Verification Loops for Long-Running Agents]] — Boris Cherny (@bcherny)
 - [[Design Engineer Tools Directory]] — James Warner
 - [[HyperFrames MCP Agent for Explainer Videos]] — Bin Liu (@liu8in)
+- [[Loop Engineering 14-Step Roadmap - @0xCodez]] — Codez (@0xCodez)
+- [[AI Design Workshop - Bridge Design Skills to AI]] — Process Masterclass
+- [[Agent-First Multi-LLM Research Studio - @degenrsc]] — Rohit Chauhan (@degenrsc)
