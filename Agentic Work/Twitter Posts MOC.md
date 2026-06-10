@@ -487,6 +487,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[North Face Micro Design Layouts - @oliver_gareis]] — Oliver Gareis (@oliver_gareis)
 - [[AI Prototyping Replaces Traditional Design Handoff - @quietcomp_]] — 만원만 | manwonman (@quietcomp_)
 - [[Pacôme Portent Portfolio SOTD - @awwwards]] — awwwards. (@awwwards)
+- [[Hardest Framer Interaction Trueform - @cedric_design]] — Cédric (@cedric_design)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -755,9 +756,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Fable 5 Announcement - @claudedevs]] — ClaudeDevs (@claudedevs)
 - [[Build Things with Three.js TSL]] — Brice (@brice_deg)
 - [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
+- [[Compound Engineering ce-ideate HTML Output - @trevin]] — Trevin Chow (@trevin)
 ## Stats
 
-- **Total tweets:** 1558
+- **Total tweets:** 1561
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1144,6 +1146,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Engineering Resources Megalist]] — aditya (@adxtyahq)
 - [[Building Design Studio Portfolio with Claude Code - @invinciDesigns]] — Prathamesh (@invinciDesigns)
 - [[Six Agent Workflow Patterns from Anthropic - @pawelhuryn]] — Paweł Huryn (@pawelhuryn)
+- [[Improving Deep Agents with Harness Engineering - @Vtrivedy10]] — Viv (@Vtrivedy10)
 
 ## Developer Tools & Code Intelligence
 

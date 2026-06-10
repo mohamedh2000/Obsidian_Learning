@@ -1164,3 +1164,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[DSPy - Declarative AI Programming Framework]] — Stanford NLP
 - [[Continual Learning Bench 1.0 Benchmark]] — Lance Martin (@rlancemartin)
 - [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
+- [[Improving Deep Agents with Harness Engineering - @Vtrivedy10]] — Viv (@Vtrivedy10)
+- [[Hardest Framer Interaction Trueform - @cedric_design]] — Cédric (@cedric_design)

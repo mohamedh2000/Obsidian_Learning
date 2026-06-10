@@ -776,6 +776,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[DSPy - Declarative AI Programming Framework]] — Stanford NLP
 - [[Continual Learning Bench 1.0 Benchmark]] — Lance Martin (@rlancemartin)
 - [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
+- [[Improving Deep Agents with Harness Engineering - @Vtrivedy10]] — Viv (@Vtrivedy10)
+- [[Hardest Framer Interaction Trueform - @cedric_design]] — Cédric (@cedric_design)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -950,7 +952,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1902
+- **Total notes:** 1905
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1539,6 +1541,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[LTX Studio - AI Video Production Platform]] — Lightricks
 - [[Ian Xiaohei Illustrations - Codex Skill for Chinese Article Illustrations]] — Ian (@helloianneo)
 - [[Instagram Reel DYw9BL8taq_]] — Instagram
+- [[Compound Engineering ce-ideate HTML Output - @trevin]] — Trevin Chow (@trevin)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
