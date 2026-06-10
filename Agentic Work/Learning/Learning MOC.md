@@ -1166,3 +1166,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
 - [[Improving Deep Agents with Harness Engineering - @Vtrivedy10]] — Viv (@Vtrivedy10)
 - [[Hardest Framer Interaction Trueform - @cedric_design]] — Cédric (@cedric_design)
+- [[Claude Fable 5 Repo Audit Prompt]] — Meta Alchemist (@meta_alchemist)
+- [[Self-Verification Loops for Long-Running Agents]] — Boris Cherny (@bcherny)
+- [[Design Engineer Tools Directory]] — James Warner
+- [[HyperFrames MCP Agent for Explainer Videos]] — Bin Liu (@liu8in)

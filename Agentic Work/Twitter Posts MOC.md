@@ -757,9 +757,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Build Things with Three.js TSL]] — Brice (@brice_deg)
 - [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
 - [[Compound Engineering ce-ideate HTML Output - @trevin]] — Trevin Chow (@trevin)
+- [[nifinet Tweet 2064397495036440907]] — (@nifinet)
 ## Stats
 
-- **Total tweets:** 1561
+- **Total tweets:** 1565
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1147,6 +1148,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Building Design Studio Portfolio with Claude Code - @invinciDesigns]] — Prathamesh (@invinciDesigns)
 - [[Six Agent Workflow Patterns from Anthropic - @pawelhuryn]] — Paweł Huryn (@pawelhuryn)
 - [[Improving Deep Agents with Harness Engineering - @Vtrivedy10]] — Viv (@Vtrivedy10)
+- [[Claude Fable 5 Repo Audit Prompt]] — Meta Alchemist (@meta_alchemist)
+- [[Self-Verification Loops for Long-Running Agents]] — Boris Cherny (@bcherny)
+- [[HyperFrames MCP Agent for Explainer Videos]] — Bin Liu (@liu8in)
 
 ## Developer Tools & Code Intelligence
 
