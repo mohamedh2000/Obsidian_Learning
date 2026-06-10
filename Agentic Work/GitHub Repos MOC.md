@@ -72,6 +72,7 @@ GitHub repositories saved from iMessage.
 - [[alexknowshtml/claude-skills - /teach]] — alexknowshtml
 - [[Understand-Anything Codebase Knowledge Graph - Lum1104]] — Lum1104
 - [[GEPA - Evolutionary Parameter Optimization Framework]] — gepa-ai (@gepa-ai)
+- [[Ian Xiaohei Illustrations - Codex Skill for Chinese Article Illustrations]] — Ian (@helloianneo)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
