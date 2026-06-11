@@ -206,3 +206,7 @@ Instagram reels and other social media content saved from iMessage.
 - [[Viral Portfolio Design Template]] — firaxpear (@firaxpear)
 - [[Maven Melbourne Biscoff Tiramisu Reel]] — Maven Melbourne (@mavenmelbourne)
 - [[Instagram Reel DYw9BL8taq_]] — Instagram
+- [[mikadu_grade - Ukrainian Art Photography]] — mikadu_grade (@mikadu_grade)
+- [[shotwithrose - SFX Editing Breakdown Tutorial]] — shotwithrose (@shotwithrose)
+- [[sqlkxrsy - aespa After Effects Edit]] — sqlkxrsy (@sqlkxrsy)
+- [[Kodak - Insufficient Fare MetroCard Short Film]] — Kodak Shoot Film (@kodak_shootfilm)
