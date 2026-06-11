@@ -758,9 +758,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Verbalized Sampling for AI Creativity]] — George from prodmgmt.world (@nurijanian)
 - [[Compound Engineering ce-ideate HTML Output - @trevin]] — Trevin Chow (@trevin)
 - [[nifinet Tweet 2064397495036440907]] — (@nifinet)
+- [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
 ## Stats
 
-- **Total tweets:** 1567
+- **Total tweets:** 1568
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

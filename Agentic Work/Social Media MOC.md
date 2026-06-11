@@ -210,3 +210,8 @@ Instagram reels and other social media content saved from iMessage.
 - [[shotwithrose - SFX Editing Breakdown Tutorial]] — shotwithrose (@shotwithrose)
 - [[sqlkxrsy - aespa After Effects Edit]] — sqlkxrsy (@sqlkxrsy)
 - [[Kodak - Insufficient Fare MetroCard Short Film]] — Kodak Shoot Film (@kodak_shootfilm)
+- [[The Chaser 2008 Korean Thriller]] — spaceofcinema (@spaceofcinema)
+- [[La Mabash Commercial Spot]] — Sophie HM (@sophie.hm)
+- [[Higgsfield AI Plugin for DaVinci Resolve]] — Higgsfield AI (@higgsfield.ai)
+- [[Kenya Anti-Poaching Units]] — Tonsil (@tonsil)
+- [[Notorious BIG Niggas Bleed Animation]] — Trap Animation (@trapanimation)
