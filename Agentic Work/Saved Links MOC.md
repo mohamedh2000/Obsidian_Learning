@@ -788,6 +788,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Stills 2026 Design Trend Report]] — Stills
 - [[Commercial Filmmaking Trend Report 2026 - Musicbed]] — Musicbed
 - [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
+- [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -962,7 +963,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1931
+- **Total notes:** 1932
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

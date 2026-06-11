@@ -761,7 +761,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
 ## Stats
 
-- **Total tweets:** 1568
+- **Total tweets:** 1569
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1154,6 +1154,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[HyperFrames MCP Agent for Explainer Videos]] — Bin Liu (@liu8in)
 - [[Loop Engineering 14-Step Roadmap - @0xCodez]] — Codez (@0xCodez)
 - [[Agent-First Multi-LLM Research Studio - @degenrsc]] — Rohit Chauhan (@degenrsc)
+- [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
 
 ## Developer Tools & Code Intelligence
 

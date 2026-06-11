@@ -1176,3 +1176,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Stills 2026 Design Trend Report]] — Stills
 - [[Commercial Filmmaking Trend Report 2026 - Musicbed]] — Musicbed
 - [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
+- [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
