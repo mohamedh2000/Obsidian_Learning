@@ -1174,3 +1174,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[AI Design Workshop - Bridge Design Skills to AI]] — Process Masterclass
 - [[Agent-First Multi-LLM Research Studio - @degenrsc]] — Rohit Chauhan (@degenrsc)
 - [[Stills 2026 Design Trend Report]] — Stills
+- [[Commercial Filmmaking Trend Report 2026 - Musicbed]] — Musicbed
