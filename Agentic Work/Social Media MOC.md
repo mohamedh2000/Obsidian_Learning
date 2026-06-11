@@ -216,3 +216,8 @@ Instagram reels and other social media content saved from iMessage.
 - [[Kenya Anti-Poaching Units]] — Tonsil (@tonsil)
 - [[Notorious BIG Niggas Bleed Animation]] — Trap Animation (@trapanimation)
 - [[Instagram Post - @with.radiance]] — with.radiance (@with.radiance)
+- [[VOX Analog Paper Animation Tutorial]] — Chris Moran (@chrismoran__)
+- [[Frame Recreations with Voiceover]] — Sinskari (@sinskari_)
+- [[Opium Effect After Effects Tutorial]] — Jack (@jackwhoedits)
+- [[Costco Reciprocity Psychology Motion Design]] — Earn Edits (@earn.edits)
+- [[Beat It Michael Jackson Edit]] — Zresinn (@zresinn)
