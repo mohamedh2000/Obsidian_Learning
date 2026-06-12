@@ -759,9 +759,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Compound Engineering ce-ideate HTML Output - @trevin]] — Trevin Chow (@trevin)
 - [[nifinet Tweet 2064397495036440907]] — (@nifinet)
 - [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
+- [[Image Replication to Storyboard Video Workflow]] — Kōda (@aimikoda)
 ## Stats
 
-- **Total tweets:** 1569
+- **Total tweets:** 1572
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1155,6 +1156,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Loop Engineering 14-Step Roadmap - @0xCodez]] — Codez (@0xCodez)
 - [[Agent-First Multi-LLM Research Studio - @degenrsc]] — Rohit Chauhan (@degenrsc)
 - [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
+- [[/goal Command for Product Managers]] — George (@nurijanian)
 
 ## Developer Tools & Code Intelligence
 
@@ -1335,6 +1337,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[3D Glass Logo Mockup GPT-2 Prompt]] — AmirMušić (@amirmushich)
 - [[Teaching AI to Read Brand Design]] — Rahul Bhadoriya (@rahulbhadoriiya)
 - [[HyperFrames Open Source Templates - @liu8in]] — Bin Liu (@liu8in)
+- [[Digital Sketchbook Repository]] — Jean Chen (@jeanxcrj)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
