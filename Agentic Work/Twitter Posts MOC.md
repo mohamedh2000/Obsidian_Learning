@@ -488,6 +488,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Prototyping Replaces Traditional Design Handoff - @quietcomp_]] — 만원만 | manwonman (@quietcomp_)
 - [[Pacôme Portent Portfolio SOTD - @awwwards]] — awwwards. (@awwwards)
 - [[Hardest Framer Interaction Trueform - @cedric_design]] — Cédric (@cedric_design)
+- [[T-REX Leather Scroll Experience]] — Lenis (@lenissmooth)
+- [[EnduroSat Scroll Experience]] — Lenis (@lenissmooth)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -762,7 +764,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Image Replication to Storyboard Video Workflow]] — Kōda (@aimikoda)
 ## Stats
 
-- **Total tweets:** 1573
+- **Total tweets:** 1575
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

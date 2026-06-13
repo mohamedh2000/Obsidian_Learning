@@ -1179,3 +1179,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
 - [[hyperagent-public-skills - Free Agent Skills Collection]] — alexmcdonnell-airtable
 - [[effective-html - Agent Skill for Elegant HTML Plans and Diagrams]] — plannotator
+- [[Smooothy - Configurable Smooth Slider API]] — Federico (federic.ooo)
+- [[T-REX Leather Scroll Experience]] — Lenis (@lenissmooth)
+- [[EnduroSat Scroll Experience]] — Lenis (@lenissmooth)
+- [[illo - Editorial Illustrations Agent Skill]] — Trevin Chow

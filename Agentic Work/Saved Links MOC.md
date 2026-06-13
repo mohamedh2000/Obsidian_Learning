@@ -791,6 +791,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
 - [[hyperagent-public-skills - Free Agent Skills Collection]] — alexmcdonnell-airtable
 - [[effective-html - Agent Skill for Elegant HTML Plans and Diagrams]] — plannotator
+- [[Smooothy - Configurable Smooth Slider API]] — Federico (federic.ooo)
+- [[T-REX Leather Scroll Experience]] — Lenis (@lenissmooth)
+- [[EnduroSat Scroll Experience]] — Lenis (@lenissmooth)
+- [[illo - Editorial Illustrations Agent Skill]] — Trevin Chow
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -965,7 +969,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1947
+- **Total notes:** 1951
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
