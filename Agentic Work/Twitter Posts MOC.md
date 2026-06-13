@@ -490,6 +490,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Hardest Framer Interaction Trueform - @cedric_design]] — Cédric (@cedric_design)
 - [[T-REX Leather Scroll Experience]] — Lenis (@lenissmooth)
 - [[EnduroSat Scroll Experience]] — Lenis (@lenissmooth)
+- [[Konrad Makowski Design Shorts]] — Konrad Makowski (@konrad_designs)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -762,9 +763,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[nifinet Tweet 2064397495036440907]] — (@nifinet)
 - [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
 - [[Image Replication to Storyboard Video Workflow]] — Kōda (@aimikoda)
+- [[The Wind Calls AI Video Workflow]] — Kōda (@aimikoda)
+- [[Cyberpunk Sketchbook Midjourney SREF 3176174088]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 1575
+- **Total tweets:** 1583
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1160,6 +1163,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
 - [[/goal Command for Product Managers]] — George (@nurijanian)
 - [[Müller-Brockmann Grid System Skill for AI Agents - @nicos_ai]] — Nico (@nicos_ai)
+- [[Grid System Skill for AI Design Agents]] — こばかな (@kobaka7)
+- [[Taste Finder Skill for Personal Aesthetic Context]] — justine (@machjustine)
+- [[GPT-5.5 Fable Output Claim]] — AmirMušić (@amirmushich)
+- [[Loss Functions Product Distillation Playbook]] — Elvis (@elvissun)
+- [[Muller-Brockmann Grid Skill for AI Agents]] — こぎそ (@kgsi)
 
 ## Developer Tools & Code Intelligence
 

@@ -1183,3 +1183,11 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[T-REX Leather Scroll Experience]] — Lenis (@lenissmooth)
 - [[EnduroSat Scroll Experience]] — Lenis (@lenissmooth)
 - [[illo - Editorial Illustrations Agent Skill]] — Trevin Chow
+- [[The Wind Calls AI Video Workflow]] — Kōda (@aimikoda)
+- [[Introducing the Open Knowledge Format]] — Sam McVeety and Amir Hormati (Google Cloud)
+- [[Cyberpunk Sketchbook Midjourney SREF 3176174088]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Grid System Skill for AI Design Agents]] — こばかな (@kobaka7)
+- [[Taste Finder Skill for Personal Aesthetic Context]] — justine (@machjustine)
+- [[Konrad Makowski Design Shorts]] — Konrad Makowski (@konrad_designs)
+- [[Loss Functions Product Distillation Playbook]] — Elvis (@elvissun)
+- [[Muller-Brockmann Grid Skill for AI Agents]] — こぎそ (@kgsi)

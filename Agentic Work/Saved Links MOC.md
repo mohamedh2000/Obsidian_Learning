@@ -795,6 +795,14 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[T-REX Leather Scroll Experience]] — Lenis (@lenissmooth)
 - [[EnduroSat Scroll Experience]] — Lenis (@lenissmooth)
 - [[illo - Editorial Illustrations Agent Skill]] — Trevin Chow
+- [[The Wind Calls AI Video Workflow]] — Kōda (@aimikoda)
+- [[Introducing the Open Knowledge Format]] — Sam McVeety and Amir Hormati (Google Cloud)
+- [[Cyberpunk Sketchbook Midjourney SREF 3176174088]] — Midjourney Sref and prompt Library (@promptsref)
+- [[Grid System Skill for AI Design Agents]] — こばかな (@kobaka7)
+- [[Taste Finder Skill for Personal Aesthetic Context]] — justine (@machjustine)
+- [[Konrad Makowski Design Shorts]] — Konrad Makowski (@konrad_designs)
+- [[Loss Functions Product Distillation Playbook]] — Elvis (@elvissun)
+- [[Muller-Brockmann Grid Skill for AI Agents]] — こぎそ (@kgsi)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -969,7 +977,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1951
+- **Total notes:** 1960
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1584,6 +1592,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Variant Fund]] — Variant
 - [[Maven Melbourne Date Night Set Menu - @mavenmelbourne]] — Maven Melbourne (@mavenmelbourne)
 - [[Yambo Studio Animated Commercials Showcase - @michael_warship]] — Michael Warship (@michael_warship)
+- [[GPT-5.5 Fable Output Claim]] — AmirMušić (@amirmushich)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
