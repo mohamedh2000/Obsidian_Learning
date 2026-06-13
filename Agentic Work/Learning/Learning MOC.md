@@ -1177,3 +1177,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Commercial Filmmaking Trend Report 2026 - Musicbed]] — Musicbed
 - [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
 - [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
+- [[hyperagent-public-skills - Free Agent Skills Collection]] — alexmcdonnell-airtable
+- [[effective-html - Agent Skill for Elegant HTML Plans and Diagrams]] — plannotator

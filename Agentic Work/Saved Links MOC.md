@@ -789,6 +789,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Commercial Filmmaking Trend Report 2026 - Musicbed]] — Musicbed
 - [[Prompting Claude Fable Guide]] — Trevin Chow (@trevin)
 - [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
+- [[hyperagent-public-skills - Free Agent Skills Collection]] — alexmcdonnell-airtable
+- [[effective-html - Agent Skill for Elegant HTML Plans and Diagrams]] — plannotator
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -963,7 +965,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1942
+- **Total notes:** 1947
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1576,6 +1578,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[El Coyotito - Javier Escuella Fan Zine]] — Caught in Red Art (@caughtinredart)
 - [[Plus Two Films Wedding Video]] — Plus Two Films (@plustwofilms)
 - [[Variant Fund]] — Variant
+- [[Maven Melbourne Date Night Set Menu - @mavenmelbourne]] — Maven Melbourne (@mavenmelbourne)
+- [[Yambo Studio Animated Commercials Showcase - @michael_warship]] — Michael Warship (@michael_warship)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -2024,3 +2028,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[/goal Command for Product Managers]] — George (@nurijanian)
 - [[Digital Sketchbook Repository]] — Jean Chen (@jeanxcrj)
 - [[Image Replication to Storyboard Video Workflow]] — Kōda (@aimikoda)
+- [[Müller-Brockmann Grid System Skill for AI Agents - @nicos_ai]] — Nico (@nicos_ai)

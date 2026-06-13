@@ -762,7 +762,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Image Replication to Storyboard Video Workflow]] — Kōda (@aimikoda)
 ## Stats
 
-- **Total tweets:** 1572
+- **Total tweets:** 1573
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1157,6 +1157,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agent-First Multi-LLM Research Studio - @degenrsc]] — Rohit Chauhan (@degenrsc)
 - [[Auto-Research as a Service Product Blueprint]] — Viv (@vtrivedy10)
 - [[/goal Command for Product Managers]] — George (@nurijanian)
+- [[Müller-Brockmann Grid System Skill for AI Agents - @nicos_ai]] — Nico (@nicos_ai)
 
 ## Developer Tools & Code Intelligence
 
