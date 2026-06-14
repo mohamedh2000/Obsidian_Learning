@@ -1198,3 +1198,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Design System Banner Generation Workflow]] — 梶谷健人 (@kajikent)
 - [[Hyperagent Free Agent Skills]] — Hyperagent (@hyperagentapp)
 - [[Skillfully Analytics for Agent Skills]] — Skillfully
+- [[MotionSites Design Prompt Library - @kgsi]] — こぎそ (@kgsi)
