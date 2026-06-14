@@ -494,6 +494,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Stripe Press Artbook UX]] — 만원만 l manwonman (@quietcomp_)
 - [[Design System Banner Generation Workflow]] — 梶谷健人 (@kajikent)
 - [[MotionSites Design Prompt Library - @kgsi]] — こぎそ (@kgsi)
+- [[Sophisticated Grid Layout Skill for Claude Code - @mochitaro_de]] — もち | 経営とデザイン (@mochitaro_de)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -771,7 +772,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Meter Keeps Running - @breezechai]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1591
+- **Total tweets:** 1592
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
