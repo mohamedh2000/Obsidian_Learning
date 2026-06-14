@@ -1191,3 +1191,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Konrad Makowski Design Shorts]] — Konrad Makowski (@konrad_designs)
 - [[Loss Functions Product Distillation Playbook]] — Elvis (@elvissun)
 - [[Muller-Brockmann Grid Skill for AI Agents]] — こぎそ (@kgsi)
+- [[HyperAgent Muller-Brockmann Grid Systems Skill - @cellier_]] — Cellier (@cellier_)
+- [[Muller-Brockmann Grid Systems HyperAgent Skill]] — alexmcdonnell-airtable (hyperagent-public-skills)
+- [[Animated Short Film Agent Workflow - @pratishhhhh]] — pratish (@pratishhhhh)

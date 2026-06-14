@@ -767,7 +767,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Cyberpunk Sketchbook Midjourney SREF 3176174088]] — Midjourney Sref and prompt Library (@promptsref)
 ## Stats
 
-- **Total tweets:** 1584
+- **Total tweets:** 1586
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1169,6 +1169,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Loss Functions Product Distillation Playbook]] — Elvis (@elvissun)
 - [[Muller-Brockmann Grid Skill for AI Agents]] — こぎそ (@kgsi)
 - [[illo-skill Consistent Character Illustration Skill]] — Matt Van Horn (@mvanhorn)
+- [[HyperAgent Muller-Brockmann Grid Systems Skill - @cellier_]] — Cellier (@cellier_)
+- [[Animated Short Film Agent Workflow - @pratishhhhh]] — pratish (@pratishhhhh)
 
 ## Developer Tools & Code Intelligence
 

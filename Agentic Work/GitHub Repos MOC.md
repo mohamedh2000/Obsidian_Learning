@@ -75,6 +75,7 @@ GitHub repositories saved from iMessage.
 - [[Ian Xiaohei Illustrations - Codex Skill for Chinese Article Illustrations]] — Ian (@helloianneo)
 - [[hyperagent-public-skills - Free Agent Skills Collection]] — alexmcdonnell-airtable
 - [[effective-html - Agent Skill for Elegant HTML Plans and Diagrams]] — plannotator
+- [[Muller-Brockmann Grid Systems HyperAgent Skill]] — alexmcdonnell-airtable (hyperagent-public-skills)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
