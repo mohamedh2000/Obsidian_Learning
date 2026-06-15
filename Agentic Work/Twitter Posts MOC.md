@@ -498,6 +498,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Laggy Claude Flipbook Demo]] — hachimi (@hakimihamizi)
 - [[Sunlit Kinetic Block Type Poster Style]] — Vigo Zhao (@vigocreativeai)
 - [[Viral AI Creative Experiment Prompt Breakdown]] — Nguyen Le (@newincreative)
+- [[Motion Stack: Geist + Air + Agrandi]] — Nguyen Le (@newincreative)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -776,7 +777,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1597
+- **Total tweets:** 1599
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1363,6 +1364,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Teaching AI to Read Brand Design]] — Rahul Bhadoriya (@rahulbhadoriiya)
 - [[HyperFrames Open Source Templates - @liu8in]] — Bin Liu (@liu8in)
 - [[Digital Sketchbook Repository]] — Jean Chen (@jeanxcrj)
+- [[AI Prompts for Designers and Design Teams]] — Nguyen Le (@newincreative)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

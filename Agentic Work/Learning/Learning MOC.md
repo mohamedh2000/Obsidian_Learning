@@ -1204,3 +1204,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Sunlit Kinetic Block Type Poster Style]] — Vigo Zhao (@vigocreativeai)
 - [[Viral AI Creative Experiment Prompt Breakdown]] — Nguyen Le (@newincreative)
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
+- [[seedance2-skill - Seedance 2 Video Prompt Skill]] — dexhunter (@dexhunter)
