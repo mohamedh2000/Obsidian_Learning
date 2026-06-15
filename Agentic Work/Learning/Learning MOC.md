@@ -1200,3 +1200,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Skillfully Analytics for Agent Skills]] — Skillfully
 - [[MotionSites Design Prompt Library - @kgsi]] — こぎそ (@kgsi)
 - [[Hermes Agent Fusion Model Profiles - @ritvij14_]] — Ritvij Sharma (@ritvij14_)
+- [[AI Design Workshop - X Campaign Link]] — Process Masterclass
+- [[Sunlit Kinetic Block Type Poster Style]] — Vigo Zhao (@vigocreativeai)
+- [[Viral AI Creative Experiment Prompt Breakdown]] — Nguyen Le (@newincreative)
+- [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)

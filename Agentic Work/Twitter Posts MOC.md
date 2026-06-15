@@ -495,6 +495,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Design System Banner Generation Workflow]] — 梶谷健人 (@kajikent)
 - [[MotionSites Design Prompt Library - @kgsi]] — こぎそ (@kgsi)
 - [[Sophisticated Grid Layout Skill for Claude Code - @mochitaro_de]] — もち | 経営とデザイン (@mochitaro_de)
+- [[Laggy Claude Flipbook Demo]] — hachimi (@hakimihamizi)
+- [[Sunlit Kinetic Block Type Poster Style]] — Vigo Zhao (@vigocreativeai)
+- [[Viral AI Creative Experiment Prompt Breakdown]] — Nguyen Le (@newincreative)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -770,9 +773,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Wind Calls AI Video Workflow]] — Kōda (@aimikoda)
 - [[Cyberpunk Sketchbook Midjourney SREF 3176174088]] — Midjourney Sref and prompt Library (@promptsref)
 - [[The Meter Keeps Running - @breezechai]] — Breeze (@breezechai)
+- [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1593
+- **Total tweets:** 1597
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
