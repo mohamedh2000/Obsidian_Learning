@@ -1199,3 +1199,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hyperagent Free Agent Skills]] — Hyperagent (@hyperagentapp)
 - [[Skillfully Analytics for Agent Skills]] — Skillfully
 - [[MotionSites Design Prompt Library - @kgsi]] — こぎそ (@kgsi)
+- [[Hermes Agent Fusion Model Profiles - @ritvij14_]] — Ritvij Sharma (@ritvij14_)

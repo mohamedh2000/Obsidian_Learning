@@ -772,7 +772,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Meter Keeps Running - @breezechai]] — Breeze (@breezechai)
 ## Stats
 
-- **Total tweets:** 1592
+- **Total tweets:** 1593
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1177,6 +1177,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[HyperAgent Muller-Brockmann Grid Systems Skill - @cellier_]] — Cellier (@cellier_)
 - [[Animated Short Film Agent Workflow - @pratishhhhh]] — pratish (@pratishhhhh)
 - [[Hyperagent Free Agent Skills]] — Hyperagent (@hyperagentapp)
+- [[Hermes Agent Fusion Model Profiles - @ritvij14_]] — Ritvij Sharma (@ritvij14_)
 
 ## Developer Tools & Code Intelligence
 
