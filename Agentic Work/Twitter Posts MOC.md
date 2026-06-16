@@ -778,7 +778,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1607
+- **Total tweets:** 1608
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1372,6 +1372,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Prompts for Designers and Design Teams]] — Nguyen Le (@newincreative)
 - [[Non-Technical Technical Dictionary - @cathrynlavery]] — Cathryn (@cathrynlavery)
 - [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)
+- [[Ascii Magic Dither Algorithms]] — Kailash (@kail_designs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

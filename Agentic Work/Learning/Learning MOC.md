@@ -1211,3 +1211,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)
 - [[Hyperagent Public Skills as Design Book Skills - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
 - [[Composer 2.5 Works With Any Harness After Fable - @jpschroeder]] — Justin Schroeder (@jpschroeder)
+- [[Ascii Magic Dither Algorithms]] — Kailash (@kail_designs)
