@@ -1209,3 +1209,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[How to Create Loops with Claude - @mikenevermiss]] — MIKE (@mikenevermiss)
 - [[Non-Technical Technical Dictionary - @cathrynlavery]] — Cathryn (@cathrynlavery)
 - [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)
+- [[Hyperagent Public Skills as Design Book Skills - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
+- [[Composer 2.5 Works With Any Harness After Fable - @jpschroeder]] — Justin Schroeder (@jpschroeder)
