@@ -817,6 +817,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Viral AI Creative Experiment Prompt Breakdown]] — Nguyen Le (@newincreative)
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 - [[seedance2-skill - Seedance 2 Video Prompt Skill]] — dexhunter (@dexhunter)
+- [[Design Books as AI Agent Skills - @quietcomp_]] — 만원만 l manwonman (@quietcomp_)
+- [[How to Create Loops with Claude - @mikenevermiss]] — MIKE (@mikenevermiss)
+- [[Non-Technical Technical Dictionary - @cathrynlavery]] — Cathryn (@cathrynlavery)
+- [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -991,7 +995,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 1980
+- **Total notes:** 1985
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1608,6 +1612,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Yambo Studio Animated Commercials Showcase - @michael_warship]] — Michael Warship (@michael_warship)
 - [[GPT-5.5 Fable Output Claim]] — AmirMušić (@amirmushich)
 - [[The Meter Keeps Running - @breezechai]] — Breeze (@breezechai)
+- [[Claude Mythos Attribution Dispute - @anton_skv]] — Anton Skvortsov (@anton_skv)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

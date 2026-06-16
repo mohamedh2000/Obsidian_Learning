@@ -1205,3 +1205,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Viral AI Creative Experiment Prompt Breakdown]] — Nguyen Le (@newincreative)
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 - [[seedance2-skill - Seedance 2 Video Prompt Skill]] — dexhunter (@dexhunter)
+- [[Design Books as AI Agent Skills - @quietcomp_]] — 만원만 l manwonman (@quietcomp_)
+- [[How to Create Loops with Claude - @mikenevermiss]] — MIKE (@mikenevermiss)
+- [[Non-Technical Technical Dictionary - @cathrynlavery]] — Cathryn (@cathrynlavery)
+- [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)

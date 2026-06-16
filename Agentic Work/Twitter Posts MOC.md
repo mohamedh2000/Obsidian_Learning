@@ -777,7 +777,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1599
+- **Total tweets:** 1604
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1183,6 +1183,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Animated Short Film Agent Workflow - @pratishhhhh]] — pratish (@pratishhhhh)
 - [[Hyperagent Free Agent Skills]] — Hyperagent (@hyperagentapp)
 - [[Hermes Agent Fusion Model Profiles - @ritvij14_]] — Ritvij Sharma (@ritvij14_)
+- [[Design Books as AI Agent Skills - @quietcomp_]] — 만원만 l manwonman (@quietcomp_)
+- [[How to Create Loops with Claude - @mikenevermiss]] — MIKE (@mikenevermiss)
 
 ## Developer Tools & Code Intelligence
 
@@ -1365,6 +1367,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[HyperFrames Open Source Templates - @liu8in]] — Bin Liu (@liu8in)
 - [[Digital Sketchbook Repository]] — Jean Chen (@jeanxcrj)
 - [[AI Prompts for Designers and Design Teams]] — Nguyen Le (@newincreative)
+- [[Non-Technical Technical Dictionary - @cathrynlavery]] — Cathryn (@cathrynlavery)
+- [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1670,3 +1674,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Prompt Clarity Article by kloss_xyz]] — am.will (@llmjunky)
 - [[A Primer to Understanding Layouts in NVIDIA CuTe]] — Jino Rohit (@jino_rohit)
 - [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
+- [[Claude Mythos Attribution Dispute - @anton_skv]] — Anton Skvortsov (@anton_skv)
