@@ -1216,3 +1216,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Seedance 2.0 Skill OS - @iamemily2050]] — Emily (@iamemily2050)
 - [[mymind Spaces Stack Hover Preview - @vanschneider]] — Tobias van Schneider (@vanschneider)
 - [[The Art of Loop Engineering - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
+- [[Agent Harness Engineering with Claude - @0xCodez]] — Codez (@0xCodez)
