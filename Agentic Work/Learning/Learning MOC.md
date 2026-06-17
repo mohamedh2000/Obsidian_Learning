@@ -1212,3 +1212,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Hyperagent Public Skills as Design Book Skills - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
 - [[Composer 2.5 Works With Any Harness After Fable - @jpschroeder]] — Justin Schroeder (@jpschroeder)
 - [[Ascii Magic Dither Algorithms]] — Kailash (@kail_designs)
+- [[GLM-5.2 Design Sense - @0xSero]] — 0xSero (@0xsero)
+- [[Seedance 2.0 Skill OS - @iamemily2050]] — Emily (@iamemily2050)
+- [[mymind Spaces Stack Hover Preview - @vanschneider]] — Tobias van Schneider (@vanschneider)
+- [[The Art of Loop Engineering - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)

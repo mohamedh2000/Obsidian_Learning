@@ -500,6 +500,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Prompt Breakdown]] — Nguyen Le (@newincreative)
 - [[Motion Stack: Geist + Air + Agrandi]] — Nguyen Le (@newincreative)
 - [[Monocromo Framer Template]] — Satto.studio (@satto_studio)
+- [[mymind Spaces Stack Hover Preview - @vanschneider]] — Tobias van Schneider (@vanschneider)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -778,7 +779,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1608
+- **Total tweets:** 1612
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -834,6 +835,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Alex Zhang Post - @a1zhang]] — Alex Zhang (@a1zhang)
 - [[Inference Engines Guide for Running LLMs Locally]] — Ahmad (@theahmadosman)
 - [[The Company Brain Is the Feed]] — Ashwin Gopinath (@ashwingop)
+- [[GLM-5.2 Design Sense - @0xSero]] — 0xSero (@0xsero)
 
 ## AI Agents
 
@@ -1188,6 +1190,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[How to Create Loops with Claude - @mikenevermiss]] — MIKE (@mikenevermiss)
 - [[Hyperagent Public Skills as Design Book Skills - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
 - [[Composer 2.5 Works With Any Harness After Fable - @jpschroeder]] — Justin Schroeder (@jpschroeder)
+- [[The Art of Loop Engineering - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
 
 ## Developer Tools & Code Intelligence
 
@@ -1373,6 +1376,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Non-Technical Technical Dictionary - @cathrynlavery]] — Cathryn (@cathrynlavery)
 - [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)
 - [[Ascii Magic Dither Algorithms]] — Kailash (@kail_designs)
+- [[Seedance 2.0 Skill OS - @iamemily2050]] — Emily (@iamemily2050)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
