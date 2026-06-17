@@ -501,6 +501,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Motion Stack: Geist + Air + Agrandi]] — Nguyen Le (@newincreative)
 - [[Monocromo Framer Template]] — Satto.studio (@satto_studio)
 - [[mymind Spaces Stack Hover Preview - @vanschneider]] — Tobias van Schneider (@vanschneider)
+- [[Shaded Slide Design Template - @amirmushich]] — AmirMušić (@amirmushich)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -779,7 +780,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1612
+- **Total tweets:** 1616
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1377,6 +1378,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[SiteSnap Website Capture for Figma - @eugeneniidesign]] — Eugene Riabov (@eugeneniidesign)
 - [[Ascii Magic Dither Algorithms]] — Kailash (@kail_designs)
 - [[Seedance 2.0 Skill OS - @iamemily2050]] — Emily (@iamemily2050)
+- [[Free Creative Tools Roundup FUI Overlay Builder - @amirmushich]] — AmirMušić (@amirmushich)
+- [[50 Design Prompts from Ex-Warner Designer - @amirmushich]] — AmirMušić (@amirmushich)
+- [[Campaign Builder from One Reference Image - @amirmushich]] — AmirMušić (@amirmushich)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
