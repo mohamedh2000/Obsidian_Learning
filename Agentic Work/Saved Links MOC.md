@@ -1004,7 +1004,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2000
+- **Total notes:** 2001
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1622,6 +1622,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[GPT-5.5 Fable Output Claim]] — AmirMušić (@amirmushich)
 - [[The Meter Keeps Running - @breezechai]] — Breeze (@breezechai)
 - [[Claude Mythos Attribution Dispute - @anton_skv]] — Anton Skvortsov (@anton_skv)
+- [[Ignite Short Animation - @helenratner]] — helenratner (@helenratner)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
