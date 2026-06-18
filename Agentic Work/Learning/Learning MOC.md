@@ -1217,3 +1217,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[mymind Spaces Stack Hover Preview - @vanschneider]] — Tobias van Schneider (@vanschneider)
 - [[The Art of Loop Engineering - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
 - [[Agent Harness Engineering with Claude - @0xCodez]] — Codez (@0xCodez)
+- [[GLM-5.2 Design Workflow Prompts - @anshuc]] — Anshu (@anshuc)
