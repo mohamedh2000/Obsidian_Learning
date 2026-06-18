@@ -831,6 +831,13 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Agent Harness Engineering with Claude - @0xCodez]] — Codez (@0xCodez)
 - [[GLM-5.2 Design Workflow Prompts - @anshuc]] — Anshu (@anshuc)
 - [[Box Hermes Agent Company Brain Tutorial]] — Box (@box)
+- [[GLM-5.2 Built for Long-Horizon Tasks]] — Z.ai (@zai-org)
+- [[GLM-5.2 Ollama Local Model Library]] — Ollama (@ollama)
+- [[Claude Code HTML Artifact Sharing for Teams]] — Thariq (@trq212)
+- [[Self-Improving 300-Agent Swarm on Kimi K2.6]] — Movez (@0xMovez)
+- [[Arqe Drag-and-Drop Animation Cleanup Tool]] — Arqé (@arqe_ai)
+- [[MDN for Designing Good Interfaces]] — Aniket Pawar (@alaymanguy)
+- [[Stanford STORM Method for Claude Research]] — Nav Toor (@heynavtoor)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1005,7 +1012,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2003
+- **Total notes:** 2011
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1625,6 +1632,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Claude Mythos Attribution Dispute - @anton_skv]] — Anton Skvortsov (@anton_skv)
 - [[Ignite Short Animation - @helenratner]] — helenratner (@helenratner)
 - [[Oh U Fancy Huh Camera SFX Edit]] — kiuzr (@kiuzr)
+- [[Fable-Level Intelligence Back]] — Machina (@EXM7777)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -503,6 +503,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[mymind Spaces Stack Hover Preview - @vanschneider]] — Tobias van Schneider (@vanschneider)
 - [[Shaded Slide Design Template - @amirmushich]] — AmirMušić (@amirmushich)
 - [[GLM-5.2 Design Workflow Prompts - @anshuc]] — Anshu (@anshuc)
+- [[MDN for Designing Good Interfaces]] — Aniket Pawar (@alaymanguy)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -781,7 +782,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1620
+- **Total tweets:** 1626
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1196,6 +1197,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agent Harness Engineering with Claude - @0xCodez]] — Codez (@0xCodez)
 - [[Okara Influencer Agent Launch]] — Okara (@askokara)
 - [[Box Hermes Agent Company Brain Tutorial]] — Box (@box)
+- [[Fable-Level Intelligence Back]] — Machina (@EXM7777)
+- [[Self-Improving 300-Agent Swarm on Kimi K2.6]] — Movez (@0xMovez)
+- [[Stanford STORM Method for Claude Research]] — Nav Toor (@heynavtoor)
 
 ## Developer Tools & Code Intelligence
 
@@ -1385,6 +1389,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Free Creative Tools Roundup FUI Overlay Builder - @amirmushich]] — AmirMušić (@amirmushich)
 - [[50 Design Prompts from Ex-Warner Designer - @amirmushich]] — AmirMušić (@amirmushich)
 - [[Campaign Builder from One Reference Image - @amirmushich]] — AmirMušić (@amirmushich)
+- [[Claude Code HTML Artifact Sharing for Teams]] — Thariq (@trq212)
+- [[Arqe Drag-and-Drop Animation Cleanup Tool]] — Arqé (@arqe_ai)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
