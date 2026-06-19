@@ -1236,3 +1236,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Production AI Systems Concepts - @sairahul1]] — Rahul (@sairahul1)
 - [[AI Engineering Interview Reading List - @hitw93]] — Tw93 (@hitw93)
 - [[Designs in Motion - @pankajstwt]] — Pankaj (@pankajstwt)
+- [[Adaptive Fluid Transition Duration - @pwnies]] — Jacob Miller (@pwnies)
+- [[PR Walkthrough Visualizer Skill - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
+- [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)

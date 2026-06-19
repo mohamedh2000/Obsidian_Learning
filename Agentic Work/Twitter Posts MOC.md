@@ -505,6 +505,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GLM-5.2 Design Workflow Prompts - @anshuc]] — Anshu (@anshuc)
 - [[MDN for Designing Good Interfaces]] — Aniket Pawar (@alaymanguy)
 - [[Designs in Motion - @pankajstwt]] — Pankaj (@pankajstwt)
+- [[Adaptive Fluid Transition Duration - @pwnies]] — Jacob Miller (@pwnies)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -783,7 +784,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1636
+- **Total tweets:** 1639
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -841,6 +842,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Company Brain Is the Feed]] — Ashwin Gopinath (@ashwingop)
 - [[GLM-5.2 Design Sense - @0xSero]] — 0xSero (@0xsero)
 - [[llama.cpp vs vLLM Long Context Performance - @0xsero]] — 0xSero (@0xsero)
+- [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)
 
 ## AI Agents
 
@@ -1208,6 +1210,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Production AI Systems Concepts - @sairahul1]] — Rahul (@sairahul1)
 - [[Claude Code Live Session Status Pages - @k1rallik]] — BuBBliK (@k1rallik)
 - [[AI Engineering Interview Reading List - @hitw93]] — Tw93 (@hitw93)
+- [[PR Walkthrough Visualizer Skill - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
 
 ## Developer Tools & Code Intelligence
 
