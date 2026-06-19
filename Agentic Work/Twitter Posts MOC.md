@@ -782,7 +782,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1627
+- **Total tweets:** 1631
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1201,6 +1201,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Fable-Level Intelligence Back]] — Machina (@EXM7777)
 - [[Self-Improving 300-Agent Swarm on Kimi K2.6]] — Movez (@0xMovez)
 - [[Stanford STORM Method for Claude Research]] — Nav Toor (@heynavtoor)
+- [[AI Tool Training Agent with Exa and Tutor - @esandurrani]] — Esan (@esandurrani)
+- [[GTM Team on Claude Code You Can Run Alone - @nifinet]] — Nicolas Finet (@nifinet)
+- [[PR Walkthrough Skill for Agent Generated Pull Requests - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
 
 ## Developer Tools & Code Intelligence
 
@@ -1392,6 +1395,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Campaign Builder from One Reference Image - @amirmushich]] — AmirMušić (@amirmushich)
 - [[Claude Code HTML Artifact Sharing for Teams]] — Thariq (@trq212)
 - [[Arqe Drag-and-Drop Animation Cleanup Tool]] — Arqé (@arqe_ai)
+- [[Claude Design Two-Way Sync with Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

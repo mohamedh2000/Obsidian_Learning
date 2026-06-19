@@ -839,6 +839,12 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[MDN for Designing Good Interfaces]] — Aniket Pawar (@alaymanguy)
 - [[Stanford STORM Method for Claude Research]] — Nav Toor (@heynavtoor)
 - [[llama.cpp vs vLLM Long Context Performance - @0xsero]] — 0xSero (@0xsero)
+- [[AI Tool Training Agent with Exa and Tutor - @esandurrani]] — Esan (@esandurrani)
+- [[GTM Team on Claude Code You Can Run Alone - @nifinet]] — Nicolas Finet (@nifinet)
+- [[Claude Design Two-Way Sync with Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[PR Walkthrough Skill for Agent Generated Pull Requests - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
+- [[Interface Craft - Josh Puckett Design Library]] — Josh Puckett (@joshpuckett)
+- [[Exa AI Search API and Web Crawler]] — Exa Labs (@exaailabs)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1013,7 +1019,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2013
+- **Total notes:** 2019
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
