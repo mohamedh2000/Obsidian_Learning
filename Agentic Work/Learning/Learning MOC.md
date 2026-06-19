@@ -1240,3 +1240,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[PR Walkthrough Visualizer Skill - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
 - [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)
 - [[Delightful Banner with GPT Image 2 and Grok Imagine]] — JP (@dqnamo)
+- [[Kimi Appreciation - @0xSero]] — 0xSero (@0xSero)
+- [[Harness Engineering Notes from Production Agents - @Vtrivedy10]] — Viv (@Vtrivedy10)

@@ -852,6 +852,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[PR Walkthrough Visualizer Skill - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
 - [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)
 - [[Delightful Banner with GPT Image 2 and Grok Imagine]] — JP (@dqnamo)
+- [[Kimi Appreciation - @0xSero]] — 0xSero (@0xSero)
+- [[Harness Engineering Notes from Production Agents - @Vtrivedy10]] — Viv (@Vtrivedy10)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1026,7 +1028,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2029
+- **Total notes:** 2031
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

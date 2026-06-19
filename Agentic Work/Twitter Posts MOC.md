@@ -785,7 +785,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1640
+- **Total tweets:** 1642
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -844,6 +844,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GLM-5.2 Design Sense - @0xSero]] — 0xSero (@0xsero)
 - [[llama.cpp vs vLLM Long Context Performance - @0xsero]] — 0xSero (@0xsero)
 - [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)
+- [[Kimi Appreciation - @0xSero]] — 0xSero (@0xSero)
 
 ## AI Agents
 
@@ -1212,6 +1213,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Live Session Status Pages - @k1rallik]] — BuBBliK (@k1rallik)
 - [[AI Engineering Interview Reading List - @hitw93]] — Tw93 (@hitw93)
 - [[PR Walkthrough Visualizer Skill - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
+- [[Harness Engineering Notes from Production Agents - @Vtrivedy10]] — Viv (@Vtrivedy10)
 
 ## Developer Tools & Code Intelligence
 
