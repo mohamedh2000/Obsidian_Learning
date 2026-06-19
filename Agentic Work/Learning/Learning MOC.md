@@ -1233,3 +1233,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[PR Walkthrough Skill for Agent Generated Pull Requests - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
 - [[Interface Craft - Josh Puckett Design Library]] — Josh Puckett (@joshpuckett)
 - [[Exa AI Search API and Web Crawler]] — Exa Labs (@exaailabs)
+- [[Production AI Systems Concepts - @sairahul1]] — Rahul (@sairahul1)
+- [[AI Engineering Interview Reading List - @hitw93]] — Tw93 (@hitw93)
+- [[Designs in Motion - @pankajstwt]] — Pankaj (@pankajstwt)

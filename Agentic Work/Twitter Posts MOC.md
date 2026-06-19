@@ -504,6 +504,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Shaded Slide Design Template - @amirmushich]] — AmirMušić (@amirmushich)
 - [[GLM-5.2 Design Workflow Prompts - @anshuc]] — Anshu (@anshuc)
 - [[MDN for Designing Good Interfaces]] — Aniket Pawar (@alaymanguy)
+- [[Designs in Motion - @pankajstwt]] — Pankaj (@pankajstwt)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -782,7 +783,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1632
+- **Total tweets:** 1636
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1204,6 +1205,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Tool Training Agent with Exa and Tutor - @esandurrani]] — Esan (@esandurrani)
 - [[GTM Team on Claude Code You Can Run Alone - @nifinet]] — Nicolas Finet (@nifinet)
 - [[PR Walkthrough Skill for Agent Generated Pull Requests - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
+- [[Production AI Systems Concepts - @sairahul1]] — Rahul (@sairahul1)
+- [[Claude Code Live Session Status Pages - @k1rallik]] — BuBBliK (@k1rallik)
+- [[AI Engineering Interview Reading List - @hitw93]] — Tw93 (@hitw93)
 
 ## Developer Tools & Code Intelligence
 
