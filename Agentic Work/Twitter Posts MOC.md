@@ -785,7 +785,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1642
+- **Total tweets:** 1649
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1214,6 +1214,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[AI Engineering Interview Reading List - @hitw93]] — Tw93 (@hitw93)
 - [[PR Walkthrough Visualizer Skill - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
 - [[Harness Engineering Notes from Production Agents - @Vtrivedy10]] — Viv (@Vtrivedy10)
+- [[Perplexity Brain Continuously Learning Memory System]] — Perplexity (@perplexity_ai)
+- [[Recursive Engineering Meta]] — Ahmad (@theahmadosman)
+- [[Hermes Agent v0.17 Reach Release]] — Nous Research (@nousresearch)
+- [[12 Prompt Engineering Lies]] — Trevin Chow (@trevin)
+- [[Top Anthropic PDF Resources]] — Bilgin Ibryam (@bibryam)
+- [[Training Agents Fine-Tuning Loop]] — Ben Burtenshaw (@ben_burtenshaw)
+- [[Perplexity Computer Brain Memory Update]] — AshutoshShrivastava (@ai_for_success)
 
 ## Developer Tools & Code Intelligence
 

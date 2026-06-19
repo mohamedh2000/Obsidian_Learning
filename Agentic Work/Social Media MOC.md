@@ -232,3 +232,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Ignite Short Animation - @helenratner]] — helenratner (@helenratner)
 - [[Oh U Fancy Huh Camera SFX Edit]] — kiuzr (@kiuzr)
 - [[Cine SFX Instagram Post]] — cine.sfx (@cine.sfx)
+- [[Succession Kendall Roy Logan Finale Scene - @filmotonic]] — filmotonic (@filmotonic)

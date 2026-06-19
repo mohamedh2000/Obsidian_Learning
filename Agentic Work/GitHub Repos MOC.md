@@ -77,6 +77,7 @@ GitHub repositories saved from iMessage.
 - [[effective-html - Agent Skill for Elegant HTML Plans and Diagrams]] — plannotator
 - [[Muller-Brockmann Grid Systems HyperAgent Skill]] — alexmcdonnell-airtable (hyperagent-public-skills)
 - [[seedance2-skill - Seedance 2 Video Prompt Skill]] — dexhunter (@dexhunter)
+- [[claude-code-workflows - Production Claude Code Workflows]] — shinpr (@shinpr)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
