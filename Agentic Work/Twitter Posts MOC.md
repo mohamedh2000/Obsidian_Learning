@@ -506,6 +506,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[MDN for Designing Good Interfaces]] — Aniket Pawar (@alaymanguy)
 - [[Designs in Motion - @pankajstwt]] — Pankaj (@pankajstwt)
 - [[Adaptive Fluid Transition Duration - @pwnies]] — Jacob Miller (@pwnies)
+- [[Delightful Banner with GPT Image 2 and Grok Imagine]] — JP (@dqnamo)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -784,7 +785,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1639
+- **Total tweets:** 1640
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

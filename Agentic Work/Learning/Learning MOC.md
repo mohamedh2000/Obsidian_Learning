@@ -1239,3 +1239,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Adaptive Fluid Transition Duration - @pwnies]] — Jacob Miller (@pwnies)
 - [[PR Walkthrough Visualizer Skill - @zachlloydtweets]] — Zach Lloyd (@zachlloydtweets)
 - [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)
+- [[Delightful Banner with GPT Image 2 and Grok Imagine]] — JP (@dqnamo)
