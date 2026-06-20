@@ -1259,3 +1259,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Competitor Analysis Skill for GTM Teams - @jaysahnan]] — Jay (@jaysahnan)
 - [[Browserbase Competitor Analysis Skill]] — Browserbase (@browserbase)
 - [[Restaurant Website Conversion UX Reel - @ceomarkod]] — ceomarkod (@ceomarkod)
+- [[Visual Storytelling and Storyboarding Reel - @nimi.is]] — nimi.is (@nimi.is)

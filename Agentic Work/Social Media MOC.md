@@ -239,3 +239,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Higgsfield AI Plugin for Premiere and After Effects - sferro21]] — sferro21 (@sferro21)
 - [[Restaurant Website Conversion UX Reel - @ceomarkod]] — ceomarkod (@ceomarkod)
 - [[Succession Logan Power and Family Abuse Scene - @business.fortunes]] — business.fortunes (@business.fortunes)
+- [[Visual Storytelling and Storyboarding Reel - @nimi.is]] — nimi.is (@nimi.is)
