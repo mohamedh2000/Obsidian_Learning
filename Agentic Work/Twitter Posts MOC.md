@@ -784,9 +784,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[The Meter Keeps Running - @breezechai]] — Breeze (@breezechai)
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 - [[X Growth Revenue Playbook]] — Will (@athcanft)
+- [[Graph and Network Theory Learning Starters]] — Ahmad (@theahmadosman)
 ## Stats
 
-- **Total tweets:** 1653
+- **Total tweets:** 1655
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1225,6 +1226,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Build AI Workflows Without Prompt Optimizing - @leopardracer]] — leopardracer (@leopardracer)
 - [[HarnessX Typed Agent Harness - @AlphaSignalAI]] — AlphaSignal AI (@AlphaSignalAI)
 - [[Competitor Analysis Skill for GTM Teams - @jaysahnan]] — Jay (@jaysahnan)
+- [[RLM Coding Agent Four Updates Away]] — AVB (@neural_avb)
 
 ## Developer Tools & Code Intelligence
 
