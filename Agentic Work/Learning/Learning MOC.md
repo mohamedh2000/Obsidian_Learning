@@ -1267,3 +1267,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[DSPy Programming LLMs - @mdancho84]] — Matt Dancho (Business Science) (@mdancho84)
 - [[Taste Skill for Cleaner AI Generated UIs - @rammcodes]] — Ram Maheshwari (@rammcodes)
 - [[Ultimate AI Engineer Roadmap 2026]] — PrinceSinghhub (@PrinceSinghhub)
+- [[STORM Knowledge Curation System - stanford-oval]] — Stanford Open Virtual Assistant Lab (@stanford-oval)
