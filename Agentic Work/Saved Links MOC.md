@@ -1045,7 +1045,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2053
+- **Total notes:** 2054
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -2135,3 +2135,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Campaign Builder from One Reference Image - @amirmushich]] — AmirMušić (@amirmushich)
 - [[Okara Influencer Agent Launch]] — Okara (@askokara)
 - [[Open Source Video Analysis Tool - @amirmushich]] — AmirMušić (@amirmushich)
+- [[X Growth Revenue Playbook]] — Will (@athcanft)

@@ -783,9 +783,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Cyberpunk Sketchbook Midjourney SREF 3176174088]] — Midjourney Sref and prompt Library (@promptsref)
 - [[The Meter Keeps Running - @breezechai]] — Breeze (@breezechai)
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
+- [[X Growth Revenue Playbook]] — Will (@athcanft)
 ## Stats
 
-- **Total tweets:** 1652
+- **Total tweets:** 1653
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
