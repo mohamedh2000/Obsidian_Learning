@@ -1252,3 +1252,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Top Anthropic PDF Resources]] — Bilgin Ibryam (@bibryam)
 - [[Training Agents Fine-Tuning Loop]] — Ben Burtenshaw (@ben_burtenshaw)
 - [[Perplexity Computer Brain Memory Update]] — AshutoshShrivastava (@ai_for_success)
+- [[Unreal Engine 5.8 MCP Server in Editor]] — girsta (@girsta)
+- [[Claude Motion Graphics with Higgsfield MCP]] — sanji.chien (@sanji.chien)

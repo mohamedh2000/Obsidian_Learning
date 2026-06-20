@@ -233,3 +233,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Oh U Fancy Huh Camera SFX Edit]] — kiuzr (@kiuzr)
 - [[Cine SFX Instagram Post]] — cine.sfx (@cine.sfx)
 - [[Succession Kendall Roy Logan Finale Scene - @filmotonic]] — filmotonic (@filmotonic)
+- [[Unreal Engine 5.8 MCP Server in Editor]] — girsta (@girsta)
+- [[Claude Motion Graphics with Higgsfield MCP]] — sanji.chien (@sanji.chien)
