@@ -1258,3 +1258,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[HarnessX Typed Agent Harness - @AlphaSignalAI]] — AlphaSignal AI (@AlphaSignalAI)
 - [[Competitor Analysis Skill for GTM Teams - @jaysahnan]] — Jay (@jaysahnan)
 - [[Browserbase Competitor Analysis Skill]] — Browserbase (@browserbase)
+- [[Restaurant Website Conversion UX Reel - @ceomarkod]] — ceomarkod (@ceomarkod)

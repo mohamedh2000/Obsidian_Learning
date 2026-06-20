@@ -237,3 +237,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Claude Motion Graphics with Higgsfield MCP]] — sanji.chien (@sanji.chien)
 - [[Claude Code Video Editing with Hyperframes - ashoksangireddyy]] — ashoksangireddyy (@ashoksangireddyy)
 - [[Higgsfield AI Plugin for Premiere and After Effects - sferro21]] — sferro21 (@sferro21)
+- [[Restaurant Website Conversion UX Reel - @ceomarkod]] — ceomarkod (@ceomarkod)
+- [[Succession Logan Power and Family Abuse Scene - @business.fortunes]] — business.fortunes (@business.fortunes)
