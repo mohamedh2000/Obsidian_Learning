@@ -1262,3 +1262,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Visual Storytelling and Storyboarding Reel - @nimi.is]] — nimi.is (@nimi.is)
 - [[RLM Coding Agent Four Updates Away]] — AVB (@neural_avb)
 - [[Graph and Network Theory Learning Starters]] — Ahmad (@theahmadosman)
+- [[Skills-4-SE Claude Skills for Software Engineering]] — ArabelaTso (@ArabelaTso)
+- [[Dynamic Workflows in Claude Code - @0xCodez]] — Codez (@0xCodez)
+- [[DSPy Programming LLMs - @mdancho84]] — Matt Dancho (Business Science) (@mdancho84)
+- [[Taste Skill for Cleaner AI Generated UIs - @rammcodes]] — Ram Maheshwari (@rammcodes)
+- [[Ultimate AI Engineer Roadmap 2026]] — PrinceSinghhub (@PrinceSinghhub)

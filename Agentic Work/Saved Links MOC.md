@@ -874,6 +874,11 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Visual Storytelling and Storyboarding Reel - @nimi.is]] — nimi.is (@nimi.is)
 - [[RLM Coding Agent Four Updates Away]] — AVB (@neural_avb)
 - [[Graph and Network Theory Learning Starters]] — Ahmad (@theahmadosman)
+- [[Skills-4-SE Claude Skills for Software Engineering]] — ArabelaTso (@ArabelaTso)
+- [[Dynamic Workflows in Claude Code - @0xCodez]] — Codez (@0xCodez)
+- [[DSPy Programming LLMs - @mdancho84]] — Matt Dancho (Business Science) (@mdancho84)
+- [[Taste Skill for Cleaner AI Generated UIs - @rammcodes]] — Ram Maheshwari (@rammcodes)
+- [[Ultimate AI Engineer Roadmap 2026]] — PrinceSinghhub (@PrinceSinghhub)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1048,7 +1053,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2057
+- **Total notes:** 2066
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1677,6 +1682,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Higgsfield AI Plugin for Premiere and After Effects - sferro21]] — sferro21 (@sferro21)
 - [[Awesome Engineering Management - engineering-management]] — engineering-management (@engineering-management)
 - [[Succession Logan Power and Family Abuse Scene - @business.fortunes]] — business.fortunes (@business.fortunes)
+- [[AuditKit Local Website Audit CLI]] — AuditKit (@auditkit)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -2139,3 +2145,6 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Okara Influencer Agent Launch]] — Okara (@askokara)
 - [[Open Source Video Analysis Tool - @amirmushich]] — AmirMušić (@amirmushich)
 - [[X Growth Revenue Playbook]] — Will (@athcanft)
+- [[Sookti AI Autonomous SAP Pipeline Cards - @sahildabasss]] — Sahil (@sahildabasss)
+- [[Health Tech Branding Exploration - @praveenisomer]] — Praveen Kumar (@praveenisomer)
+- [[Gridform Design Tool Update - @0xDragoonLab]] — Deep | Dragoon (@0xDragoonLab)

@@ -507,6 +507,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Designs in Motion - @pankajstwt]] — Pankaj (@pankajstwt)
 - [[Adaptive Fluid Transition Duration - @pwnies]] — Jacob Miller (@pwnies)
 - [[Delightful Banner with GPT Image 2 and Grok Imagine]] — JP (@dqnamo)
+- [[Sookti AI Autonomous SAP Pipeline Cards - @sahildabasss]] — Sahil (@sahildabasss)
+- [[Health Tech Branding Exploration - @praveenisomer]] — Praveen Kumar (@praveenisomer)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -787,7 +789,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Graph and Network Theory Learning Starters]] — Ahmad (@theahmadosman)
 ## Stats
 
-- **Total tweets:** 1655
+- **Total tweets:** 1661
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -847,6 +849,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[llama.cpp vs vLLM Long Context Performance - @0xsero]] — 0xSero (@0xsero)
 - [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)
 - [[Kimi Appreciation - @0xSero]] — 0xSero (@0xSero)
+- [[DSPy Programming LLMs - @mdancho84]] — Matt Dancho (Business Science) (@mdancho84)
 
 ## AI Agents
 
@@ -1227,6 +1230,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[HarnessX Typed Agent Harness - @AlphaSignalAI]] — AlphaSignal AI (@AlphaSignalAI)
 - [[Competitor Analysis Skill for GTM Teams - @jaysahnan]] — Jay (@jaysahnan)
 - [[RLM Coding Agent Four Updates Away]] — AVB (@neural_avb)
+- [[Dynamic Workflows in Claude Code - @0xCodez]] — Codez (@0xCodez)
+- [[Taste Skill for Cleaner AI Generated UIs - @rammcodes]] — Ram Maheshwari (@rammcodes)
 
 ## Developer Tools & Code Intelligence
 
@@ -1420,6 +1425,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Arqe Drag-and-Drop Animation Cleanup Tool]] — Arqé (@arqe_ai)
 - [[Claude Design Two-Way Sync with Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
 - [[Open Source Video Analysis Tool - @amirmushich]] — AmirMušić (@amirmushich)
+- [[Gridform Design Tool Update - @0xDragoonLab]] — Deep | Dragoon (@0xDragoonLab)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

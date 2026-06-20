@@ -79,6 +79,8 @@ GitHub repositories saved from iMessage.
 - [[seedance2-skill - Seedance 2 Video Prompt Skill]] — dexhunter (@dexhunter)
 - [[claude-code-workflows - Production Claude Code Workflows]] — shinpr (@shinpr)
 - [[Awesome Engineering Management - engineering-management]] — engineering-management (@engineering-management)
+- [[Skills-4-SE Claude Skills for Software Engineering]] — ArabelaTso (@ArabelaTso)
+- [[Ultimate AI Engineer Roadmap 2026]] — PrinceSinghhub (@PrinceSinghhub)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
