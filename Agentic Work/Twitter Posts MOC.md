@@ -785,7 +785,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 ## Stats
 
-- **Total tweets:** 1649
+- **Total tweets:** 1652
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1221,6 +1221,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Top Anthropic PDF Resources]] — Bilgin Ibryam (@bibryam)
 - [[Training Agents Fine-Tuning Loop]] — Ben Burtenshaw (@ben_burtenshaw)
 - [[Perplexity Computer Brain Memory Update]] — AshutoshShrivastava (@ai_for_success)
+- [[Build AI Workflows Without Prompt Optimizing - @leopardracer]] — leopardracer (@leopardracer)
+- [[HarnessX Typed Agent Harness - @AlphaSignalAI]] — AlphaSignal AI (@AlphaSignalAI)
+- [[Competitor Analysis Skill for GTM Teams - @jaysahnan]] — Jay (@jaysahnan)
 
 ## Developer Tools & Code Intelligence
 

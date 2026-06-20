@@ -78,6 +78,7 @@ GitHub repositories saved from iMessage.
 - [[Muller-Brockmann Grid Systems HyperAgent Skill]] — alexmcdonnell-airtable (hyperagent-public-skills)
 - [[seedance2-skill - Seedance 2 Video Prompt Skill]] — dexhunter (@dexhunter)
 - [[claude-code-workflows - Production Claude Code Workflows]] — shinpr (@shinpr)
+- [[Awesome Engineering Management - engineering-management]] — engineering-management (@engineering-management)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

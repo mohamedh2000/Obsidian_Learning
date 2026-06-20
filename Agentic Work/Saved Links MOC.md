@@ -866,6 +866,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Perplexity Computer Brain Memory Update]] — AshutoshShrivastava (@ai_for_success)
 - [[Unreal Engine 5.8 MCP Server in Editor]] — girsta (@girsta)
 - [[Claude Motion Graphics with Higgsfield MCP]] — sanji.chien (@sanji.chien)
+- [[Build AI Workflows Without Prompt Optimizing - @leopardracer]] — leopardracer (@leopardracer)
+- [[HarnessX Typed Agent Harness - @AlphaSignalAI]] — AlphaSignal AI (@AlphaSignalAI)
+- [[Competitor Analysis Skill for GTM Teams - @jaysahnan]] — Jay (@jaysahnan)
+- [[Browserbase Competitor Analysis Skill]] — Browserbase (@browserbase)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1040,7 +1044,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2044
+- **Total notes:** 2051
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1665,6 +1669,9 @@ See [[Twitter Posts MOC]] for full index.
 - [[Best Designs On X]] — Best Designs On X (bestdesignsonx.com)
 - [[Claude Code Live Session Status Pages - @k1rallik]] — BuBBliK (@k1rallik)
 - [[Succession Kendall Roy Logan Finale Scene - @filmotonic]] — filmotonic (@filmotonic)
+- [[Claude Code Video Editing with Hyperframes - ashoksangireddyy]] — ashoksangireddyy (@ashoksangireddyy)
+- [[Higgsfield AI Plugin for Premiere and After Effects - sferro21]] — sferro21 (@sferro21)
+- [[Awesome Engineering Management - engineering-management]] — engineering-management (@engineering-management)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

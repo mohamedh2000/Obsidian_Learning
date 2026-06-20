@@ -1254,3 +1254,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Perplexity Computer Brain Memory Update]] — AshutoshShrivastava (@ai_for_success)
 - [[Unreal Engine 5.8 MCP Server in Editor]] — girsta (@girsta)
 - [[Claude Motion Graphics with Higgsfield MCP]] — sanji.chien (@sanji.chien)
+- [[Build AI Workflows Without Prompt Optimizing - @leopardracer]] — leopardracer (@leopardracer)
+- [[HarnessX Typed Agent Harness - @AlphaSignalAI]] — AlphaSignal AI (@AlphaSignalAI)
+- [[Competitor Analysis Skill for GTM Teams - @jaysahnan]] — Jay (@jaysahnan)
+- [[Browserbase Competitor Analysis Skill]] — Browserbase (@browserbase)

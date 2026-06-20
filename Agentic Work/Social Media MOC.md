@@ -235,3 +235,5 @@ Instagram reels and other social media content saved from iMessage.
 - [[Succession Kendall Roy Logan Finale Scene - @filmotonic]] — filmotonic (@filmotonic)
 - [[Unreal Engine 5.8 MCP Server in Editor]] — girsta (@girsta)
 - [[Claude Motion Graphics with Higgsfield MCP]] — sanji.chien (@sanji.chien)
+- [[Claude Code Video Editing with Hyperframes - ashoksangireddyy]] — ashoksangireddyy (@ashoksangireddyy)
+- [[Higgsfield AI Plugin for Premiere and After Effects - sferro21]] — sferro21 (@sferro21)
