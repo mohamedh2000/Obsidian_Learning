@@ -1272,3 +1272,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Bee Through Screen 3D Website Animation - @ariana.porcelana]] — ariana.porcelana on Instagram
 - [[Seedance Watch Collab AI Ad Tutorial - @adil.dsgn]] — adil.dsgn on Instagram
 - [[Unicorn Web Design Breakdown Teaser - @thedesignely]] — thedesignely on Instagram
+- [[New Framer Template Coming to Life]] — Pawel Gola (@gola99)

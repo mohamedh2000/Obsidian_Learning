@@ -884,6 +884,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Bee Through Screen 3D Website Animation - @ariana.porcelana]] — ariana.porcelana on Instagram
 - [[Seedance Watch Collab AI Ad Tutorial - @adil.dsgn]] — adil.dsgn on Instagram
 - [[Unicorn Web Design Breakdown Teaser - @thedesignely]] — thedesignely on Instagram
+- [[New Framer Template Coming to Life]] — Pawel Gola (@gola99)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1058,7 +1059,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2076
+- **Total notes:** 2077
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
