@@ -789,7 +789,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Graph and Network Theory Learning Starters]] — Ahmad (@theahmadosman)
 ## Stats
 
-- **Total tweets:** 1661
+- **Total tweets:** 1662
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1232,6 +1232,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[RLM Coding Agent Four Updates Away]] — AVB (@neural_avb)
 - [[Dynamic Workflows in Claude Code - @0xCodez]] — Codez (@0xCodez)
 - [[Taste Skill for Cleaner AI Generated UIs - @rammcodes]] — Ram Maheshwari (@rammcodes)
+- [[General Intelligence Company Cofounder Agents - @curateddesignhq]] — Curated (@curateddesignhq)
 
 ## Developer Tools & Code Intelligence
 

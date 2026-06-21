@@ -247,3 +247,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Bee Through Screen 3D Website Animation - @ariana.porcelana]] — ariana.porcelana on Instagram
 - [[Seedance Watch Collab AI Ad Tutorial - @adil.dsgn]] — adil.dsgn on Instagram
 - [[Unicorn Web Design Breakdown Teaser - @thedesignely]] — thedesignely on Instagram
+- [[Instagram Reel DWs-GL4iOr0 - @nadav_._levi]] — nadav_._levi (@nadav_._levi)
