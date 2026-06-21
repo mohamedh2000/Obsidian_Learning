@@ -1268,3 +1268,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Taste Skill for Cleaner AI Generated UIs - @rammcodes]] — Ram Maheshwari (@rammcodes)
 - [[Ultimate AI Engineer Roadmap 2026]] — PrinceSinghhub (@PrinceSinghhub)
 - [[STORM Knowledge Curation System - stanford-oval]] — Stanford Open Virtual Assistant Lab (@stanford-oval)
+- [[Textura AI Design Prompt Platform - @textura.eu]] — textura.eu on Instagram
+- [[Bee Through Screen 3D Website Animation - @ariana.porcelana]] — ariana.porcelana on Instagram
+- [[Seedance Watch Collab AI Ad Tutorial - @adil.dsgn]] — adil.dsgn on Instagram
+- [[Unicorn Web Design Breakdown Teaser - @thedesignely]] — thedesignely on Instagram
