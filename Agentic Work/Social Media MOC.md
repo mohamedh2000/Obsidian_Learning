@@ -252,3 +252,7 @@ Instagram reels and other social media content saved from iMessage.
 - [[Denzel Washington Character Control and Chaos Reel]] — fthescript_ (@fthescript_)
 - [[Flow Edit Visual Reel]] — zbzaea (@zbzaea)
 - [[Instagram Post DZ4rSMCADk3 - Evolving AI Weekly News]] — evolving.ai (@evolving.ai)
+- [[Gojiberry Claude for Sales GTM Automation]] — aixmagazine (@aixmagazine)
+- [[Tempo AI Head of Growth for Ecommerce]] — aixmagazine (@aixmagazine)
+- [[Machiavelli Business Weakness Audit Prompts]] — thinkgpt_ai (@thinkgpt_ai)
+- [[Shotlist AI Script-to-Scene Workflow App]] — morilliu (@morilliu)

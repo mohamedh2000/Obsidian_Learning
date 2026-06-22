@@ -1070,7 +1070,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2093
+- **Total notes:** 2097
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1710,6 +1710,10 @@ See [[Twitter Posts MOC]] for full index.
 - [[GEO Article Monetization Tweet]] — Miles.Ma (@ma_zhenyuan)
 - [[Flow Edit Visual Reel]] — zbzaea (@zbzaea)
 - [[Instagram Post DZ4rSMCADk3 - Evolving AI Weekly News]] — evolving.ai (@evolving.ai)
+- [[Gojiberry Claude for Sales GTM Automation]] — aixmagazine (@aixmagazine)
+- [[Tempo AI Head of Growth for Ecommerce]] — aixmagazine (@aixmagazine)
+- [[Machiavelli Business Weakness Audit Prompts]] — thinkgpt_ai (@thinkgpt_ai)
+- [[Shotlist AI Script-to-Scene Workflow App]] — morilliu (@morilliu)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
