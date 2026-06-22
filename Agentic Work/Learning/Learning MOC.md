@@ -1284,3 +1284,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Blueprint System Design MCP]] — Blueprint (@systemsdesign.site)
 - [[Gemini 3.1 Seedance 2.0 Cinematic Website Tutorial - @vivek4real_]] — Vivek Sen (@vivek4real_)
 - [[Full Product Evaluation Loop with Codex - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
+- [[Trigger.dev AI Workflows Platform]] — Trigger.dev (@triggerdotdev)
