@@ -251,3 +251,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[AI-Built Website Rhythm Reel]] — jerrythewebdev (@jerrythewebdev)
 - [[Denzel Washington Character Control and Chaos Reel]] — fthescript_ (@fthescript_)
 - [[Flow Edit Visual Reel]] — zbzaea (@zbzaea)
+- [[Instagram Post DZ4rSMCADk3 - Evolving AI Weekly News]] — evolving.ai (@evolving.ai)
