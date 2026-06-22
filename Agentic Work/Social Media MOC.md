@@ -248,3 +248,6 @@ Instagram reels and other social media content saved from iMessage.
 - [[Seedance Watch Collab AI Ad Tutorial - @adil.dsgn]] — adil.dsgn on Instagram
 - [[Unicorn Web Design Breakdown Teaser - @thedesignely]] — thedesignely on Instagram
 - [[Instagram Reel DWs-GL4iOr0 - @nadav_._levi]] — nadav_._levi (@nadav_._levi)
+- [[AI-Built Website Rhythm Reel]] — jerrythewebdev (@jerrythewebdev)
+- [[Denzel Washington Character Control and Chaos Reel]] — fthescript_ (@fthescript_)
+- [[Flow Edit Visual Reel]] — zbzaea (@zbzaea)

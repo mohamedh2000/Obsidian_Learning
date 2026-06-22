@@ -510,6 +510,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Sookti AI Autonomous SAP Pipeline Cards - @sahildabasss]] — Sahil (@sahildabasss)
 - [[Health Tech Branding Exploration - @praveenisomer]] — Praveen Kumar (@praveenisomer)
 - [[New Framer Template Coming to Life]] — Pawel Gola (@gola99)
+- [[Gemini 3.1 Seedance 2.0 Cinematic Website Tutorial - @vivek4real_]] — Vivek Sen (@vivek4real_)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -788,9 +789,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Viral AI Creative Experiment Video]] — Nguyen Le (@newincreative)
 - [[X Growth Revenue Playbook]] — Will (@athcanft)
 - [[Graph and Network Theory Learning Starters]] — Ahmad (@theahmadosman)
+- [[GEO Article Monetization Tweet]] — Miles.Ma (@ma_zhenyuan)
+- [[LeetCode Coding Patterns Article]] — Javarevisited (@javarevisited)
+- [[Loops Explained: Claude, GPT, Mira and What Actually Works]] — Anatoli Kopadze (@AnatoliKopadze)
 ## Stats
 
-- **Total tweets:** 1663
+- **Total tweets:** 1671
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -851,6 +855,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Graph Memory Reconstruction for LLMs - @neural_avb]] — AVB (@neural_avb)
 - [[Kimi Appreciation - @0xSero]] — 0xSero (@0xSero)
 - [[DSPy Programming LLMs - @mdancho84]] — Matt Dancho (Business Science) (@mdancho84)
+- [[DAIR.AI Top AI Papers Week June 14-21 2026]] — DAIR.AI (@dair_ai)
+- [[GLM-5.2 Beat Fable 5 at Website Design - @Designarena]] — Design Arena (@Designarena)
 
 ## AI Agents
 
@@ -1234,6 +1240,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Dynamic Workflows in Claude Code - @0xCodez]] — Codez (@0xCodez)
 - [[Taste Skill for Cleaner AI Generated UIs - @rammcodes]] — Ram Maheshwari (@rammcodes)
 - [[General Intelligence Company Cofounder Agents - @curateddesignhq]] — Curated (@curateddesignhq)
+- [[Build Your Own Agent Harness - @mfpiccolo]] — Mike Piccolo (@mfpiccolo)
+- [[Full Product Evaluation Loop with Codex - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
 
 ## Developer Tools & Code Intelligence
 

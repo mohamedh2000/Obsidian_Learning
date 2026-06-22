@@ -885,6 +885,17 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Seedance Watch Collab AI Ad Tutorial - @adil.dsgn]] — adil.dsgn on Instagram
 - [[Unicorn Web Design Breakdown Teaser - @thedesignely]] — thedesignely on Instagram
 - [[New Framer Template Coming to Life]] — Pawel Gola (@gola99)
+- [[Build Your Own Claude Code with LangChain Deep Agents]] — Towards AI (@towardsai)
+- [[LeetCode Coding Patterns Article]] — Javarevisited (@javarevisited)
+- [[DAIR.AI Top AI Papers Week June 14-21 2026]] — DAIR.AI (@dair_ai)
+- [[Steering Claude Code: Skills, Hooks, Rules, Subagents and More]] — Claude (@claudeai)
+- [[Loops Explained: Claude, GPT, Mira and What Actually Works]] — Anatoli Kopadze (@AnatoliKopadze)
+- [[Build Your Own Agent Harness - @mfpiccolo]] — Mike Piccolo (@mfpiccolo)
+- [[GLM-5.2 Beat Fable 5 at Website Design - @Designarena]] — Design Arena (@Designarena)
+- [[Cognitive Load - zakirullin]] — zakirullin (@zakirullin)
+- [[Blueprint System Design MCP]] — Blueprint (@systemsdesign.site)
+- [[Gemini 3.1 Seedance 2.0 Cinematic Website Tutorial - @vivek4real_]] — Vivek Sen (@vivek4real_)
+- [[Full Product Evaluation Loop with Codex - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1059,7 +1070,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2077
+- **Total notes:** 2092
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1694,6 +1705,10 @@ See [[Twitter Posts MOC]] for full index.
 - [[Instagram Reel DTCrCmijpWY]] — Instagram
 - [[General Intelligence Company Cofounder Agents - @curateddesignhq]] — Curated (@curateddesignhq)
 - [[Instagram Reel DWs-GL4iOr0 - @nadav_._levi]] — nadav_._levi (@nadav_._levi)
+- [[AI-Built Website Rhythm Reel]] — jerrythewebdev (@jerrythewebdev)
+- [[Denzel Washington Character Control and Chaos Reel]] — fthescript_ (@fthescript_)
+- [[GEO Article Monetization Tweet]] — Miles.Ma (@ma_zhenyuan)
+- [[Flow Edit Visual Reel]] — zbzaea (@zbzaea)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
