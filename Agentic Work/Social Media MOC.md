@@ -256,3 +256,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Tempo AI Head of Growth for Ecommerce]] — aixmagazine (@aixmagazine)
 - [[Machiavelli Business Weakness Audit Prompts]] — thinkgpt_ai (@thinkgpt_ai)
 - [[Shotlist AI Script-to-Scene Workflow App]] — morilliu (@morilliu)
+- [[Claude Competitive Advantage Prompt Framework]] — thinkgpt_ai (@thinkgpt_ai)
