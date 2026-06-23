@@ -897,6 +897,23 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Gemini 3.1 Seedance 2.0 Cinematic Website Tutorial - @vivek4real_]] — Vivek Sen (@vivek4real_)
 - [[Full Product Evaluation Loop with Codex - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
 - [[Trigger.dev AI Workflows Platform]] — Trigger.dev (@triggerdotdev)
+- [[Self-Improving Agent System with Fable 5 - @0xCodez]] — Codez (@0xCodez)
+- [[Cameron Deep Dives Into RL - @novasarc01]] — lux (@novasarc01)
+- [[CPU to GPU Transfer Optimization and Binary Quantization - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[reverse-skill Security Skill Router Pack - zhaoxuya520]] — zhaoxuya520 (@zhaoxuya520)
+- [[Loop Engineering Clearly Explained - @akshay_pachaar]] — Akshay (@akshay_pachaar)
+- [[Step-By-Step LLM Engineering Projects 2026 - @TheAhmadOsman]] — Ahmad (@TheAhmadOsman)
+- [[Anthropic AI Architect on Agent Loops - @0xcodila]] — codila (@0xcodila)
+- [[AgentSpace Human and Agents Workspace - HKUDS]] — HKUDS (@HKUDS)
+- [[AI GTM Brain on GLM-5.2 - @nifinet]] — Nicolas Finet (@nifinet)
+- [[Design Crit AI Design Judgment Dataset - @contralabs_ai]] — Contra Labs at Config (@contralabs_ai)
+- [[Agentic RL Frameworks Key Takeaways]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[The Ultimate Guide to Fine Tuning]] — Google Drive (analyticalrohit.connect@gmail.com)
+- [[GLM 5.2 Reference-to-Web in Open Design AMR]] — Open Design (@opendesignhq)
+- [[Jitter Harvest Food and Drink Templates]] — Jitter (@jittervideo)
+- [[Interface Craft Invoice Tool Detail]] — joshpuckett (@joshpuckett)
+- [[Graph of Thoughts Python Implementation]] — Dan Kornas (@dankornas)
+- [[Design Skills Toolkit Roundup]] — Paidax (@xin_pai88825)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1071,7 +1088,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2098
+- **Total notes:** 2117
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1715,6 +1732,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Tempo AI Head of Growth for Ecommerce]] — aixmagazine (@aixmagazine)
 - [[Machiavelli Business Weakness Audit Prompts]] — thinkgpt_ai (@thinkgpt_ai)
 - [[Shotlist AI Script-to-Scene Workflow App]] — morilliu (@morilliu)
+- [[Demand-Side Product Work PM Reference Guide]] — George from prodmgmt.world (@nurijanian)
+- [[Contra Labs Creative AI Evaluation Lab]] — Contra Labs
 
 ## Recovered 2026-03-26 — 2026-04-14
 

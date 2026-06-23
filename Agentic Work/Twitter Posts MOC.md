@@ -511,6 +511,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Health Tech Branding Exploration - @praveenisomer]] — Praveen Kumar (@praveenisomer)
 - [[New Framer Template Coming to Life]] — Pawel Gola (@gola99)
 - [[Gemini 3.1 Seedance 2.0 Cinematic Website Tutorial - @vivek4real_]] — Vivek Sen (@vivek4real_)
+- [[Jitter Harvest Food and Drink Templates]] — Jitter (@jittervideo)
+- [[Interface Craft Invoice Tool Detail]] — joshpuckett (@joshpuckett)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -533,6 +535,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Obsidian Productive Vault System]] — CyrilXBT (@cyrilxbt)
 - [[Obsidian Canvases as AI Data Visualization]] — George from prodmgmt.world (@nurijanian)
 - [[Continual Learning Bench 1.0 Benchmark]] — Lance Martin (@rlancemartin)
+- [[Cameron Deep Dives Into RL - @novasarc01]] — lux (@novasarc01)
 ## Uncategorized
 
 - [[AI Startup Visual Share - @ellen_in_sf]] — Visual content
@@ -792,9 +795,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GEO Article Monetization Tweet]] — Miles.Ma (@ma_zhenyuan)
 - [[LeetCode Coding Patterns Article]] — Javarevisited (@javarevisited)
 - [[Loops Explained: Claude, GPT, Mira and What Actually Works]] — Anatoli Kopadze (@AnatoliKopadze)
+- [[Demand-Side Product Work PM Reference Guide]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1671
+- **Total tweets:** 1686
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -857,6 +861,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DSPy Programming LLMs - @mdancho84]] — Matt Dancho (Business Science) (@mdancho84)
 - [[DAIR.AI Top AI Papers Week June 14-21 2026]] — DAIR.AI (@dair_ai)
 - [[GLM-5.2 Beat Fable 5 at Website Design - @Designarena]] — Design Arena (@Designarena)
+- [[Step-By-Step LLM Engineering Projects 2026 - @TheAhmadOsman]] — Ahmad (@TheAhmadOsman)
 
 ## AI Agents
 
@@ -1242,6 +1247,13 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[General Intelligence Company Cofounder Agents - @curateddesignhq]] — Curated (@curateddesignhq)
 - [[Build Your Own Agent Harness - @mfpiccolo]] — Mike Piccolo (@mfpiccolo)
 - [[Full Product Evaluation Loop with Codex - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
+- [[Self-Improving Agent System with Fable 5 - @0xCodez]] — Codez (@0xCodez)
+- [[Loop Engineering Clearly Explained - @akshay_pachaar]] — Akshay (@akshay_pachaar)
+- [[Anthropic AI Architect on Agent Loops - @0xcodila]] — codila (@0xcodila)
+- [[AI GTM Brain on GLM-5.2 - @nifinet]] — Nicolas Finet (@nifinet)
+- [[Agentic RL Frameworks Key Takeaways]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Graph of Thoughts Python Implementation]] — Dan Kornas (@dankornas)
+- [[Design Skills Toolkit Roundup]] — Paidax (@xin_pai88825)
 
 ## Developer Tools & Code Intelligence
 
@@ -1436,6 +1448,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Design Two-Way Sync with Claude Code - @claudedevs]] — ClaudeDevs (@claudedevs)
 - [[Open Source Video Analysis Tool - @amirmushich]] — AmirMušić (@amirmushich)
 - [[Gridform Design Tool Update - @0xDragoonLab]] — Deep | Dragoon (@0xDragoonLab)
+- [[Design Crit AI Design Judgment Dataset - @contralabs_ai]] — Contra Labs at Config (@contralabs_ai)
+- [[GLM 5.2 Reference-to-Web in Open Design AMR]] — Open Design (@opendesignhq)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1742,3 +1756,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[A Primer to Understanding Layouts in NVIDIA CuTe]] — Jino Rohit (@jino_rohit)
 - [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
 - [[Claude Mythos Attribution Dispute - @anton_skv]] — Anton Skvortsov (@anton_skv)
+- [[CPU to GPU Transfer Optimization and Binary Quantization - @_avichawla]] — Avi Chawla (@_avichawla)

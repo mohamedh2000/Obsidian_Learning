@@ -83,6 +83,8 @@ GitHub repositories saved from iMessage.
 - [[Ultimate AI Engineer Roadmap 2026]] — PrinceSinghhub (@PrinceSinghhub)
 - [[STORM Knowledge Curation System - stanford-oval]] — Stanford Open Virtual Assistant Lab (@stanford-oval)
 - [[Cognitive Load - zakirullin]] — zakirullin (@zakirullin)
+- [[reverse-skill Security Skill Router Pack - zhaoxuya520]] — zhaoxuya520 (@zhaoxuya520)
+- [[AgentSpace Human and Agents Workspace - HKUDS]] — HKUDS (@HKUDS)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
