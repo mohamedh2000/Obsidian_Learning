@@ -1302,3 +1302,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Interface Craft Invoice Tool Detail]] — joshpuckett (@joshpuckett)
 - [[Graph of Thoughts Python Implementation]] — Dan Kornas (@dankornas)
 - [[Design Skills Toolkit Roundup]] — Paidax (@xin_pai88825)
+- [[Lottielab Animation Showcase]] — Daryl Patigas (@darel023)
+- [[Hermes Computer Use on Windows and Linux]] — YanXbt (@ibuzovskyi)

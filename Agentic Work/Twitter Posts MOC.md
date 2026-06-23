@@ -798,7 +798,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Demand-Side Product Work PM Reference Guide]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1686
+- **Total tweets:** 1688
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1254,6 +1254,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Agentic RL Frameworks Key Takeaways]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
 - [[Graph of Thoughts Python Implementation]] — Dan Kornas (@dankornas)
 - [[Design Skills Toolkit Roundup]] — Paidax (@xin_pai88825)
+- [[Hermes Computer Use on Windows and Linux]] — YanXbt (@ibuzovskyi)
 
 ## Developer Tools & Code Intelligence
 
@@ -1450,6 +1451,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Gridform Design Tool Update - @0xDragoonLab]] — Deep | Dragoon (@0xDragoonLab)
 - [[Design Crit AI Design Judgment Dataset - @contralabs_ai]] — Contra Labs at Config (@contralabs_ai)
 - [[GLM 5.2 Reference-to-Web in Open Design AMR]] — Open Design (@opendesignhq)
+- [[Lottielab Animation Showcase]] — Daryl Patigas (@darel023)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
