@@ -1091,7 +1091,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2122
+- **Total notes:** 2123
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -2204,3 +2204,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Sookti AI Autonomous SAP Pipeline Cards - @sahildabasss]] — Sahil (@sahildabasss)
 - [[Health Tech Branding Exploration - @praveenisomer]] — Praveen Kumar (@praveenisomer)
 - [[Gridform Design Tool Update - @0xDragoonLab]] — Deep | Dragoon (@0xDragoonLab)
+- [[How We Think: A Practical Guide for PM Work]] — George from prodmgmt.world (@nurijanian)

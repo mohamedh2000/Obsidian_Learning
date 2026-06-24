@@ -796,9 +796,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LeetCode Coding Patterns Article]] — Javarevisited (@javarevisited)
 - [[Loops Explained: Claude, GPT, Mira and What Actually Works]] — Anatoli Kopadze (@AnatoliKopadze)
 - [[Demand-Side Product Work PM Reference Guide]] — George from prodmgmt.world (@nurijanian)
+- [[How We Think: A Practical Guide for PM Work]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1688
+- **Total tweets:** 1689
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
