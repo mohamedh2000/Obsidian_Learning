@@ -1307,3 +1307,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Give Your Agents an Interpreter]] — LangChain Accounts (@langchain)
 - [[Build Your Own LLM Workshop Recordings]] — Justin Angel (@JustinAngel)
 - [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)
+- [[Xiangyi Li Personal Evals Library - @xdotli]] — Xiangyi Li (@xdotli)
+- [[LangSmith Engine Sleep Time Compute for Agent Memory - @hwchase17]] — Harrison Chase (@hwchase17)

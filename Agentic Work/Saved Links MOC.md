@@ -919,6 +919,8 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Give Your Agents an Interpreter]] — LangChain Accounts (@langchain)
 - [[Build Your Own LLM Workshop Recordings]] — Justin Angel (@JustinAngel)
 - [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)
+- [[Xiangyi Li Personal Evals Library - @xdotli]] — Xiangyi Li (@xdotli)
+- [[LangSmith Engine Sleep Time Compute for Agent Memory - @hwchase17]] — Harrison Chase (@hwchase17)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1093,7 +1095,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2130
+- **Total notes:** 2132
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
