@@ -1305,3 +1305,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Lottielab Animation Showcase]] — Daryl Patigas (@darel023)
 - [[Hermes Computer Use on Windows and Linux]] — YanXbt (@ibuzovskyi)
 - [[Give Your Agents an Interpreter]] — LangChain Accounts (@langchain)
+- [[Build Your Own LLM Workshop Recordings]] — Justin Angel (@JustinAngel)
+- [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)

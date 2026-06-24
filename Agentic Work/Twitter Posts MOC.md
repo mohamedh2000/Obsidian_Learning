@@ -800,7 +800,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1692
+- **Total tweets:** 1694
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -865,6 +865,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GLM-5.2 Beat Fable 5 at Website Design - @Designarena]] — Design Arena (@Designarena)
 - [[Step-By-Step LLM Engineering Projects 2026 - @TheAhmadOsman]] — Ahmad (@TheAhmadOsman)
 - [[How vLLM Works Article - @amitiitbhu]] — Amit Shekhar (@amitiitbhu)
+- [[Build Your Own LLM Workshop Recordings]] — Justin Angel (@JustinAngel)
 
 ## AI Agents
 
@@ -1456,6 +1457,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[GLM 5.2 Reference-to-Web in Open Design AMR]] — Open Design (@opendesignhq)
 - [[Lottielab Animation Showcase]] — Daryl Patigas (@darel023)
 - [[Clapet System Design Tool Launch - @console_buche]] — Sebastien-console_buche (@console_buche)
+- [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
