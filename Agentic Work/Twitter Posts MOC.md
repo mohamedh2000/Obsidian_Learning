@@ -797,9 +797,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Loops Explained: Claude, GPT, Mira and What Actually Works]] — Anatoli Kopadze (@AnatoliKopadze)
 - [[Demand-Side Product Work PM Reference Guide]] — George from prodmgmt.world (@nurijanian)
 - [[How We Think: A Practical Guide for PM Work]] — George from prodmgmt.world (@nurijanian)
+- [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1689
+- **Total tweets:** 1692
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -863,6 +864,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DAIR.AI Top AI Papers Week June 14-21 2026]] — DAIR.AI (@dair_ai)
 - [[GLM-5.2 Beat Fable 5 at Website Design - @Designarena]] — Design Arena (@Designarena)
 - [[Step-By-Step LLM Engineering Projects 2026 - @TheAhmadOsman]] — Ahmad (@TheAhmadOsman)
+- [[How vLLM Works Article - @amitiitbhu]] — Amit Shekhar (@amitiitbhu)
 
 ## AI Agents
 
@@ -1453,6 +1455,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Design Crit AI Design Judgment Dataset - @contralabs_ai]] — Contra Labs at Config (@contralabs_ai)
 - [[GLM 5.2 Reference-to-Web in Open Design AMR]] — Open Design (@opendesignhq)
 - [[Lottielab Animation Showcase]] — Daryl Patigas (@darel023)
+- [[Clapet System Design Tool Launch - @console_buche]] — Sebastien-console_buche (@console_buche)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
