@@ -1093,7 +1093,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2129
+- **Total notes:** 2130
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1742,6 +1742,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Claude Competitive Advantage Prompt Framework]] — thinkgpt_ai (@thinkgpt_ai)
 - [[Napoleon Business Strategy Claude Prompts]] — thinkgpt_ai (@thinkgpt_ai)
 - [[CollectUI Daily Design Inspiration]] — CollectUI
+- [[tiktok.com/t/ZP8sK6ybv (placeholder)]] — tiktok.com
 
 ## Recovered 2026-03-26 — 2026-04-14
 

@@ -258,3 +258,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[Shotlist AI Script-to-Scene Workflow App]] — morilliu (@morilliu)
 - [[Claude Competitive Advantage Prompt Framework]] — thinkgpt_ai (@thinkgpt_ai)
 - [[Napoleon Business Strategy Claude Prompts]] — thinkgpt_ai (@thinkgpt_ai)
+- [[tiktok.com/t/ZP8sK6ybv (placeholder)]] — tiktok.com
