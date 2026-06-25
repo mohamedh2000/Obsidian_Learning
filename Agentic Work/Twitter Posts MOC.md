@@ -514,6 +514,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Jitter Harvest Food and Drink Templates]] — Jitter (@jittervideo)
 - [[Interface Craft Invoice Tool Detail]] — joshpuckett (@joshpuckett)
 - [[Shopify Editions Spring 2026 Technical Breakdown]] — Arnaud Tanielian (@danetag)
+- [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -801,7 +802,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1701
+- **Total tweets:** 1702
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research

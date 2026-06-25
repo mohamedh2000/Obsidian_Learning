@@ -926,6 +926,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[What Is an Agent - Agentic Loop Components]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
 - [[Shopify Editions Spring 2026 Technical Breakdown]] — Arnaud Tanielian (@danetag)
 - [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
+- [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1100,7 +1101,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2137
+- **Total notes:** 2138
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21

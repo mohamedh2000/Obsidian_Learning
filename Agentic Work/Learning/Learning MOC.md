@@ -1314,3 +1314,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[What Is an Agent - Agentic Loop Components]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
 - [[Shopify Editions Spring 2026 Technical Breakdown]] — Arnaud Tanielian (@danetag)
 - [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
+- [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
