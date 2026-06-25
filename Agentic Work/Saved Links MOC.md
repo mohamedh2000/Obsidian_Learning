@@ -929,6 +929,15 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
 - [[Stanford CS336 Language Modeling from Scratch]] — lucas (@lucas_flatwhite)
 - [[LLM Open University Beginner to Advanced - youssefHosni]] — youssefHosni (@youssefHosni)
+- [[Anthropic Effective AI Agents Blueprint]] — h100envy (@h100envy)
+- [[Loop Engineering and Persistent Agent State]] — Akshay (@akshay_pachaar)
+- [[Marketing Engineer Agent Operating Model]] — Shann3 (@shannholmberg)
+- [[Many Claudes Dynamic Workflows Explained]] — unicode (@unicodef1wn)
+- [[Matrix Agent Org Chart for Autonomous Work]] — Flowith (@flowith)
+- [[Compound Engineering ce-simplify-code Skill]] — EveryInc (@EveryInc)
+- [[Autodata Agentic Self-Instruct Synthetic Training Data]] — elvis (@omarsar0)
+- [[Agentic Engineering Harness Is the Moat]] — J.B. (@vibemarketer_)
+- [[Coding Agents Need Better Workspaces]] — Traycer (@traycerai)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1103,7 +1112,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2144
+- **Total notes:** 2154
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1753,6 +1762,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Napoleon Business Strategy Claude Prompts]] — thinkgpt_ai (@thinkgpt_ai)
 - [[CollectUI Daily Design Inspiration]] — CollectUI
 - [[tiktok.com/t/ZP8sK6ybv (placeholder)]] — tiktok.com
+- [[Origami AI Outbound Agents Quote]] — Finn Mallery (@fin465)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

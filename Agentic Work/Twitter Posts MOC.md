@@ -803,7 +803,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 ## Stats
 
-- **Total tweets:** 1707
+- **Total tweets:** 1716
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -872,6 +872,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Xiangyi Li Personal Evals Library - @xdotli]] — Xiangyi Li (@xdotli)
 - [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
 - [[Stanford CS336 Language Modeling from Scratch]] — lucas (@lucas_flatwhite)
+- [[Autodata Agentic Self-Instruct Synthetic Training Data]] — elvis (@omarsar0)
 
 ## AI Agents
 
@@ -1270,6 +1271,14 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[What Is an Agent - Agentic Loop Components]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
 - [[Skills For Design Engineers - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
 - [[100+ Agent Collaboration Gemma vLLM Challenge - @thom_wolf]] — Thomas Wolf (@thom_wolf)
+- [[Anthropic Effective AI Agents Blueprint]] — h100envy (@h100envy)
+- [[Loop Engineering and Persistent Agent State]] — Akshay (@akshay_pachaar)
+- [[Marketing Engineer Agent Operating Model]] — Shann3 (@shannholmberg)
+- [[Many Claudes Dynamic Workflows Explained]] — unicode (@unicodef1wn)
+- [[Matrix Agent Org Chart for Autonomous Work]] — Flowith (@flowith)
+- [[Origami AI Outbound Agents Quote]] — Finn Mallery (@fin465)
+- [[Agentic Engineering Harness Is the Moat]] — J.B. (@vibemarketer_)
+- [[Coding Agents Need Better Workspaces]] — Traycer (@traycerai)
 
 ## Developer Tools & Code Intelligence
 
