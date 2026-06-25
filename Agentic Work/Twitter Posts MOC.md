@@ -802,7 +802,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1702
+- **Total tweets:** 1703
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -870,6 +870,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Build Your Own LLM Workshop Recordings]] — Justin Angel (@JustinAngel)
 - [[Xiangyi Li Personal Evals Library - @xdotli]] — Xiangyi Li (@xdotli)
 - [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
+- [[Stanford CS336 Language Modeling from Scratch]] — lucas (@lucas_flatwhite)
 
 ## AI Agents
 
