@@ -800,9 +800,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Demand-Side Product Work PM Reference Guide]] — George from prodmgmt.world (@nurijanian)
 - [[How We Think: A Practical Guide for PM Work]] — George from prodmgmt.world (@nurijanian)
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
+- [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 ## Stats
 
-- **Total tweets:** 1703
+- **Total tweets:** 1707
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1267,6 +1268,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[LangSmith Engine Sleep Time Compute for Agent Memory - @hwchase17]] — Harrison Chase (@hwchase17)
 - [[alphaXiv Autoresearch for GitHub Repos]] — alphaXiv (@askalphaxiv)
 - [[What Is an Agent - Agentic Loop Components]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Skills For Design Engineers - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
+- [[100+ Agent Collaboration Gemma vLLM Challenge - @thom_wolf]] — Thomas Wolf (@thom_wolf)
 
 ## Developer Tools & Code Intelligence
 
@@ -1467,6 +1470,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Clapet System Design Tool Launch - @console_buche]] — Sebastien-console_buche (@console_buche)
 - [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)
 - [[Gridform Design Platform Updates]] — Deep | Dragoon (@0xdragoonlab)
+- [[AI Engineer Skills for 2026 - @deronin_]] — Ronin (@deronin_)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

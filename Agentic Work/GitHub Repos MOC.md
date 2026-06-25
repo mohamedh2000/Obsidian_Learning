@@ -85,6 +85,7 @@ GitHub repositories saved from iMessage.
 - [[Cognitive Load - zakirullin]] — zakirullin (@zakirullin)
 - [[reverse-skill Security Skill Router Pack - zhaoxuya520]] — zhaoxuya520 (@zhaoxuya520)
 - [[AgentSpace Human and Agents Workspace - HKUDS]] — HKUDS (@HKUDS)
+- [[LLM Open University Beginner to Advanced - youssefHosni]] — youssefHosni (@youssefHosni)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

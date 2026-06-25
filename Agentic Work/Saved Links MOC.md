@@ -928,6 +928,7 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
 - [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
 - [[Stanford CS336 Language Modeling from Scratch]] — lucas (@lucas_flatwhite)
+- [[LLM Open University Beginner to Advanced - youssefHosni]] — youssefHosni (@youssefHosni)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1102,7 +1103,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2139
+- **Total notes:** 2144
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -2221,3 +2222,7 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Clapet System Design Tool Launch - @console_buche]] — Sebastien-console_buche (@console_buche)
 - [[How vLLM Works Article - @amitiitbhu]] — Amit Shekhar (@amitiitbhu)
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
+- [[Skills For Design Engineers - @lucas_flatwhite]] — lucas (@lucas_flatwhite)
+- [[100+ Agent Collaboration Gemma vLLM Challenge - @thom_wolf]] — Thomas Wolf (@thom_wolf)
+- [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
+- [[AI Engineer Skills for 2026 - @deronin_]] — Ronin (@deronin_)

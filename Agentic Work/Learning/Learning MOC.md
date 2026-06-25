@@ -1316,3 +1316,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
 - [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
 - [[Stanford CS336 Language Modeling from Scratch]] — lucas (@lucas_flatwhite)
+- [[LLM Open University Beginner to Advanced - youssefHosni]] — youssefHosni (@youssefHosni)
