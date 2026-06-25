@@ -1309,3 +1309,8 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)
 - [[Xiangyi Li Personal Evals Library - @xdotli]] — Xiangyi Li (@xdotli)
 - [[LangSmith Engine Sleep Time Compute for Agent Memory - @hwchase17]] — Harrison Chase (@hwchase17)
+- [[Gridform Design Platform Updates]] — Deep | Dragoon (@0xdragoonlab)
+- [[alphaXiv Autoresearch for GitHub Repos]] — alphaXiv (@askalphaxiv)
+- [[What Is an Agent - Agentic Loop Components]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
+- [[Shopify Editions Spring 2026 Technical Breakdown]] — Arnaud Tanielian (@danetag)
+- [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)

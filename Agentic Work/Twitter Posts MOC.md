@@ -513,6 +513,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Gemini 3.1 Seedance 2.0 Cinematic Website Tutorial - @vivek4real_]] — Vivek Sen (@vivek4real_)
 - [[Jitter Harvest Food and Drink Templates]] — Jitter (@jittervideo)
 - [[Interface Craft Invoice Tool Detail]] — joshpuckett (@joshpuckett)
+- [[Shopify Editions Spring 2026 Technical Breakdown]] — Arnaud Tanielian (@danetag)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -800,7 +801,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
 ## Stats
 
-- **Total tweets:** 1696
+- **Total tweets:** 1701
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -867,6 +868,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[How vLLM Works Article - @amitiitbhu]] — Amit Shekhar (@amitiitbhu)
 - [[Build Your Own LLM Workshop Recordings]] — Justin Angel (@JustinAngel)
 - [[Xiangyi Li Personal Evals Library - @xdotli]] — Xiangyi Li (@xdotli)
+- [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
 
 ## AI Agents
 
@@ -1261,6 +1263,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Design Skills Toolkit Roundup]] — Paidax (@xin_pai88825)
 - [[Hermes Computer Use on Windows and Linux]] — YanXbt (@ibuzovskyi)
 - [[LangSmith Engine Sleep Time Compute for Agent Memory - @hwchase17]] — Harrison Chase (@hwchase17)
+- [[alphaXiv Autoresearch for GitHub Repos]] — alphaXiv (@askalphaxiv)
+- [[What Is an Agent - Agentic Loop Components]] — Cameron R. Wolfe, Ph.D. (@cwolferesearch)
 
 ## Developer Tools & Code Intelligence
 
@@ -1460,6 +1464,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Lottielab Animation Showcase]] — Daryl Patigas (@darel023)
 - [[Clapet System Design Tool Launch - @console_buche]] — Sebastien-console_buche (@console_buche)
 - [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)
+- [[Gridform Design Platform Updates]] — Deep | Dragoon (@0xdragoonlab)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
