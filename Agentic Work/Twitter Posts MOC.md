@@ -803,7 +803,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 ## Stats
 
-- **Total tweets:** 1718
+- **Total tweets:** 1720
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1281,6 +1281,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Coding Agents Need Better Workspaces]] — Traycer (@traycerai)
 - [[Agentic Loop Engineering Blueprint]] — h100envy (@h100envy)
 - [[How to Win Agent-Led Growth]] — Jay (@JaySahnan)
+- [[Anthropic Claude Code Workflows: Spec, Dispatch, Verify, Systemize]] — darkzodchi (@zodchiii)
+- [[Claude Code Dynamic Workflows: Plan, Act, Re-route, Repeat]] — unicode (@unicodef1wn)
 
 ## Developer Tools & Code Intelligence
 

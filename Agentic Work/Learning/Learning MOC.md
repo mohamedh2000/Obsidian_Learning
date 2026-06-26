@@ -1329,3 +1329,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[How ChatGPT Actually Picks Sources]] — Suganthan Mohanadasan (@suganthan)
 - [[Agentic Loop Engineering Blueprint]] — h100envy (@h100envy)
 - [[AI Website Design Showcase - @goxyvi]] — Victoria (@goxyvi)
+- [[Teaching Agents Product Design at Vercel]] — John Phamous (Vercel)
+- [[Anthropic Claude Code Workflows: Spec, Dispatch, Verify, Systemize]] — darkzodchi (@zodchiii)
+- [[Claude Code Dynamic Workflows: Plan, Act, Re-route, Repeat]] — unicode (@unicodef1wn)
