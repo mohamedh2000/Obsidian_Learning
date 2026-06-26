@@ -1118,7 +1118,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2161
+- **Total notes:** 2162
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -2243,3 +2243,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[100+ Agent Collaboration Gemma vLLM Challenge - @thom_wolf]] — Thomas Wolf (@thom_wolf)
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 - [[AI Engineer Skills for 2026 - @deronin_]] — Ronin (@deronin_)
+- [[Model Routing for Marketing Workflows - @shannholmberg]] — Shann³ (@shannholmberg)
