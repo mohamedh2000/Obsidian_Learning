@@ -803,7 +803,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 ## Stats
 
-- **Total tweets:** 1716
+- **Total tweets:** 1718
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1279,6 +1279,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Origami AI Outbound Agents Quote]] — Finn Mallery (@fin465)
 - [[Agentic Engineering Harness Is the Moat]] — J.B. (@vibemarketer_)
 - [[Coding Agents Need Better Workspaces]] — Traycer (@traycerai)
+- [[Agentic Loop Engineering Blueprint]] — h100envy (@h100envy)
+- [[How to Win Agent-Led Growth]] — Jay (@JaySahnan)
 
 ## Developer Tools & Code Intelligence
 

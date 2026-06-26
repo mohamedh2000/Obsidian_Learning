@@ -1326,3 +1326,5 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Autodata Agentic Self-Instruct Synthetic Training Data]] — elvis (@omarsar0)
 - [[Agentic Engineering Harness Is the Moat]] — J.B. (@vibemarketer_)
 - [[Coding Agents Need Better Workspaces]] — Traycer (@traycerai)
+- [[How ChatGPT Actually Picks Sources]] — Suganthan Mohanadasan (@suganthan)
+- [[Agentic Loop Engineering Blueprint]] — h100envy (@h100envy)
