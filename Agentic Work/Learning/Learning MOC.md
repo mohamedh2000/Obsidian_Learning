@@ -1332,3 +1332,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Teaching Agents Product Design at Vercel]] — John Phamous (Vercel)
 - [[Anthropic Claude Code Workflows: Spec, Dispatch, Verify, Systemize]] — darkzodchi (@zodchiii)
 - [[Claude Code Dynamic Workflows: Plan, Act, Re-route, Repeat]] — unicode (@unicodef1wn)
+- [[Core ML Concepts Every Interviewer Expects - @tensortonic]] — TensorTonic (@tensortonic)
+- [[Google Cloud Multi-Tenant Agentic AI Reference Architecture - @googlecloudtech]] — Google Cloud Tech (@googlecloudtech)
+- [[Complete Data Structures Algorithms and System Design Repository - @tom_doerr]] — Tom Dörr (@tom_doerr)

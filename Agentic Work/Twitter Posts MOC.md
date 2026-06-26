@@ -515,6 +515,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Interface Craft Invoice Tool Detail]] — joshpuckett (@joshpuckett)
 - [[Shopify Editions Spring 2026 Technical Breakdown]] — Arnaud Tanielian (@danetag)
 - [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
+- [[Complete Data Structures Algorithms and System Design Repository - @tom_doerr]] — Tom Dörr (@tom_doerr)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -803,7 +804,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 ## Stats
 
-- **Total tweets:** 1721
+- **Total tweets:** 1724
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1284,6 +1285,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Anthropic Claude Code Workflows: Spec, Dispatch, Verify, Systemize]] — darkzodchi (@zodchiii)
 - [[Claude Code Dynamic Workflows: Plan, Act, Re-route, Repeat]] — unicode (@unicodef1wn)
 - [[Model Routing for Marketing Workflows - @shannholmberg]] — Shann³ (@shannholmberg)
+- [[Google Cloud Multi-Tenant Agentic AI Reference Architecture - @googlecloudtech]] — Google Cloud Tech (@googlecloudtech)
 
 ## Developer Tools & Code Intelligence
 
@@ -1485,6 +1487,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Takumi v2 Beta JSX to Images Rust Engine]] — Kane Wang (@kanewang_)
 - [[Gridform Design Platform Updates]] — Deep | Dragoon (@0xdragoonlab)
 - [[AI Engineer Skills for 2026 - @deronin_]] — Ronin (@deronin_)
+- [[Core ML Concepts Every Interviewer Expects - @tensortonic]] — TensorTonic (@tensortonic)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
