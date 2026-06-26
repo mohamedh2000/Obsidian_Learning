@@ -1328,3 +1328,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Coding Agents Need Better Workspaces]] — Traycer (@traycerai)
 - [[How ChatGPT Actually Picks Sources]] — Suganthan Mohanadasan (@suganthan)
 - [[Agentic Loop Engineering Blueprint]] — h100envy (@h100envy)
+- [[AI Website Design Showcase - @goxyvi]] — Victoria (@goxyvi)
