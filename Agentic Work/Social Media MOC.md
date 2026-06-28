@@ -262,3 +262,4 @@ Instagram reels and other social media content saved from iMessage.
 - [[AI Website Design Showcase - @goxyvi]] — Victoria (@goxyvi)
 - [[Sana Learn Personalized Learning Ad - @sanalabs]] — Sana (@sanalabs)
 - [[Manaslu Cafe Nepalese Food in Queens TikTok]] — thebibgourmand
+- [[Al Trad Luxury Real Estate Brand Strategy - dkurien]] — dkurien (@dkurien)

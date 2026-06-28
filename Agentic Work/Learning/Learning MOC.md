@@ -1342,3 +1342,6 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[How to Write an Effective Software Design Document]] — Refactoring English
 - [[Compound Engineering Release Work - @trevin]] — Trevin Chow (@trevin)
 - [[KV Cache Compression and Paged Attention Blocks - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[The Hitchhiker's Guide to Agentic AI - Haggai Roitman]] — Haggai Roitman
+- [[Loop Library Repeatable AI Agent Workflows - Forward Future]] — Forward Future
+- [[Al Trad Luxury Real Estate Brand Strategy - dkurien]] — dkurien (@dkurien)
