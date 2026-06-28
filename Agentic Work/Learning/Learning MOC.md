@@ -1335,3 +1335,10 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Core ML Concepts Every Interviewer Expects - @tensortonic]] — TensorTonic (@tensortonic)
 - [[Google Cloud Multi-Tenant Agentic AI Reference Architecture - @googlecloudtech]] — Google Cloud Tech (@googlecloudtech)
 - [[Complete Data Structures Algorithms and System Design Repository - @tom_doerr]] — Tom Dörr (@tom_doerr)
+- [[research-skills Claude Code Proposal and Slide Skills - @tom_doerr]] — Tom Dörr (@tom_doerr)
+- [[DeepSeek DSpark Speculative Decoding - @danielhanchen]] — Daniel Han (@danielhanchen)
+- [[Compound Engineering June 2026 Update - @trevin]] — Trevin Chow (@trevin)
+- [[Understanding Deep Learning Notebook Collection - @_rohit_tiwari_]] — Rohit Kumar Tiwari (@_rohit_tiwari_)
+- [[How to Write an Effective Software Design Document]] — Refactoring English
+- [[Compound Engineering Release Work - @trevin]] — Trevin Chow (@trevin)
+- [[KV Cache Compression and Paged Attention Blocks - @_avichawla]] — Avi Chawla (@_avichawla)

@@ -804,7 +804,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 ## Stats
 
-- **Total tweets:** 1724
+- **Total tweets:** 1731
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -874,6 +874,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Build a Large Language Model From Scratch Repo]] — Sumanth (@sumanth_077)
 - [[Stanford CS336 Language Modeling from Scratch]] — lucas (@lucas_flatwhite)
 - [[Autodata Agentic Self-Instruct Synthetic Training Data]] — elvis (@omarsar0)
+- [[DeepSeek DSpark Speculative Decoding - @danielhanchen]] — Daniel Han (@danielhanchen)
+- [[Understanding Deep Learning Notebook Collection - @_rohit_tiwari_]] — Rohit Kumar Tiwari (@_rohit_tiwari_)
+- [[KV Cache Compression and Paged Attention Blocks - @_avichawla]] — Avi Chawla (@_avichawla)
 
 ## AI Agents
 
@@ -1286,6 +1289,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Code Dynamic Workflows: Plan, Act, Re-route, Repeat]] — unicode (@unicodef1wn)
 - [[Model Routing for Marketing Workflows - @shannholmberg]] — Shann³ (@shannholmberg)
 - [[Google Cloud Multi-Tenant Agentic AI Reference Architecture - @googlecloudtech]] — Google Cloud Tech (@googlecloudtech)
+- [[research-skills Claude Code Proposal and Slide Skills - @tom_doerr]] — Tom Dörr (@tom_doerr)
+- [[Compound Engineering June 2026 Update - @trevin]] — Trevin Chow (@trevin)
+- [[Compound Engineering Release Work - @trevin]] — Trevin Chow (@trevin)
+- [[Meta Ad Researcher Skills for Claude - @shivsakhuja]] — Shiv (@shivsakhuja)
 
 ## Developer Tools & Code Intelligence
 

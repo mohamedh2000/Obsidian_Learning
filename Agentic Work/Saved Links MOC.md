@@ -947,6 +947,13 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Core ML Concepts Every Interviewer Expects - @tensortonic]] — TensorTonic (@tensortonic)
 - [[Google Cloud Multi-Tenant Agentic AI Reference Architecture - @googlecloudtech]] — Google Cloud Tech (@googlecloudtech)
 - [[Complete Data Structures Algorithms and System Design Repository - @tom_doerr]] — Tom Dörr (@tom_doerr)
+- [[research-skills Claude Code Proposal and Slide Skills - @tom_doerr]] — Tom Dörr (@tom_doerr)
+- [[DeepSeek DSpark Speculative Decoding - @danielhanchen]] — Daniel Han (@danielhanchen)
+- [[Compound Engineering June 2026 Update - @trevin]] — Trevin Chow (@trevin)
+- [[Understanding Deep Learning Notebook Collection - @_rohit_tiwari_]] — Rohit Kumar Tiwari (@_rohit_tiwari_)
+- [[How to Write an Effective Software Design Document]] — Refactoring English
+- [[Compound Engineering Release Work - @trevin]] — Trevin Chow (@trevin)
+- [[KV Cache Compression and Paged Attention Blocks - @_avichawla]] — Avi Chawla (@_avichawla)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1121,7 +1128,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2166
+- **Total notes:** 2175
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1774,6 +1781,8 @@ See [[Twitter Posts MOC]] for full index.
 - [[Origami AI Outbound Agents Quote]] — Finn Mallery (@fin465)
 - [[How to Win Agent-Led Growth]] — Jay (@JaySahnan)
 - [[Sana Learn Personalized Learning Ad - @sanalabs]] — Sana (@sanalabs)
+- [[Manaslu Cafe Nepalese Food in Queens TikTok]] — thebibgourmand
+- [[Meta Ad Researcher Skills for Claude - @shivsakhuja]] — Shiv (@shivsakhuja)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
