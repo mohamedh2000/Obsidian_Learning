@@ -1,8 +1,8 @@
 ---
 title: "The Hitchhiker's Guide to Agentic AI - Haggai Roitman"
-url: "https://arxiv.org/pdf/2606.24937"
+url: "https://arxiv.org/abs/2606.24937"
 platform: arxiv
-date_saved: 2026-06-27
+date_saved: 2026-06-28
 source: "Haggai Roitman"
 content_type: guide
 topics: [Agent Design, LLM Architecture, RLHF]
@@ -17,10 +17,10 @@ status: unread
 | | |
 |---|---|
 | **Source** | Haggai Roitman |
-| **Saved** | 2026-06-27 |
+| **Saved** | 2026-06-28 |
 | **Type** | guide |
 | **Engagement** | arXiv:2606.24937 |
-| **URL** | [Link](https://arxiv.org/pdf/2606.24937) |
+| **URL** | [Link](https://arxiv.org/abs/2606.24937) |
 
 ## Topics
 

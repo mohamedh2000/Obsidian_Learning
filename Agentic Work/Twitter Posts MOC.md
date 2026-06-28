@@ -802,9 +802,10 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[How We Think: A Practical Guide for PM Work]] — George from prodmgmt.world (@nurijanian)
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
+- [[here u go all 4 of emm - @kaialan__]] — Serena (@kaialan__)
 ## Stats
 
-- **Total tweets:** 1731
+- **Total tweets:** 1733
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1293,6 +1294,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Compound Engineering June 2026 Update - @trevin]] — Trevin Chow (@trevin)
 - [[Compound Engineering Release Work - @trevin]] — Trevin Chow (@trevin)
 - [[Meta Ad Researcher Skills for Claude - @shivsakhuja]] — Shiv (@shivsakhuja)
+- [[Deep Agents Course - @hwchase17]] — Harrison Chase (@hwchase17)
 
 ## Developer Tools & Code Intelligence
 
