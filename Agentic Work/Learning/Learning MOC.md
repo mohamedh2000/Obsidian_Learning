@@ -1347,3 +1347,4 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Al Trad Luxury Real Estate Brand Strategy - dkurien]] — dkurien (@dkurien)
 - [[Deep Agents Course - @hwchase17]] — Harrison Chase (@hwchase17)
 - [[find-skills Vercel Agent Skill]] — Vercel Labs
+- [[DeepThink Skill for Expensive Agent Decisions - @jonkomet]] — komet💫 (@jonkomet)

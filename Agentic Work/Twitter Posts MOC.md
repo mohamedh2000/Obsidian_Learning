@@ -805,7 +805,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[here u go all 4 of emm - @kaialan__]] — Serena (@kaialan__)
 ## Stats
 
-- **Total tweets:** 1733
+- **Total tweets:** 1734
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1295,6 +1295,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Compound Engineering Release Work - @trevin]] — Trevin Chow (@trevin)
 - [[Meta Ad Researcher Skills for Claude - @shivsakhuja]] — Shiv (@shivsakhuja)
 - [[Deep Agents Course - @hwchase17]] — Harrison Chase (@hwchase17)
+- [[DeepThink Skill for Expensive Agent Decisions - @jonkomet]] — komet💫 (@jonkomet)
 
 ## Developer Tools & Code Intelligence
 
