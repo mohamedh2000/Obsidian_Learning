@@ -960,6 +960,10 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Deep Agents Course - @hwchase17]] — Harrison Chase (@hwchase17)
 - [[find-skills Vercel Agent Skill]] — Vercel Labs
 - [[DeepThink Skill for Expensive Agent Decisions - @jonkomet]] — komet💫 (@jonkomet)
+- [[Introducing Dynamic Subagents in Deep Agents - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
+- [[Awesome GPU Engineering Resource List - @dankornas]] — Dan Kornas (@dankornas)
+- [[Transformer Explainer Interactive Visualization]] — Polo Club of Data Science
+- [[Stanford CS336 Notes - Qihong Ruan]] — Qihong Ruan
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1134,7 +1138,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2188
+- **Total notes:** 2196
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1796,6 +1800,10 @@ See [[Twitter Posts MOC]] for full index.
 - [[here u go all 4 of emm - @kaialan__]] — Serena (@kaialan__)
 - [[Indonesian Food Restaurants in NYC - TikTok ZP8GNDmP8]] — kbeforethefame
 - [[Heyblueprint Davenportlandia Instagram Post]] — heyblueprint (@heyblueprint)
+- [[Chinese AI Stack Cost Reduction - @deronin_]] — Ronin (@deronin_)
+- [[How Is Data Stored?]] — Making Software
+- [[Lumafield Scan of the Month]] — Lumafield
+- [[Financial Times World]] — Financial Times
 
 ## Recovered 2026-03-26 — 2026-04-14
 

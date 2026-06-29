@@ -1348,3 +1348,7 @@ Organizing, retrieving, and compounding knowledge over time.
 - [[Deep Agents Course - @hwchase17]] — Harrison Chase (@hwchase17)
 - [[find-skills Vercel Agent Skill]] — Vercel Labs
 - [[DeepThink Skill for Expensive Agent Decisions - @jonkomet]] — komet💫 (@jonkomet)
+- [[Introducing Dynamic Subagents in Deep Agents - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
+- [[Awesome GPU Engineering Resource List - @dankornas]] — Dan Kornas (@dankornas)
+- [[Transformer Explainer Interactive Visualization]] — Polo Club of Data Science
+- [[Stanford CS336 Notes - Qihong Ruan]] — Qihong Ruan

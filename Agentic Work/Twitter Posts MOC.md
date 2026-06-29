@@ -805,7 +805,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[here u go all 4 of emm - @kaialan__]] — Serena (@kaialan__)
 ## Stats
 
-- **Total tweets:** 1734
+- **Total tweets:** 1737
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1296,6 +1296,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Meta Ad Researcher Skills for Claude - @shivsakhuja]] — Shiv (@shivsakhuja)
 - [[Deep Agents Course - @hwchase17]] — Harrison Chase (@hwchase17)
 - [[DeepThink Skill for Expensive Agent Decisions - @jonkomet]] — komet💫 (@jonkomet)
+- [[Introducing Dynamic Subagents in Deep Agents - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
 
 ## Developer Tools & Code Intelligence
 
@@ -1498,6 +1499,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Gridform Design Platform Updates]] — Deep | Dragoon (@0xdragoonlab)
 - [[AI Engineer Skills for 2026 - @deronin_]] — Ronin (@deronin_)
 - [[Core ML Concepts Every Interviewer Expects - @tensortonic]] — TensorTonic (@tensortonic)
+- [[Chinese AI Stack Cost Reduction - @deronin_]] — Ronin (@deronin_)
+- [[Awesome GPU Engineering Resource List - @dankornas]] — Dan Kornas (@dankornas)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
