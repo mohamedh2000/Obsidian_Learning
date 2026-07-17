@@ -191,6 +191,9 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[0xJeff Article Post]] — 0xJeff (@0xjeff)
 - [[Totalis Praesentia NFT Auction - @jenpanepinto]] — 🌙en 🏴‍☠️ quantumspirit.eth/tez 🌈 (@jenpanepinto)
 - [[SuperRare 1 of 1 NFT Drop]] — anz (@anzomez)
+- [[Claude Code for Marketing — AI Search Visibility]] — CrowdReply (@crowdreply_io)
+- [[Top 10 AI Marketing Skills from Repo - @ericosiu]] — ericosiu (@ericosiu)
+- [[Reddit GSEO Automated Customer Acquisition Guide - @om_patel5]] — Om Patel (@om_patel5)
 ## Design & UI
 
 - [[Vercel Chat Conversation Minimap - @raunofreiberg]] — Conversation minimap (1.4K likes)
@@ -516,6 +519,23 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Shopify Editions Spring 2026 Technical Breakdown]] — Arnaud Tanielian (@danetag)
 - [[Studio13 Free Framer Template]] — Best Website Templates (@website_tmplts)
 - [[Complete Data Structures Algorithms and System Design Repository - @tom_doerr]] — Tom Dörr (@tom_doerr)
+- [[Hero Section Visual Freebie]] — Bobo Wong (@poistudioltd)
+- [[ASCII-Type Visuals (Tutorial Coming)]] — Bobo Wong (@poistudioltd)
+- [[Capstonebox — Out of the Box, Into the Scroll]] — Lenis (@lenissmooth)
+- [[Someone Made a Visual Using These as Reference]] — Bobo Wong (@poistudioltd)
+- [[Fable 5 Recreates 3D WebGL Site in Open Design - @opendesignhq]] — Open Design (@opendesignhq)
+- [[Build Cinematic Websites with Claude Fable 5]] — Viktor Oddy (@viktoroddy)
+- [[Fable 5 Web Design Threatens Web Design Careers]] — Mark Gadala-Maria (@markgadala)
+- [[Renaissance-Inspired Brand Identity Concept - @ayushsoni_io]] — Ayush Soni (@ayushsoni_io)
+- [[Live 4-Week Design and Build Workshop - @newincreative]] — Nguyen Le (@newincreative)
+- [[Cool Mac Wallpapers - @rutu_3]] — Giyu (@rutu_3)
+- [[How To Actually Design With AI - @lexnlin]] — Leon Lin (@LexnLin)
+- [[Anthropic AI Fluency Course for Builders - @vartekxx]] — vartekx (@vartekxx)
+- [[Grok 4.5 Builds 3D Animated Websites - @viktoroddy]] — Viktor Oddy (@viktoroddy)
+- [[Animation UI Library with MCP Integration - @protoduct_ai]] — しん｜AI×iOS開発 (@protoduct_ai)
+- [[Claude Kling GPT Image 2.0 Animation Workflow - @bogdan_qclay]] — Bogdan • QClay | Awsmd (@bogdan_qclay)
+- [[Cleanest Hero Section Design Exploration - @tusharpand0848]] — Tushar Pandey (@tusharpand0848)
+- [[Design Should Increase Conversions - @immad_jilani]] — immad.builds (@immad_jilani)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -539,6 +559,12 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Obsidian Canvases as AI Data Visualization]] — George from prodmgmt.world (@nurijanian)
 - [[Continual Learning Bench 1.0 Benchmark]] — Lance Martin (@rlancemartin)
 - [[Cameron Deep Dives Into RL - @novasarc01]] — lux (@novasarc01)
+- [[Practical Deep Learning for Coders (fast.ai)]] — Millie Marconi (@milliemarconnni)
+- [[Best Free Book to Learn Loop Engineering]] — Rahul (@sairahul1)
+- [[Anthropic's Obsidian Knowledge Graph Second Brain]] — Deliriumm (@0xdeliriumm)
+- [[inkeep open-knowledge - Open Source Knowledge Engine - @nickgomez]] — Nick Gomez (@nickgomez)
+- [[Full-Stack AI Engineering Roadmap - @mikenevermiss]] — MIKE (@mikenevermiss)
+- [[23 Free AI Courses from Anthropic, Google & OpenAI]] — spect (@spectnfa)
 ## Uncategorized
 
 - [[AI Startup Visual Share - @ellen_in_sf]] — Visual content
@@ -803,9 +829,26 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Product Sense for Technical Folks - @nurijanian]] — George from prodmgmt.world (@nurijanian)
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 - [[here u go all 4 of emm - @kaialan__]] — Serena (@kaialan__)
+- [[CrowdReply MCP — AI Search Ranking]] — CrowdReply (@crowdreply_io)
+- [[CrowdReply MCP Launch — Closing AI Visibility Gaps]] — CrowdReply (@crowdreply_io)
+- [[How To Become An AI Engineer in 2026 (Without a CS Degree)]] — CyrilXBT (@cyrilxbt)
+- [[The MCP That Replaces $100k/mo AEO Agencies]] — Can Vardar (@icanvardar)
+- [[Export Controls Lifted on Claude Fable 5 and Mythos 5]] — Anthropic (@anthropicai)
+- [[Last-Minute Deck Changes Before AIE]] — Thariq (@trq212)
+- [[Using Sonnet 5 and Fable 5 Correctly - @zodchiii]] — darkzodchi (@zodchiii)
+- [[Anthropic's Six-Component Prompting Workshop]] — unicode (@unicodef1wn)
+- [[Dotted Pixelated Vintage Oil Painting Visuals]] — Bobo Wong (@poistudioltd)
+- [[9 Moves to Work Beautifully with Fable]] — Ole Lehmann (@itsolelehmann)
+- [[Turn Opus 4.8 into Fable 5 with a Skill File]] — kaize (@0x_kaize)
+- [[Verbalized Sampling: Recover LLM Creativity Lost to Alignment]] — Daily Dose of Data Science (@dailydoseofds_)
+- [[This Prompt Will Change Your Life - @EXM7777]] — Machina (@EXM7777)
+- [[MRI Cross-Section Idea Visualization in p5js - @invincidesigns]] — Prathamesh (@invincidesigns)
+- [[Setting the PM Success Metric Before Launch - @nurijanian]] — George from prodmgmt.world (@nurijanian)
+- [[Deleted or Unavailable Post - @athrix_codes]] — @athrix_codes
+- [[Kimi K3 Beats Claude Fable-5 for Frontend - @adxtyahq]] — aditya (@adxtyahq)
 ## Stats
 
-- **Total tweets:** 1737
+- **Total tweets:** 1822
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -878,6 +921,11 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[DeepSeek DSpark Speculative Decoding - @danielhanchen]] — Daniel Han (@danielhanchen)
 - [[Understanding Deep Learning Notebook Collection - @_rohit_tiwari_]] — Rohit Kumar Tiwari (@_rohit_tiwari_)
 - [[KV Cache Compression and Paged Attention Blocks - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[How LLM Inference Works - @athletickoder]] — anshuman (@athletickoder)
+- [[UCLA Reinforcement Learning for LLMs Course]] — 徐伦 (@jolyne_ai)
+- [[Stanford CS25: Transformers United V3]] — Dan Kornas (@dankornas)
+- [[10x Cheaper LLM Inference with LMCache and vLLM - @h100envy]] — h100envy (@h100envy)
+- [[Kimi K3 Blog Live, Weights Open Soon]] — Yulun Du (@yulun_du)
 
 ## AI Agents
 
@@ -1297,6 +1345,33 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Deep Agents Course - @hwchase17]] — Harrison Chase (@hwchase17)
 - [[DeepThink Skill for Expensive Agent Decisions - @jonkomet]] — komet💫 (@jonkomet)
 - [[Introducing Dynamic Subagents in Deep Agents - @sydneyrunkle]] — Sydney Runkle (@sydneyrunkle)
+- [[Google Agents CLI for Agentic Engineering]] — Akshay 🚀 (@akshay_pachaar)
+- [[Sidekick Architecture to Cut LLM Spend (OpenHands SDK)]] — Graham Neubig (@gneubig)
+- [[The Agency — 232 Specialized AI Agents Collection]] — lucas (@lucas_flatwhite)
+- [[RAG as a Standalone Retrieval Service - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[CMU New AI Agents Course - @gneubig]] — Graham Neubig (@gneubig)
+- [[A Field Guide to Fable: Finding Your Unknowns]] — Thariq (@trq212)
+- [[Forward Future Agent Loop Library]] — Rahul (@sairahul1)
+- [[Claude Fable 5 & Agentic Coding: Finding the Unknowns]] — lucas (@lucas_flatwhite)
+- [[Shepherd: Agent-Native Git by Stanford]] — Avi Chawla (@_avichawla)
+- [[Have Fable Write a Full Skill Library Before It Goes Pay-Per-Use]] — 0xMarioNawfal (@roundtablespace)
+- [[Top AI Papers of the Week (June 28 – July 5)]] — DAIR.AI (@dair_ai)
+- [[Continual Learning for Agents]] — Michele Catasta (@pirroh)
+- [[Fable-Advisor Multi-Model Claude Code Plugin - @daniel_mac8]] — Dan McAteer (@daniel_mac8)
+- [[Self-Learning Agents Learn in Three Layers - @saboo_shubham_]] — Shubham Saboo (@saboo_shubham_)
+- [[Andrew Ng 3-Hour Become an AI Engineer 2026 Course - @0xmovez]] — Movez (@0xmovez)
+- [[Meta LOOP Advisor-Orchestrator-Worker Agent Skill - @saboo_shubham_]] — Shubham Saboo (@saboo_shubham_)
+- [[OpenWiki Brains Wiki Memory for Agents - @BraceSproul]] — Brace (@BraceSproul)
+- [[Self-Maintaining AI Knowledge Base with Obsidian - @leopardracer]] — leopardracer (@leopardracer)
+- [[AgentOS - One AI Backend for Every Frontend - @ashpreetbedi]] — Ashpreet Bedi (@ashpreetbedi)
+- [[Jane Street Two-Agent Trading Loop and Horizon - @antpalkin]] — cvxv666 (@antpalkin)
+- [[Harness Engineering Learning Site - @divyyanshishrma]] — Divyanshi (@divyyanshishrma)
+- [[GPT 5.6 Video-to-HTML Design Skills - @mengto]] — Meng To (@mengto)
+- [[Clear Language Style Rule for Agents - @johnnyheo]] — Johnny (@johnnyheo)
+- [[3 Planning Frameworks for AI Builds - @shannholmberg]] — Shann (@shannholmberg)
+- [[last30days Multi-Platform Reader Skill - @saboo_shubham_]] — Shubham Saboo (@saboo_shubham_)
+- [[10 Best UI Skills - @dhruvtwt_]] — Dhruv (@dhruvtwt_)
+- [[Anthropic Free 59-Minute Claude Code Course - @iiiichigo_chan]] — Ichigo (@iiiichigo_chan)
 
 ## Developer Tools & Code Intelligence
 
@@ -1501,6 +1576,15 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Core ML Concepts Every Interviewer Expects - @tensortonic]] — TensorTonic (@tensortonic)
 - [[Chinese AI Stack Cost Reduction - @deronin_]] — Ronin (@deronin_)
 - [[Awesome GPU Engineering Resource List - @dankornas]] — Dan Kornas (@dankornas)
+- [[Artifacts in Claude Code on Pro and Max - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[Figma Hero Section 1:1 Recreation Prompt - @poistudioltd]] — Bobo Wong (@poistudioltd)
+- [[Best AI UI Design Skills - @zakariaweb1]] — Zakaria (@zakariaweb1)
+- [[4 Smart Ways to Index Data for RAG - @dailydoseofds_]] — Daily Dose of Data Science (@dailydoseofds_)
+- [[Top 10 Trending GitHub AI Repos - @so_ainsight]] — そう (@so_ainsight)
+- [[World Cup Nations Design Concept Remix - @amirmushich]] — AmirMušić (@amirmushich)
+- [[Turn AI into Motion Design Free Plugin Guide - @amirmushich]] — AmirMušić (@amirmushich)
+- [[What We Lose Not Writing Code Ourselves - @wattenberger]] — Amelia Wattenberger 🪷 (@wattenberger)
+- [[Feldar AI Writing Tool No AI Slop - @dingyi]] — Ding (@dingyi)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -1808,3 +1892,4 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Build and Sell AI Automations Full Course - @eng_khairallah1]] — Khairallah AL-Awady (@eng_khairallah1)
 - [[Claude Mythos Attribution Dispute - @anton_skv]] — Anton Skvortsov (@anton_skv)
 - [[CPU to GPU Transfer Optimization and Binary Quantization - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[Andrew Ng 2-Hour Prompt Engineering Course - @0xmovez]] — Movez (@0xmovez)

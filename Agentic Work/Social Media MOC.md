@@ -268,3 +268,10 @@ Instagram reels and other social media content saved from iMessage.
 - [[TikTok ZP8GLmPMs - @theaandredit]] — theaandredit (@theaandredit)
 - [[Indonesian Food Restaurants in NYC - TikTok ZP8GNDmP8]] — kbeforethefame
 - [[Heyblueprint Davenportlandia Instagram Post]] — heyblueprint (@heyblueprint)
+- [[Seedance 2.0 4K Native AI Video - by.shlabu]] — by.shlabu on Instagram
+- [[Fable 5 and Higgsfield MCP Marketing Team - higgsfield.ai]] — higgsfield.ai on Instagram
+- [[Instagram Post - @stripehq]] — Stripe (@stripehq)
+- [[Creative Strategist Explained Poorly - @motionapp_]] — Motion (@motionapp_)
+- [[Claude Fable 5 for Brands: Interactive Experiences]] — mobileeditingclub (Instagram)
+- [[Hightouch.io Instagram Marketing Post]] — hightouch.io (@hightouch.io)
+- [[AI Animation Tools That Beat GPT Image and Nano Banana - tudormorari.ai]] — tudormorari.ai

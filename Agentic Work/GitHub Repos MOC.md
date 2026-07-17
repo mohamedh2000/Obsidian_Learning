@@ -87,6 +87,11 @@ GitHub repositories saved from iMessage.
 - [[AgentSpace Human and Agents Workspace - HKUDS]] — HKUDS (@HKUDS)
 - [[LLM Open University Beginner to Advanced - youssefHosni]] — youssefHosni (@youssefHosni)
 - [[Compound Engineering ce-simplify-code Skill]] — EveryInc (@EveryInc)
+- [[AI-Builder-Club/skills — Codebase Harness + Loop Engineer]] — AI-Builder-Club
+- [[langchain-ai/openwiki]] — langchain-ai
+- [[Apple Design Skill - emilkowalski/skills]] — Emil Kowalski (emilkowalski)
+- [[Compound Engineering ce-compound Skill]] — Every Inc (EveryInc)
+- [[ibelick/ui-skills - UI Skills CLI for Design Engineers]] — Julien Thibeaut (ibelick)
 
 ## Recovered 2026-03-26 — 2026-04-14
 

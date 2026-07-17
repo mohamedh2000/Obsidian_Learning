@@ -964,6 +964,59 @@ Master index of all links saved from iMessage self-messages. Organized by topic 
 - [[Awesome GPU Engineering Resource List - @dankornas]] — Dan Kornas (@dankornas)
 - [[Transformer Explainer Interactive Visualization]] — Polo Club of Data Science
 - [[Stanford CS336 Notes - Qihong Ruan]] — Qihong Ruan
+- [[Google Agents CLI for Agentic Engineering]] — Akshay 🚀 (@akshay_pachaar)
+- [[Hero Section Visual Freebie]] — Bobo Wong (@poistudioltd)
+- [[Practical Deep Learning for Coders (fast.ai)]] — Millie Marconi (@milliemarconnni)
+- [[AI-Builder-Club/skills — Codebase Harness + Loop Engineer]] — AI-Builder-Club
+- [[ASCII-Type Visuals (Tutorial Coming)]] — Bobo Wong (@poistudioltd)
+- [[Sidekick Architecture to Cut LLM Spend (OpenHands SDK)]] — Graham Neubig (@gneubig)
+- [[Claude API Skill — Up-to-Date API Reference for Building with Claude]] — Anthropic (platform.claude.com docs)
+- [[Prompting Claude Sonnet 5 — Behavioral Differences & Patterns]] — Anthropic (platform.claude.com docs)
+- [[Building Effective AI Agents — Architecture Patterns & Frameworks]] — Anthropic (resources.anthropic.com)
+- [[UCLA Reinforcement Learning for LLMs Course]] — 徐伦 (@jolyne_ai)
+- [[A Field Guide to Fable: Finding Your Unknowns]] — Thariq (@trq212)
+- [[Forward Future Agent Loop Library]] — Rahul (@sairahul1)
+- [[Build Cinematic Websites with Claude Fable 5]] — Viktor Oddy (@viktoroddy)
+- [[Stanford CS25: Transformers United V3]] — Dan Kornas (@dankornas)
+- [[Anthropic's Obsidian Knowledge Graph Second Brain]] — Deliriumm (@0xdeliriumm)
+- [[Claude Fable 5 & Agentic Coding: Finding the Unknowns]] — lucas (@lucas_flatwhite)
+- [[langchain-ai/openwiki]] — langchain-ai
+- [[Anthropic's Six-Component Prompting Workshop]] — unicode (@unicodef1wn)
+- [[Shepherd: Agent-Native Git by Stanford]] — Avi Chawla (@_avichawla)
+- [[9 Moves to Work Beautifully with Fable]] — Ole Lehmann (@itsolelehmann)
+- [[Turn Opus 4.8 into Fable 5 with a Skill File]] — kaize (@0x_kaize)
+- [[Have Fable Write a Full Skill Library Before It Goes Pay-Per-Use]] — 0xMarioNawfal (@roundtablespace)
+- [[Top AI Papers of the Week (June 28 – July 5)]] — DAIR.AI (@dair_ai)
+- [[Continual Learning for Agents]] — Michele Catasta (@pirroh)
+- [[KV Cache Explained Intuitively]] — Saad Ahmed Siddiqui
+- [[Verbalized Sampling: Recover LLM Creativity Lost to Alignment]] — Daily Dose of Data Science (@dailydoseofds_)
+- [[The Product Design Resources Library]] — Adham Dannaway
+- [[Fable-Advisor Multi-Model Claude Code Plugin - @daniel_mac8]] — Dan McAteer (@daniel_mac8)
+- [[This Prompt Will Change Your Life - @EXM7777]] — Machina (@EXM7777)
+- [[Self-Learning Agents Learn in Three Layers - @saboo_shubham_]] — Shubham Saboo (@saboo_shubham_)
+- [[Andrew Ng 3-Hour Become an AI Engineer 2026 Course - @0xmovez]] — Movez (@0xmovez)
+- [[Meta LOOP Advisor-Orchestrator-Worker Agent Skill - @saboo_shubham_]] — Shubham Saboo (@saboo_shubham_)
+- [[OpenWiki Brains Wiki Memory for Agents - @BraceSproul]] — Brace (@BraceSproul)
+- [[Self-Maintaining AI Knowledge Base with Obsidian - @leopardracer]] — leopardracer (@leopardracer)
+- [[AgentOS - One AI Backend for Every Frontend - @ashpreetbedi]] — Ashpreet Bedi (@ashpreetbedi)
+- [[How to Build a Company Brain With Exactly One Skill]] — MemClaw (memclaw.net)
+- [[Figma Hero Section 1:1 Recreation Prompt - @poistudioltd]] — Bobo Wong (@poistudioltd)
+- [[inkeep open-knowledge - Open Source Knowledge Engine - @nickgomez]] — Nick Gomez (@nickgomez)
+- [[10x Cheaper LLM Inference with LMCache and vLLM - @h100envy]] — h100envy (@h100envy)
+- [[Harness Engineering Learning Site - @divyyanshishrma]] — Divyanshi (@divyyanshishrma)
+- [[Clear Language Style Rule for Agents - @johnnyheo]] — Johnny (@johnnyheo)
+- [[3 Planning Frameworks for AI Builds - @shannholmberg]] — Shann (@shannholmberg)
+- [[Apple Design Skill - emilkowalski/skills]] — Emil Kowalski (emilkowalski)
+- [[Full-Stack AI Engineering Roadmap - @mikenevermiss]] — MIKE (@mikenevermiss)
+- [[Andrew Ng 2-Hour Prompt Engineering Course - @0xmovez]] — Movez (@0xmovez)
+- [[How To Actually Design With AI - @lexnlin]] — Leon Lin (@LexnLin)
+- [[Anthropic AI Fluency Course for Builders - @vartekxx]] — vartekx (@vartekxx)
+- [[CollectUI - Daily Design Inspiration]] — CollectUI (@collectui)
+- [[Compound Engineering ce-compound Skill]] — Every Inc (EveryInc)
+- [[Loop Engineering: The Anthropic Playbook]] — AI Builder Club (aibuilderclub.com)
+- [[ibelick/ui-skills - UI Skills CLI for Design Engineers]] — Julien Thibeaut (ibelick)
+- [[Introducing Inkling — Thinking Machines' Open-Weights Model]] — Thinking Machines Lab
+- [[Sol Has Taste, Fable Takes Direction — AI Landing Page Benchmark]] — Contra Labs (Creative Arena)
 
 See [[Learning MOC]] for 103 educational resources organized by discipline: RLHF & RL Training, Prompt Engineering, LLM Architecture, Agent Design, Databases, Design & UI, and more.
 
@@ -1138,7 +1191,7 @@ See [[Twitter Posts MOC]] for full index.
 - [[Post 2033464748503683275 - @polydao]] — Placeholder for a Polydao X article post that did not expose article text through public sync endpoints. (Mar 21)
 ## Stats
 
-- **Total notes:** 2196
+- **Total notes:** 2310
 - **Date range:** 2026-02-05 to 2026-03-21
 - **Source:** iMessage self-messages
 - **Last updated:** 2026-03-21
@@ -1804,6 +1857,32 @@ See [[Twitter Posts MOC]] for full index.
 - [[How Is Data Stored?]] — Making Software
 - [[Lumafield Scan of the Month]] — Lumafield
 - [[Financial Times World]] — Financial Times
+- [[CrowdReply MCP — AI Search Ranking]] — CrowdReply (@crowdreply_io)
+- [[CrowdReply MCP Launch — Closing AI Visibility Gaps]] — CrowdReply (@crowdreply_io)
+- [[How To Become An AI Engineer in 2026 (Without a CS Degree)]] — CyrilXBT (@cyrilxbt)
+- [[The MCP That Replaces $100k/mo AEO Agencies]] — Can Vardar (@icanvardar)
+- [[Seedance 2.0 4K Native AI Video - by.shlabu]] — by.shlabu on Instagram
+- [[Reddit Ads Landing Page]] — business.reddit.com
+- [[Fable 5 and Higgsfield MCP Marketing Team - higgsfield.ai]] — higgsfield.ai on Instagram
+- [[YouTube Video - AicrK4lx3pA]] — youtube.com
+- [[The Strategy Rihanna Used to Build a Billion-Dollar Brand]] — The Anatomy of a Dream (youtube.com)
+- [[Instagram Post - @stripehq]] — Stripe (@stripehq)
+- [[Creative Strategist Explained Poorly - @motionapp_]] — Motion (@motionapp_)
+- [[Reddit r/SEO Saved Post]] — r/SEO (Reddit)
+- [[A MUST Watch for Musicians - Platinum Exec & Ads Expert on Self-Marketing]] — YouTube
+- [[Fable 5 Web Design Threatens Web Design Careers]] — Mark Gadala-Maria (@markgadala)
+- [[Dotted Pixelated Vintage Oil Painting Visuals]] — Bobo Wong (@poistudioltd)
+- [[Claude Fable 5 for Brands: Interactive Experiences]] — mobileeditingclub (Instagram)
+- [[Hightouch.io Instagram Marketing Post]] — hightouch.io (@hightouch.io)
+- [[Renaissance-Inspired Brand Identity Concept - @ayushsoni_io]] — Ayush Soni (@ayushsoni_io)
+- [[MRI Cross-Section Idea Visualization in p5js - @invincidesigns]] — Prathamesh (@invincidesigns)
+- [[AI Animation Tools That Beat GPT Image and Nano Banana - tudormorari.ai]] — tudormorari.ai
+- [[Live 4-Week Design and Build Workshop - @newincreative]] — Nguyen Le (@newincreative)
+- [[Jane Street Two-Agent Trading Loop and Horizon - @antpalkin]] — cvxv666 (@antpalkin)
+- [[Cool Mac Wallpapers - @rutu_3]] — Giyu (@rutu_3)
+- [[Setting the PM Success Metric Before Launch - @nurijanian]] — George from prodmgmt.world (@nurijanian)
+- [[Billion Dollar PDFs Directory]] — billiondollarpdf.com (after Jeremy Giffon)
+- [[Superdesign — Free UI & Design Prompts Library]] — Superdesign
 
 ## Recovered 2026-03-26 — 2026-04-14
 
@@ -2278,3 +2357,38 @@ _Batch restored from the iMessage self-chat after the daemon broke on 2026-03-26
 - [[Website Instant Desire Scroll Stop - @pankajstwt]] — Pankaj (@pankajstwt)
 - [[AI Engineer Skills for 2026 - @deronin_]] — Ronin (@deronin_)
 - [[Model Routing for Marketing Workflows - @shannholmberg]] — Shann³ (@shannholmberg)
+- [[Capstonebox — Out of the Box, Into the Scroll]] — Lenis (@lenissmooth)
+- [[The Agency — 232 Specialized AI Agents Collection]] — lucas (@lucas_flatwhite)
+- [[Claude Code for Marketing — AI Search Visibility]] — CrowdReply (@crowdreply_io)
+- [[Export Controls Lifted on Claude Fable 5 and Mythos 5]] — Anthropic (@anthropicai)
+- [[Someone Made a Visual Using These as Reference]] — Bobo Wong (@poistudioltd)
+- [[Last-Minute Deck Changes Before AIE]] — Thariq (@trq212)
+- [[Best Free Book to Learn Loop Engineering]] — Rahul (@sairahul1)
+- [[RAG as a Standalone Retrieval Service - @_avichawla]] — Avi Chawla (@_avichawla)
+- [[Using Sonnet 5 and Fable 5 Correctly - @zodchiii]] — darkzodchi (@zodchiii)
+- [[CMU New AI Agents Course - @gneubig]] — Graham Neubig (@gneubig)
+- [[Artifacts in Claude Code on Pro and Max - @claudedevs]] — ClaudeDevs (@claudedevs)
+- [[How LLM Inference Works - @athletickoder]] — anshuman (@athletickoder)
+- [[Fable 5 Recreates 3D WebGL Site in Open Design - @opendesignhq]] — Open Design (@opendesignhq)
+- [[GPT 5.6 Video-to-HTML Design Skills - @mengto]] — Meng To (@mengto)
+- [[last30days Multi-Platform Reader Skill - @saboo_shubham_]] — Shubham Saboo (@saboo_shubham_)
+- [[Best AI UI Design Skills - @zakariaweb1]] — Zakaria (@zakariaweb1)
+- [[4 Smart Ways to Index Data for RAG - @dailydoseofds_]] — Daily Dose of Data Science (@dailydoseofds_)
+- [[Top 10 Trending GitHub AI Repos - @so_ainsight]] — そう (@so_ainsight)
+- [[Grok 4.5 Builds 3D Animated Websites - @viktoroddy]] — Viktor Oddy (@viktoroddy)
+- [[10 Best UI Skills - @dhruvtwt_]] — Dhruv (@dhruvtwt_)
+- [[World Cup Nations Design Concept Remix - @amirmushich]] — AmirMušić (@amirmushich)
+- [[Animation UI Library with MCP Integration - @protoduct_ai]] — しん｜AI×iOS開発 (@protoduct_ai)
+- [[Claude Kling GPT Image 2.0 Animation Workflow - @bogdan_qclay]] — Bogdan • QClay | Awsmd (@bogdan_qclay)
+- [[Turn AI into Motion Design Free Plugin Guide - @amirmushich]] — AmirMušić (@amirmushich)
+- [[Cleanest Hero Section Design Exploration - @tusharpand0848]] — Tushar Pandey (@tusharpand0848)
+- [[What We Lose Not Writing Code Ourselves - @wattenberger]] — Amelia Wattenberger 🪷 (@wattenberger)
+- [[Anthropic Free 59-Minute Claude Code Course - @iiiichigo_chan]] — Ichigo (@iiiichigo_chan)
+- [[Top 10 AI Marketing Skills from Repo - @ericosiu]] — ericosiu (@ericosiu)
+- [[Reddit GSEO Automated Customer Acquisition Guide - @om_patel5]] — Om Patel (@om_patel5)
+- [[Design Should Increase Conversions - @immad_jilani]] — immad.builds (@immad_jilani)
+- [[Feldar AI Writing Tool No AI Slop - @dingyi]] — Ding (@dingyi)
+- [[Deleted or Unavailable Post - @athrix_codes]] — @athrix_codes
+- [[Kimi K3 Beats Claude Fable-5 for Frontend - @adxtyahq]] — aditya (@adxtyahq)
+- [[Kimi K3 Blog Live, Weights Open Soon]] — Yulun Du (@yulun_du)
+- [[23 Free AI Courses from Anthropic, Google & OpenAI]] — spect (@spectnfa)
