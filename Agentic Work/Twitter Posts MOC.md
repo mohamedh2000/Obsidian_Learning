@@ -536,6 +536,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Claude Kling GPT Image 2.0 Animation Workflow - @bogdan_qclay]] — Bogdan • QClay | Awsmd (@bogdan_qclay)
 - [[Cleanest Hero Section Design Exploration - @tusharpand0848]] — Tushar Pandey (@tusharpand0848)
 - [[Design Should Increase Conversions - @immad_jilani]] — immad.builds (@immad_jilani)
+- [[Brand Identity Exploration We Did]] — Bobo Wong (@poistudioltd)
+- [[Da Vinci Would've Used Lenis]] — Lenis (@lenissmooth)
 ## AI Knowledge Management
 
 - [[Obsidian AI Second Brain Setup - @atenov_d]] — AI + Obsidian setup (1.3K likes)
@@ -848,7 +850,7 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Kimi K3 Beats Claude Fable-5 for Frontend - @adxtyahq]] — aditya (@adxtyahq)
 ## Stats
 
-- **Total tweets:** 1822
+- **Total tweets:** 1826
 - **Most engaged:** @samtwtss (31.8K), @karpathy (19K), @hooeem (14.4K), @arscontexta (8K), @dotta (7.6K), @nousresearch (5.4K)
 
 ## LLM Architecture & Research
@@ -1585,6 +1587,8 @@ All Twitter/X posts saved from iMessage, organized by topic cluster.
 - [[Turn AI into Motion Design Free Plugin Guide - @amirmushich]] — AmirMušić (@amirmushich)
 - [[What We Lose Not Writing Code Ourselves - @wattenberger]] — Amelia Wattenberger 🪷 (@wattenberger)
 - [[Feldar AI Writing Tool No AI Slop - @dingyi]] — Ding (@dingyi)
+- [[Build a $10,000-Level Website With Animations in Claude Code]] — monokern (@monokern)
+- [[Seedance 2.0 in Claude Code and Codex via Monid]] — Shengkun (@shengkun_ye)
 
 ## Recovered 2026-03-26 — 2026-04-14
 
